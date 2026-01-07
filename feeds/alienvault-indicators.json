@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-01-07T16:20:22.640572",
+  "updated": "2026-01-07T18:16:16.970371",
   "counts": {
     "ips": 14,
-    "domains": 57892,
-    "hashes": 191
+    "domains": 57895,
+    "hashes": 194
   },
   "data": {
     "ips": [
@@ -303,6 +303,51 @@
       }
     ],
     "domains": [
+      {
+        "value": "frostshiledr.com",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05"
+      },
+      {
+        "value": "newstarmold.com",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05"
+      },
+      {
+        "value": "www.iconconsultants.com",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05"
+      },
       {
         "value": "albgby.org",
         "pulse": "Infrastructure of Interest: Medium Confidence Detection",
@@ -406370,6 +406415,54 @@
       }
     ],
     "hashes": [
+      {
+        "value": "fbf03feda8df1586886eb38fecdeaefe",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b2f59ccc1149cd8973623e82fe50148a30f0e42c",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1e9a1be5611927c22a8c934f0fdd716811e0c93256b4ee784fadd9daaf2459a1",
+        "pulse": "Campaign uses ClickFix page to push NetSupport RAT",
+        "tags": [
+          "netsupport rat",
+          "persistence",
+          "fake captcha",
+          "clipboard injection",
+          "zphp",
+          "clickfix",
+          "haneymaney"
+        ],
+        "source": "alienvault_otx",
+        "created": "2025-12-08T17:41:05",
+        "hash_type": "sha256"
+      },
       {
         "value": "d53fcc01038e20193fbd51b7400075cf7c9c4402b73da7b0db836b000ebd8b1c",
         "pulse": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
