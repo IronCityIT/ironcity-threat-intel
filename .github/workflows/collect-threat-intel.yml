@@ -48,12 +48,10 @@ jobs:
       - name: Merge feeds
         run: python scripts/merge_feeds.py
 
-      - name: Deploy to Wazuh
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.WAZUH_HOST }}
-          username: ${{ secrets.WAZUH_USER }}
-          key: ${{ secrets.WAZUH_SSH_KEY }}
-          source: "feeds/*.yml"
-          target: "/etc/logstash/threat-intel/"
-          strip_components: 1
+      - name: Commit feeds to repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add feeds/
+          git diff --staged --quiet || git commit -m "Update threat intel feeds $(date -u +%Y-%m-%d)"
+          git push
