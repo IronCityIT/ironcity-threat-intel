@@ -1,0 +1,59 @@
+name: Collect Threat Intelligence Feeds
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Collect AbuseIPDB
+        env:
+          ABUSEIPDB_KEY: ${{ secrets.ABUSEIPDB_KEY }}
+        run: python scripts/collect_abuseipdb.py
+
+      - name: Collect AlienVault
+        env:
+          ALIENVAULT_KEY: ${{ secrets.ALIENVAULT_KEY }}
+        run: python scripts/collect_alienvault.py
+
+      - name: Collect GreyNoise
+        env:
+          GREYNOISE_KEY: ${{ secrets.GREYNOISE_KEY }}
+        run: python scripts/collect_greynoise.py
+
+      - name: Collect Spamhaus
+        run: python scripts/collect_spamhaus.py
+
+      - name: Collect URLhaus
+        run: python scripts/collect_urlhaus.py
+
+      - name: Collect Feodo
+        run: python scripts/collect_feodo.py
+
+      - name: Merge feeds
+        run: python scripts/merge_feeds.py
+
+      - name: Deploy to Wazuh
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.WAZUH_HOST }}
+          username: ${{ secrets.WAZUH_USER }}
+          key: ${{ secrets.WAZUH_SSH_KEY }}
+          source: "feeds/*.yml"
+          target: "/etc/logstash/threat-intel/"
+          strip_components: 1
