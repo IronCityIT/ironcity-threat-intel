@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-09T12:20:19.199472",
+  "generated": "2026-01-09T18:15:59.367140",
   "feeds": {
     "feed-summary.json": {
       "source": null,
@@ -8,12 +8,12 @@
     },
     "spamhaus-drop.json": {
       "source": "spamhaus",
-      "updated": "2026-01-09T12:20:13.234779",
+      "updated": "2026-01-09T18:15:53.250139",
       "count": 1559
     },
     "greynoise-scanners.json": {
       "source": "greynoise",
-      "updated": "2026-01-09T12:20:12.798772",
+      "updated": "2026-01-09T18:15:52.967381",
       "count": {
         "malicious": 0,
         "benign": 0
@@ -21,21 +21,21 @@
     },
     "abuseipdb-ips.json": {
       "source": "abuseipdb",
-      "updated": "2026-01-09T12:20:04.448114",
+      "updated": "2026-01-09T18:15:48.976644",
       "count": 10000
     },
     "alienvault-indicators.json": {
       "source": "alienvault_otx",
-      "updated": "2026-01-09T12:20:11.770397",
+      "updated": "2026-01-09T18:15:51.662227",
       "count": {
         "ips": 27,
-        "domains": 58700,
-        "hashes": 376
+        "domains": 58723,
+        "hashes": 372
       }
     },
     "urlhaus-malware.json": {
       "source": "urlhaus",
-      "updated": "2026-01-09T12:20:14.284878",
+      "updated": "2026-01-09T18:15:54.470099",
       "count": {
         "urls": 0,
         "payloads": 0
