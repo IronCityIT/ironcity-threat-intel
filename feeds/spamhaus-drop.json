@@ -1,7 +1,7 @@
 {
   "source": "spamhaus",
-  "updated": "2026-01-12T18:16:02.196526",
-  "count": 1552,
+  "updated": "2026-01-13T00:44:03.107443",
+  "count": 1551,
   "data": [
     {
       "cidr": "1.10.16.0/20",
@@ -5445,13 +5445,6 @@
     {
       "cidr": "176.46.141.0/24",
       "reference": "SBL688231",
-      "feed": "drop",
-      "source": "spamhaus",
-      "threat_type": "spam_botnet"
-    },
-    {
-      "cidr": "176.46.152.0/24",
-      "reference": "SBL656330",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
