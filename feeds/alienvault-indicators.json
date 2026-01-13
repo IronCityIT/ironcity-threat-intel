@@ -1,13 +1,66 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-01-13T12:20:48.968647",
+  "updated": "2026-01-13T18:17:28.968851",
   "counts": {
-    "ips": 23,
-    "domains": 60637,
-    "hashes": 312
+    "ips": 26,
+    "domains": 60642,
+    "hashes": 354
   },
   "data": {
     "ips": [
+      {
+        "value": "193.24.123.232",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01"
+      },
+      {
+        "value": "91.202.233.215",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01"
+      },
+      {
+        "value": "158.94.209.23",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
       {
         "value": "103.21.60.3",
         "pulse": "Yet Another Leak of China's Contractor-Driven Cyber-Espionage Ecosystem",
@@ -348,6 +401,125 @@
       }
     ],
     "domains": [
+      {
+        "value": "citysearch-packed-bacterial-receptors.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "license-appointed-asset-pulled.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "owners-insertion-rentals-pursuit.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "ozone.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "plus-condos-thy-redeem.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "strength-blind-bristol-ten.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
+      {
+        "value": "syracuse-seeks-wilson-row.trycloudflare.com",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28"
+      },
       {
         "value": "albgby.org",
         "pulse": "Infrastructure of Interest: Medium Confidence Detection",
@@ -414469,13 +414641,6 @@
         "created": "2025-12-23T11:50:10"
       },
       {
-        "value": "aaslooria.com",
-        "pulse": "Infrastructure of Interest: Medium Confidence Command And Control",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-01-12T14:21:17"
-      },
-      {
         "value": "ahnen-mail.com",
         "pulse": "Infrastructure of Interest: Medium Confidence Command And Control",
         "tags": [],
@@ -414533,13 +414698,6 @@
       },
       {
         "value": "gorilla-crash-fix.com",
-        "pulse": "Infrastructure of Interest: Medium Confidence Command And Control",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-01-12T14:21:17"
-      },
-      {
-        "value": "havebeprotredo.at",
         "pulse": "Infrastructure of Interest: Medium Confidence Command And Control",
         "tags": [],
         "source": "alienvault_otx",
@@ -428426,6 +428584,754 @@
       }
     ],
     "hashes": [
+      {
+        "value": "21f1da8b05ab5f52520fc8febe1f7746",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "md5"
+      },
+      {
+        "value": "75bc24315a945d4d88f1514a7a239381",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "md5"
+      },
+      {
+        "value": "48cf1b1d29cb3a2dab7e63cdb4f953496672a744",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d4416febc8510e042a6bed5e50a343d3ce4caac3",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1106b820450d0962abf503c80fda44a890e4245555b97ba7656c7329c0ea2313",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1fd111954e3eefeef07557345918ea6527898b741dfd9242ff4f5c2ddceaa5e9",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "507c97cc711818eb03cfffd3743cebb43820eeafa5c962c03840f379592d2df5",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "90d552da574192494b4280a1ee733f0c8238f5e07e80b31f4b8e028ba88ee7ea",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "985513b27391b0f9d6d0e498b5cec35df9028a5af971b943170327478d976559",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a35a036b9b6a7baa194aef2eb9b23992b53058d68df6a4f72815e721a93b8d41",
+        "pulse": "SHADOW#REACTOR \u2013 Text-Only Staging, .NET Reactor, and In-Memory Remcos RAT Deployments",
+        "tags": [
+          "living-off-the-land binaries",
+          "msbuild abuse",
+          "powershell",
+          "text-only staging",
+          "reflective loading",
+          "remcos rat",
+          "obfuscation",
+          ".net reactor",
+          "in-memory execution",
+          "vbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T16:17:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "19d19ac8199298f7b623693f4e38cb79aba8294c258746a3c9d9a183b2bb2578",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4574ffef886ca461a89db7b9aaaede2e20ac802a82db94e3b6e4d0e86370e7a4",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57f2a2bb77f5400b46ebc42118f46ffaa497d5c03c24d1cb3868dde2381a0f07",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cf289b3ab970a3d04213b7312220f769f493f2f2c666ed7a8fe512075a84e995",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d272c90fc264fa3e4a71fbeff324273c99dd0a48fd2f0234aa6fdd3e80add936",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f75219e2aea50b8fa618f55389ab9a58351fb6acd4ea7c7de3e656183d5a52f0",
+        "pulse": "Reflecting on AI in 2025: Faster Attacks, Same Old Tradecraft",
+        "tags": [
+          "chrome extension",
+          "tradecraft acceleration",
+          "credential theft",
+          "cybersecurity outlook",
+          "ai-generated attacks",
+          "powershell scripts"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e2cb5866bb9d7b7cad6f903138202465",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c8f5a62d7fa9fdc078eae71efa8c34b0dba5cd24",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0948683788167caec8ec5552b88cf66e3c0a5c6d99b3843317f5c794400b401f",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0aa3250cfb6d7defc68d6d7ddfbdee05a2329a20d944e8d4bb0e6b7f5a85caee",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "201c4c502678c41ba2dbb196cfe0f9f61371c10fdf947f1682eff8202f4ce580",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "33696190e43ede407b1b4903b10cafda0e49376d8ce0c85f01197f7c5073bc04",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3475330b22f8652e713311689085a5ec24d03ce68d229e43afe89ed2f05a4a01",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "403784357e6402433153d47c2362f26cc26e135a1305393cea074574d3027af5",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "41a01b6f2c4dc340cf35fab38c732e5d2660bedb15e3912d9970d724e20b4f71",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47fe42924e00e92e3b297426a8ce3aa39864fbf6e7ae65893b4f5dbe0ea8176c",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4a75881d1ea48ae165ab7069dbfe398882d982e6a860c29ed1d940c4f285c871",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "667d8cbd146c7e4c6dc674ff4219d3a7e682d6464e777a107e6207a7070bf626",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7600f3d353aa29512dfc0cbc4aa0481453c078692174384a8da668ff1c6bd65a",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9e3a9db6942f7c42da4c53b5294604b232354002cee16f554a82edb1cf69c82f",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "af22cd07ebfcba8d457a1bfacee7b66c60846de1b1d7ab356398dac696984ced",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b1032815b078aad59eb3bd32c29dee4621b37e516e679e84cb7d1c11c3eaff15",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d035d396ae5cda562d4e674b66eeda52a55510fe5c1d379930bff5bfcce10f13",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e6cdcf2cdd49ac3ca256f30a7b5d11a9953748b5820b73845afcd7f9439d6290",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e8abdc2f58bb7391eb541e4c06467f422549a79740a3a1ad2979d48595555400",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f3564370f1b243ca0bb6b31afe8f4bb11c35218e340dba94d4481218385be277",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1cafa7f203df9d83e050d9f01677ffe6",
+        "pulse": "Analyzing a Multi-Stage AsyncRAT Campaign via Managed Detection and Response",
+        "tags": [
+          "python",
+          "persistence",
+          "cloudflare",
+          "social engineering",
+          "asyncrat",
+          "webdav",
+          "cloud abuse",
+          "code injection",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-12T20:30:28",
+        "hash_type": "md5"
+      },
+      {
+        "value": "286bafae756d2bfe49784410a665897a",
+        "pulse": "The Cloud-Native Malware Framework",
+        "tags": [
+          "cloud-native",
+          "chinese-affiliated",
+          "rootkit",
+          "plugins",
+          "stealth",
+          "framework",
+          "linux",
+          "malware",
+          "voidlink"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T13:59:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6e18b212fb7bda2144a56303e72b1c54f6fdd473",
+        "pulse": "The Cloud-Native Malware Framework",
+        "tags": [
+          "cloud-native",
+          "chinese-affiliated",
+          "rootkit",
+          "plugins",
+          "stealth",
+          "framework",
+          "linux",
+          "malware",
+          "voidlink"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T13:59:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "15cb93d38b0a4bd931434a501d8308739326ce482da5158eb657b0af0fa7ba49",
+        "pulse": "The Cloud-Native Malware Framework",
+        "tags": [
+          "cloud-native",
+          "chinese-affiliated",
+          "rootkit",
+          "plugins",
+          "stealth",
+          "framework",
+          "linux",
+          "malware",
+          "voidlink"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T13:59:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6dcfe9f66d3aef1efd7007c588a59f69e5cd61b7a8eca1fb89a84b8ccef13a2b",
+        "pulse": "The Cloud-Native Malware Framework",
+        "tags": [
+          "cloud-native",
+          "chinese-affiliated",
+          "rootkit",
+          "plugins",
+          "stealth",
+          "framework",
+          "linux",
+          "malware",
+          "voidlink"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T13:59:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e990a39e479e0750d2320735444b6c86cc26822d86a40d37d6e163d0fe058896",
+        "pulse": "The Cloud-Native Malware Framework",
+        "tags": [
+          "cloud-native",
+          "chinese-affiliated",
+          "rootkit",
+          "plugins",
+          "stealth",
+          "framework",
+          "linux",
+          "malware",
+          "voidlink"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-13T13:59:46",
+        "hash_type": "sha256"
+      },
       {
         "value": "011a62df99e52c8b73e259284ab1db47",
         "pulse": "React2Shell flaw (CVE-2025-55182) exploited for remote code execution",
