@@ -1,13 +1,46 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-01-20T06:18:47.576266",
+  "updated": "2026-01-20T12:21:40.389544",
   "counts": {
-    "ips": 36,
-    "domains": 72324,
-    "hashes": 479
+    "ips": 38,
+    "domains": 72328,
+    "hashes": 504
   },
   "data": {
     "ips": [
+      {
+        "value": "207.244.230.94",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26"
+      },
+      {
+        "value": "181.231.253.69",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18"
+      },
       {
         "value": "8.149.128.10",
         "pulse": "VoidLink threat analysis: C2-compiled kernel rootkits discovered",
@@ -803,6 +836,73 @@
       }
     ],
     "domains": [
+      {
+        "value": "theepad0loc93x.ddns.net",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26"
+      },
+      {
+        "value": "syn1112223334445556667778889990.org",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08"
+      },
+      {
+        "value": "server09.mentality.cloud",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08"
+      },
+      {
+        "value": "trojan.win32.downloader.cm",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08"
+      },
       {
         "value": "gfmqvip.vip",
         "pulse": "Evasive SideWinder APT Campaign Detected",
@@ -509062,6 +509162,452 @@
       }
     ],
     "hashes": [
+      {
+        "value": "5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c8936fea2fe9cbbcc6135941ac5fb6ea7819530a0914d8c0f39a015c0f2055d",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "02f85c386f67fac09629ebe5684f7fa0",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "233a9dbcfe4ae348c0c7f4c2defd1ea5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "45f2a677b3bf994a8f771e611bb29f4f",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "976b6fce10456f0be6409ff724d7933b",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dc802b8c117a48520a01c98c6c9587b5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "347f09e2589435af084b5f19fc12e8fbdee16e1b",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "427110f6a3741e57b93fa5ca7c6b7dc69b2b23d5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5d29707d63db3f6475351ecb91ec2fda661fc984",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c5981c6f73ecf7b9606c78e0526bd933585ec09f",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "10bbc5e192c3d01100031634d4e93f0be4becbe0a63f3318dd353e0f318e43de",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "13adde53bd767d17108786bcc1bc0707c2411a40f11d67dfa9ba1a2c62cc5cf3",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37e6da4c813557f09fa2336b43c9fbb4633e562952f5113f6a6a8f3c226854eb",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ae4222728240a566a1ca8c8873eab3b0659a28437877e4450808264848ab01e",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0acee8ed59c8d6e70ce6c22b5888c08c",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5c507b22e9814428c5f2b1ef213c5c4a",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b5e3c2bdc976bdf948422a9b2baebe8a221d2d92",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2e649f6145f55988b920ff5a445e63aae29c80495b830e0d8bb4b3fff4b1f6f4",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "369479bd9a248c9448705c222d81ff1a0143343a138fc38fc0ea00f54fcc1598",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "74e43a0175179a0a04361faaaaf05eb1e6b84adca69e4f446ef82c0a5d1923d5",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "92af258d13494f208ccf76f53a36f288060543f02ed438531e0675b85da00430",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aba7133f975a0788dd2728b4bbb1d7d948e50571a033a1e8f47a2691e98600c5",
+        "pulse": "From Extension to Infection: An In-Depth Analysis of the Evelyn Stealer Campaign Targeting Software Developers",
+        "tags": [
+          "ftp exfiltration",
+          "anti-analysis techniques",
+          "visual studio code",
+          "multistage attack",
+          "process hollowing",
+          "software developers",
+          "information stealer",
+          "evelyn stealer",
+          "browser injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:41:08",
+        "hash_type": "sha256"
+      },
       {
         "value": "537abad75fc343690119851610d9b54b",
         "pulse": "Evasive SideWinder APT Campaign Detected",
