@@ -1,5 +1,5 @@
-# Generated: 2026-01-27T06:18:23.291938
-# Count: 11771
+# Generated: 2026-01-27T12:21:48.281755
+# Count: 11773
 # Format: indicator: "type|source|metadata"
 
 1.10.16.0: spam_botnet|spamhaus|cidr:1.10.16.0/20|ref:SBL256894
@@ -4183,7 +4183,6 @@
 181.208.61.65: malicious|abuseipdb|score:100|country:VE
 181.215.60.5: malicious|abuseipdb|score:100|country:CZ
 181.23.44.137: malicious|abuseipdb|score:100|country:AR
-181.231.253.69: 'malicious|alienvault|pulse:Operation Covert Access: Weapo|tags:argentina,spear-phishing,multi-stage'
 181.234.22.124: malicious|abuseipdb|score:100|country:CO
 181.237.99.182: malicious|abuseipdb|score:100|country:CO
 181.46.131.55: malicious|abuseipdb|score:100|country:AR
@@ -6902,7 +6901,6 @@
 207.228.200.0: spam_botnet|spamhaus|cidr:207.228.200.0/22|ref:SBL678358
 207.231.109.54: malicious|abuseipdb|score:100|country:US
 207.244.0.0: spam_botnet|spamhaus|cidr:207.244.0.0/18|ref:SBL502898
-207.244.230.94: 'malicious|alienvault|pulse:Operation Nomad Leopard: Targe|tags:spear-phishing,iso,lnk'
 207.249.96.38: malicious|abuseipdb|score:100|country:MX
 207.252.136.0: spam_botnet|spamhaus|cidr:207.252.136.0/21|ref:SBL642247
 207.254.29.22: malicious|abuseipdb|score:100|country:IE
@@ -8165,6 +8163,8 @@
 43.153.96.233: malicious|abuseipdb|score:100|country:US
 43.154.140.188: malicious|abuseipdb|score:100|country:HK
 43.154.195.142: malicious|abuseipdb|score:100|country:HK
+43.154.202.197: malicious|alienvault|pulse:A Versatile Script Framework f|tags:c&c
+  framework,peckbirdy,wizardnet
 43.155.21.198: malicious|abuseipdb|score:100|country:HK
 43.155.73.192: malicious|abuseipdb|score:100|country:HK
 43.156.109.106: malicious|abuseipdb|score:100|country:SG
@@ -9173,6 +9173,7 @@
 47.237.79.198: malicious|abuseipdb|score:100|country:SG
 47.237.80.140: malicious|abuseipdb|score:100|country:SG
 47.237.86.37: malicious|abuseipdb|score:100|country:SG
+47.238.184.9: malicious|alienvault|pulse:A Versatile Script Framework f|tags:c&c framework,peckbirdy,wizardnet
 47.238.232.150: malicious|abuseipdb|score:100|country:HK
 47.239.189.201: malicious|abuseipdb|score:100|country:HK
 47.239.190.145: malicious|abuseipdb|score:100|country:HK
@@ -10884,6 +10885,8 @@
 8.216.67.37: malicious|abuseipdb|score:100|country:JP
 8.217.122.250: malicious|abuseipdb|score:100|country:HK
 8.218.115.242: malicious|abuseipdb|score:100|country:HK
+8.218.124.102: malicious|alienvault|pulse:A Versatile Script Framework f|tags:c&c
+  framework,peckbirdy,wizardnet
 8.218.172.128: malicious|abuseipdb|score:100|country:HK
 8.218.72.170: malicious|abuseipdb|score:100|country:HK
 8.219.198.87: malicious|abuseipdb|score:100|country:SG
@@ -10912,6 +10915,8 @@
 8.221.141.254: malicious|abuseipdb|score:100|country:JP
 8.221.142.108: malicious|abuseipdb|score:100|country:JP
 8.222.128.242: malicious|abuseipdb|score:100|country:SG
+8.222.143.246: malicious|alienvault|pulse:A Versatile Script Framework f|tags:c&c
+  framework,peckbirdy,wizardnet
 8.222.181.160: malicious|abuseipdb|score:100|country:SG
 8.222.225.103: malicious|abuseipdb|score:100|country:SG
 8.24.208.62: malicious|abuseipdb|score:100|country:US
