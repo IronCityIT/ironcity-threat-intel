@@ -1,13 +1,51 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-02-02T12:29:16.943904",
+  "updated": "2026-02-02T18:25:48.402332",
   "counts": {
-    "ips": 87,
-    "domains": 88165,
-    "hashes": 778
+    "ips": 86,
+    "domains": 88161,
+    "hashes": 780
   },
   "data": {
     "ips": [
+      {
+        "value": "170.168.103.208",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10"
+      },
+      {
+        "value": "199.217.98.108",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10"
+      },
       {
         "value": "149.154.158.86",
         "pulse": "Quick, You Need Assistance!",
@@ -2056,60 +2094,47 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-27T07:24:06"
-      },
-      {
-        "value": "47.109.200.130",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "77.221.149.107",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "27.102.137.88",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48"
       }
     ],
     "domains": [
+      {
+        "value": "fyvw2oiv.top",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10"
+      },
+      {
+        "value": "nexsnield.com",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-19T09:17:22"
+      },
       {
         "value": "albgby.org",
         "pulse": "Infrastructure of Interest: Medium Confidence Detection",
@@ -622621,111 +622646,309 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-26T20:30:57"
-      },
-      {
-        "value": "codon.vn",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "k8n1z40.live",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "searchingpart.com",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "api.office123456.com",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "trk.entiretrack.com",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "www.dpswebsafe.com",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31"
       }
     ],
     "hashes": [
+      {
+        "value": "54725bf9a7809ef480fc5e35a7521137",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6aa1e36457d6dbc09ff7dd218c7c223b",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "71164efdc4d7e816b385551b38ada5ca",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "902c133812718bacf8e86a6d8bbeb22d",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cb9c57145f4b6afbc08f24a19257ed5a",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "23ae2fdaf0c85b08e13ef68d925997c08a19a1f9",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2c9baaf2105dc7f730c6d562472780bd5535c32d",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5e186b23d4eecd7b3b99f8b88178545ade747cd8",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d0a0e04504fa0e1e91850be141c9bb23608b73d7",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e1be0cc7b7e58e4205920c019d786db636036a4c",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "138d2a62b73e89fc4d09416bcefed27e139ae90016ba4493efc5fbf43b66acfa",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6399c686eba09584bbbb02f31d398ace333a2b57529059849ef97ce7c27752f4",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c15f44d6abb3a2a882ffdc9b90f7bb5d1a233c0aa183eb765aa8bfba5832c8c6",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c46af9ae6ab0e7567573dbc950a8ffbe30ea848fac90cd15860045fe7640199c",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fbfce492d1aa458c0ccc8ce4611f0e2d00913c8d51b5016ce60a7f59db67de67",
+        "pulse": "Dissecting CrashFix: KongTuke's New Toy",
+        "tags": [
+          "browser extension",
+          "fingerprinting",
+          "social engineering",
+          "anti-analysis",
+          "crashfix",
+          "obfuscation",
+          "rat",
+          "nexshield",
+          "modelorat",
+          "dga",
+          "enterprise targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-17T13:17:10",
+        "hash_type": "sha256"
+      },
       {
         "value": "4103a09887b82ffd56a93bb431805224",
         "pulse": "MuddyWater: Snakes by the riverbank",
@@ -640919,240 +641142,6 @@
         "source": "alienvault_otx",
         "created": "2026-01-26T20:30:57",
         "hash_type": "sha1"
-      },
-      {
-        "value": "31d6cfe0d16ae931b73c59d7e0c089c0",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4deb2644a5ad1488f98f6a8d6bca1fab",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5f8df2c0389ead04ce2e69d632edcdbd",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ec296f9501ad71e430810cb5cdc38d954d4ba536",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f6ee01303cf1d68015eee49f7dc7f26151a04ae642a47e49c70806931ce652d3",
-        "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
-        "tags": [
-          "data exfiltration",
-          "malicious extensions",
-          "xss vulnerability",
-          "security risks",
-          "cve-2020-28707",
-          "search hijacking",
-          "chrome extensions",
-          "remote code execution",
-          "clipboard access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T15:40:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "640f54bb6d29d98d92344136fee49d07",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ea5d9be286f7af423c070128af170085",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "md5"
-      },
-      {
-        "value": "665a1cdb7f050816dcb7b90a5516f2a38613e281",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d8e96e777de3234e0771e6c53b7c09a659542f12",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ebec41675fff24858ad558429ce4e4e32c30da55",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1553bfac012b20a39822c5f2ef3a7bd97f52bb94ae631ac1178003b7d42e7b7f",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8de36cb635eb87c1aa0e8219f1d8bf2bb44cad75b58ef421de77dd1aae669bf4",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aaac6eadac6c325bfc69b561d75f7cfd979ac289de1cc4430c5cc9a9a655b279",
-        "pulse": "Malware MoonPeak Executed via LNK Files",
-        "tags": [
-          "lots",
-          "korea",
-          "persistence",
-          "github",
-          "lnk files",
-          "xenorat",
-          "powershell",
-          "moonpeak",
-          "confuserex"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-26T14:28:48",
-        "hash_type": "sha256"
       }
     ]
   }
