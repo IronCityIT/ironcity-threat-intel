@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-02-14T12:20:09.461111",
+  "updated": "2026-02-14T18:16:47.145374",
   "counts": {
     "ips": 48,
-    "domains": 3650,
-    "hashes": 462
+    "domains": 3655,
+    "hashes": 463
   },
   "data": {
     "ips": [
@@ -747,6 +747,81 @@
       }
     ],
     "domains": [
+      {
+        "value": "arianeconseil.online",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07"
+      },
+      {
+        "value": "esetcloud.com",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07"
+      },
+      {
+        "value": "hostiko.com.ua",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07"
+      },
+      {
+        "value": "download.originalapk.com",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07"
+      },
+      {
+        "value": "portal.northernfruit.com",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07"
+      },
       {
         "value": "unassigned.172-81-60-97.spryt.net",
         "pulse": "Targeted espionage leveraging geopolitical themes",
@@ -32458,6 +32533,362 @@
     ],
     "hashes": [
       {
+        "value": "1e0f94e8ec83c1879ccd25fec59098f1",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9a0960c674378a049b8d9ad0e1c641c3",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "afbaba49796528c053938e0397f238ff",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0580a364ab986b051398a78d089300cf73481e70",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9e11e8866f40e5e9c20b1f012d0b68e0d56e85b3",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dd029cd4711c773f87377d45a005c8d9785281a3",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8b7c1657f4d5cf0cc82d68c1f1a385adf0de27d46fc544bba249698e6b427856",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dfaf277d54c1b1cf5a3af80783ed878cac152ff2c52dbf17fb05a7795fe29e79",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fddc186f3e5e14b2b8e68ddbd18b2bda41d38a70417a38e67281eb7995e24bac",
+        "pulse": "CastleLoader Malware Analysis: Full Execution Breakdown",
+        "tags": [
+          "castleloader",
+          "memory-only",
+          "loader",
+          "credential theft",
+          "process hollowing",
+          "evasion",
+          "multi-stage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:37:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "40b59567a2b580f1952dadae5dd586895b2316e590b84842f89aed1675f2d707",
+        "pulse": "Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure",
+        "tags": [
+          "beavertail",
+          "upwork",
+          "vercel",
+          "supply chain",
+          "cryptocurrency",
+          "backdoor",
+          "north korea",
+          "obfuscation",
+          "tsunami",
+          "vynlence",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:25:30",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "be9fa93e088eb1c3daa9715d8b841cf0",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "166783244f50dc3a484ae46e204ae5e05621c651",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "34b7df7919dbbe031b5d802accb566ce6e91df4155b1858c3c81e4c003f1168c",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3db10e71dab8710fb69b5c65c48382f43be3e4c79456d7a7abd5a7059873f581",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "436cfce71290c2fc2f2c362541db68ced6847c66a73b55487e5e5c73b0636c85",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "458ca514e058fccc55ee3142687146101e723450ebd66575c990ca55f323c769",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "69908f05b436bd97baae56296bf9b9e734486516f9bb9938c2b8752e152315d4",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6eb31006ca318a21eb619d008226f08e287f753aec9042269203290462eaa00d",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "866824f2474ad603576b12b83831b2acc12d378f0ef4d0b20df10639b04c44da",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b755e4369f1ac733da8f3e236c746eda94751082a3031e591b6643a596a86acb",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "befa1695fcee9142738ad34cb0bfb453906a7ed52a73e2d665cf378775433aa8",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c1f278f88275e07cc03bd390fe1cbeedd55933110c6fd16de4187f4c4aaf42b9",
+        "pulse": "Command & Evade: Turla's Kazuar v3 Loader",
+        "tags": [
+          "kazuar",
+          "loader",
+          "amsi bypass",
+          "in-memory execution",
+          "stealth",
+          "evasion",
+          "etw bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T15:21:07",
+        "hash_type": "sha256"
+      },
+      {
         "value": "722bcd4b14aac3395f8a073050b9a578",
         "pulse": "Targeted espionage leveraging geopolitical themes",
         "tags": [
@@ -39799,318 +40230,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-09T09:47:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c95f2a7556902302f352c97b7eed4159",
-        "pulse": "Guloader Malware Being Disguised as Employee Performance Reports",
-        "tags": [
-          "remcos rat",
-          "infostealer",
-          "shellcode",
-          "guloader",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:09",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ff535b5db8f17e1118429088371c06315f4e3135",
-        "pulse": "Guloader Malware Being Disguised as Employee Performance Reports",
-        "tags": [
-          "remcos rat",
-          "infostealer",
-          "shellcode",
-          "guloader",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:09",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "65496ed2388a570f4b62f1562297292e38ee99069f558b70025ebaf84aab6b81",
-        "pulse": "Guloader Malware Being Disguised as Employee Performance Reports",
-        "tags": [
-          "remcos rat",
-          "infostealer",
-          "shellcode",
-          "guloader",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:09",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "08d8ab5dd375847ce909297e59e7df00",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "404f5b1ff4ed035c6178d1789192c4d8",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "74e75830252220cbbe7e3adec4340d2d",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d70ddec75de88bf4ca7cbb67b56627f6",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "41cb80cbc998007d8e0fd004884b1e31ecbf975d",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6bad2c491e9101796ae0530701b23f05193c7ca7",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b4e787c74dd6ba8067ce69eaea00c19866f3b138",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b4f5555d5b934b927de4950131952e17e7194665",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3d1e43682c4d306e41127ca91993c7befd6db626ddbe3c1ee4b2cf44c0d2fb43",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "42ad0c70e997a268286654b792c7833fd7c6a2a6a80d9f30d3f462518036d04c",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7523e53c979692f9eecff6ec760ac3df5b47f172114286e570b6bba3b2133f58",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "76aad2a7fa265778520398411324522c57bfd7d2ff30a5cfe6460960491bc552",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a2001892410e9f34ff0d02c8bc9e7c53b0bd10da58461e1e9eab26bdbf410c79",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c23bac59d70661bb9a99573cf098d668e9395a636dc6f6c20f92c41013c30be8",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ddc6e6c76ac325d89799a50dffd11ec69ed3b5341740619b8e595b8068220914",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e081bc408f73158c7338823f01455e4f5185a4365c8aad1d60d777e29166abbd",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e61b2ed360052a256b3c8761f09d185dad15c67595599da3e587c2c553e83108",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f38a56b8dc0e8a581999621eef65ef497f0ac0d35e953bd94335926f00e9464f",
-        "pulse": "Reborn in Rust: MuddyWater Evolves Tooling with RustyWater Implant",
-        "tags": [
-          "spearphishing",
-          "icon spoofing",
-          "archer rat",
-          "rustywater",
-          "implant",
-          "rust"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T18:12:02",
         "hash_type": "sha256"
       }
     ]
