@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-02-14T06:29:26.548721",
+  "updated": "2026-02-14T12:20:09.461111",
   "counts": {
     "ips": 48,
-    "domains": 3655,
-    "hashes": 456
+    "domains": 3650,
+    "hashes": 462
   },
   "data": {
     "ips": [
@@ -747,6 +747,21 @@
       }
     ],
     "domains": [
+      {
+        "value": "unassigned.172-81-60-97.spryt.net",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36"
+      },
       {
         "value": "lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
         "pulse": "LockBit strikes with new 5.0 version, targeting Windows, Linux and ESXI systems",
@@ -32439,75 +32454,105 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-09T09:47:06"
-      },
-      {
-        "value": "account-security-googie.my-board.org",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T11:41:07"
-      },
-      {
-        "value": "enmrgkf41bifd.x.pipedream.net",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T11:41:07"
-      },
-      {
-        "value": "account-security-googie.rf.gd",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T12:27:31"
-      },
-      {
-        "value": "enmrgkf41bifd.x.pipedream.net",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T12:28:28"
-      },
-      {
-        "value": "account-settings-shsvchx.wuaze.com",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T12:28:28"
-      },
-      {
-        "value": "config-settings.kesug.com",
-        "pulse": "BlueDelta Evolves Credential Harvesting",
-        "tags": [
-          "tunneling services",
-          "credential harvesting",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-08T12:28:28"
       }
     ],
     "hashes": [
+      {
+        "value": "722bcd4b14aac3395f8a073050b9a578",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "md5"
+      },
+      {
+        "value": "aea6f6edbbbb0ab0f22568dcb503d731",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3b958db3a5061b3efa6acfe7ab3c86dfeec07eba",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e5baecb74c456df26aa7e0fa1661838cd86ccfd7",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2c34b47ee7d271326cfff9701377277b05ec4654753b31c89be622e80d225250",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "819f586ca65395bdd191a21e9b4f3281159f9826e4de0e908277518dba809e5b",
+        "pulse": "Targeted espionage leveraging geopolitical themes",
+        "tags": [
+          "dll sideloading",
+          "u.s. government",
+          "lotuslite",
+          "geopolitical lures",
+          "backdoor",
+          "espionage",
+          "venezuela"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-15T12:03:36",
+        "hash_type": "sha256"
+      },
       {
         "value": "1937f269c6f1b9da5a0a67d091169123",
         "pulse": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
