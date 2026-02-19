@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-02-19T06:43:57.572350",
+  "updated": "2026-02-19T12:33:18.112893",
   "counts": {
-    "ips": 87,
-    "domains": 5044,
-    "hashes": 581
+    "ips": 86,
+    "domains": 5033,
+    "hashes": 554
   },
   "data": {
     "ips": [
@@ -1520,22 +1520,25 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-12T10:39:01"
-      },
-      {
-        "value": "59.110.7.32",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04"
       }
     ],
     "domains": [
+      {
+        "value": "theepad0loc93x.ddns.net",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26"
+      },
       {
         "value": "xmr-sg.kryptex.network",
         "pulse": "Cryptojacking Campaign Exploits Driver to Boost Monero Mining",
@@ -45645,165 +45648,311 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-09T19:29:21"
-      },
-      {
-        "value": "apex.herosms.ai",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "flux.smshero.co",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "glide.smshero.cc",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "mint.smshero.com",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "neo.herosms.co",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "nova.smshero.ai",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "prime.herosms.vip",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "pulse.herosms.cc",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "soc.hero-sms.co",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "spark.herosms.io",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "vivid.smshero.vip",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
-      },
-      {
-        "value": "zest.hero-sms.ai",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42"
       }
     ],
     "hashes": [
+      {
+        "value": "5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c8936fea2fe9cbbcc6135941ac5fb6ea7819530a0914d8c0f39a015c0f2055d",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b",
+        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
+        "tags": [
+          "spear-phishing",
+          "iso",
+          "lnk",
+          "government",
+          "afghanistan",
+          "data-exfiltration",
+          "reconnaissance",
+          "falsecub"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "02f85c386f67fac09629ebe5684f7fa0",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "233a9dbcfe4ae348c0c7f4c2defd1ea5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "45f2a677b3bf994a8f771e611bb29f4f",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "976b6fce10456f0be6409ff724d7933b",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dc802b8c117a48520a01c98c6c9587b5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "347f09e2589435af084b5f19fc12e8fbdee16e1b",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "427110f6a3741e57b93fa5ca7c6b7dc69b2b23d5",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5d29707d63db3f6475351ecb91ec2fda661fc984",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c5981c6f73ecf7b9606c78e0526bd933585ec09f",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "10bbc5e192c3d01100031634d4e93f0be4becbe0a63f3318dd353e0f318e43de",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "13adde53bd767d17108786bcc1bc0707c2411a40f11d67dfa9ba1a2c62cc5cf3",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37e6da4c813557f09fa2336b43c9fbb4633e562952f5113f6a6a8f3c226854eb",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ae4222728240a566a1ca8c8873eab3b0659a28437877e4450808264848ab01e",
+        "pulse": "Operation Covert Access: Weaponized LNK-Based Spear-Phishing Targeting Argentina's Judicial Sector to Deploy a Covert RAT",
+        "tags": [
+          "argentina",
+          "spear-phishing",
+          "multi-stage",
+          "lnk",
+          "rat",
+          "judicial-sector",
+          "anti-analysis",
+          "rust",
+          "remote access trojan"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-01-20T08:48:18",
+        "hash_type": "sha256"
+      },
       {
         "value": "c748c6a74389e4c48f9a34acba1ff093",
         "pulse": "Remcos Revisited: Inside the RAT's Evolving Command-and-Control Techniques",
@@ -55797,622 +55946,6 @@
         "source": "alienvault_otx",
         "created": "2026-02-09T20:21:27",
         "hash_type": "md5"
-      },
-      {
-        "value": "869b85d8004b64fbef4d4ae9d4b20f00",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d7ffd7b588880cf61b603346a3557e7cce648c93",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a511be5164dc1122fb5a7daa3eef9467e43d8458425b15a640235796006590c9",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2080584340e914d6466917c0c1b97e19",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "23e52d35b0a744b06b8f27e5350a96cb",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "363dad6a0cbf5784837ea99b6a9004c6",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "391286de28124839623d788eef201ac9",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "92580701bb44921383f1b7973824fab9",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "aa36d1c28e143f963b8f7ed98582ee4f",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ae6fbf9566dc352644613f17043cd9e9",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b8f9aa523ab6d92ff4fa785d649234bf",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e70adea04a3d0792aeca14426e3fa663",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ebfb90b0f9404b7c92bb968341c9a8cb",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1c83ace9b078597beba0369ef2801503c36fd37c",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1f178a63a87dcb339174e2cd22cf559ddbe72c24",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "242eebb5cb52a4f8c32f6295a687889445cc9da7",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2c587cf2f79d12d40bdd5d910b7e5f4d7fbb690a",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "458b7557f3f10fcbec46558d306f4e95ede8531a",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d2a6f306a9c4de523bf223466e860f7a8063677f",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "daa56d1ae132105732db51a692927bb8ebee7495",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e7b577a487ccf2ca1e7697a08a525e7197a7e238",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e7e72971c5de989dcbd7246fc98b3b3a43983a5e",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "eaf46c1cff17458b28bfd2fef41045de0bdbf4c3",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "05abc57952974d08feafa399d6fdb37945a3fd0a10f37833dd837a5788e421d5",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1f6d28370f4c2b13f3967b38f67f77eee7f5fba9e7743b6c66a8feb18ae8f33e",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2dd5473736ef51e4340cae005e3fc8cdf0e42ec649bc6ed186484a79be409928",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "32aa12d3c9521477a5a1e086e400ec0f77f8a97a8190806a0f1953688b883cfb",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "49d2531893b09cb6a8e3429ca0a734e871a2d96fa2575c0eec3229d383fa233a",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "61c3077b989e272117167c90fc35e7f06bea4f992f3395b40ccee083d7258082",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7094a07167648628e47249a16d9d6db922e5aa1255ac4322a2e4900d233372dd",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "71431fa7b66f8132453e18e3a5f8ef0af3ca079a7793f828df06fdb5d7bd915d",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8117c82a3821965d92ee3f9f3ae10efcd602bd4b6e52a2fe957d70aafe479744",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a19aa1cd7ecb9ca3f1fd0e118fffd0d673fba404ced8c39c2e210a63b70f9c15",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a3cf1c86731703043b3614e085b9c8c224d4125370f420ad031ad63c14d6c3ec",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e1df78704001bba1a3d343f62a1242a4484ff6ad269170714263c03b802eb0b1",
-        "pulse": "Nation-State Actors Exploit Notepad++ Supply Chain",
-        "tags": [
-          "cobalt strike",
-          "chrysalis",
-          "supply chain",
-          "infrastructure hijacking",
-          "notepad++"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c4edf28177e72d1bfc482cf4d05a156b",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ddf75cc7e322d75de77b17c8ec887975",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e2022cedcea9b5ea81764996732a9880",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "01ef636f9627a77ae11af9af88dd52106b163422",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "664e87fe1d01dfe6f03f6027c09fcfa117ffb27e",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "aeda326c3653f17120bb0d75738c0bd82e7f7f31",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3544ffefb2a38bf4faf6181aa4374f4c186d3c2a7b9b059244b65dce8d5688d9",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b7a7013b951c3cea178ece3363e3dd06626b9b98ee27ebfd7c161d0bbcfbd894",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e7291095de78484039fdc82106d191bf41b7469811c4e31b4228227911d25027",
-        "pulse": "Fake 7-Zip downloads are turning home PCs into proxy nodes",
-        "tags": [
-          "residential proxy",
-          "proxy nodes",
-          "lookalike domain",
-          "software impersonation",
-          "7-zip"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-12T09:29:42",
-        "hash_type": "sha256"
       }
     ]
   }
