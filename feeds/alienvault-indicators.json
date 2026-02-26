@@ -1,6 +1,6 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-02-25T18:46:35.916447",
+  "updated": "2026-02-26T00:58:17.307345",
   "counts": {
     "ips": 34,
     "domains": 5737,
@@ -610,6 +610,23 @@
       }
     ],
     "domains": [
+      {
+        "value": "mail.taikei-rmc-co.biz",
+        "pulse": "Unmasking Agent Tesla: A Deep Dive into a Multi-Stage Campaign",
+        "tags": [
+          "credential harvesting",
+          "smtp",
+          "data exfiltration",
+          "anti-analysis",
+          "phishing",
+          "process hollowing",
+          "in-memory execution",
+          "agent tesla",
+          "multi-stage attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-25T20:01:59"
+      },
       {
         "value": "wizunatech.shop",
         "pulse": "Infrastructure of Interest: Medium Confidence InfoStealer",
@@ -47445,25 +47462,81 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-19T11:10:31"
-      },
-      {
-        "value": "theepad0loc93x.ddns.net",
-        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
-        "tags": [
-          "spear-phishing",
-          "iso",
-          "lnk",
-          "government",
-          "afghanistan",
-          "data-exfiltration",
-          "reconnaissance",
-          "falsecub"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-20T08:51:26"
       }
     ],
     "hashes": [
+      {
+        "value": "30713c4bfc813848b3ec28eb227d2e439be0e07c77237498553fd5dfa745f278",
+        "pulse": "Unmasking Agent Tesla: A Deep Dive into a Multi-Stage Campaign",
+        "tags": [
+          "credential harvesting",
+          "smtp",
+          "data exfiltration",
+          "anti-analysis",
+          "phishing",
+          "process hollowing",
+          "in-memory execution",
+          "agent tesla",
+          "multi-stage attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-25T20:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "83f9c6a3978d926f2c0155e22008c1bce6510b321031598509a2937add2d5a54",
+        "pulse": "Unmasking Agent Tesla: A Deep Dive into a Multi-Stage Campaign",
+        "tags": [
+          "credential harvesting",
+          "smtp",
+          "data exfiltration",
+          "anti-analysis",
+          "phishing",
+          "process hollowing",
+          "in-memory execution",
+          "agent tesla",
+          "multi-stage attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-25T20:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b133d75de5010c3a5005606a8e682a08c413364a3921dfbdfbfdde811a866e88",
+        "pulse": "Unmasking Agent Tesla: A Deep Dive into a Multi-Stage Campaign",
+        "tags": [
+          "credential harvesting",
+          "smtp",
+          "data exfiltration",
+          "anti-analysis",
+          "phishing",
+          "process hollowing",
+          "in-memory execution",
+          "agent tesla",
+          "multi-stage attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-25T20:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc2b26bbcbaa2d0593e15a45734fe3fd940451fc7290d49bc841c496b906a9c1",
+        "pulse": "Unmasking Agent Tesla: A Deep Dive into a Multi-Stage Campaign",
+        "tags": [
+          "credential harvesting",
+          "smtp",
+          "data exfiltration",
+          "anti-analysis",
+          "phishing",
+          "process hollowing",
+          "in-memory execution",
+          "agent tesla",
+          "multi-stage attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-25T20:01:59",
+        "hash_type": "sha256"
+      },
       {
         "value": "31d6cfe0d16ae931b73c59d7e0c089c0",
         "pulse": "Chrome Extensions: Are you getting more than you bargained for?",
@@ -58347,74 +58420,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-19T11:10:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5838c834482fb54f8a642d92e4ece7bbde03e161c2d02c4e70edbe05c8190955",
-        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
-        "tags": [
-          "spear-phishing",
-          "iso",
-          "lnk",
-          "government",
-          "afghanistan",
-          "data-exfiltration",
-          "reconnaissance",
-          "falsecub"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-20T08:51:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "63f6c85fc16b346cc3f18da9380aee6ffbb3e735863e2e8f118f38737e0d1348",
-        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
-        "tags": [
-          "spear-phishing",
-          "iso",
-          "lnk",
-          "government",
-          "afghanistan",
-          "data-exfiltration",
-          "reconnaissance",
-          "falsecub"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-20T08:51:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6c8936fea2fe9cbbcc6135941ac5fb6ea7819530a0914d8c0f39a015c0f2055d",
-        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
-        "tags": [
-          "spear-phishing",
-          "iso",
-          "lnk",
-          "government",
-          "afghanistan",
-          "data-exfiltration",
-          "reconnaissance",
-          "falsecub"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-20T08:51:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f817f65edbc77f7bbdd6e4f469e82c0e770b7e221bdb348f366a475a8a39242b",
-        "pulse": "Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan",
-        "tags": [
-          "spear-phishing",
-          "iso",
-          "lnk",
-          "government",
-          "afghanistan",
-          "data-exfiltration",
-          "reconnaissance",
-          "falsecub"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-01-20T08:51:26",
         "hash_type": "sha256"
       }
     ]
