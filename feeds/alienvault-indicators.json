@@ -1,13 +1,64 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-03-04T06:31:13.029705",
+  "updated": "2026-03-04T12:28:08.869458",
   "counts": {
-    "ips": 15,
-    "domains": 6696,
-    "hashes": 690
+    "ips": 16,
+    "domains": 6731,
+    "hashes": 727
   },
   "data": {
     "ips": [
+      {
+        "value": "154.16.171.203",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "136.0.157.51",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "173.195.100.77",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
       {
         "value": "8.139.6.156",
         "pulse": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
@@ -217,41 +268,634 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-27T05:11:12"
-      },
-      {
-        "value": "45.251.243.210",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10"
-      },
-      {
-        "value": "108.165.255.97",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10"
       }
     ],
     "domains": [
+      {
+        "value": "ampolice.org",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "bigflx.net",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "copilot-cloud.net",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "exchange4study.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "mindssurpass.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "oicm.org",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "onedriveconsole.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "protacik.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "revitpourtous.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "splunkds.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "wikipedla.blog",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "zhydromet.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "ns1.exchange4study.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "ns1.onedriveconsole.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "ns2.onedriveconsole.com",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18"
+      },
+      {
+        "value": "adb-pro.design",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "chata2go.com.mx",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "easyguidepdf.com",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "eliteautoused-cars.com",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "httpsecured.im",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "lankystocks.com",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "pacificlimited.mw",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "sherwoods.ae",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "sunride.com.do",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "waynelimck.com",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "turn.zoomworkforce.usrightrecoveryscreen.topsmallmartdirectintense.comr9.virtualonlineserver.orgapp.ovbxbzuaiopp.onlineserver.denako-cin.cccold-na-phx-7.gofile.ioabsolutedarkorderhqx.comapp.amazonwindowsprime.compub-a6b1edca753b4d618d8b2f09eaa9e2af.r2.devcold-na-phx-8.gofile.ioserver.yakabanskreen.topserver.nathanjhooskreen.topread.pibanerllc.de",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "www.metrosuitesbellavie.com",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31"
+      },
+      {
+        "value": "helper.leuleu.net",
+        "pulse": "Malicious Packagist Packages Disguised as Laravel Utilities Deploy Encrypted RAT",
+        "tags": [
+          "laravel",
+          "php",
+          "packagist",
+          "rat",
+          "dependency-chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T10:55:56"
+      },
+      {
+        "value": "aeobionix.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "aerobionix.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "flyskyenterprise.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "ibizers.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "j4jobspk.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "khanvas.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "maxolutions243.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "mdbelaluddin.com",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
+      {
+        "value": "prosearium.net",
+        "pulse": "Quick, You Need Assistance!",
+        "tags": [
+          "netsupport manager",
+          "cybercrime",
+          "powershell",
+          "amsi bypass",
+          "remote access trojan",
+          "powershell web-socket remote access trojan",
+          "voice-phishing",
+          "quick assist",
+          "microsoft teams"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-02T10:52:25"
+      },
       {
         "value": "9688hopeeasy.cc",
         "pulse": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
@@ -57974,41 +58618,1229 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-26T15:40:31"
-      },
-      {
-        "value": "wellnesscaremed.com",
-        "pulse": "Inside the Fix: Analysis of In-the-Wild Exploit of CVE-2026-21513",
-        "tags": [
-          "exploit",
-          "patchdiff-ai",
-          "windows",
-          "ieframe.dll",
-          "cve-2026-21513",
-          "shellexecuteexw",
-          "mshtml",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:46:23"
-      },
-      {
-        "value": "fruitbrat.com",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10"
       }
     ],
     "hashes": [
+      {
+        "value": "876e6bca4c322db479d00152a5c8231a",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9d3f61dcaba90db2ede1c1906a80ace2",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c093b163f86d35c7cc3f2966d4a5ec5f8ce77980",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "166e777cb72a7c4e126f8ed97e0a82e7ca9e87df7793fea811daf34e1e7e47a6",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "16b9a7358be88632378ba20ba1430786f3b844694b1f876211ecdbecf5cccbc2",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "19139a525ee9c22efd6a4842c4cd50ab2c5f9ee391e5531071df0bb4e685f55d",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2f787c1454891b242ab221b8b8b420373c3eb1a0c1fdcb624dd800c50758bbb0",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3128bdb8efaaa04c0ba96337252f4cc2dc795021cbc410f74ace9dde958bac1d",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37b485ed8d150d022c41e5e307b8c54c34ef806625b44d0c940b18be7d5b29ce",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3a2df7a2cfeca5ba315a29cf313268a53a22316c925e6b9760ead8f4df0d1f75",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3e2a0bafbd44e24b17fd7b17c9f2b2a3727349971d42612d55bbc1732082619a",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43f8f94ca5aa0af7bfb0cc1d2f664a46500a161b2d082b48b516d084ef485348",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "44e769efed3e4f9f04c52dcd13f15cead251a1a08827a2cb6ea68427522c7fbb",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4f93be0c46a53701b1777ab8df874c837df3d8256e026f138d60fc2932e569a8",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "51684a0e356513486489986f5832c948107ff687c8501d64846cdc4307429413",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5341c7256542405abdd01ee288b08e49dcb6d1782be6b7bea63b459d80f9a8f5",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "568c67564d62b09d1a1bc29a494cf4bf31afddcafcf78592b178c63f23ccfcae",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5ad857df8976523cb3ad2fdf30e87c0e7daa64135716b139ffdcd209b98e1654",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72e4b6540e32b8b7aac850055609bc5afc19e29834e9aa6be29a8ea59a2c9785",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7384462d420bdc9683a4cac2a8ad19353a2aa7d2244c91e9182345777e811e33",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "740a09fcdefa5a5f79355b720f54ff09efa64062229fb388adbccd9c829e9ff0",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "74a11a07d167f8f5c0baa724d1f7708985c81d0ac3d0e4d7ef3f3220c335e009",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7f89a4d5af47bc00a9ad58f0bcbe8a7be2662953dcd03f0e881cc5cbf6b7bca8",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "85a03d2e74ae84093a74699057693d11e5c61f85b62e741778cbc5fc9f89022f",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8c29f9189a9ad75a959024f59e68c62d42a6fd42f9eacf847128c7efe4ef7578",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "948468aba5c851952ebe56a5bf37904ed83a6c8cb520304db6938d79892f0a1b",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "967b5c611d304385807ea2d865fa561c15cde0473dd63e768679a4f29f0e4563",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a6b5448ba45f3f352f5f4c5376024891adda1ef8ebf62a8fe63424fa230c691d",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b93560c4d18120e113fb8b04a8aa05f66a12116d1fbf18a93186f6314381e97e",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bcbe2f0a8134c0e7fce18d0394ababc1d910e6f7b77b8c07643434cd14f4c5d6",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bd699ed720e2bd7085b3444cb8f4d36870b5b48df1055ec6cc1553db3eef7faf",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c4de1f1a8cb3b0392802ee56096ddb25b6f51c51350ce7c45e14d8c285765300",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ddaca57f3d5f4986da052ca172631b351410d6f5831f6af351699c6201cc011b",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e3b016f2fc865d0f53f635f740eb0203626517425ed9a2908058f96a3bcf470d",
+        "pulse": "Silver Dragon Targets Organizations in Southeast Asia and Europe",
+        "tags": [
+          "apt",
+          "southeast asia",
+          "chinese",
+          "silverscreen",
+          "geardoor",
+          "dns tunneling",
+          "cobalt strike",
+          "government",
+          "sshcmd"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-03T20:03:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0507b89eeb35741df61eeff7769b3397",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "253238019e1ea386d2d72584bff8eadf4f5ec5b3",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5701dabdba685b903a84de6977a9f946accc08acf2111e5d91bc189a83c3faea",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1649e35d73a5b9cd9251ee7b4842bef6",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1b06c31e5c11f4fcfc52460852fd44be",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "575e7adf57f741ba8ce32bfe83a1e7f4",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "88374c5b7e56b7d0c21c08a8075b1ada",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a6b1edca753b4d618d8b2f09eaa9e2af",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bd45296ec3006176fe07d784bbe00bea",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c7cbe37a075ceb7283b6ea1feaf8e085",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ec54c5089d27b2ad844b96725924a22b",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f55a1ee56f84bd6237f6833789b3a7ac",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f61a36bfe588b07ae88d0786742e3983f66171f",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "75e45900247ff595f1f67d45c16a4ec4bdabe60c",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a12bc988d5b0b0e3c0c6b143851838e3d8786927",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e0d22391f7046dccf22ba0caf066eef25801b83b",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e1307cf83815818cf22c5dde25edcb26a493c791",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eb165bc46f2f94b1b14d2c4c08b29a51389093ed",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f086e99ae0f2001ee0c74f3c92a878031a40ed74",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "35f03708f590810be88dfb27c53d63cd6bb3fb93c110ca0d01bc23ecdf61f983",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "36fdd4693b6df8f2de7b36dff745a3f41324a6dacb78b4159040c5d15e11acb7",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4c6251e1db72bdd00b64091013acb8b9cb889c768a4ca9b2ead3cc89362ac2ca",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6641561ed47fdb2540a894eb983bcbc82d7ad8eafb4af1de24711380c9d38f8b",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "86b788ce9379e02e1127779f6c4d91ee4c1755aae18575e2137fb82ce39e100f",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "947bcb782c278da450c2e27ec29cb9119a687fd27485f2d03c3f2e133551102e",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "959509ef2fa29dfeeae688d05d31fff08bde42e2320971f4224537969f553070",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9827c2d623d2e3af840b04d5102ca5e4bd01af174131fc00731b0764878f00ca",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "98a4d09db3de140d251ea6afd30dcf3a08e8ae8e102fc44dd16c4356cc7ad8a6",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "af651ebcacd88d292eb2b6cbbe28b1e0afd1d418be862d9e34eacbd65337398c",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6097dfbdaf256d07ffe05b443f096c6c10d558ed36380baf6ab446e6f5e2bc3",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c862dbcada4472e55f8d1ffc3d5cfee65d1d5e06b59a724e4a93c7099dd37357",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "edde2673becdf84e3b1d823a985c7984fec42cb65c7666e68badce78bd0666c0",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ef7702ac5f574b2c046df6d5ab3e603abe57d981918cddedf4de6fe41b1d3288",
+        "pulse": "Signed malware impersonating workplace apps deploys RMM backdoors",
+        "tags": [
+          "persistence",
+          "lateral movement",
+          "tactical rmm",
+          "workplace impersonation",
+          "mesh agent",
+          "phishing",
+          "rmm",
+          "digital signatures",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T00:20:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a493ce9509c5180e997a04cab2006a48202afbb8edfa15149a4521067191ead7",
+        "pulse": "Malicious Packagist Packages Disguised as Laravel Utilities Deploy Encrypted RAT",
+        "tags": [
+          "laravel",
+          "php",
+          "packagist",
+          "rat",
+          "dependency-chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-04T10:55:56",
+        "hash_type": "sha256"
+      },
       {
         "value": "112e2eb2a57129ef175c3f64bccbac04",
         "pulse": "Funnull Resurfaces: Exposing RingH23 Arsenal and MacCMS Supply Chain Attacks",
@@ -72758,587 +74590,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-01-26T14:28:48",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aefd15e3c395edd16ede7685c6e97ca0350a702ee7c8585274b457166e86b1fa",
-        "pulse": "Inside the Fix: Analysis of In-the-Wild Exploit of CVE-2026-21513",
-        "tags": [
-          "exploit",
-          "patchdiff-ai",
-          "windows",
-          "ieframe.dll",
-          "cve-2026-21513",
-          "shellexecuteexw",
-          "mshtml",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:46:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4a30f95113ce15731741e4faa701b060",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "985822ace25a47e9ecce96647fa93f7b",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "cd2f93e83f7c06de3f74cd6169463688",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e706d01579dad025db310c40833c0c52",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0a0f530b89a87b2f66d930ce6347ae4efba09fad",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "119da9eb82057ee4b0c639db41c78fec9e4537ea",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "24d842f5744497dfefe1dcb0538759f89a8ae918",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "73de36a5dabebd168e5341d3a8dddb26234a036f",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "28926919956c3e3f281f504c45dfe3419d4f37683806f76393f2a7c6d6e1abfa",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3d99abebdc72cd840ff42b3a5b4cf6e8e3a50616881097d0ceb058f87d2b3909",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "42de03e314c4c9fd69cb042833e8d25950b0a842c28e9b2e18f363c843a9d283",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4f20691c7890e20af642763d030c608a96a84182e44c902aaa89d4f1394dac0a",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "690ee1907bfb425a791e255eabe7351903e8a9e92089a099997afa2a8070383b",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "761d4add56e0766e7e6314950d5cf4ebf759d43c75e74375c2a65f29040dd6fd",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9b61bb9374de332fd80909f30d102043befcd569d264715b0a4d5d5a8d0762d3",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cd652cb4dcbc0c077bc4772fde6e7654be399517879201b820147abb58d2b9bd",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d9e1a79bd2aef55b73b9d4cbc7983a77f918ea6fc344ab9c59e35bc8afaaff6f",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f5ab8640a0ae68f25dcd0a7461266a46322f01a790fec8dafe7ec32a535e5d8e",
-        "pulse": "Mercenary Akula Hits Ukraine-Supporting Financial...",
-        "tags": [
-          "remote manipulator system",
-          "quasarrat",
-          "fire cells group",
-          "uac-0050",
-          "spearphishing",
-          "remote access",
-          "cyber espionage",
-          "financial theft",
-          "remcos",
-          "social engineering",
-          "davinci group"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:35:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "19c4e403846640def976af31f03105ae",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "741cda9ec9c8b55eba74a48ecf25e998",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9f2445970118960bddeafa3020b5c7f6e07ed53d",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b51d16398ac8b3cfd6a24caedd8cddecc4ef3493",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "106f46375d8497d353c22c98f72ab15a9bb87beba4585d5a492fd11edc288b0b",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "22014e2d31197dddc2c451ed475aede3d21ca99784973bdcfd9c3a7d9aaa1999",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4cd81d26289c4d8383a0ffa34397f0b03941554eac04f1b420269b831accf90e",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4ee6bd5a5701853402a08640f531e1be937d0c1f497e3fc255c9ea3e943ecf42",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "79af67ed343bc45b6a19e4836ebb83f1130243ff98f48465f9a7a807ba4bfa91",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a7161c9a7c54a47d27459655725d2ade242d0931d6272c75a36f07df45220b08",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d4bc21e12360af2f2cb55872a90b62805150d498c452b2b1c6a05a806cbb3187",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f9c4df5f5dafdb548fddf9e7e6f07cef8eca7930de7eba385e81dc072bc50113",
-        "pulse": "The Latest PlugX Variant Executed by STATICPLUGIN",
-        "tags": [
-          "rc4-encryption",
-          "apt",
-          "targeted-attack",
-          "plugx",
-          "staticplugin",
-          "valleyrat",
-          "dll-sideloading",
-          "code-signing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-25T11:36:10",
         "hash_type": "sha256"
       }
     ]
