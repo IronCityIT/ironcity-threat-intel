@@ -1,13 +1,45 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-03-19T12:33:12.586350",
+  "updated": "2026-03-19T18:38:33.724008",
   "counts": {
-    "ips": 123,
-    "domains": 374,
-    "hashes": 542
+    "ips": 125,
+    "domains": 378,
+    "hashes": 561
   },
   "data": {
     "ips": [
+      {
+        "value": "60.30.147.18",
+        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
+        "tags": [
+          "infostealer.speagle",
+          "plugx",
+          "cobra docguard",
+          "korplug",
+          "supply chain attack",
+          "ballistic missiles",
+          "evasion techniques",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
+      {
+        "value": "86.38.225.59",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
       {
         "value": "192.96.200.81",
         "pulse": "Inside a network of 20,000+ fake shops",
@@ -1987,6 +2019,102 @@
       }
     ],
     "domains": [
+      {
+        "value": "cptoptious.com",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09"
+      },
+      {
+        "value": "madamelam.com",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09"
+      },
+      {
+        "value": "bumptobabeco.top",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
+      {
+        "value": "imansport.ir",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
+      {
+        "value": "solpru.com",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
+      {
+        "value": "checkfirst.net.au",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50"
+      },
       {
         "value": "labodeguitaup.space",
         "pulse": "How to uncover a Horabot campaign and detect this malware",
@@ -8172,35 +8300,459 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-12T10:39:01"
-      },
-      {
-        "value": "smplu.link",
-        "pulse": "AI/LLM-Generated Malware Used to Exploit React2Shell",
-        "tags": [
-          "xmrig",
-          "crypto mining",
-          "llm",
-          "ai-generated malware",
-          "cve-2025-55182",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:08"
-      },
-      {
-        "value": "2-api.mooo.com",
-        "pulse": "Storm-2603 Exploits CVE-2026-23760 to Stage Warlock Ransomware",
-        "tags": [
-          "smartermail",
-          "cve-2026-23760",
-          "warlock",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T16:59:01"
       }
     ],
     "hashes": [
+      {
+        "value": "cdedd1c07e270c58c6578ecec7acd36e",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f6cac4e119a4bff825d0408045447ba9",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "34a7d2fd54260b9e4188d2dc395d1bc2714c1a3f",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3ee4abd301d45509e5cb08cc0dda7e10dee708f2",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5ad34f3a900ec243355dea4ac0cd668ef69f95abc4a18f5fc67af2599d1893bd",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dc38f3f3c8d495da8c3b0aca8997498e9e4d19738e1e2a425af635d37d0e06b8",
+        "pulse": "How ClickFix Opens the Door to Stealthy StealC Information Stealer",
+        "tags": [
+          "process injection",
+          "credential theft",
+          "social engineering",
+          "information stealer",
+          "multi-stage infection",
+          "fileless execution",
+          "stealc",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-17T17:58:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d8081fe3a360d6957829ea2c66b966c2",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e0e427d6dd2f8fa088a1d8a400a64620",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "md5"
+      },
+      {
+        "value": "245c0ce14ccab1e6569275ff36556f19f4da453a",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b5ba10ae9b17f99915e456d236c0ea5177c0cbe4",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1ea8360c4d3b7ccea50e9f19630be9d23df26ac713799e2f8457520c0d29bdda",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2524e9d5ed1e55332fe2d1cc0e7ad4e2656ad5ca624199e6f619325979b3529a",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "56d3bb5e8771b41b11d368e70ddd26fe6f1e7bd00b3aafcfd4c34ef62f87093d",
+        "pulse": "DTO malware that takes notes",
+        "tags": [
+          "dto",
+          "anti-analysis",
+          "overlay attacks",
+          "perseus",
+          "phoenix",
+          "notes monitoring",
+          "iptv",
+          "cerberus",
+          "klopatra",
+          "ermac",
+          "remote control",
+          "medusa",
+          "android",
+          "accessibility service"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "03298f85eaf8880222cf8a83b8ed75d90712c34a8a5299a60f47927ad044b43b",
+        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
+        "tags": [
+          "infostealer.speagle",
+          "plugx",
+          "cobra docguard",
+          "korplug",
+          "supply chain attack",
+          "ballistic missiles",
+          "evasion techniques",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d7f167cbf1676c14fd487219447e30fadf26885eb25ec4cafdeabe333bddf877",
+        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
+        "tags": [
+          "infostealer.speagle",
+          "plugx",
+          "cobra docguard",
+          "korplug",
+          "supply chain attack",
+          "ballistic missiles",
+          "evasion techniques",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dcd3f06093bf34d81837d837c5a5935beb859ba6258e5a80c3a5f95638a13d4d",
+        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
+        "tags": [
+          "infostealer.speagle",
+          "plugx",
+          "cobra docguard",
+          "korplug",
+          "supply chain attack",
+          "ballistic missiles",
+          "evasion techniques",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fad8d0307db5328c8b9f283a2cc6f7e4f4333001623fef5bd5c32a1c094bf890",
+        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
+        "tags": [
+          "infostealer.speagle",
+          "plugx",
+          "cobra docguard",
+          "korplug",
+          "supply chain attack",
+          "ballistic missiles",
+          "evasion techniques",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "281226ca0203537fa422b17102047dac314bc0c466ec71b2e6350d75f968f2a3",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "349e78de0fe66d1616890e835ede0d18580abe8830c549973d7df8a2a7ffdcec",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "81956d08c8efd2f0e29fd3962bcf9559c73b1591081f14a6297e226958c30d03",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8bab731ac2f7d015b81c2002f518fff06ea751a34a711907e80e98cf70b557db",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "adc1cf894cd35a7d7176ac5dab005bea55516bc9998d0c96223b6c0004723c37",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3d4361939d3f6cf2fe798fef68d4713141c48dce7dd29d3838a5d0c66aa29c7",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1b576ebba5b7bbd023eea1b15dac1ed3fb76a211",
+        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
+        "tags": [
+          "silentconnect",
+          "phishing",
+          "rmm",
+          "loader",
+          "uac bypass",
+          "evasion",
+          "screenconnect",
+          "peb masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-19T11:00:50",
+        "hash_type": "sha1"
+      },
       {
         "value": "4caa797130b5f7116f11c0b48013e430",
         "pulse": "How to uncover a Horabot campaign and detect this malware",
@@ -17585,75 +18137,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-02-12T01:20:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "594ba70692730a7086ca0ce21ef37ebfc0fd1b0920e72ae23eff00935c48f15b",
-        "pulse": "AI/LLM-Generated Malware Used to Exploit React2Shell",
-        "tags": [
-          "xmrig",
-          "crypto mining",
-          "llm",
-          "ai-generated malware",
-          "cve-2025-55182",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d57dda6d9f9ab459ef5cc5105551f5c2061979f082e0c662f68e8c4c343d667d",
-        "pulse": "AI/LLM-Generated Malware Used to Exploit React2Shell",
-        "tags": [
-          "xmrig",
-          "crypto mining",
-          "llm",
-          "ai-generated malware",
-          "cve-2025-55182",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2c1d348131c4e3e1cb00002f226bad7e",
-        "pulse": "VoidLink: Dissecting an AI-Generated C2 Implant",
-        "tags": [
-          "linux",
-          "multi-cloud",
-          "ai-generated",
-          "voidlink"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:07",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9cdbc16912dcf188a0f0765ac21777b23b4b2bea",
-        "pulse": "VoidLink: Dissecting an AI-Generated C2 Implant",
-        "tags": [
-          "linux",
-          "multi-cloud",
-          "ai-generated",
-          "voidlink"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:07",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "05eac3663d47a29da0d32f67e10d161f831138e10958dcd88b9dc97038948f69",
-        "pulse": "VoidLink: Dissecting an AI-Generated C2 Implant",
-        "tags": [
-          "linux",
-          "multi-cloud",
-          "ai-generated",
-          "voidlink"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-02-10T17:46:07",
         "hash_type": "sha256"
       }
     ]
