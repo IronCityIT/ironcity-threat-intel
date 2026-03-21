@@ -1,13 +1,29 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-03-20T18:29:55.281847",
+  "updated": "2026-03-21T00:56:47.561549",
   "counts": {
-    "ips": 125,
-    "domains": 623,
-    "hashes": 741
+    "ips": 99,
+    "domains": 612,
+    "hashes": 725
   },
   "data": {
     "ips": [
+      {
+        "value": "83.98.164.238",
+        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
+        "tags": [
+          "cve-2026-33017",
+          "exploitation",
+          "data exfiltration",
+          "langflow",
+          "vulnerability",
+          "ai",
+          "rce",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34"
+      },
       {
         "value": "194.87.31.69",
         "pulse": "An Overview of The Gentlemen's TTPs",
@@ -1649,387 +1665,90 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-16T10:23:42"
-      },
-      {
-        "value": "83.150.218.93",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "87.121.84.31",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "87.121.84.75",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "14.103.145.202",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "14.103.145.211",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "192.183.232.142",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "37.32.15.8",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "38.59.219.27",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "41.231.37.153",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "74.194.191.52",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "99.241.94.234",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "154.91.254.95",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "169.255.72.169",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "192.159.99.95",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "192.253.248.5",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "23.228.188.126",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.125.66.100",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.135.194.11",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.135.194.32",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.135.194.34",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.153.34.156",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.156.87.165",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "45.8.145.203",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "70.184.13.47",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "78.153.149.90",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "83.252.42.112",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "87.121.84.132",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
       }
     ],
     "domains": [
+      {
+        "value": "scan.aquasecurtiy.org",
+        "pulse": "Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets",
+        "tags": [
+          "ci/cd",
+          "teampcp cloud stealer",
+          "credential theft",
+          "trivy",
+          "infostealer",
+          "supply chain attack",
+          "typosquat",
+          "github actions",
+          "exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:36"
+      },
+      {
+        "value": "d6tcpc6flblph01gdcb0ku9ixih393m54.oast.live",
+        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
+        "tags": [
+          "cve-2026-33017",
+          "exploitation",
+          "data exfiltration",
+          "langflow",
+          "vulnerability",
+          "ai",
+          "rce",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34"
+      },
+      {
+        "value": "d6tcpe7nsv6kk9rdrpggi37zmjfxw9imr.oast.me",
+        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
+        "tags": [
+          "cve-2026-33017",
+          "exploitation",
+          "data exfiltration",
+          "langflow",
+          "vulnerability",
+          "ai",
+          "rce",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34"
+      },
+      {
+        "value": "d6td5s9qte0bea7273e0wuou77jjx77uk.oast.pro",
+        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
+        "tags": [
+          "cve-2026-33017",
+          "exploitation",
+          "data exfiltration",
+          "langflow",
+          "vulnerability",
+          "ai",
+          "rce",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34"
+      },
+      {
+        "value": "d6tgbe1qte0a8rkffb3gqabqm8517exd3.oast.fun",
+        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
+        "tags": [
+          "cve-2026-33017",
+          "exploitation",
+          "data exfiltration",
+          "langflow",
+          "vulnerability",
+          "ai",
+          "rce",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34"
+      },
       {
         "value": "108zhao.shop",
         "pulse": "Law Firm Sites Hijacked in Suspected Supply-Chain Attack",
@@ -12458,248 +12177,99 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-13T18:24:59"
-      },
-      {
-        "value": "x1337.cc",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34"
-      },
-      {
-        "value": "1drvms.store",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "almersalstore.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "defenceprodindia.site",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "iwsmailserver.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "transfergocompany.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "unityprogressall.org",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "med.gov.sy",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "mofa.gov.iq",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "denika.se",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "elcat.kg",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "deepdive.hypernas.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "iran.dashboard.1drvms.store",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "mail.iwsmailserver.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "support.almersalstore.com",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
-      },
-      {
-        "value": "war.analyse.ltd",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25"
       }
     ],
     "hashes": [
+      {
+        "value": "befd84a29522d4350ae2f674f2ffcd8b",
+        "pulse": "VoidStealer: Debugging Chrome to Steal Its Secrets",
+        "tags": [
+          "abe bypass",
+          "memory analysis",
+          "edge",
+          "debugger-based technique",
+          "chrome",
+          "voidstealer",
+          "infostealer",
+          "hardware breakpoints",
+          "v20_master_key extraction"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "86cb3e6750f76c5d2d7eaeb176f5a5b92a2fbf7b",
+        "pulse": "VoidStealer: Debugging Chrome to Steal Its Secrets",
+        "tags": [
+          "abe bypass",
+          "memory analysis",
+          "edge",
+          "debugger-based technique",
+          "chrome",
+          "voidstealer",
+          "infostealer",
+          "hardware breakpoints",
+          "v20_master_key extraction"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f783fde5cf7930e4b3054393efadd3675b505cbef8e9d7ae58aa35b435adeea4",
+        "pulse": "VoidStealer: Debugging Chrome to Steal Its Secrets",
+        "tags": [
+          "abe bypass",
+          "memory analysis",
+          "edge",
+          "debugger-based technique",
+          "chrome",
+          "voidstealer",
+          "infostealer",
+          "hardware breakpoints",
+          "v20_master_key extraction"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57a97c7e7821a5776cebc9bb87c984fa69cba8f1",
+        "pulse": "Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets",
+        "tags": [
+          "ci/cd",
+          "teampcp cloud stealer",
+          "credential theft",
+          "trivy",
+          "infostealer",
+          "supply chain attack",
+          "typosquat",
+          "github actions",
+          "exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:36",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a",
+        "pulse": "Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets",
+        "tags": [
+          "ci/cd",
+          "teampcp cloud stealer",
+          "credential theft",
+          "trivy",
+          "infostealer",
+          "supply chain attack",
+          "typosquat",
+          "github actions",
+          "exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T09:51:36",
+        "hash_type": "sha256"
+      },
       {
         "value": "08390a5fb95dd1a63585e011885d01e4",
         "pulse": "Law Firm Sites Hijacked in Suspected Supply-Chain Attack",
@@ -26862,332 +26432,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-16T10:24:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1d15b57db62c079fc6274f8ea02ce7ec3d6b158834b142f5345db14f16134f0d",
-        "pulse": "Data Exfiltration and Threat Actor Infrastructure Exposed",
-        "tags": [
-          "data exfiltration",
-          "restic",
-          "vipre",
-          "inc ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-13T11:17:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e034a4c00f168134900bfe235ff2f78daf8bfcfa8b594cd2dd563d43f5de1b13",
-        "pulse": "Data Exfiltration and Threat Actor Infrastructure Exposed",
-        "tags": [
-          "data exfiltration",
-          "restic",
-          "vipre",
-          "inc ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-13T11:17:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0d54448fe3c9b048c6d48c6ee2f6f936",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "aa13e8e1bda39dd665cdf1edb0261b364e53c731",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "691e4ec280aaff33270f33a9bb48a3fc38e2bd91c7359e687e3f0bd682f20b54",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ce6375a4077edaf2f83847e3cefd8eb9535da249806d3214b22a0d50891c7b4c",
-        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
-        "tags": [
-          "ddos",
-          "xmrig",
-          "botnet",
-          "vulnerability exploitation",
-          "rondodox",
-          "iot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:49:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0456842d1af5760356e52db387f8897f",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "60344a3a5ad950450cd798f585571d29f13f2dbb",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "14efa1194cc4c6aa5585d63c032268794364123d41a01121cbd5e56f7c313399",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "16db04b632668dae081359fc07c97e5a9b79dad61713642e48b494aa6b7828be",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4b9661092051839496c04169ccb52b659c0f65cefd14a990e23565a0c0e8eeaf",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7b6d69a249fe2adf43eefc31cdeca62cf48ab428fcbf199322feeb99d24fb001",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9477d9cd1435dc465b4047745e9c71103a114d65ed0d5f02ac3c97ac3f1dbf47",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a8acb9864e6f64323ed75e69038ca9bfe76f7b1b0d24ec7df8ac07b6dbd641a3",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a9de383c6a1b00c9bd5a09ef87440d72ec7fc4bcd781207b3cace2f246788d4d",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a9f4f4bc12896d0f0d2eeff02dd3e3e1c1406d8a6d22d59aa85f151d806ba390",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b58ec14b0119182aef12d153280962ad76c30e3cd67533177d55481704eba705",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d518262dd687a48f273966853f3ed4eb7404eb918b165bb71ff83f75962c0104",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dfaaaf75147afbd57844382c953ec7ef36f68a9c17c66a47a847279a6b1109c9",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ea1d98a41ad9343d017fa72f4baeeca0daa688bec6e0508e266c5e37e9d330de",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fed6ebb87f7388adf527076b07e81dfa432bac4e899b0d7af17b85cc0205ffad",
-        "pulse": "Iran conflict drives heightened espionage activity against Middle East targets",
-        "tags": [
-          "rust backdoor",
-          "iran conflict",
-          "cobalt strike",
-          "phishing",
-          "cyber espionage",
-          "state-sponsored actors",
-          "government targets"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-11T15:24:25",
         "hash_type": "sha256"
       }
     ]
