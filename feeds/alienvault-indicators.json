@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-03-23T06:54:56.760300",
+  "updated": "2026-03-23T12:36:30.297645",
   "counts": {
-    "ips": 90,
-    "domains": 595,
-    "hashes": 696
+    "ips": 88,
+    "domains": 594,
+    "hashes": 726
   },
   "data": {
     "ips": [
@@ -1524,38 +1524,37 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-16T11:01:03"
-      },
-      {
-        "value": "181.231.253.69",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08"
-      },
-      {
-        "value": "51.38.247.67",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30"
       }
     ],
     "domains": [
+      {
+        "value": "hs8.krakenfiles.com",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17"
+      },
+      {
+        "value": "trackpipe.dev",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47"
+      },
       {
         "value": "xmri.network",
         "pulse": "MIMICRAT: ClickFix Campaign Delivers Custom RAT via Compromised Legitimate Websites",
@@ -11981,45 +11980,879 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-16T15:14:29"
-      },
-      {
-        "value": "aborters.duckdns.org",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30"
-      },
-      {
-        "value": "anotherarmy.dns.army",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30"
-      },
-      {
-        "value": "varders.kozow.com",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30"
       }
     ],
     "hashes": [
+      {
+        "value": "15b687cb6ddf56f671fb6bd750604177",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5e9d7d9316383efc8743675298710ef0",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7300ba0879ceb382192ba8d93ff7a792",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9bf88267166d2b6244a4bdcc9d02113f",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c6e0019a4aadbc97837839216ad882ee",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e87764252a333ba316e89f24be05d7c0",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e8871849dfdaf6b6cd9233f70c4c7493",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0338ed21dc6555c6814b5bf77ff71bf68ce57ede",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "087ba76c2497d67e35c6530ce90841e1b8cf2cf9",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "49e00c0f781703ae2803ac0fa7e8d6dddd924aee",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "74bf4daa98a4808c122c1f649ca0e88f70d64802",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bc5cba6bbb5c724c0d49c6985948b6907d514aa7",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c81327abaaa06961a308af0eae5f73e482e00bd8",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dbcce5ebd953c077be8dcd0f002258aa53153b7e",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0499152c6dd775491ce099eee4c382a94f72c07031081db164de921effa9664f",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0f3344e672d1ea6cde382b68b27063ed766fced717e9f5f2e15e6c79ce0737f7",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12c65ac4e02313ed1aa2d32d56428f0a135b281604d536e5ae6ca08b6b4232c9",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1d32f451d18c3dc8dbf00cd7df1200f83efa27cbaddeb9b2bed726e6d08ef5b1",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "22a1cf91fbac104e2dd374dd06e93488cfdf216890088ef18318d90f440f00f6",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3101cc378db2665eb2969b62e28efb9bfd5ca6f9bd3ebc27b422d5a29bfd1b17",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "34ae832427b03df5f8cb90e78b5b174665c19602575b37fc7cad8100978898d2",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "39eade26c5680d20f5a8032a0d3996a29058e52c147e4b49a2072d2dcb353325",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ca93362559db4da9d44d614345cbdfdb81d882367af05651bb718e1cc57ab08",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3d5ada3b035e2adc8de1db24ab9d8e0e828eec1b7601ed9d064b41fa9d026a34",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43c5d9a267742ee3c6c9bcf3e6f63ec397fbe0233a5d99bdb7dacbfa1a0f69d5",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5b573743306a2324608fdbd9c5cceba6bd5abfaccd1ea8b94c60f73da279e636",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "85e01e36b7b2b90af79642732a17dd566af0b10a85fd8a4cc85ea11583a0ff00",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "946ae65e508acb4dbf6b29432889511a76636453cc04256230fbce25cef86b6a",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9843874eb6217a79ba5a51a6a886745169b1a1ad43f7ae12de6e610324e88ab7",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad4e27fe06fae2325faa2a00be7b41f40aa9c63fe79713597b3330ad7e583ca8",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad796fc0ac17b58e47dbadd42bf164790c18ac67aade8c6bf2251056ef68138d",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b4a3f2f5091df7174e82283ed59cd557eea2e8ddd7a018dafc5e8151fd683429",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c03120163d9401d66d482899421d9dd68db63d34bac2b32e3090e8ad0b911d83",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c2a2c2b26b235bad31a352e1fd475794167ec79928c52d98bccb3607e932c7b2",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3eef096073dd0873a821c35dd2e7eaf391863264ab72e1b91f2ca73218c2d04",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd7e16ca636f6e5cb86cd41561d57620a131a26b53c6e25a36edcbbcb2b5276a",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d884a17046bbefd73f76f88533e1f2da40d5233b15caa48245de65d2c19c50dc",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb76f0797c27821635992ef23a570fe3a11c848998bc9f7735e968adc6b2f33c",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ece81cdc6fc12a07a984b98df58e34c92998cdd957e1f45cabd925056bb0f92e",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f307f8fa89b9f9eb8c2ae346055dffb80c93f56034aa3abe7a8a25d6e5e680c6",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f8b5a5429fb1da677ab8c09fc95b26e3b3d8bcd27521a56cc835fbf5878dbcd8",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f8d2c5cb898cf92495fdcb7e20f509603e1bdd62ba4b61bd7694a8e33a4c738f",
+        "pulse": "Libyan Oil Refinery Among Targets in Long-running Likely Espionage Campaign",
+        "tags": [
+          "oil refinery",
+          "spear-phishing",
+          "state-sponsored",
+          "asyncrat",
+          "backdoor",
+          "espionage"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-20T21:15:17",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "189b8419863830f2732324a0e02e71721ec550ffa606f9dc719f935db5d25821",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ab0bcc8ff821bd6ba0e5fdbb992836922a67524f8284d69324f61e651981040",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3c2fa99741e71436eb7f52fcf382bb92425104bd63f82d0bd0111caf2c8b91b4",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43dc96bde2d5214ea3e93c1d9f62da54c260587e0b5bd366bb55ab615262384e",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "593aa8051b146e7b1effd90708210ccac3527076e2b5b5068216553a5557396d",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72bc4f82786e23f067d8731dac2b51c033f49ceceab0a64065a160cdff54f488",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8da42291c7c8ad4d7b174367c7b59e6cf57804f659490947957212d16dfcfe16",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "946206d42497ea54a4df3f3fed262a99632672e99b02abcc7a9aff0f677efba8",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a80f2f5ba53bd19c35af5eed763fbaf9f00487bb4df0997651af861ef157ccea",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad23c83bbcd2e2ed7ba3338b723f3a36ef7a6866672395a04fdb8fbd1bf68a90",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b04cdafdaa9220ab819f33790f014fd84a10f3908e3d7e97a652fa0d76f40c2f",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "baaa13491ddaba1fc8eb5a3e7848fb1e33f6f1f5b19b5efb0d433ab09e38a1f0",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df8bc4bf6f312a914fa82e56dab59ceb0b2066830696ea7457067f7d446518eb",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e3ee5909f908b489a93702709fae038f0b3c864b155013a9ad7d590f1eec7fe4",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ec8d3b922db1cf3a82141a53a472538d10563860dfb93259e99d0aec3661734c",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ee968f51f1b2c0d9fcdacfd6aa9ef24cc6212118464093e67f1fdaa1144e15b1",
+        "pulse": "GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer",
+        "tags": [
+          "ghostclaw",
+          "supply-chain-attack",
+          "credential-theft",
+          "ghostloader",
+          "github",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-23T09:27:47",
+        "hash_type": "sha256"
+      },
       {
         "value": "5d14aa8bbfb6c505800a5fe17769334a",
         "pulse": "MIMICRAT: ClickFix Campaign Delivers Custom RAT via Compromised Legitimate Websites",
@@ -25685,445 +26518,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-16T15:14:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02f85c386f67fac09629ebe5684f7fa0",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "233a9dbcfe4ae348c0c7f4c2defd1ea5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "45f2a677b3bf994a8f771e611bb29f4f",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "976b6fce10456f0be6409ff724d7933b",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dc802b8c117a48520a01c98c6c9587b5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "347f09e2589435af084b5f19fc12e8fbdee16e1b",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "366a181e53291fbf35a49f0282fcf309ad35f3f4",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "427110f6a3741e57b93fa5ca7c6b7dc69b2b23d5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5d29707d63db3f6475351ecb91ec2fda661fc984",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c5981c6f73ecf7b9606c78e0526bd933585ec09f",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "10bbc5e192c3d01100031634d4e93f0be4becbe0a63f3318dd353e0f318e43de",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "13adde53bd767d17108786bcc1bc0707c2411a40f11d67dfa9ba1a2c62cc5cf3",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "37e6da4c813557f09fa2336b43c9fbb4633e562952f5113f6a6a8f3c226854eb",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4612c90cdfb7e43b4e9afe2a37a82d8b925bab3fd3838b24ec73b0e775afdb75",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6ae4222728240a566a1ca8c8873eab3b0659a28437877e4450808264848ab01e",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "694c313b660123f393332c2f0f7072b5",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9375cff0413111d3b88a00104b2a6676",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d1df5d64c430b79f7e0e382521e96a14",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e7c42f2d0ff38f1b9f51dc5d745418f5",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ea72845a790da66a7870da4da8924eb3",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "md5"
-      },
-      {
-        "value": "079d198a000ae523f12c3c0f23b3697140d96a86",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4fc672fe7dd8272a4f4da6ffc078a91e234f04ee",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e48938008fc0faa1c7b47af5c0b25df4b37a6af3",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ee790ec841b7761679a05771d551a154c7f87a93",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "03ae7b3bdaa1614aee51a35e9426ade258bb30498743467823bd80b19de0ad9b",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95892f0bc179246961e3cf5eeac444143a4f9b455ab740746dad3ecc32c93e62",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bba56d9918978e618e27cacf2997e3aeebed5d85bf657daaf0841b89b6cc4cb3",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ce4fda69ff042264003b4eb03bc158fc690aef8802aa1b1db8232a93a8bf0145",
-        "pulse": "MAAS VIP_Keylogger Campaign",
-        "tags": [
-          "spear-phishing",
-          "vip_keylogger",
-          "browser-targeting",
-          "process-hollowing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T10:51:30",
         "hash_type": "sha256"
       }
     ]
