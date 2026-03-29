@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-03-29T01:10:43.474082",
+  "updated": "2026-03-29T06:49:36.279660",
   "counts": {
     "ips": 31,
-    "domains": 523,
-    "hashes": 611
+    "domains": 527,
+    "hashes": 615
   },
   "data": {
     "ips": [
@@ -612,6 +612,70 @@
       }
     ],
     "domains": [
+      {
+        "value": "spoolsv.cc",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12"
+      },
+      {
+        "value": "spoolsv.net",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12"
+      },
+      {
+        "value": "img.spoolsv.cc",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12"
+      },
+      {
+        "value": "img.spoolsv.net",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12"
+      },
       {
         "value": "1cv2f3d5s6a9w.ddnsfree.com",
         "pulse": "Disrupting the GRIDTIDE Global Cyber Espionage Campaign",
@@ -10039,6 +10103,74 @@
       }
     ],
     "hashes": [
+      {
+        "value": "4be68d5690e8df506583e86e42fbb934",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12",
+        "hash_type": "md5"
+      },
+      {
+        "value": "590dc30098a1bedf28e1717ded91cbfed72ae06d",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4afdb3f5914beb0ebe3b086db5a83cef1d3c3c4312d18eff672dd0f6be2146bc",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8b0ec8d0318347874e117f1aed1b619892a7547308e437a20e02090e5f3d2da6",
+        "pulse": "Malicious Go 'crypto' Module Steals Passwords and Deploys Rekoobe Backdoor",
+        "tags": [
+          "cryptography-impersonation",
+          "rekoobe",
+          "supply-chain-attack",
+          "linux-malware",
+          "backdoor",
+          "golang",
+          "password-theft",
+          "github-abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-02-27T05:11:12",
+        "hash_type": "sha256"
+      },
       {
         "value": "2d261e232233eb8027dc8c1fcc128682",
         "pulse": "Disrupting the GRIDTIDE Global Cyber Espionage Campaign",
