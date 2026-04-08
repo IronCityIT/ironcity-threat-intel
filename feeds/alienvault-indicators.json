@@ -1,13 +1,993 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-08T07:03:18.847516",
+  "updated": "2026-04-08T12:50:18.138552",
   "counts": {
-    "ips": 15,
-    "domains": 248,
-    "hashes": 651
+    "ips": 74,
+    "domains": 278,
+    "hashes": 705
   },
   "data": {
     "ips": [
+      {
+        "value": "45.148.10.212",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "83.142.209.11",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "83.142.209.203",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "103.140.186.148",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "103.140.186.149",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "103.140.186.155",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.234.73.58",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.234.73.61",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.234.73.62",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.224",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.225",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.226",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.227",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.228",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.229",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.230",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.231",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.232",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.233",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.234",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.235",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.236",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.237",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.238",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.239",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.240",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.241",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.242",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.243",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.244",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.245",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.246",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.247",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.248",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.249",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.55",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.56",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.57",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.58",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.59",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.60",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.61",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.62",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.63",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.64",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.65",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.66",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.67",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.68",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.69",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.70",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.71",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.72",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.73",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.74",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "185.237.166.75",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "64.44.154.227",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "64.44.154.237",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "64.44.154.238",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "64.44.154.239",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "64.44.154.240",
+        "pulse": "APT28 exploit routers to enable DNS hijacking operations",
+        "tags": [
+          "exploit",
+          "tp-link",
+          "dns hijacking",
+          "russia",
+          "oauth",
+          "apt28"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T13:57:22"
+      },
+      {
+        "value": "217.156.122.12",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "217.156.122.57",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "217.156.122.75",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "45.151.106.110",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "80.97.160.155",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "86.107.168.103",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
       {
         "value": "142.11.206.73",
         "pulse": "Detections for the Axios supply chain compromise",
@@ -94,113 +1074,741 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-06T15:04:38"
-      },
-      {
-        "value": "195.5.171.242",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "45.148.10.212",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "209.34.235.18",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "212.71.124.188",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "23.142.184.129",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "63.251.162.11",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "83.142.209.11",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "83.142.209.203",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
       }
     ],
     "domains": [
+      {
+        "value": "aquasecurtiy.org",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "scan.aquasecurtiy.org",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19"
+      },
+      {
+        "value": "app-metrics-cdn.com",
+        "pulse": "Bogus website fakes virus scan, installs Venom Stealer instead",
+        "tags": [
+          "venom stealer",
+          "impersonation",
+          "scare tactics",
+          "fake antivirus",
+          "credential theft",
+          "phishing",
+          "quasar rat",
+          "stormkitty",
+          "data exfiltration",
+          "evasion techniques"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-27T18:42:12"
+      },
+      {
+        "value": "callnrwise.com",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37"
+      },
+      {
+        "value": "sfrclak.com",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37"
+      },
+      {
+        "value": "self.run",
+        "pulse": "North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
+        "tags": [
+          "developer tooling",
+          "staged loader",
+          "pypi npm",
+          "rat",
+          "cryptocurrency wallet",
+          "contagious interview",
+          "north korea",
+          "supply chain attack",
+          "credential theft",
+          "cross-ecosystem"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:17:25"
+      },
+      {
+        "value": "adveryx.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "backbou.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "baxe.pics",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "borscer.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "buccstanor.pics",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "chalx.live",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "cheekiez.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "chromap.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "coox.live",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "drymoge.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "forestoaker.com",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "gluckcreek.online",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "intem.lat",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "interxo.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "josegza.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "krondez.com",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "lazzo.bet",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "managew.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "navelum.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "nitroca.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "nobleckly.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "outcrol.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "padaz.pics",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "parky.pics",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "prickaz.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "remnane.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "ropea.top",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "siltsoh.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "texakgi.cloud",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "vinte.online",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "woodena.biz",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
+      {
+        "value": "zadno.run",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37"
+      },
       {
         "value": "process.name",
         "pulse": "Detections for the Axios supply chain compromise",
@@ -3752,123 +5360,2041 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-31T11:56:06"
-      },
-      {
-        "value": "championships-peoples-point-cassette.trycloudflare.com",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "create-sensitivity-grad-sequence.trycloudflare.com",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "investigation-launches-hearings-copying.trycloudflare.com",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "plug-tab-protective-relay.trycloudflare.com",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "souls-entire-defined-routes.trycloudflare.com",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29"
-      },
-      {
-        "value": "crystalxrat.top",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47"
-      },
-      {
-        "value": "webcrystal.lol",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47"
-      },
-      {
-        "value": "webcrystal.sbs",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47"
       }
     ],
     "hashes": [
+      {
+        "value": "05bacbe163ef0393c2416cbd05e45e74",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2e3a4412a7a487b32c5715167c755d08",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "331ab9c032cf95c89d877ee05b46f8d8",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4467de8f6d521d6fc6a930fa8ede7017",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5870a0bf82bbdf2687d8dce89dfa668f",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7d231e938774127ba7487061ebc51e74",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "97e073abd819d9cdc07705aeaa481f59",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b1c6036b046bcf8c80601742ebcc61b0",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d2210feb0438c0ce89b5579ef75ae4d4",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d528effabbd9cd66aaa11bc8777bb110",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3fcc7360a2738ad2656e17c7d4ed3e651ff7d73a",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "42f7861818214222efeadb2fc826dda1cdc90050",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4ce6ad55d8912aacc4ae4c572237131d0b7ba4b5",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "512efdfc832b012677341d251670c7192c463b21",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "78cd382040eda14e2f8a17ee7387cffdabe96ab5",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "85e16077deeaffae3c50d45d99e9dae2c58de53e",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e866b3fa9f87a084b610272580428761e28ad65a",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eee517fe8da4eddf7ead1d01a32606e6beec1adc",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "196b5e0e06424a02e360e28e08d7dcfab7ec8946af9477ca352c6cf6b7d4e9bd",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "23b1ec58649170650110ecad96e5a9490d98146e105226a16d898fbe108139e5",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "485952ba5347aa83f00537a4be0bebb274021f773a0203b65142f1b86dfda34d",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4eceb569b4330565b93058465beab0e6d5ea09cfba8e7f29d7be1b5a2abd958a",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5ce544a8db5d0b0953c966384858e4e8a017e7acba2f5f6d0ac8f529d59939d8",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6cf223aea68b0e8031ff68251e30b6017a0513fe152e235c26f248ba1e15c92a",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7290353a3bc2b18e9ea574d3294b09e28edaa6b038285bb101cf09760f187dcd",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8395c3268d5c5dbae1c7c6d4bb3c318c752ba4608cfcd90eb97ffb94a910eac2",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "84edce66f09c55bbb44754411bde4b092288d172734df62fac20d6f794b3a2ec",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8eaf4c4d0b82620bcda29b97896e2da0a754205c035721479f7ceafb817e4466",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a585277a67a176fe098edf90986670653a5039e03e4028d18dd0b607ed287caa",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a9235c0eb74a8e92e5a0150e055ee9dcdc6252a07785b6677a9ca831157833a5",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab4c4aebb52027bf3d2f6b2dcef593a1a2cff415774ea4711f7d6e0aa1451d4e",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bc40e5e2c438032bac4dec2ad61eedd4e7c162a8b42004774f6e4330d8137ba8",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd08115806662469bbedec4b03f8427b97c8a4b3bc1442dc18b72b4e19395fe3",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd6af6c9ba149673ff89a1f1ccc8ec40a265a3b54ad455fbef28dc2967a98e45",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d29deee2e8bec85d2fcaec427f17d677f7de4f8387e00566b0b45ff81157bd31",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d2a0d5f564628773b6af7b9c11f6b86531a875bd2d186d7081ab62748a800ebb",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d6fc0ff06978742a2ef789304bcdbe69a731693ad066a457db0878279830d6a9",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e4e3b176c1255666024d90392e09466a23bf6e8740bf589c6d1ccf2dfff451a4",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e6912e3ec58120bf63edf2e4be6ff2f092c40cfbc655a12f4a463b2ef98d368e",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f66c1ea3b25ec95d0c6a07be92c761551e543a7b256f9c78a2ff781c77df7093",
+        "pulse": "Ringing in Chaos: How TeamPCP Weaponized the Telnyx Python SDK",
+        "tags": [
+          "credential theft",
+          "rat",
+          "exfiltration",
+          "msbuild.exe",
+          "sysmon.py",
+          "persistence",
+          "steganography",
+          "pypi",
+          "kubernetes",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-31T16:14:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0a32d6abea15f3bfe2a74763ba6c4ef5",
+        "pulse": "Bogus website fakes virus scan, installs Venom Stealer instead",
+        "tags": [
+          "venom stealer",
+          "impersonation",
+          "scare tactics",
+          "fake antivirus",
+          "credential theft",
+          "phishing",
+          "quasar rat",
+          "stormkitty",
+          "data exfiltration",
+          "evasion techniques"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-27T18:42:12",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ecbeaa13921dbad8028d29534c3878503f45a82a09cf27857fa4335bd1c9286d",
+        "pulse": "Bogus website fakes virus scan, installs Venom Stealer instead",
+        "tags": [
+          "venom stealer",
+          "impersonation",
+          "scare tactics",
+          "fake antivirus",
+          "credential theft",
+          "phishing",
+          "quasar rat",
+          "stormkitty",
+          "data exfiltration",
+          "evasion techniques"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-27T18:42:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "04e3073b3cd5c5bfcde6f575ecf6e8c1",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "089e2872016f75a5223b5e02c184dfec",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "21d2470cae072cf2d027d473d168158c",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7658962ae060a222c0058cd4e979bfa1",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7a9ddef00f69477b96252ca234fcbeeb",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c782b59a786f18520673e8d669e3b0a",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9663665850cdd8fe12e30a671e5c4e6f",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "db7f4c82c732e8b107492cae419740ab",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "07d889e2dadce6f3910dcbc253317d28ca61c766",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "13ab317c5dcab9af2d1bdb22118b9f09f8a4038e",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2553649f2322049666871cea80a5d0d6adc700ca",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "59faac136680104948e083b3b67a70af9bfa5d5e",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "978407431d75885228e0776913543992a9eb7cc4",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a90c26e7cbb3440ac1cad75cf351cbedef7744a8",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ae39c4c550ad656622736134035f17ca7a66a742",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b0e0f12f1be57dc67fa375e860cedd19553c464d",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "01c9484abc948daa525516464785009d1e7a63ffd6012b9e85b56477acc3e624",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d83030ab8bfba675fc1661f0756b6770be7dd80b1b718de3d68a01f2e79a5f4",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "20df0909a3a0ef26d74ae139763a380e49f77207aa1108d4640d8b6f14cab8ca",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4465bdeaddc8c049a67a3d5ec105b2f07dae72fa080166e51b8f487516eb8d07",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "506690fcbd10fbe6f2b85b49a1fffa9d984c376c25ef6b73f764f670e932cab4",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "526ab39d1f56732e4e926715aaa797feb13b1ae86882ec570a4d292e7fdc3699",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "59336a964f110c25c112bcc5adca7090296b54ab33fa95c0744b94f8a0d80c0f",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5b5fbc627502c5797d97b206b6dcf537889e6bea6d4e81a835e103e311690e22",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5bb67e88846096f1f8d42a0f0350c9c46260591567612ff9af46f98d1b7571cd",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5e2ab672c3f98f21925bd26d9a9bba036b67d84fde0dfdbe2cf9b85b170cab71",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "617b67a8e1210e4fc87c92d1d1da45a2f311c08d26e89b12307cf583c900d101",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7b47ed28e84437aee64ffe9770d315c1b984135105f7f608a8b9579517bc0695",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8449341ddc3f7fcc2547639e21e704400ca6a8a6841ae74e57c04445b1276a10",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9c64f1c7eba080b4e5ff17369ddcd00b9fe2d47dacdc61444b4cbfebb23a166c",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a224dd73b7ed33e0bf6a2ea340c8f8859dfa9ec5736afa8baea6225bf066b248",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a98e04dec3a7fe507eb30c72da808bad60bc14d9d80f9770ec99c438faa85a1a",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad8ba560ae5c4af4758bc68cc6dcf43bae0e0bbf9da680a8dc60a9ef78e22ff7",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cdc05cd30eb53315dadb081a7b942bb876f0d252d20e8ed4d2f36be79ee691fa",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e49c2732fb9861548208a78e72996b9c3c470b6b562576924bcc3a9fb75bf9ff",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f7d335205b8d7b20208fb3ef93ee6dc817905dc3ae0c10a0b164f4e7d07121cd",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fcb81618bb15edfdedfb638b4c08a2af9cac9ecfa551af135a8402bf980375cf",
+        "pulse": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
+        "tags": [
+          "javascript trojan",
+          "dprk attribution",
+          "supply chain attack",
+          "axios library",
+          "cross-platform rat",
+          "plain-crypto-js",
+          "waveshaper",
+          "waveshaper overlap",
+          "npm hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-01T22:59:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7c5adef4b5aee7a4aa6e795a86f8b7d601618c3bc003f1326ca57d03ec7d6524",
+        "pulse": "North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
+        "tags": [
+          "developer tooling",
+          "staged loader",
+          "pypi npm",
+          "rat",
+          "cryptocurrency wallet",
+          "contagious interview",
+          "north korea",
+          "supply chain attack",
+          "credential theft",
+          "cross-ecosystem"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:17:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9a541dffb7fc18dc71dbc8523ec6c3a71c224ffeb518ae3a8d7d16377aebee58",
+        "pulse": "North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
+        "tags": [
+          "developer tooling",
+          "staged loader",
+          "pypi npm",
+          "rat",
+          "cryptocurrency wallet",
+          "contagious interview",
+          "north korea",
+          "supply chain attack",
+          "credential theft",
+          "cross-ecosystem"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:17:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bb2a89001410fa5a11dea6477d4f5573130261badc67fe952cfad1174c2f0edd",
+        "pulse": "North Korea's Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
+        "tags": [
+          "developer tooling",
+          "staged loader",
+          "pypi npm",
+          "rat",
+          "cryptocurrency wallet",
+          "contagious interview",
+          "north korea",
+          "supply chain attack",
+          "credential theft",
+          "cross-ecosystem"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:17:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad67031e2ca68764fe1a7d6632c02b02a299d59efb920710011a9a2ccf4399b7",
+        "pulse": "Leveling Up with NightSpire Ransomware",
+        "tags": [
+          "persistence mechanisms",
+          "remote desktop",
+          "data exfiltration",
+          "nightspire",
+          "ransomware-as-a-service",
+          "raas",
+          "file encryption",
+          "chrome remoting desktop",
+          "megasync",
+          "anydesk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:15:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bde50a42efc079edde1a314243ad339db2d42e343fbbcd39117803b0f5960355",
+        "pulse": "Leveling Up with NightSpire Ransomware",
+        "tags": [
+          "persistence mechanisms",
+          "remote desktop",
+          "data exfiltration",
+          "nightspire",
+          "ransomware-as-a-service",
+          "raas",
+          "file encryption",
+          "chrome remoting desktop",
+          "megasync",
+          "anydesk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:15:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "488d058bcc8d02488901488b024889415b488d41",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "002f714f93bed53f165129a820c2d5b72227f1cafac43be19e5e223ce219a5e1",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0580ebf601989457f0708799b431fd4d9f5e59d98838282d72936099aa6636da",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "066c4ab954fc1270ee62c0d7c582c4c691e58e0ffef0c654bc204a46e440d16d",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0683f353cf3e101f721f1658e2a554ff7888ff9f2c32e23ceb3d23876864a264",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0a8f734f10400f7ae8fef591147e78dab6350089683be84c1cb6c82113cb1319",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "25e74a76f2f3601abcb20fd743a7e3cf3befd5a3838c7501af5d87d293233809",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4428c3ffe2532f162f31d7573bbc1cca2299195421da3d8e8a3e535e9fc42b08",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "484e3ab5d425a97819f01dcc330e005dc444c51625bfdcd7ea9a3954018d1fc9",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "64db10e76b46be8db36e02993d36559bc3f86606c9ea955731872b716c8f0c69",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "788b56e9be2f1dd6a977dce0265f293ab42d3e8ffb287ab584e169fbf115da1f",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8653d7158486aa10fc0078c3ca9318cd7ace05d4b3e6f3b1fb84ffb7a6a339ec",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8b6b238ffa6e411229c6754ba99f7b990c49edfb2c34068ce0ac5564824d71ad",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a4f111e5425690fcd384c62ecb5b57b0f645925572af3541748e01d810cd2b40",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab2e47720388fa201e242552f8d8b82363c6c52f6c63fa3fec9dce027cb12e77",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b037fa1dd769891b538d9ca26131890c93e3458eec96c5354bdebe50d04a5b3d",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bc11d036fe59abb3915f736307c56d2fd43e8127e46c31f926eeda864f4d66dc",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3f7cea80dbafaa90a88b28a6dfb1227caaf5c2a29f0ce06bf663d6ed2cfc079",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cab7855ccfca19a06eea76e0e170f592dcc95906ecfa5436f5a11947e04e63d5",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dbf6facd28406361a6a81417b3ff5eb272ccc8dcc58a36bd5335a253ae4bf036",
+        "pulse": "Unmasking The 64-bit Variant of the Infamous Lumma Stealer",
+        "tags": [
+          "lumma stealer",
+          "application-bound encryption bypass",
+          "blockchain c2",
+          "tenzor",
+          "etherhiding",
+          "infostealer",
+          "64-bit variant",
+          "remus",
+          "aurastealer",
+          "voidstealer",
+          "rhadamanthys"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-08T09:16:37",
+        "hash_type": "sha256"
+      },
       {
         "value": "7658962ae060a222c0058cd4e979bfa1",
         "pulse": "Detections for the Axios supply chain compromise",
@@ -12855,756 +16381,6 @@
         "source": "alienvault_otx",
         "created": "2026-03-31T11:56:06",
         "hash_type": "sha256"
-      },
-      {
-        "value": "46e7a5c4cf645b77f24023eef873f56f",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "55405de62427ac56106f0fdb1c33dedd",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5870a0bf82bbdf2687d8dce89dfa668f",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "718c13820bff309925b5b629bbb5da2c",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7646a872455dab186dc9de17f7ef0340",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "805c08686e755c063a0bb460bdf9dcc4",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8bfefb76454efe404359831d4fe7137c",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8cf49650b7a000d09e8af77c314dfdad",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d761a6a7ae9f2254bd81ac234033a8b8",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "df43394b926e609e6ad020b157b151a1",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "27cf71eada45ceb298cd793219c217452241e443",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3950fa21431ad211e1292119ff1c77e1797fa595",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4ce6ad55d8912aacc4ae4c572237131d0b7ba4b5",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4e574710f80ada2abe7cf2ffd78f99592bb6c2c2",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4fed54d88f919c675ee2f575f70698a8d3649287",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "53495d74e72a0e74a2e1fdfe69f39fd538abd9e6",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6589718e7b026d7278a8eb8333c59b8e297f4016",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7f63db03c90913b90c6972fabd77c9862cba917f",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9e2b6deeca9623db3868d4bb36ba2c053c949e65",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d820fc3440e7eadc575315f9a96a34ae450ec457",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0880819ef821cff918960a39c1c1aada55a5593c61c608ea9215da858a86e349",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0c0d206d5e68c0cf64d57ffa8bc5b1dad54f2dda52f24e96e02e237498cb9c3a",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0c6a3555c4eb49f240d7e0e3edbfbb3c900f123033b4f6e99ac3724b9b76278f",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e559c51f19972e96fcc5a92d710732159cdae72f407864607a513b20729decb",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "30015dd1e2cf4dbd49fff9ddef2ad4622da2e60e5c0b6228595325532e948f14",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "41c4f2f37c0b257d1e20fe167f2098da9d2e0a939b09ed3f63bc4fe010f8365c",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5e2ba7c4c53fa6e0cef58011acdd50682cf83fb7b989712d2fcf1b5173bad956",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "61ff00a81b19624adaad425b9129ba2f312f4ab76fb5ddc2c628a5037d31a4ba",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6328a34b26a63423b555a61f89a6a0525a534e9c88584c815d937910f1ddd538",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7b5cc85e82249b0c452c66563edca498ce9d0c70badef04ab2c52acef4d629ca",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7df6cef7ab9aae2ea08f2f872f6456b5d51d896ddda907a238cd6668ccdc4bb7",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "822dd269ec10459572dfaaefe163dae693c344249a0161953f0d5cdd110bd2a0",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "887e1f5b5b50162a60bd03b66269e0ae545d0aef0583c1c5b00972152ad7e073",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bef7e2c5a92c4fa4af17791efc1e46311c0f304796f1172fce192f5efc40f5d7",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c37c0ae9641d2e5329fcdee847a756bf1140fdb7f0b7c78a40fdc39055e7d926",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cd08115806662469bbedec4b03f8427b97c8a4b3bc1442dc18b72b4e19395fe3",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5edd791021b966fb6af0ace09319ace7b97d6642363ef27b3d5056ca654a94c",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8caf4581c9f0000c7568d78fb7d2e595ab36134e2346297d78615942cbbd727",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e4edd126e139493d2721d50c3a8c49d3a23ad7766d0b90bc45979ba675f35fea",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e6310d8a003d7ac101a6b1cd39ff6c6a88ee454b767c1bdce143e04bc1113243",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e64e152afe2c722d750f10259626f357cdea40420c5eedae37969fbf13abbecf",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e87a55d3ba1c47e84207678b88cacb631a32d0cb3798610e7ef2d15307303c49",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e9b1e069efc778c1e77fb3f5fcc3bd3580bbc810604cbf4347897ddb4b8c163b",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ecce7ae5ffc9f57bb70efd3ea136a2923f701334a8cd47d4fbf01a97fd22859c",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f398f06eefcd3558c38820a397e3193856e4e6e7c67f81ecc8e533275284b152",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f7084b0229dce605ccc5506b14acd4d954a496da4b6134a294844ca8d601970d",
-        "pulse": "Weaponizing the Protectors: TeamPCPs Multi-Stage Supply Chain Attack on Security Infrastructure",
-        "tags": [
-          "teampcp",
-          "canisterworm",
-          "cve-2025-55182",
-          "supply chain attack",
-          "wiper"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T02:05:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1a68ae614fb2d8875cb0573e6a721b46",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2dbe6de177241c144d06355c381b868c",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "47accb0ecfe8ccd466752dde1864f3b0",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "49c74b302bfa32e45b7c1c5780dd0976",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "88c60df2a1414cbf24430a74ae9836e0",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e540e9797e3b814bfe0a82155dfe135d",
-        "pulse": "A laughing RAT: CrystalX combines spyware; stealer; and prankware features",
-        "tags": [
-          "malware-as-a-service",
-          "crystalx",
-          "rat",
-          "maas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-01T06:24:47",
-        "hash_type": "md5"
       }
     ]
   }
