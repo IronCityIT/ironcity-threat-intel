@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-10T12:39:31.319402",
+  "updated": "2026-04-10T18:36:21.007847",
   "counts": {
     "ips": 76,
-    "domains": 208,
-    "hashes": 514
+    "domains": 203,
+    "hashes": 498
   },
   "data": {
     "ips": [
@@ -1103,6 +1103,20 @@
       }
     ],
     "domains": [
+      {
+        "value": "x1337.cc",
+        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
+        "tags": [
+          "ddos",
+          "xmrig",
+          "botnet",
+          "vulnerability exploitation",
+          "rondodox",
+          "iot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-11T15:49:34"
+      },
       {
         "value": "serialmenot.com",
         "pulse": "CastleRAT attack first to abuse Deno JavaScript runtime to evade enterprise security",
@@ -4205,51 +4219,69 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-04T19:42:43"
-      },
-      {
-        "value": "4a-m.al",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02"
-      },
-      {
-        "value": "orcanmedikal.com.tr",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02"
-      },
-      {
-        "value": "callnrwise.com",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45"
-      },
-      {
-        "value": "chickencoinwin.website",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45"
-      },
-      {
-        "value": "focusrecruitment.careers",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45"
-      },
-      {
-        "value": "sfrclak.com",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45"
       }
     ],
     "hashes": [
+      {
+        "value": "0d54448fe3c9b048c6d48c6ee2f6f936",
+        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
+        "tags": [
+          "ddos",
+          "xmrig",
+          "botnet",
+          "vulnerability exploitation",
+          "rondodox",
+          "iot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-11T15:49:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "aa13e8e1bda39dd665cdf1edb0261b364e53c731",
+        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
+        "tags": [
+          "ddos",
+          "xmrig",
+          "botnet",
+          "vulnerability exploitation",
+          "rondodox",
+          "iot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-11T15:49:34",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "691e4ec280aaff33270f33a9bb48a3fc38e2bd91c7359e687e3f0bd682f20b54",
+        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
+        "tags": [
+          "ddos",
+          "xmrig",
+          "botnet",
+          "vulnerability exploitation",
+          "rondodox",
+          "iot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-11T15:49:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ce6375a4077edaf2f83847e3cefd8eb9535da249806d3214b22a0d50891c7b4c",
+        "pulse": "RondoDox Botnet: From Zero to 174 Exploited Vulnerabilities",
+        "tags": [
+          "ddos",
+          "xmrig",
+          "botnet",
+          "vulnerability exploitation",
+          "rondodox",
+          "iot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-11T15:49:34",
+        "hash_type": "sha256"
+      },
       {
         "value": "ca37e31d651bbd5bbddef3ea716b8b4f",
         "pulse": "CastleRAT attack first to abuse Deno JavaScript runtime to evade enterprise security",
@@ -12226,166 +12258,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-03-04T19:42:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "484a16d779d67c7339125ceac10b9abf1aa47f561f40058789bfe2acda548282",
-        "pulse": "DPRK-Related Campaigns with LNK and GitHub C2",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T14:30:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c3f2bd300ad2ef8584cc48adc47aab61bf85fc653d923e106c73fc6ec3ea1dc",
-        "pulse": "DPRK-Related Campaigns with LNK and GitHub C2",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T14:30:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "af0309aa38d067373c54b2a7774a32f68ab72cb2dbf5aed74ac784b079830184",
-        "pulse": "DPRK-Related Campaigns with LNK and GitHub C2",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T14:30:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c0866bb72c7a12a0288f434e16ba14eeaa35d3c4cff4a86046c553c15679c0b5",
-        "pulse": "DPRK-Related Campaigns with LNK and GitHub C2",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T14:30:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f20fde3a9381c22034f7ecd4fef2396a85c05bfd54f7db3ad6bcd00c9e09d421",
-        "pulse": "DPRK-Related Campaigns with LNK and GitHub C2",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T14:30:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "46912c7ccc19ec28668f1e2771c37eed",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6c36798e0205584677dabd2579954130d8f87774",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "020668f00325631bec2b9c6dd8596d7744e118f68424fdbb28eb2a318f3a7adf",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "656991f4dabe0e5d989be730dac86a2cf294b6b538b08d7db7a0a72f0c6c484b",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7e13561d794f7065e9cb3afc319acc7ac9861b4cf653082c1a11d5cc25a5d1f1",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "adc2f550e7ff2b707a070ffaa50fc367af6a01c037f1f5b347c444cca3c9a650",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b67d8db2f53547b4a5b070b736cd93cbdf3ece21109972d54f193e8ede0b584b",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c52314cea0d81acd337cec2f968e55d20c52aca4504d7c452842cd1dcfb9fdf1",
-        "pulse": "A Technique-Based Approach to Hunting Web-Delivered Malware",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T09:49:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "21d2470cae072cf2d027d473d168158c",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "db7f4c82c732e8b107492cae419740ab",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "07d889e2dadce6f3910dcbc253317d28ca61c766",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2553649f2322049666871cea80a5d0d6adc700ca",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d6f3f62fd3b9f5432f5782b62d8cfd5247d5ee71",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5bb67e88846096f1f8d42a0f0350c9c46260591567612ff9af46f98d1b7571cd",
-        "pulse": "Securing the Supply Chain: How SentinelOne's AI EDR Stops the ...",
-        "tags": [],
-        "source": "alienvault_otx",
-        "created": "2026-04-03T00:03:45",
         "hash_type": "sha256"
       }
     ]
