@@ -1,13 +1,106 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-22T07:16:20.091769",
+  "updated": "2026-04-22T12:54:08.498008",
   "counts": {
-    "ips": 34,
-    "domains": 216,
-    "hashes": 620
+    "ips": 37,
+    "domains": 218,
+    "hashes": 624
   },
   "data": {
     "ips": [
+      {
+        "value": "172.81.60.97",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39"
+      },
+      {
+        "value": "185.196.11.225",
+        "pulse": "AI-augmented threat actor accesses FortiGate devices at scale",
+        "tags": [
+          "russian-speaking actor",
+          "ai-augmented attacks",
+          "mimikatz",
+          "cve-2023-27532",
+          "backup infrastructure targeting",
+          "vpn exploitation",
+          "active directory compromise",
+          "cve-2024-40711",
+          "meterpreter",
+          "fortigate",
+          "dcsync",
+          "credential abuse",
+          "cve-2019-7192"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:20:32"
+      },
+      {
+        "value": "212.11.64.250",
+        "pulse": "AI-augmented threat actor accesses FortiGate devices at scale",
+        "tags": [
+          "russian-speaking actor",
+          "ai-augmented attacks",
+          "mimikatz",
+          "cve-2023-27532",
+          "backup infrastructure targeting",
+          "vpn exploitation",
+          "active directory compromise",
+          "cve-2024-40711",
+          "meterpreter",
+          "fortigate",
+          "dcsync",
+          "credential abuse",
+          "cve-2019-7192"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:20:32"
+      },
+      {
+        "value": "172.86.113.102",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T08:32:17"
+      },
+      {
+        "value": "108.165.230.223",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
       {
         "value": "166.88.4.2",
         "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
@@ -576,37 +669,210 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-15T09:21:56"
-      },
-      {
-        "value": "83.217.209.88",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35"
-      },
-      {
-        "value": "111.90.149.111",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35"
       }
     ],
     "domains": [
+      {
+        "value": "editor.gleeze.com",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39"
+      },
+      {
+        "value": "cosmosmusic.com",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39"
+      },
+      {
+        "value": "www.cosmosmusic.com",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39"
+      },
+      {
+        "value": "livemicrosft.com",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37"
+      },
+      {
+        "value": "update-teams.live",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37"
+      },
+      {
+        "value": "raiffeisen-cz.eu",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
+      {
+        "value": "app.mobil-csob-cz.eu",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
+      {
+        "value": "nfc.cryptomaker.info",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
+      {
+        "value": "protecaocartao.online",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
+      {
+        "value": "spy.ngate.cc",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33"
+      },
+      {
+        "value": "controller.airdns.org",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43"
+      },
+      {
+        "value": "ccp11nl.hyperhost.ua",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43"
+      },
       {
         "value": "gen.detect.by.nscloudsandbox.tr",
         "pulse": "macOS ClickFix Campaign: AppleScript Stealers & New Terminal Protections",
@@ -4080,145 +4346,781 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-15T16:13:13"
-      },
-      {
-        "value": "blacklivesmattergood4.com",
-        "pulse": "Fake YouTube copyright notices can steal your Google login",
-        "tags": [
-          "browser-in-the-browser",
-          "google account takeover",
-          "phishing campaign",
-          "credential theft",
-          "cryptocurrency scams"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T17:15:58"
-      },
-      {
-        "value": "dmca-notification.info",
-        "pulse": "Fake YouTube copyright notices can steal your Google login",
-        "tags": [
-          "browser-in-the-browser",
-          "google account takeover",
-          "phishing campaign",
-          "credential theft",
-          "cryptocurrency scams"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T17:15:58"
-      },
-      {
-        "value": "dopozj.net",
-        "pulse": "Fake YouTube copyright notices can steal your Google login",
-        "tags": [
-          "browser-in-the-browser",
-          "google account takeover",
-          "phishing campaign",
-          "credential theft",
-          "cryptocurrency scams"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T17:15:58"
-      },
-      {
-        "value": "ec40pr.net",
-        "pulse": "Fake YouTube copyright notices can steal your Google login",
-        "tags": [
-          "browser-in-the-browser",
-          "google account takeover",
-          "phishing campaign",
-          "credential theft",
-          "cryptocurrency scams"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T17:15:58"
-      },
-      {
-        "value": "xddlov.net",
-        "pulse": "Fake YouTube copyright notices can steal your Google login",
-        "tags": [
-          "browser-in-the-browser",
-          "google account takeover",
-          "phishing campaign",
-          "credential theft",
-          "cryptocurrency scams"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T17:15:58"
-      },
-      {
-        "value": "elementsplugin.duckdns.org",
-        "pulse": "New ransomware targets Turkey via Adwind RAT",
-        "tags": [
-          "adwind",
-          "phishing campaign",
-          "janaware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T15:04:45"
-      },
-      {
-        "value": "coockie.pro",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35"
-      },
-      {
-        "value": "wallpapermacos.com",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35"
-      },
-      {
-        "value": "wallspaceapp.com",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35"
-      },
-      {
-        "value": "code.translatevv.com",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03"
       }
     ],
     "hashes": [
+      {
+        "value": "5abac6560eeb77f71e4cd2e1b33d973e",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1ffd797a49df270494b8cb2d2d0d679387fbd44a",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "18bc0e0f627d90fb283aa243055b46d0bfb5d85a7240d8f63ec2d1c8a2c15893",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6d22d50634c2c2fc853bfd2b564e1837d51087aa684a9c4415634c8c13c44135",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7beede15ecdc7d3f01db4b699e5fe5f4f2e7c79cd7ef0e918ed0583bf621de7d",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9bf2f3b15a621789f898f9bd7710ba857e3f238a4937b64fdc47ef9a92e0b05d",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "af31ebe9085df408bedcf8f027fb60389897e5c8d3b0e9695fea29774f9d3aec",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc0ff7e25ea686171919575916e2d9ebaeb5800a063f370a6980ea791f8851b8",
+        "pulse": "Same packet, different magic: Hits India's banking sector and Korea geopolitics",
+        "tags": [
+          "espionage",
+          "chm files",
+          "backdoor",
+          "south korea diplomacy",
+          "lotuslite",
+          "dll sideloading",
+          "india banking",
+          "javascript loader"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0f41fd82cac71e27c36eb90c0bf305d6006b4f3d59e8ba55faeacbe62aadef90",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "24af069b8899893cfc7347a4e5b46d717d77994a4b140d58de0be029dba686c9",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4b08a9e221a20b8024cf778d113732b3e12d363250231e78bae13b1f1dc1495b",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "85bed283ba95d40d99e79437e6a3161336c94ec0acbc0cd38599d0fc9b2e393c",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "871d8f92b008a75607c9f1feb4922b9a02ac7bd2ed61b71ca752a5bed5448bf3",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "89616a503ffee8fc70f13c82c4a5e4fa4efafa61410971f4327ed38328af2938",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a9562ab6bce06e92d4e428088eacc1e990e67ceae6f6940047360261b5599614",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc31b3dc8aeed0af9dd24b7e739f183527d55d5b5ecd3d93ba45dd4aaa8ba260",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dfee6ea9cafc674b93a8460b9e6beea7f0eb0c28e28d1190309347fd1514dbb6",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb3eae776d175f7fb2fb9986c89154102ba8eabfde10a155af4dfb18f28be1b5",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a73ce18952b40fd621789e43c56b2af08d1497ce3560b2481fa973d8265ce491",
+        "pulse": "Mach-O Man Malware: What CISOs Need to Know",
+        "tags": [
+          "mach-o man",
+          "browser stealing",
+          "pylangghostrat",
+          "social engineering",
+          "macos",
+          "mach-o binaries",
+          "telegram exfiltration",
+          "credential theft",
+          "clickfix",
+          "fintech targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T01:40:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "633c3636b646bd08af271584c0e41ff9",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7cecbdfdf2e7a7ae7cc226ae26cd3797",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "84361aaf11cde2df075e65fc31082358",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ea6a6666616f6b02c7b679782a676eab",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "103d78a180eb973b9ffc289e9c53425d29a77229",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "11be9715be9b41b1c8527c9256f0010e26534fdb",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "66de1e0a2e9a421dd16bd54b371558c93e59874f",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7225ed2cba9cb6c038d8615a47423e45522a9ad1",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "da84bc78ff2117ddbfdcba4e5c4e3666eea2013e",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e7ae59cd44204461edbddf292d36eeed38c83696",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "162f8c6bafe0c343c37f173344c4f6880eaec0aea7b491565db874366b161784",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "17a16f08108e25af1c8b058adbaca2cada6a93c2d38c9854148f9e9caac76ac3",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "95d906dca5a3be5cf066268662b3c953860e54e9cdcfcd427faf0aaa9cb62bad",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ddd9e5cfa9e1ddd8d849baef2b487a1608d1695f44c70f246c101de1275887dd",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d142bb04f32a50db476b63bbe1ac2ee7",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "48a0de6a43fc6e49318ad6873ea63fe325200dbc",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "94af94ca818697e1d99123f69965b11ead9f010c",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a4f793539480677241ef312150e9c02e324c0aa2",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6e3eea7fb31b8e81026021307247f6eecc5b7f97f35e900796f4786746cde3b8",
+        "pulse": "New NGate variant hides in a trojanized NFC payment app",
+        "tags": [
+          "handypay trojanization",
+          "brazil targeting",
+          "ngate",
+          "fake lottery",
+          "nfc relay",
+          "ai-generated code",
+          "pin theft",
+          "phantomcard",
+          "payment card fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T16:32:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "06dc18771404694814d6a430bb65d1a3",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a15c9a545fbf78d77f8c130a3b0f840",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a18f61e8d8e9873cdda4b3b6785d7ad",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0d15bf48b73de307eff29f07a6e6d55b",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0e9bd0c9991b21b13eddb518dee0eecf",
+        "pulse": "March 2026 Phishing Email Trends Report",
+        "tags": [
+          "agenttesla",
+          "phishing email",
+          "trojan campaigns",
+          "fake invoices",
+          "remcosrat",
+          "script-based attacks",
+          "credential theft",
+          "html phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T07:06:43",
+        "hash_type": "md5"
+      },
       {
         "value": "a12957e7627cb19fba2a4b155f7258b7",
         "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
@@ -15376,682 +16278,6 @@
         "source": "alienvault_otx",
         "created": "2026-04-15T16:13:13",
         "hash_type": "sha256"
-      },
-      {
-        "value": "4f0444e11633a331eddb0deeec17fd69",
-        "pulse": "New ransomware targets Turkey via Adwind RAT",
-        "tags": [
-          "adwind",
-          "phishing campaign",
-          "janaware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T15:04:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b2d5bbf7746c2cb87d5505ced8d6c4c6",
-        "pulse": "New ransomware targets Turkey via Adwind RAT",
-        "tags": [
-          "adwind",
-          "phishing campaign",
-          "janaware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T15:04:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "070402c2c531aa3a87b9ccd080532a51d17b01d982b205fc4487246d58de8913",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4584d02b5193799453766857dba97021f966b9cbf6033d7dd3a33d61eb975a6c",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "47373950e1d23c066de0ed2d511b4b7eea56ec22d7b501db265995fec51dbb44",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "636fa90aebab98534dcdbe50508ed8d3607c284c72f831a4503e223540d3f761",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "82cb3a22c90aee6cfc2f7e7f72e921e21226492c1d424d2b754b9cd763ab0b20",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8d029b65c1076141d4817f25428cef44888b2fb4349ab9b9df7a413d240e1177",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b0cd860f18b0136e063d7ef9a3c84d138a1a21dbea019605ce66a3a1fad91db4",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b73adc5dc04159241e4a89cbc82eaa381f406080f3aaaa1f27d145900dd54267",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ff7f0c39aa90ed8f4ce24658a347e7871bb5f6a607eaedf2cf2859a1fb5782a9",
-        "pulse": "A new Mac stealer targeting $10K+ crypto wallets",
-        "tags": [
-          "cryptocurrency theft",
-          "poseidon stealer",
-          "macos stealer",
-          "atomic macos stealer",
-          "notnullosx",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-15T14:59:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02f85c386f67fac09629ebe5684f7fa0",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "233a9dbcfe4ae348c0c7f4c2defd1ea5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "45f2a677b3bf994a8f771e611bb29f4f",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "976b6fce10456f0be6409ff724d7933b",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dc802b8c117a48520a01c98c6c9587b5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "347f09e2589435af084b5f19fc12e8fbdee16e1b",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "427110f6a3741e57b93fa5ca7c6b7dc69b2b23d5",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5d29707d63db3f6475351ecb91ec2fda661fc984",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c5981c6f73ecf7b9606c78e0526bd933585ec09f",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "10bbc5e192c3d01100031634d4e93f0be4becbe0a63f3318dd353e0f318e43de",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "13adde53bd767d17108786bcc1bc0707c2411a40f11d67dfa9ba1a2c62cc5cf3",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "37e6da4c813557f09fa2336b43c9fbb4633e562952f5113f6a6a8f3c226854eb",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6ae4222728240a566a1ca8c8873eab3b0659a28437877e4450808264848ab01e",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "366a181e53291fbf35a49f0282fcf309ad35f3f4",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4612c90cdfb7e43b4e9afe2a37a82d8b925bab3fd3838b24ec73b0e775afdb75",
-        "pulse": "COVERT RAT: Phishing Campaign",
-        "tags": [
-          "spear-phishing",
-          "anti-analysis",
-          "phishing",
-          "argentina",
-          "multi-stage infection",
-          "judicial sector",
-          "covert rat",
-          "rust-based malware",
-          "remote access trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T15:29:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "206f27ae820783b7755bca89f83a0fe096dbb510018dd65b63fc80bd20c03261",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "80961850786d6531f075b8a6f9a756ad",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b0b912a3fd1c05d72080848ec4c92880004021a1",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "78cd87dfa9ba0f9b533310ca98b54489",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7cbe4243c09f299b2dbfdc10f63846541367dcef",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "34b2a6c334813adb2cc70f5bd666c4afbdc4a6d8a58cc1c7a902b13bbd2381f4",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7535154acf4ef4611acbcdd9a3189e06",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8b77260672fce04bca02a2ea9d3c40a70799c34d",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "06142acc825e0d799d12ff0a03fd714b119c69dce868c98bb5def165b2425454",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "129eec0c999653e30a659f6a336c76d3b6ce810d459a7f860bacbc06fd556277",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9a3b6cf6aec6df3e5b43dc024d288d06ae03d2a909f188f38ba275a5ac6d3bf0",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ef1b604bf2e2d598437d97af38cbed4e6dbdb3fde771eaaf8389b46c86391a0d",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "09401e712d4ffa5e497787978fe90c1557a0092b",
-        "pulse": "Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack",
-        "tags": [
-          "yuze",
-          "sharepoint",
-          "cloudflare",
-          "ransomware",
-          "lateral movement",
-          "tunneling",
-          "velociraptor",
-          "lockbit",
-          "tightvnc",
-          "byovd"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-16T11:01:03",
-        "hash_type": "sha1"
       }
     ]
   }
