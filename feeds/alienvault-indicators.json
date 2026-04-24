@@ -1,13 +1,244 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-24T07:30:46.536539",
+  "updated": "2026-04-24T12:52:32.019198",
   "counts": {
-    "ips": 28,
-    "domains": 115,
-    "hashes": 972
+    "ips": 47,
+    "domains": 188,
+    "hashes": 1080
   },
   "data": {
     "ips": [
+      {
+        "value": "63.142.245.12",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31"
+      },
+      {
+        "value": "138.124.240.76",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "138.124.240.77",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "178.16.52.191",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "185.218.19.117",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "192.109.200.151",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "193.233.82.43",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "193.24.123.25",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "194.48.141.192",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "199.217.99.189",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "199.91.220.142",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "199.91.220.216",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "2.26.117.169",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "2.27.122.16",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "209.99.189.170",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "45.135.180.200",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "45.151.106.88",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "85.192.27.152",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "43.231.113.50",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51"
+      },
       {
         "value": "62.60.246.210",
         "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
@@ -563,6 +794,1280 @@
       }
     ],
     "domains": [
+      {
+        "value": "login.loginto.me",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31"
+      },
+      {
+        "value": "login.collegefan.org",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31"
+      },
+      {
+        "value": "ineracaspsl.site",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "serialmenot.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "justtalken.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "hngfbgfbfb.cyou",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "agilemast3r.duckdns.org",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "grafana.healthydefinitetrunk.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "aeeracaspsl.site",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "annaionovna.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "bitatits.surf",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "generalnewlong.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "ilspaeysoff.site",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "landmas.info",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "myspaeysoff.site",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "bandage.healthydefinitetrunk.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "surgery.healthydefinitetrunk.com",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03"
+      },
+      {
+        "value": "eth.merkle.io",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "eth.drpc.org",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "rpc.mevblocker.io",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "rpc.flashbots.net",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "eth-mainnet.public.blastapi.io",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "mainnet.gateway.tenderly.co",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "rpc.payload.de",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "ethereum-rpc.publicnode.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "mainnet.helius-rpc.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "aodefevrgdkhqltdnwgzbyjoywrlbntbhfwq.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "wpuadmin.shop",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "wpuadmin.shop",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "moonscan.live",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "scanclaw.live",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "scanclaw.live",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "aahdjjsivunugynqjvyfbhqnjekniyfboma.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "8kwfaa30jtlnwi.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14"
+      },
+      {
+        "value": "8kwfaa30jtlnwi.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "solana-mainnet.rpc.extrnode.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "solana.publicnode.com",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:58"
+      },
+      {
+        "value": "claimandwins.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "verifysuper.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "4lifetips.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "caxip.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "mamil.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "megaplaylive.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "solpe.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "vassin.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "zawsterris.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "chat.matchnewtoday.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.fufecarrol.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.herbosfinx.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.panzozerrot.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.remotesbuffalo.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.ruelomamuy.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.santafebuno.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.vistertransit.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "d.zerrotmamil.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "hotnow.sweeffg.online",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "r.buffalosolpe.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "r.carrolvassin.top",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "r.transitcaxip.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "vids.chatorizon.com",
+        "pulse": "Hold the Phone! International Revenue Share Fraud Driven by Fake CAPTCHAs",
+        "tags": [
+          "social engineering",
+          "irsf",
+          "sms fraud",
+          "click2sms",
+          "fake captcha",
+          "tds"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:55"
+      },
+      {
+        "value": "tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "asking-chat-gpt.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chat-gbt.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chat-with-gemini.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "airnetic.space",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "claude.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "ai-chat-to-pdf.com",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "heic-to-jpg.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "onlineapp.live",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "sidenox.stream",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "softnetica.com",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "whitelab.studio",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "api.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "ask-gemini.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "authenticator.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "authenticator.whitelab.studio",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "bard.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chat-ai.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chat-bot-gpt.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chatgbt.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "chatgpt.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "deepseek-to-pdf.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "deepseek.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "gemini.google.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "gemini.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "grok-chatbot.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "grok.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "llama.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "www.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
+      {
+        "value": "xai.tapnetic.pro",
+        "pulse": "The AI Frame Campaign Continues",
+        "tags": [
+          "two-factor authentication",
+          "browser security",
+          "chrome extension",
+          "fraudulent paywall",
+          "credential theft",
+          "aiframe campaign",
+          "iframe injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:20"
+      },
       {
         "value": "scan.aquasecurtiy.org",
         "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
@@ -2111,278 +3616,2919 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T18:56:14"
-      },
-      {
-        "value": "d6tcpc6flblph01gdcb0ku9ixih393m54.oast.live",
-        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
-        "tags": [
-          "cve-2026-33017",
-          "exploitation",
-          "data exfiltration",
-          "langflow",
-          "vulnerability",
-          "ai",
-          "rce",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T09:51:34"
-      },
-      {
-        "value": "d6tcpe7nsv6kk9rdrpggi37zmjfxw9imr.oast.me",
-        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
-        "tags": [
-          "cve-2026-33017",
-          "exploitation",
-          "data exfiltration",
-          "langflow",
-          "vulnerability",
-          "ai",
-          "rce",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T09:51:34"
-      },
-      {
-        "value": "d6td5s9qte0bea7273e0wuou77jjx77uk.oast.pro",
-        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
-        "tags": [
-          "cve-2026-33017",
-          "exploitation",
-          "data exfiltration",
-          "langflow",
-          "vulnerability",
-          "ai",
-          "rce",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T09:51:34"
-      },
-      {
-        "value": "d6tgbe1qte0a8rkffb3gqabqm8517exd3.oast.fun",
-        "pulse": "CVE-2026-33017: How attackers compromised Langflow AI pipelines in 20 hours",
-        "tags": [
-          "cve-2026-33017",
-          "exploitation",
-          "data exfiltration",
-          "langflow",
-          "vulnerability",
-          "ai",
-          "rce",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T09:51:34"
-      },
-      {
-        "value": "quickdocshare.com",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "cdn.eideasrl.it",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "dq.bestshoppingday.com",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "logs.bestsaleshoppingday.com",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "logs.bestshopingday.com",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "mh.bestshopingday.com",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "transfer.af-k.de",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39"
-      },
-      {
-        "value": "bumptobabeco.top",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50"
-      },
-      {
-        "value": "imansport.ir",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50"
-      },
-      {
-        "value": "solpru.com",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50"
-      },
-      {
-        "value": "checkfirst.net.au",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50"
-      },
-      {
-        "value": "bot.ddosvps.cc",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42"
-      },
-      {
-        "value": "cnc.vietdediserver.shop",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42"
       }
     ],
     "hashes": [
+      {
+        "value": "5dce01ec5e1bc1b4f5012e0b4bf16532206284fc8c64cfb8dcf907f45caf98fc",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57a5d0da72655df9c5ca9137df7210b86845eeabae488537c70e36587274937c",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a6dea088c9e2c9191e4c2fc4ece7b7b7bd3f034f444362d35c8765f6ec4bd279",
+        "pulse": "RTF Exploit Installs RAT: uWarrior",
+        "tags": [
+          "rtf exploitation",
+          "ctos rat",
+          "uwarrior"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T10:28:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2a09bbb3d1ddb729ea7591f197b5955453aa3769c6fb98a5ef60c6e4b7df23a5",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c057af2f358fc10107d5ccdb39938ad",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e2e8516b4f275e8c636620b7377ee3b9f9f47bb0",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b793c54a927da36649eb62b9481d5bcf1e9220035d95bbfb85f44a6cc9541ae",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6d56ec35c1bb1e44a8d6ee201845aa05",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "197fb8bf3d6064a9f3272b8222cab6d5cf4f24de",
+        "pulse": "DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers",
+        "tags": [
+          "castleloader",
+          "deno runtime",
+          "caddy proxy",
+          "tsundere botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:16:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e8a3e804a96c716a3e9b69195db6ffb0d33e2433af871e4d4e1eab3097237173",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "816d7616238958dfe0bb811a063eb3102efd82eff14408f5cab4cb5258bfd019",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a313840d25adf94c7bf1d17393f5b991ba8baf50b8cacb7ce0420189c177e26",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "598555a7e053c7456ee8a06a892309386e69d473c73284de9bbc0ba73b17e70a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "746710470586076bb0757e0b3875de9c90202be2",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b214bddaab130c274de6204af6dba5aeec7433da99aa950022fa306421a6d32",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "205818e10c13d2e51b4c0196ca30111276ca1107fc8e25a0992fe67879eab964",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1dfe0e65f3fb60ee4e46cf8125ad67ca",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fae1061813f2148296767d28262d2c25",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c7d994eb2042633172bd8866c9f163be531444ce3126d5f340edd25cbdb473d4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8f2fde9aa0eb6f6c83c30608061691cc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b3774ba01a3096348fd76a7072407b9f07bb9589e0f5ba31ca576689bbbe94e4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c73e71825adbfb9821b9fa6e8672903c",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "31b827dad64b2dd881b9f0ceb012e0ac6885492c",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "274ca13168b38590c230bddc2d606bbe8c26de8a6d79156a6c7d07265efe0fdf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f3d20449bab41301aefad304cb02773b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "73f8e5c17b49b9f2703fed59cc2be77239e904f7",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c41216eee9756a1dcc546df4fe97defc05513eed64ce6ac05f1501b50e6f96cc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bd48322845f8930e58e038dfd4e1e243e80a6b76",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "99c4401366ad7e561ce3ac8e5bb9a7a8144aa3ea",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "97e045bc056b5f68f18ea4fbbb9cc64a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "207b11f7dc4f17e4e5a9c25dbfb6a785a7456d7c381ecea7c729d8d924be1fb9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8729815f87f4186fd46d52418c1b7ae2a54aebcf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6ce228240458563d73c1c3cbbd04ef15cb7c5badacc78ce331848f5431b406cc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fc3b93e042de5fa569a8379d46bce506",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1ba499bafaa369be58e795a150403c8729ef5d95",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5be325905df8aab7089ab2348d89343f55a2f88dadd75de8f382e8fa026451bd",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "58bb9dab4e9b3aa2fd1e7a7b17d2eeb1",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "23516ea1f2cc771f705807c2fc7d163e",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab06eeb603656d3943cd30396f82a45f",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d611f824074a57e7fd1d08341edeb559",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1a12519bdeb372e8b1836d78ec61617bbac166aa",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4df0949f634c4d74a7e1cc48b6575f9a27dc21c9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b67a2f9d9de2135617caea8d4a7488e2a962e3e2",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e43d7a6ad722d285813afb9eefe53d264af6948b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0b679027e38f3d9ca554085be0e762c651e83e6414401b56635cdf3765ca1dac",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0ce7badb26174b6129fb13d7e255e582f84d8aaedeabcd02c80d84a609144068",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1433aa8210b287b8d463d958fc9ceeb913644f550919cfb2c62370773799e5a5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1588023393eb6b4d9433d539d303ecb56b6c3630e860f94d1a137834bdedf2bd",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35f28a31a47b0bcd92722265473d66ffef6c4bd460c71c36b57df2ac0d02f671",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "396aa1f8f308010a3c76a53965d0eddd35e41176eacd1194745d9542239ca8dc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48f3d66492a494965e7039079158e2fee552aaab517d1a55352209c9eedcb765",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "49a7b3cf426d1f35a2138c0a6cec397688d223d7f2bcbbeed53b511a328a97be",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4a44d0c6cf5de515dd296f05ff6674d1a340fccf6b4c11612d27be2d3baa82b0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4adbb1906762c757764ffc5fa64af96e091966f4f5a43aae12fcc4f05f1c26b5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "647b2f12486343fe065dc4abbb11e2338589eb099c72792b5a05e64a5e2937fc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6688fb3039ad6df606d76a897ef1072cdc78b928335c6bfa691d99498caf5c4b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6bac99f56e54d5195783513ae6954a4a8509d7bc397c94f405266b5df9cd96cb",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c31dd44b29b5f87030caececc616cf366badeff5a7e4c9933aa5fa6445a0c7a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72fc3d03065922b9a03774bbd1873e5e7f3a5a2abf5dcf7bfb2e98aceed53a9d",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73cd405b5bfc99ec5cf33467d4be7fc7e39ae18337568ee10173c17ba6e8f0d7",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "771de264c5d7e1e5ac85f00c42e9fe3b439bcbd4f9aa11e4fd7bc0d87fa2344e",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "87bf4b152d9548f415f12f353f988b5442729e7f24e2902ddfd0baa4a944354a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8a2f4907159a68867b22bc772590ebcafcfa656a23951228ecd89e4f598472b0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "99c4775ed813f354c9e53f42797226d82b26f44d19e81036c9e55222d1744189",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a18555c1ca53d4826191a30889d82205a304932f997baec755c98ddad4326cb8",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b066ca2702853c2fcbf686897c18f6d315be7ae753007ac2c1d73c87b0a30de9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c64964944b4c1f649ae8f694964b3a212dc1028341ab71836306a456fba0b3f4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d4339a5b9d15211dbc85424cf7fa8ff825033ea3378506d8ecb19b016db5b4ff",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d833e8fc97b3c865ebfb96a48da9ec446148cb5ad7e66ca5c47cd693f7923888",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df5a574254637d2880633b0582e956b23f66efc6781e825c65e1ccfaa6c58809",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eee885e5dae750848d0903d179cacd81149ceecec83c2ec4ad4545531de3cfdf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f27eab3157451e31db71169e71f76d28325193218f9dc8f421136d4a20165feb",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f5390674f0f49fe8af116396828c3de6729347ebc3c772d87618e55629aec06c",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "ransomware-as-a-service",
+          "kernel driver abuse",
+          "wktools",
+          "stpprocessmonitorbyovd",
+          "malextractor",
+          "hrsword",
+          "dumpguard",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2024ea60da870a221db260482117258b",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2024ea60da870a221db260482117258b",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "716554dc580a82cc17a1035add302c0766590964",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "716554dc580a82cc17a1035add302c0766590964",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "53043bd27f47dbbe3e5ac691d8a586ab56a33f734356be9b8e49c7e975241a56",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "53043bd27f47dbbe3e5ac691d8a586ab56a33f734356be9b8e49c7e975241a56",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "06007ef61672d1153531137c2e5f6ec6",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "06007ef61672d1153531137c2e5f6ec6",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "039eb329a173fce7efeca18611a8f2c0f7d24609",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "039eb329a173fce7efeca18611a8f2c0f7d24609",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "57c2490e4db194d3503ee85635fb1d6f26e8c534",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "57c2490e4db194d3503ee85635fb1d6f26e8c534",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5a1bbb40c442b12594a913431f8c6757a3a66e8f",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5a1bbb40c442b12594a913431f8c6757a3a66e8f",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "926974facfd0383c65458d6ef1f31fbb7c769e18",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "926974facfd0383c65458d6ef1f31fbb7c769e18",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ad7e264eb08415871617e45f21d03f7d71e4c36f",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ad7e264eb08415871617e45f21d03f7d71e4c36f",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c72e7540d6f12d74d8e737b02f31568385f575d7",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c72e7540d6f12d74d8e737b02f31568385f575d7",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fa9e65e58eb8fa41fde0a0a870b7d24b298026d9",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fa9e65e58eb8fa41fde0a0a870b7d24b298026d9",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "97c1266ac21a35f1d82781c30378d563769ce144d903d93d4bfea533103044a3",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "97c1266ac21a35f1d82781c30378d563769ce144d903d93d4bfea533103044a3",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T14:37:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "136ad515aeb19cada0703dfe146567f1",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "46846ddc7c614331a55623d7c9fa7974",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "51ff3568763f1c290ee21d963d1e2348",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9f767cfa8c1716e7e3cc64a87e6fec02",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a79e31eddff524646f98a2c14881f6ad",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f4d4581704501e4088312abd9f7bb4ad",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "md5"
+      },
+      {
+        "value": "023fdb1a859f73f1716f5ec0c8a01a964b702de3b4fd63a3bc7a966cdd39d427",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "860069ddb5fb78f19698c6951bb67b5183016cfa813d109699130dafcc55789c",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8c872595fa8fa58a657584a0172aa20eb18f60fcfc955dec41144a002037b10e",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9c2d91b76e495e917d9064ef25352c8bfe913cc67f0aab0fda4beabcb07c90aa",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ca5caa6bc20f9153360e5789ec511235046952a77f3f72b35fefec9b1c342f98",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dd85e137e876a32e5dbedf8a8441d3a1c68f97f4c2304ed862438d6c4cc76348",
+        "pulse": "GopherWhisper: A burrow full of malware",
+        "tags": [
+          "gopherwhisper",
+          "laxgopher",
+          "ratgopher",
+          "boxoffriends",
+          "go-based backdoors",
+          "jabgopher",
+          "china-aligned apt",
+          "frienddelivery"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T09:03:00",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2fa987b9ed6ec6d09c7451abd994249dfaba1c5a7da1c22b8407c461e62f7e49",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "691f7258f212fa8908a8bf06bcf9e027d2177276e13e10ff56bd434ff3755cc4",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6e6dab993f99505646051d2772701e3c4740096ff9be63c92713bcb7fcddf9f7",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7f1d71e1e079f3244a69205588d504ed830d4c473747bb1b5c520634cc5a2477",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c8940de8cb917abe158a826a1d08f1083af517351d01642e6c7f324d0bba1eb8",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ca390b86793922555c84abc3b34406da2899382c617f9dcf83a74ac09dd18190",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "de200b79ad2bd9db37baeba5e4d183498d450494c71c8929433681e848c3807f",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "726c48860d8d840044dccb3919b773d502a1e60d",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9c685523fce5e6ad6d6ee4fa02693cefc8c6e102",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d83494bd8a7f816ce39576c776e67c2e9f568080",
+        "pulse": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
+        "tags": [
+          "social engineering",
+          "cloud infrastructure abuse",
+          "browser extension",
+          "snowbelt",
+          "microsoft teams phishing",
+          "brickstorm",
+          "snowglaze",
+          "snowbasin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T19:25:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7fd19c564761e2c8c9b583cf30db810e313417c7d3572f637f8cedf4d2cc1e91",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c44d5c888647e78947fc93006d92e5521795ef31f7b0cae1ec829fec60d4bd7a",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3e28c6a4fec257f4cdc63d93c84596c4c0ee67b839c0711e06d771dd5410b96",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c958397294c279dcbe806c1403c229fdb5ca3ffe030d4d8ce1533e9e7810af4",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73b1d65c05da79b43f5dbddf4736d37b722a8fa6ea649d0ed5089b2bdb2c9e67",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35e01440b9c63f17eb9e70096d2ec01d18309106a0d644db1110950d2d438e59",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba3512ed46270b9cb037bdc3d0b398fad2d3017d1b866645afb7445b089211fa",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3188313f38e2114f5a9524bf812efaa7f70a89cd8ef2907b962cb1466251df70",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "53d232e7a2670a6f010c23ebd60ca8f881d0433eaf28883a79b41ddd09e47d88",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "96c2ff1601099c21c598c24e6f43c7c4",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d78fa2e81b7b5ccf287c793c5a9985caaa0f6162",
+        "pulse": "Crypto Drainers as a Converging Threat: Insights into Emerging Hybrid Attack Ecosystems",
+        "tags": [
+          "wallet-phishing",
+          "etherrat",
+          "stepdrainer",
+          "smart-contract-abuse",
+          "drainer-as-a-service",
+          "miolab",
+          "cryptocurrency"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T08:47:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cb66a4d52a30bfcd980fe50e7e3f73f0",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e6018cd482c012de8b69c64dc3165337bc121b86",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "66fe485f29a6405265756aaf7f822b9ceb56e108afabd414ee222ee9657dd7e2",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "075b4aa105e728f2b659723e3f36c72c",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0ff6abe0252d4f37a196a1231fae5f26",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1d2f32c57ae2f2013f513d342925e972",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2717b58246237b35d44ef2e49712d3a2",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2740a703859cbd8b43425d4a2cacb5ec",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "410eddfc19de44249897986ecc8ac449",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "49a8934ccd34e2aaae6ea1e6a6313ffe",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "af4461a149bfd2ba566f2abefe7dcde4",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cf859f164870d113608a843e4a9600ab",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "daea40562458fc7ae1adb812137d3d05",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dbe51eabebf9d4ef9581ef99844a2944",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e0c10106626711f287ff91c0d6314407",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ebff5b7d4c5becb8715009df596c5a91",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f4dbbb78979c1ee8a1523c77065e18a5",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "145ef372c3e9c352eaaa53bb0893749163e49892",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1ce1111702b765f5c4d09315ff1f0d914f7e5c70",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2fa28ef1c6744bdc2021abd4048eefc777dccf22",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3ce5b358c2ddd116ac9582efbb38354809999cb5",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "586edef41c3b3fba87bf0f0346c7e402f86fc11e",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "650fc6b3e4f62ecdc1ec5728f36bb46ba0f74d05",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "675cb83cec5f25ebbe8d9f90dea3d836fcb1c234",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "829f8be65dfe159d2b0dc7ee7a61a017acb54b7b",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "92e9dcaf7249110047ef121b7586c81d4b8cb4e5",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "952ed694b60c34ba12df9d392269eae3a4f11be4",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9e089a733fb2740c0e408b2a25d8f5a451584cf6",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ca665b59bc590292f94c23e04fa458f90d7b20c9",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d475ace24b9aedebf431efc68f9db32d5ae761bd",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "de584703c78a60a56028f9834086facd1401b355",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "06361562cc53d759fb5a4c2b7aac348e4d23fe59be3b2871b14678365283ca47",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "07c69fc33271cf5a2ce03ac1fed7a3b16357aec093c5bf9ef61fbfa4348d0529",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "09ca719e06a526f70aadf34fb66b136ed20f923776e6b33a33a9059ef674da22",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37414d9ca87a132ec5081f3e7590d04498237746f9a7479c6b443accee17a062",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5966513a12a5601b262c4ee4d3e32091feb05b666951d06431c30a8cece83010",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7e00030a35504de5c0d16020aa40cbaf5d36561e0716feb8f73235579a7b0909",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8b018452fdd64c346af4d97da420681e2e0b55b8c9ce2b8de75e330993b759a0",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8fcb4d3d4df61719ee3da98241393779290e0efcd88a49e363e2a2dfbc04dae9",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9a10e1faa86a5d39417cae44da5adf38824dfb9a16432e34df766aa1dc9e3525",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aeaa389453f04a9e79ff6c8b7b66db7b65d4aaffc6cac0bd7957257a30468e33",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bd04715c5c43c862c38a4ad6c2167ad082a352881e04a35117af9bbfad8e5613",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c11a210cb98095422d0d33cbd4e9ecc86b95024f956ede812e17c97e79591cfa",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "da2b170994031477091be89c8835ff9db1a5304f3f2f25344654f44d0430ced1",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e775049d1ecf68dee870f1a5c36b2f3542d1182782eb497b8ccfd2309c400b3a",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3471224e20d7b6912816509b7154e2f24c06425c",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6f20bd7308ec165af23609dceb7849fedfe6205c",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "79fcf9f8e1db09e5b403b83b9f5910bdda24aff7",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c9408c1d9bab5974e23584e944819019e2500100",
+        "pulse": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+        "tags": [
+          "lua virtual machine",
+          "fast16",
+          "shadowbrokers",
+          "cyber sabotage",
+          "floating-point corruption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-24T05:05:21",
+        "hash_type": "sha1"
+      },
       {
         "value": "8e4aca0e510ea932b616f77d767ca5a9",
         "pulse": "Foxit Impersonation: Fake PDF Installer Deploys VNC",
@@ -18473,1376 +22619,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T23:18:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4505fa9fc5b2dca053bbcc55f02a7fac",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "51d0d1482d0e034b3ef2ee6fc83719a4",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "85cd2aa498a943d4c07ce75d30f6e68d",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c84e5bb76d90607bc03de133215f800e",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "63ba456b853e8c24fad02ca399be4ccc8b4e5b80",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c4644e86f81e973d0e1ad296cfee9daa640d2bb2",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e3977bf1f4d31ba7a7d93accead7a4cee527d49c",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "fe9ad4a7af08803ead89148067a2736c335fe020",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4f353b9634509a5e1456e54ccb4ce64c1e6d95094df96048ef79b30cc2fda6cb",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5d784d3ca02ab0015b028f34aa54bc8c50db39f9671dc787bc2a84f0987043b2",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8ba1b0392a8fbfb455c43c4e1408352d0e5fc281148810143a5b64938fb0982f",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f2266b45d60f5443c5c9304b5f0246348ad82ca4f63c7554c46642311e3f8b83",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "34e4360d79257f6caae573be7e03b92163ac4af3",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "da346cb32cacd215b9f0b245ad0048815a718dee",
-        "pulse": "Operation PhantomCLR: Stealth Execution via AppDomain Hijacking and In-Memory .NET Abuse",
-        "tags": [
-          "financial sector",
-          "reflective loading",
-          "jit trampolining",
-          "middle east targeting",
-          "cloudfront domain fronting",
-          "syscall usage",
-          "sandbox evasion",
-          "appdomainmanager hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-18T13:40:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bed2daedb43b0e5044edbabe6d1d27e8",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "551e62437edab9e496ed3339f10a15cd35e3e819",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d2e8d615e7c1a810993088a8c9291e0a4a7ed4c8",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d874c3654bfb4fbf0c7c069f6e5b7ebd930415d0",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f4532fc1e5d53a732fcc883f7125ceb06b985048",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "68c926af0d796a80fcaee24774b1ca0a2c393c3a0e30650c4d2d7965736043ca",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ac591adea9a2305f9be6ae430996afd9b7432116f381b638014a0886a99c6287",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e675bc054481bdca6f8cd1d561869e18712dc05a42e5c24b9add7679efc7faf6",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd16fecedab57b025ab53ad9ca4c882f",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "35efc4b75a1d70c38513b4dfe549da417aaa476bf7e9ebd00265aaa8c7295870",
-        "pulse": "Copyright Lures Mask a Multi-Stage PureLog Stealer Attack on Key Industries",
-        "tags": [
-          "copyright lure",
-          "fileless execution",
-          "targeted campaign",
-          "purelog stealer",
-          "information theft",
-          "evasion techniques",
-          "multi-stage attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:13:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "adf675ffc1acb357f2d9f1a94e016f52",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2cd15d5d4cc58d06cfb6be5eabc681925d0ce5ce",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3ab9575225e00a83a4ac2b534da5a710bdcf6eb72884944c437b5fbe5c5c9235",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "51b9f246d6da85631131fcd1fabf0a67937d4bdde33625a44f7ee6a3a7baebd2",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4200b46a93c6ab059e2b34ce200c4a5b",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "42bcc743c71a9ea083c1c750a398110582796762",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "42c062d6299ca9f76554441a29429404",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8901ce810f999f79c51c4d4f6c93fe6b",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d65c293efb5e6d033c83b2ac472bf0cb",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "efd5366eb7473d6f7fb97ec7ac59f09d",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2834114ff7e487c4ca3f50ca39f7d652dea1be98f885c388f01b6ff35309307b",
-        "pulse": "An Overview of The Gentlemen's TTPs",
-        "tags": [
-          "vasa locker",
-          "medusa",
-          "cve-2024-37085",
-          "raas",
-          "fortios",
-          "data-exfiltration",
-          "cve-2025-32463",
-          "lockbit 5.0",
-          "defense-evasion",
-          "babyk",
-          "ransomware",
-          "cve-2024-55591",
-          "the gentlemen",
-          "cve-2023-27532",
-          "babuk",
-          "exploit",
-          "lateral-movement",
-          "qilin",
-          "credential-theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-20T08:24:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "281226ca0203537fa422b17102047dac314bc0c466ec71b2e6350d75f968f2a3",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "349e78de0fe66d1616890e835ede0d18580abe8830c549973d7df8a2a7ffdcec",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "81956d08c8efd2f0e29fd3962bcf9559c73b1591081f14a6297e226958c30d03",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8bab731ac2f7d015b81c2002f518fff06ea751a34a711907e80e98cf70b557db",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "adc1cf894cd35a7d7176ac5dab005bea55516bc9998d0c96223b6c0004723c37",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c3d4361939d3f6cf2fe798fef68d4713141c48dce7dd29d3838a5d0c66aa29c7",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1b576ebba5b7bbd023eea1b15dac1ed3fb76a211",
-        "pulse": "From Invitation to Infection: How SILENTCONNECT Delivers ScreenConnect",
-        "tags": [
-          "silentconnect",
-          "phishing",
-          "rmm",
-          "loader",
-          "uac bypass",
-          "evasion",
-          "screenconnect",
-          "peb masquerading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "03298f85eaf8880222cf8a83b8ed75d90712c34a8a5299a60f47927ad044b43b",
-        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
-        "tags": [
-          "infostealer.speagle",
-          "plugx",
-          "cobra docguard",
-          "korplug",
-          "supply chain attack",
-          "ballistic missiles",
-          "evasion techniques",
-          "data exfiltration"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d7f167cbf1676c14fd487219447e30fadf26885eb25ec4cafdeabe333bddf877",
-        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
-        "tags": [
-          "infostealer.speagle",
-          "plugx",
-          "cobra docguard",
-          "korplug",
-          "supply chain attack",
-          "ballistic missiles",
-          "evasion techniques",
-          "data exfiltration"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dcd3f06093bf34d81837d837c5a5935beb859ba6258e5a80c3a5f95638a13d4d",
-        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
-        "tags": [
-          "infostealer.speagle",
-          "plugx",
-          "cobra docguard",
-          "korplug",
-          "supply chain attack",
-          "ballistic missiles",
-          "evasion techniques",
-          "data exfiltration"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fad8d0307db5328c8b9f283a2cc6f7e4f4333001623fef5bd5c32a1c094bf890",
-        "pulse": "New Malware Targets Users of Cobra DocGuard Software",
-        "tags": [
-          "infostealer.speagle",
-          "plugx",
-          "cobra docguard",
-          "korplug",
-          "supply chain attack",
-          "ballistic missiles",
-          "evasion techniques",
-          "data exfiltration"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-19T11:00:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "335ad12a950f885073acdfebb250c93fb28ca3f374bbba5189986d9234dcbff4",
-        "pulse": "Takes Aim at the Ransomware Throne",
-        "tags": [
-          "aes encryption",
-          "blackbasta affiliates",
-          "edr evasion",
-          "blackbasta",
-          "spam bombing",
-          "direct system calls",
-          "payouts king",
-          "quick assist",
-          "microsoft teams",
-          "cactus",
-          "rsa encryption"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:36:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d68ce82e82801cd487f9cd2d24f7b30e353cafd0704dcdf0bb8f12822d4227c2",
-        "pulse": "Takes Aim at the Ransomware Throne",
-        "tags": [
-          "aes encryption",
-          "blackbasta affiliates",
-          "edr evasion",
-          "blackbasta",
-          "spam bombing",
-          "direct system calls",
-          "payouts king",
-          "quick assist",
-          "microsoft teams",
-          "cactus",
-          "rsa encryption"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:36:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "919f292a07a37f163f88527e725406187c8ecc637387ad24853fe49ce4e6ddf4",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9df711c3aef2bba17b622ddfd955452f8d8eb55899528fbc13d9540c52f13402",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7bbb21fec19512d932b7a92652ed0c8f0fedea89f34b9d6f267cf39de0eb9b20",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4caaa18982cd4056fead54b98d57f9a2a1ddd654cf19a7ba2366dfadbd6033da",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "534b654531a6a540a144da9545ee343e1046f843d7de4c1091b46c3ee66a508b",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "56f21f412e898ad9e3ee05d5f44c44d9d7bcb9ecbfbdb9de11b8fa5a637aeef6",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3fbd2a2e82ceb5e91eadbad02cb45ac618324da9b1895d81ebe7de765dca30e7",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e9b64497633d470a8294eb574ae0ada",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2ae3d81112d9459045e6279fb7d013b1",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4543b9ac3ba5f4e7f8e18d130f31e552",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "77825aac7f035fa0a94f4ff35177b503",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b3843345be4810ca5e116224b3d247c2",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "db1dbfaef3362672d6bb89330b5fbb06",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e7efe76a253a37e0f92ff1dbe3caf3e7",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "23cad1f5b3b6776d26ae401688d4d2484917de27",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3693318e02ca114fcd6073b541f1d1e90a18cc43",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "466ea2205a239b937decfa8ed230cc87e1c26143",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4f56614a69d7d6adbb994e3e3da54d1bcd9bb0b0",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "70f964338fc891891bd70ff9393546729333ee89",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7cdd37a9c8a2b4b814fc2308eb00babe154b9664",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c2cc464588846692f67bb9abdde5fedb88d0cb21",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "00078aeeaca54b5d3c1237e964e9f956690b782e4ea160d81edc3c6b44e7f620",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c321933e4e5970ba7299fe21778dab9398994c22ca0ba0422c6cbc3fbb95ea26",
-        "pulse": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-        "tags": [
-          "cve-2023-33538",
-          "tp-link routers",
-          "iot exploitation",
-          "firmware analysis",
-          "condi botnet",
-          "command injection",
-          "wifi routers",
-          "mirai",
-          "condi",
-          "mirai botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:42",
         "hash_type": "sha256"
       }
     ]
