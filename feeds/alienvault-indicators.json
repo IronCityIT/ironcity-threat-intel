@@ -1,9 +1,9 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-24T01:19:13.952211",
+  "updated": "2026-04-24T07:30:46.536539",
   "counts": {
     "ips": 28,
-    "domains": 113,
+    "domains": 115,
     "hashes": 972
   },
   "data": {
@@ -563,6 +563,61 @@
       }
     ],
     "domains": [
+      {
+        "value": "scan.aquasecurtiy.org",
+        "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+        "tags": [
+          "trivy",
+          "supply chain attack",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-25T04:25:06"
+      },
+      {
+        "value": "plug-tab-protective-relay.trycloudflare.com",
+        "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+        "tags": [
+          "trivy",
+          "supply chain attack",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-25T04:25:06"
+      },
+      {
+        "value": "tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io",
+        "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+        "tags": [
+          "trivy",
+          "supply chain attack",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-25T04:25:06"
+      },
+      {
+        "value": "checkmarx.zone",
+        "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+        "tags": [
+          "trivy",
+          "supply chain attack",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-25T04:25:06"
+      },
+      {
+        "value": "aquasecurtiy.org",
+        "pulse": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+        "tags": [
+          "trivy",
+          "supply chain attack",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-25T04:25:06"
+      },
       {
         "value": "hailmeinc.com",
         "pulse": "Analyzing a Full ClickFix Attack Chain - Part 1",
@@ -2325,54 +2380,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T08:35:42"
-      },
-      {
-        "value": "lashowroom.com",
-        "pulse": "Joomla SEO Spam Injector: Obfuscated PHP Backdoor Hijacking Site Visitors",
-        "tags": [
-          "obfuscation",
-          "php backdoor",
-          "dynamic content injection",
-          "remote loader",
-          "joomla",
-          "search engine manipulation",
-          "command-and-control",
-          "seo spam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:53"
-      },
-      {
-        "value": "cdn.erpsaz.com",
-        "pulse": "Joomla SEO Spam Injector: Obfuscated PHP Backdoor Hijacking Site Visitors",
-        "tags": [
-          "obfuscation",
-          "php backdoor",
-          "dynamic content injection",
-          "remote loader",
-          "joomla",
-          "search engine manipulation",
-          "command-and-control",
-          "seo spam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:53"
-      },
-      {
-        "value": "cdn.saholerp.com",
-        "pulse": "Joomla SEO Spam Injector: Obfuscated PHP Backdoor Hijacking Site Visitors",
-        "tags": [
-          "obfuscation",
-          "php backdoor",
-          "dynamic content injection",
-          "remote loader",
-          "joomla",
-          "search engine manipulation",
-          "command-and-control",
-          "seo spam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:35:53"
       }
     ],
     "hashes": [
