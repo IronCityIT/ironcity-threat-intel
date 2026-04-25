@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-25T12:33:44.152039",
+  "updated": "2026-04-25T18:31:48.607117",
   "counts": {
-    "ips": 47,
-    "domains": 305,
-    "hashes": 1082
+    "ips": 46,
+    "domains": 304,
+    "hashes": 1077
   },
   "data": {
     "ips": [
@@ -772,25 +772,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T18:32:59"
-      },
-      {
-        "value": "176.65.148.186",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14"
       }
     ],
     "domains": [
@@ -6171,28 +6152,225 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T18:30:32"
-      },
-      {
-        "value": "r3brqw3d.b0ats.top",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14"
       }
     ],
     "hashes": [
+      {
+        "value": "ccef46c7edf9131ccffc47bd69eb743b",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c38c21120d8c17688f9aeb2af5bdafb6b75e1d2673b025b720e50232f888808a",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "38c56b5e1489092b80c9908f04379e5a16876f01",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dbc9125192bd1994cbb764f577ba5dda",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6feb75ac62120bae1e92ab16184c1eb0b795e4b3",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6b9e23cb675be370a18a0c4482dc566be28920d4f1cd8ba6b4527f80acf978d3",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "787e2c94e6d9ce5ec01f5cbe9ee2518431eca8523155526d6dc85934c9c5787c",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3039abf2ad5202f4a9363b418002351",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0ceb8ffb0be23b808b534d744440f4367e17b9c5",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "53a1aed3075140e6bc568f093b1f5a151ecc7dc9",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "596470fd9031b76eddde02568f7d5dee7a66a910",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "df7367261598cfed1fca9fd11504071937f38350",
+        "pulse": "The Return of the Kinsing",
+        "tags": [
+          "metabase",
+          "activemq",
+          "cve-2023-46604",
+          "linux",
+          "go",
+          "kinsing",
+          "react2shell",
+          "cve-2025-55182",
+          "cve-2023-38646"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-26T17:34:51",
+        "hash_type": "sha1"
+      },
       {
         "value": "58712aacf6b0f8149c066bda3a034fc3",
         "pulse": "ClickFix Campaigns Targeting Windows and macOS",
@@ -24929,346 +25107,6 @@
         "source": "alienvault_otx",
         "created": "2026-04-17T18:56:13",
         "hash_type": "md5"
-      },
-      {
-        "value": "aaed4dca8bd6bb42fc4efb358a02a554",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ebdae1b6a28589ecc8d84557f0e83963396291cf",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "89dae116c77b0035277d39dfe01043624427c119ddee8883a3ba54a42a6ae400",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "353874dd1e12a7f67ba4f7ecbcbcb2af",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "98d2ef26e37be7f8e0c9b1b45329a5288c832ea1",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0b510f93f47590791626d2fa74ddd62ba6eb8a5a5bb7b8476c0ceffc7be94ebe",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "29404df12a7723ce46c8b199c88a808aa315dd8ff8fd1e06a34ccd3d16f4553b",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2ccf23b8165e8c05899aa7ba4755b896ebf1d20d3b701cffdc768482486b0a74",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "37132e804ccb3fc4ba1f72205da70c3d7a6e66b43178707a9d8ee1156d815c21",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "696aeb6321313919f0a41a520e6fa715450bbfb271a9add1e54efe16484a9c35",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "721c7cb2109ec97c14413cb8b58ddce0ecf0c1f13f22ee4f72eed79b57592cf5",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7c01d5b53861cd34e10a79fdea16dcf08bce9c78ed72abd6d6f3e9ce75a24734",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "838e35b62a6b38675e467301166cdcc54f98d528fe43d56936caeffec88ac696",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95d1eb12d58206319c514c7240d058c512bb22b31f6ea22ed8be3ae44305c9f7",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9b805585c457811d2c5c5664ede9ee869b53e3c9999100505d7ee8de7f855fdf",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b1274de00a7f3d7ab9792ec3456e9d5bf057738666f34183f1d72060e2d4f678",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e4789416c35b345e75c023a8c07c207c79937c6a5444e1c29d85d18d2f660d8c",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
       }
     ]
   }
