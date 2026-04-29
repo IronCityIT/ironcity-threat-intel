@@ -1,13 +1,30 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-29T07:54:40.918899",
+  "updated": "2026-04-29T13:15:43.620374",
   "counts": {
-    "ips": 47,
-    "domains": 601,
-    "hashes": 637
+    "ips": 45,
+    "domains": 611,
+    "hashes": 632
   },
   "data": {
     "ips": [
+      {
+        "value": "85.11.161.198",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42"
+      },
       {
         "value": "136.158.24.160",
         "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
@@ -672,64 +689,311 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T03:27:34"
-      },
-      {
-        "value": "158.247.193.100",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51"
-      },
-      {
-        "value": "47.76.236.58",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51"
-      },
-      {
-        "value": "31.31.198.206",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
       }
     ],
     "domains": [
+      {
+        "value": "gz.technicalprorj.xyz",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27"
+      },
+      {
+        "value": "robinhuds.com",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42"
+      },
+      {
+        "value": "kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid.onion",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18"
+      },
+      {
+        "value": "mlnmlnnrdhcaddwll4zqvfd2vyqsgtgj473gjoehwna2v4sizdukheyd.onion",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18"
+      },
+      {
+        "value": "jsonserv.biz",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49"
+      },
+      {
+        "value": "jsonserv.xyz",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49"
+      },
+      {
+        "value": "jsonapi.biz",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49"
+      },
+      {
+        "value": "akcjdrya.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "bksgcefzqyb.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "buwxkiy.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "eodrggi.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "gyglowcq.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "iuzndfqr.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "nirbsff.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "rmwztbrr.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "whghfpytehu.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "wijgzsfh.com",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
+      {
+        "value": "www.upsystems.one",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32"
+      },
       {
         "value": "2zrek3mkl72d5b6evpkx2rz2glzrltiorgblpfb2ttg6lacwlsdk4iqd.onion",
         "pulse": "Attack Activity Analysis Using SSH+TOR Tunnels for Covert Persistence",
@@ -11612,147 +11876,889 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T03:27:35"
-      },
-      {
-        "value": "multifixcargas.com.br",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33"
-      },
-      {
-        "value": "stg.lsmartv.com",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51"
-      },
-      {
-        "value": "fanonlyatn.xyz",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
-      },
-      {
-        "value": "beboss34.ru",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
-      },
-      {
-        "value": "caribb.ru",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
-      },
-      {
-        "value": "mekhovaya-shuba.ru",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
-      },
-      {
-        "value": "secure-shard-091.of-cdn.com",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
-      },
-      {
-        "value": "www.fanonlyatn.xyz",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32"
       }
     ],
     "hashes": [
+      {
+        "value": "7ac9278876c83c9b597fae68acb6fbf9",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "18150c9b96bffd20c8203ff98a4fc153929bc2c9",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "881619a47b62b52305d92640cc4d4845a279c23a5a749413785fc8fcb0fdf7fb",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fc27479ff929d846e7c5c5d147479c81e483a2ec911bd1501a53aa646a29620d",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d4fe9f48178cdf375a3be30d17f1dc016b5861dff8683f0bb35a0ba8d44f892f",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "978ad86c90d85b74947bb627ec24f8bcd26812b500e82f5af202160506ac29c6",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "968ecf51c442ec0ff91f91689ac524e7e8e9eab0c1a2a65cf13e54cf95194efe",
+        "pulse": "Multi-Stage Malware Execution Chain Analysis",
+        "tags": [
+          "payload extraction",
+          "c2 communication",
+          "defense evasion",
+          "multi-stage attack",
+          "data exfiltration",
+          "lateral movement",
+          "script masquerading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:49:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f31a8953531ffb5c14e2d8347e283e1f8f3c732a5a9a68f611c96f4730e8a7dc",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c529217014b732abbe646046c07ce8f0366a42051839d4cb3be5b400285fc728",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "818daf975f78ac30ba4ce0fdd2f7eb550cdc16701da35594e8c9cba72bc84a5c",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b07a03883675654088a2b56a80933ca8",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b6a201726b44106a7dbe93a480b38420",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fa1f2ac9172702ad10c24f0a637c26cd",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "10dfd71cf61ea3c1621a5b0c08c3b034773fb84b",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7450731c0baf5befb79966a6be7873a5b1a62a7a",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b374d1715148bc80394b844d9f008adfa5585d65",
+        "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
+        "tags": [
+          "phishing",
+          "lumma stealer",
+          "powershell",
+          "information stealer",
+          "credential theft",
+          "hijackloader",
+          "dll sideloading",
+          "lummastealer",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T10:33:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "18498b1ff111ee9d9a037c280f75b720",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0e9a47782e39741a2c161bf639252d33ad3a428a",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4ed176edb75ae2114cda8cfb3f83ac2ecdc4476fa1ef30ad8c81a54c0a223a29",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df2dba375800d76695d5ca37e5c72a50",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f9e1d038b1f5220e888b56e97881937f",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1b66614d63ce9f1b0b9f68464a93d826a3af7e08ccadcbc662f8444f0eaab6b9",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5a5f2bfea416f4b9ed4e6e45d82df524c1d9fa5f99c08944f2bacdf5bf9f525d",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ef054d22823758290db94aab3c901471a9ebd633f94963030806cc68dd433d8d",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fcca04669f1a9c79786e29914563c772584fba1aebc58ce1fd17c8e11a1266ea",
+        "pulse": "Kyber ransomware is not just post-quantum name-dropping",
+        "tags": [
+          "post-quantum cryptography",
+          "x25519",
+          "aes-ctr encryption",
+          "rust ransomware",
+          "hybrid encryption",
+          "file encryption",
+          "kyber",
+          "kyber1024"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:40:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ced7fe9c5ec508216e6dd9a59d2d5193a58bdbac5f41a38ea97dd5c7fceef7a5",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4e9e70c2a8002ce4a70ab43ae80c2a25",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0582822ea03854a3f465a28559be18a14c59f9a9",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b3bf26bfbf7aec43379523bd18b1ec16",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "687cee4e972323e6991acfa59f608a7d1a6e170b",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1323278360d41a74ab09d310f08902087ff2798d1eda99be65d07c1b1123a25c",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "67b51a73c72f39b9cf41dd35eb22b369713ab2e576641b40b9089ebc9d4a1fb2",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6db64b44305ff125f729713d7ff516e84e4ca38504a2ab0571eb19597f49feee",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a0d5b30578acd1df9139e7a8a4bfc659dc2cf48f4dc0c5804b70890adeb9fa21",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "783698157743014acd2df3e721c1ae4e",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b30cfa26e5dbee1665944a7a94b1a07d",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ca3401817dd1e29ca3f3212e38ad39cf",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "040f07163335f89085b380a6c22841c1bc1ef798",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2acfaf21024e8f018fac3b38126036c594acf7dc",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e468080f1f509c9cb704620a6344831bc7e40ee2",
+        "pulse": "Rebex-based Telegram RAT Targeting Vietnam",
+        "tags": [
+          "multi-stage payload",
+          "telegram rat",
+          "chm infection",
+          "xor encryption",
+          "shell hijacking",
+          "rebex library",
+          "python loader",
+          "vietnam targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:42:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3da35272ad6d280d3388d57bdbf61b9c",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a467a2c936734affc8d796a4e468543b9d182e7",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1d261b45e73b5b712becb12ed182ec89d3dd0d73143a2dd8ff5512da489a50eb",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "34479b18597f1a0deb5d55b8450bc21af1d1f638c4ceca1ee19e6f5ac89d6be2",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "10bd31f7d0e47f8c24f58cac962036d342d57057",
+        "pulse": "KYCShadow: An Android Banking Malware Exploiting Fake KYC Workflows for Credential and OTP Theft",
+        "tags": [
+          "india targeting",
+          "android banking trojan",
+          "otp theft",
+          "vpn manipulation",
+          "kycshadow",
+          "whatsapp distribution",
+          "firebase c2",
+          "credential theft",
+          "sms interception"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T09:43:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "844202972ff19afa760447fc87963de0fbbc0ebc69d50164f03ecf5d4e67952f",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "04e20b06dad0a6b69527a6efea668a31",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab11a32f0d617e50eb0c710d63128f79",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5fa97aaf219b223159f9487b296bb916f073e4a0",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7ba88ef7b2dce865d2bc4e95e982bf68dfff1ea4",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d338a7f85737cac1a7b4b5a1cca94e33d0aa8260548667c6733225d4c20cb848",
+        "pulse": "Security brief: tax scams aim to steal funds from taxpayers",
+        "tags": [
+          "tax scams",
+          "bec",
+          "valleyrat",
+          "winos4.0",
+          "social engineering",
+          "phishing",
+          "irs impersonation",
+          "rmm",
+          "credential theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T09:16:32",
+        "hash_type": "sha256"
+      },
       {
         "value": "2a9b971c835e2ee5f190d068c602601fdaf718d8bfe085c2032d59a6f25ed082",
         "pulse": "Attack Activity Analysis Using SSH+TOR Tunnels for Covert Persistence",
@@ -22674,1055 +23680,6 @@
         "source": "alienvault_otx",
         "created": "2026-04-23T03:27:35",
         "hash_type": "sha1"
-      },
-      {
-        "value": "18399555137b889a51eb543ddf01b3b7471a6e20453ee24801f8895528e7632f",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "499d07894f730fb685ee3cbfc1a933e0da93750c1ed25a49b2eb9c32adef156a",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "acc881b7521ca6366c5f90c72b51dc2e",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b3a2e37d066b444de23e1f98790a9fc1",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e81ba20e4b62ee5bb4648e57cd4811084dfab5c9",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e9a8787578e17b125187a03eae9e2db0be407601",
-        "pulse": "Phishing Attack via Adobe-Themed Lure Delivering ScreenConnect and Credential Harvesting Tools",
-        "tags": [
-          "adobe lure",
-          "phishing",
-          "phone link",
-          "screenconnect",
-          "uri handler exploitation",
-          "social engineering",
-          "credential harvesting",
-          "password.exe",
-          "remote access"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:27:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2d7cc3646c287d6355def362916c6d26",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3238d2f6b9ea9825eb61ae5e80e7365c",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "67fcf5c21474d314aa0b27b0ce8befb2",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "71fa755b6ba012e1713c9101c7329f8d",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "89daa54fada8798c5f4e21738c8ea0b4",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9a69b717ec4e8a35ae595aa6762d3c27",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c620b4671a5715eec0e9f3b93e6532ba",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e2dc48ef24da000b8fc1354fa31ca9ae",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "19e3c4df728e3e657cb9496cd4aaf69648470b63",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2c65433696037f4ce0f8c9a1d78bdd6835c1b94d",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "343be0f2077901ea5b5b9fb97d97892ac1a907e6",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "401cc16d79d94c32da3f66df21d66ffd71603c14",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6c68dc2e33780e07596c3c06aa819ea460b3d125",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "adb47733c224fc8c0f7edc61becb578e560435ab",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bd618c9e1e10891fe666839650fa406833d70afd",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c2051635ccfdc0b48c260e7ceeee3f96bf026fea",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3936f522f187f8f67dda3dc88abfd170f6ba873af81fc31bbf1fdbcad1b2a7fb",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3c29c72a59133dd9eb23953211129fd8275a11b91a3b8dddb3c6e502b6b63edb",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "47c7ce0e3816647b23bb180725c7233e505f61c35e7776d47fd448009e887857",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6eaea92394e115cd6d5bab9ae1c6d088806229aae320e6c519c2d2210dbc94fe",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7a95ce0b5f201d9880a6844a1db69aac7d1a0bf1c88f85989264caf6c82c6001",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a4f2131eb497afe5f78d8d6e534df2b8d75c5b9b565c3ec17a323afe5355da26",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aeec65bac035789073b567753284b64ce0b95bbae62cf79e1479714238af0eb7",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b92a3a1cf5786b6e08643483387b77640cd44f84df1169dd00efde7af46b5714",
-        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
-        "tags": [
-          "sumatrapdf",
-          "cobaltstrike",
-          "adaptixc2 beacon",
-          "entryshell",
-          "toshis",
-          "tropic trooper",
-          "chinese targets",
-          "cobaltstrike beacon",
-          "toshis loader",
-          "adaptixc2",
-          "github c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:30:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b14ca5898a4e4133bbce2ea2315a1916",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8f1af2175403195726957dc58fe64821",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c78c6f9b78e9503ab1a079010cf12a6182ec4d43",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2d0177a00bed31f72b48965bee34cec04cb5be8eeea66ae0bb144f77e4d439b1",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "57cd5721bae65c29e58121b5a9b00487a83b6c37dded56052cab2a67f90ea943",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "74ac41406ce7a7aa992f68b4b3042f980027526f33ec6c8d84cb26f20495c9dc",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c23c65a8a392a3fd885496a5ff2004252f1ad4388814b20e5459695280b0b82",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8d84eaba9b902045ae4fe044e9761ad0ce9051b85feea3f1cf9c80b59b2b123",
-        "pulse": "APT Group Expands Toolset With New GoGra Linux Backdoor",
-        "tags": [
-          "graphon",
-          "south asia espionage",
-          "cross-platform",
-          "gogra",
-          "linux backdoor",
-          "microsoft graph api",
-          "azure ad abuse",
-          "nation-state"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T11:35:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "18498b1ff111ee9d9a037c280f75b720",
-        "pulse": "Kyber Ransomware Double Trouble: Windows and ESXi Attacks Explained",
-        "tags": [
-          "rust",
-          "virtualization",
-          "chacha8",
-          "hyper-v",
-          "vmware",
-          "esxi",
-          "cross-platform",
-          "kyber"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:39:42",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0e9a47782e39741a2c161bf639252d33ad3a428a",
-        "pulse": "Kyber Ransomware Double Trouble: Windows and ESXi Attacks Explained",
-        "tags": [
-          "rust",
-          "virtualization",
-          "chacha8",
-          "hyper-v",
-          "vmware",
-          "esxi",
-          "cross-platform",
-          "kyber"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:39:42",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "45bff0df2c408b3f589aed984cc331b617021ecbea57171dac719b5f545f5e8d",
-        "pulse": "Kyber Ransomware Double Trouble: Windows and ESXi Attacks Explained",
-        "tags": [
-          "rust",
-          "virtualization",
-          "chacha8",
-          "hyper-v",
-          "vmware",
-          "esxi",
-          "cross-platform",
-          "kyber"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:39:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4ed176edb75ae2114cda8cfb3f83ac2ecdc4476fa1ef30ad8c81a54c0a223a29",
-        "pulse": "Kyber Ransomware Double Trouble: Windows and ESXi Attacks Explained",
-        "tags": [
-          "rust",
-          "virtualization",
-          "chacha8",
-          "hyper-v",
-          "vmware",
-          "esxi",
-          "cross-platform",
-          "kyber"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:39:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6ccacb7567b6c0bd2ca8e68ff59d5ef21e8f47fc1af70d4d88a421f1fc5280fc",
-        "pulse": "Kyber Ransomware Double Trouble: Windows and ESXi Attacks Explained",
-        "tags": [
-          "rust",
-          "virtualization",
-          "chacha8",
-          "hyper-v",
-          "vmware",
-          "esxi",
-          "cross-platform",
-          "kyber"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:39:42",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "06299676b43749b8477c4bc977c09512957fc9b66fd5030c1874069632ce6092",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3fcd267e811d9b83cafa3d8d6932fa1c56f4fd8dcf46f9ec346e0689439532d4",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "584796212f99efc7ac765d6048913fe34e46a64b13a8a78fb3a465b8c61f3527",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "74ab520e94b2f3b8915ec7b47abab7a2d7e9759add5aa195af7edf0ffa5b4150",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9d9783f57fd543043e0792d125831883259c823a5eaa69211e5254db4db4eaec",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aa11f154b17a4f81f951dbeaab78b58ea012f5b6ea16e4f894bd90971e01bae4",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f7ddba605e3d04e06d2f7b0fc4a38027ae58ca65a69d800dd2f43c8e94ca8396",
-        "pulse": "TwizAdmin -- Multi-Stage Crypto Clipper, Infostealer & Ransomware Operation",
-        "tags": [
-          "crypto clipper",
-          "twizadmin",
-          "multi-platform",
-          "russian-speaking",
-          "infostealer",
-          "crpx0",
-          "maas",
-          "ransomware",
-          "cryptocurrency theft"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:41:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140d26ecad2fd8a3ea326ee49f5dd8bda3696e0d1ae6e756db6d61d70bf3af4",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9601283e3153779f5a7e845365fdd87d",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3d1eaf0777aac4c76ff406b9ecf82af7d045b8f3",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "872116260461fe63dd8664dbfbc7efa0",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8d79722188d998327dd7edf9924bffe2",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ab0d213d4df3de06bbd2db524fb73282",
-        "pulse": "FormBook Malware Uses Phishing, DLL Side-Loading, JavaScript",
-        "tags": [
-          "formbook",
-          "mandark",
-          "syscall evasion",
-          "obfuscated javascript",
-          "data-stealing",
-          "panthomvai",
-          "mandark loader",
-          "ntdll mapping",
-          "phishing campaigns",
-          "dll side-loading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T12:43:20",
-        "hash_type": "md5"
       }
     ]
   }
