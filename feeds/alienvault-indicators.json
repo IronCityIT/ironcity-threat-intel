@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-29T13:15:43.620374",
+  "updated": "2026-04-29T19:03:38.647476",
   "counts": {
     "ips": 45,
-    "domains": 611,
-    "hashes": 632
+    "domains": 609,
+    "hashes": 623
   },
   "data": {
     "ips": [
@@ -11844,41 +11844,111 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T03:27:34"
-      },
-      {
-        "value": "ftp.videoalliance.ru",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35"
-      },
-      {
-        "value": "pk-consult.hr",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35"
       }
     ],
     "hashes": [
+      {
+        "value": "7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd08115806662469bbedec4b03f8427b97c8a4b3bc1442dc18b72b4e19395fe3",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5870a0bf82bbdf2687d8dce89dfa668f",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4ce6ad55d8912aacc4ae4c572237131d0b7ba4b5",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "23b1ec58649170650110ecad96e5a9490d98146e105226a16d898fbe108139e5",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab4c4aebb52027bf3d2f6b2dcef593a1a2cff415774ea4711f7d6e0aa1451d4e",
+        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
+        "tags": [
+          "base64 encoding",
+          "pypi",
+          "persistence",
+          "steganography",
+          "credential theft",
+          "supply-chain attack",
+          "wav files",
+          "multi-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-03-30T18:06:15",
+        "hash_type": "sha256"
+      },
       {
         "value": "7ac9278876c83c9b597fae68acb6fbf9",
         "pulse": "Multi-Stage Malware Execution Chain Analysis",
@@ -23425,261 +23495,6 @@
         "source": "alienvault_otx",
         "created": "2026-04-23T08:56:35",
         "hash_type": "sha256"
-      },
-      {
-        "value": "91dbec3653b27c394719fcf5341fe460",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f8dbeaf04a5d6667f79b27b3d3deb63e3c89e706",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "081fd54d8d4731bbea9a2588ca53672feef0b835dc9fa9855b020a352819feaa",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "92ee63cb3b5c54d37b805335ecdb8aa6",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2f69d9c1873e66d93862b8ab1e206a358579f7fd",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0fd2e47d373e07488748ac63d9229fdef4fd83d51cf6da79a10628765956de7a",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9ba024231d4aed094757324d8c65c35d605a51cdc1e18ae570f1b059085c2454",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ea370cb200e0c11b48f89e095c6a975e",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a50c2a927bc2d793bd21e29529a267e4de51f48b",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7a23f4d94da4fcf01f375c6a7d90be80",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7d69e251a3ae370ba996380e6712ca117ea2a1b6",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3446ec621506d87d372c596e1d384d9fd2c1637b3655d7ccadf5d9f64678681e",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c684f1a6ec49214eba61175303bcaacb91dc0eba75abd0bd0e2407f3e65bce2a",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3a5cb5689b6d4a97ddbe845e2c392e49",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "66cb7df3aebcf43c89f590647910d334570d6069",
-        "pulse": "Analyzing a Malicious Compiled HTML Help File Delivering Agent Tesla",
-        "tags": [
-          "information stealer",
-          "anti-analysis techniques",
-          "agent tesla",
-          "powershell",
-          "chm files",
-          "compiled html help",
-          "ftp exfiltration",
-          "javascript obfuscation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:35",
-        "hash_type": "sha1"
       }
     ]
   }
