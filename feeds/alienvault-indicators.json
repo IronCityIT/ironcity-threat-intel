@@ -1,13 +1,135 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-04-30T01:29:48.178416",
+  "updated": "2026-04-30T07:57:58.920889",
   "counts": {
-    "ips": 45,
-    "domains": 609,
-    "hashes": 623
+    "ips": 47,
+    "domains": 604,
+    "hashes": 655
   },
   "data": {
     "ips": [
+      {
+        "value": "24.152.36.241",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48"
+      },
+      {
+        "value": "176.65.139.134",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02"
+      },
+      {
+        "value": "176.65.139.9",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02"
+      },
+      {
+        "value": "176.65.139.44",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02"
+      },
+      {
+        "value": "176.65.139.42",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02"
+      },
+      {
+        "value": "91.92.41.64",
+        "pulse": "Kuse Web App Abused to Host Phishing Document",
+        "tags": [
+          "fake login page",
+          "credential harvesting",
+          "vendor email compromise",
+          "supply chain",
+          "ai platform abuse",
+          "markdown file",
+          "social engineering",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:01"
+      },
+      {
+        "value": "45.153.34.132",
+        "pulse": "Komari Red: The Monitoring Tool with a Built-in Reverse Shell",
+        "tags": [
+          "rdp-enablement",
+          "credential-theft",
+          "sslvpn-compromise",
+          "impacket",
+          "nssm-persistence",
+          "reverse-shell",
+          "komari",
+          "github-infrastructure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:39"
+      },
       {
         "value": "85.11.161.198",
         "pulse": "User interaction with a ClickFix-style phishing site resulted in execution of an obfuscated PowerShell command",
@@ -591,107 +713,121 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T14:37:51"
-      },
-      {
-        "value": "62.60.246.210",
-        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
-        "tags": [
-          "cryptominer",
-          "repocket",
-          "botnet",
-          "linux compromise",
-          "multiple threat actors",
-          "credential harvesting",
-          "systemd-logind",
-          "dnser",
-          "ai-assisted remediation",
-          "earnfm",
-          "fkkkf",
-          "cve-2025-55182",
-          "xmrig",
-          "fh8a7d7m",
-          "data exfiltration",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:09"
-      },
-      {
-        "value": "147.45.41.25",
-        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
-        "tags": [
-          "cryptominer",
-          "repocket",
-          "botnet",
-          "linux compromise",
-          "multiple threat actors",
-          "credential harvesting",
-          "systemd-logind",
-          "dnser",
-          "ai-assisted remediation",
-          "earnfm",
-          "fkkkf",
-          "cve-2025-55182",
-          "xmrig",
-          "fh8a7d7m",
-          "data exfiltration",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:09"
-      },
-      {
-        "value": "94.154.172.43",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46"
-      },
-      {
-        "value": "151.245.195.142",
-        "pulse": "Beyond PowerShell: Analyzing the Multi-Action ClickFix Variant",
-        "tags": [
-          "scheduled task",
-          "social engineering",
-          "clickfix",
-          "cmdkey",
-          "unc path",
-          "lolbins",
-          "remote dll",
-          "regsvr32"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:56:35"
-      },
-      {
-        "value": "216.158.225.144",
-        "pulse": "Unmasking DPRK Cyber Threat Actors: Fake IT Worker Infrastructure",
-        "tags": [
-          "dprk",
-          "astrill vpn",
-          "vpn infrastructure",
-          "freelance platforms",
-          "fake it workers",
-          "cryptocurrency fraud",
-          "residential proxies",
-          "sanctions evasion"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:34"
       }
     ],
     "domains": [
+      {
+        "value": "2zrek3mkl72d5b6evpkx2rz2glzrltiorgblpfb2ttg6lacwlsdk4iqd.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "e3mnde5uyuxjoztup6t3m7nykbicexbzra76ucligwgsaez65w63y2ad.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "imnlyhj4mtmtesqrvf7c4ma6dkxeyxw3ae53w6fuz42spndg7zpat6qd.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "kvk46su7d2qi6g4n43syp4zbsf2rihnc6ztj77qtc2ojvewjqvqilnqd.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "nytiplwknkinobjaeb5tajjiglip3vtaccju6ta7d47u5u64ktrwhrqd.onion",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47"
+      },
+      {
+        "value": "onlineapp.ooraikaoo.info",
+        "pulse": "Kuse Web App Abused to Host Phishing Document",
+        "tags": [
+          "fake login page",
+          "credential harvesting",
+          "vendor email compromise",
+          "supply chain",
+          "ai platform abuse",
+          "markdown file",
+          "social engineering",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:01"
+      },
       {
         "value": "gz.technicalprorj.xyz",
         "pulse": "Multi-Stage Malware Execution Chain Analysis",
@@ -11638,215 +11774,984 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T14:31:57"
-      },
-      {
-        "value": "luminousmen.com",
-        "pulse": "Indirect Prompt Injection in the Wild: 10 IPI Payloads Found",
-        "tags": [
-          "ai agents",
-          "css concealment",
-          "llm exploitation",
-          "api key theft",
-          "indirect prompt injection",
-          "prompt injection techniques",
-          "web poisoning",
-          "financial fraud"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T09:02:20"
-      },
-      {
-        "value": "perceptivepumpkin.com",
-        "pulse": "Indirect Prompt Injection in the Wild: 10 IPI Payloads Found",
-        "tags": [
-          "ai agents",
-          "css concealment",
-          "llm exploitation",
-          "api key theft",
-          "indirect prompt injection",
-          "prompt injection techniques",
-          "web poisoning",
-          "financial fraud"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T09:02:20"
-      },
-      {
-        "value": "faladobairro.com",
-        "pulse": "Indirect Prompt Injection in the Wild: 10 IPI Payloads Found",
-        "tags": [
-          "ai agents",
-          "css concealment",
-          "llm exploitation",
-          "api key theft",
-          "indirect prompt injection",
-          "prompt injection techniques",
-          "web poisoning",
-          "financial fraud"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T09:02:20"
-      },
-      {
-        "value": "kleintechnik.net",
-        "pulse": "Indirect Prompt Injection in the Wild: 10 IPI Payloads Found",
-        "tags": [
-          "ai agents",
-          "css concealment",
-          "llm exploitation",
-          "api key theft",
-          "indirect prompt injection",
-          "prompt injection techniques",
-          "web poisoning",
-          "financial fraud"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T09:02:20"
-      },
-      {
-        "value": "thelibrary-welcome.uk",
-        "pulse": "Indirect Prompt Injection in the Wild: 10 IPI Payloads Found",
-        "tags": [
-          "ai agents",
-          "css concealment",
-          "llm exploitation",
-          "api key theft",
-          "indirect prompt injection",
-          "prompt injection techniques",
-          "web poisoning",
-          "financial fraud"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T09:02:20"
-      },
-      {
-        "value": "rrpohktjlscncqxvt3.com",
-        "pulse": "The Group Theory Inside Bedep's DGA",
-        "tags": [
-          "domain generation algorithm",
-          "angler exploit kit",
-          "foreign exchange rates",
-          "ad-fraud botnet",
-          "cyclic groups",
-          "cve-2015-0311",
-          "group theory",
-          "bedep",
-          "angler",
-          "dga"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:31"
-      },
-      {
-        "value": "wjavcjhazzxyxotkbi.com",
-        "pulse": "The Group Theory Inside Bedep's DGA",
-        "tags": [
-          "domain generation algorithm",
-          "angler exploit kit",
-          "foreign exchange rates",
-          "ad-fraud botnet",
-          "cyclic groups",
-          "cve-2015-0311",
-          "group theory",
-          "bedep",
-          "angler",
-          "dga"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:31"
-      },
-      {
-        "value": "cjn37-uyaaa-aaaac-qgnva-cai.raw.icp0.io",
-        "pulse": "npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
-        "tags": [
-          "self-propagating",
-          "worm",
-          "icp canister",
-          "pypi",
-          "canisterworm",
-          "credential theft",
-          "npm",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T16:22:19"
-      },
-      {
-        "value": "telemetry.api-monitor.com",
-        "pulse": "npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
-        "tags": [
-          "self-propagating",
-          "worm",
-          "icp canister",
-          "pypi",
-          "canisterworm",
-          "credential theft",
-          "npm",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T16:22:19"
-      },
-      {
-        "value": "0x1x2x3.top",
-        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
-        "tags": [
-          "cryptominer",
-          "repocket",
-          "botnet",
-          "linux compromise",
-          "multiple threat actors",
-          "credential harvesting",
-          "systemd-logind",
-          "dnser",
-          "ai-assisted remediation",
-          "earnfm",
-          "fkkkf",
-          "cve-2025-55182",
-          "xmrig",
-          "fh8a7d7m",
-          "data exfiltration",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:09"
-      },
-      {
-        "value": "audit.checkmarx.cx",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46"
-      },
-      {
-        "value": "luckyguys.site",
-        "pulse": "Unmasking DPRK Cyber Threat Actors: Fake IT Worker Infrastructure",
-        "tags": [
-          "dprk",
-          "astrill vpn",
-          "vpn infrastructure",
-          "freelance platforms",
-          "fake it workers",
-          "cryptocurrency fraud",
-          "residential proxies",
-          "sanctions evasion"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:27:34"
       }
     ],
     "hashes": [
+      {
+        "value": "d21a5d08b4614005c8fcd9d0068f0190",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fb203c0ac030a97281960d7c28d86ebf",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9b1264eb4ff5ee8f00b8b80341fb6917dc3d3148",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f9fe23f24d45eae418c60819c523a83ddba4ca50",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "293006cec43c663ccff331795d662c3b73b4d7af5f8584e2899e286c672c9881",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "45d4040e76a0d357dd6e236e185aba2eb82420d78640bfd1f3dede32b33931f7",
+        "pulse": "LofyStealer: Malware targeting Minecraft players.",
+        "tags": [
+          "browser data",
+          "infostealer",
+          "chromelevator",
+          "grabbot",
+          "node.js loader",
+          "credential theft",
+          "syscalls evasion",
+          "lofystealer",
+          "slinky",
+          "minecraft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:48",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0a78005858bef767b39cfbbeb543a80dfde46807ee75594de77d3ddfe119e8b5",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2156c270ffe8e4b23b67efed191b9737",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47",
+        "hash_type": "md5"
+      },
+      {
+        "value": "975d8bdfec6b58ae9004d526fa9f852108026a9c",
+        "pulse": "Analysis of Attack Activities Using SSH+TOR Tunnels to Achieve Covert Persistence",
+        "tags": [
+          "sandworm",
+          "obfs4",
+          "apt-c-13",
+          "spearphishing",
+          "ssh tunneling",
+          "persistence mechanism",
+          "tor network",
+          "scheduled tasks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T12:09:47",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f962cb443975065b91d4512a42a529a091726e1815be28ced0ebb9dff997931d",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a03705fc225dbcec7e3c2f06a258afe81b5d88aaff1368d10dd6ba4f0932be7c",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c3468e3c7a535b74fa91927fb1572d8",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "78774672884f8cd7593fced3c7d1faa4",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fac068afc5a0361f323f8b2fdbcbfd41",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "98182f78f2ee76f3dffa58c268dd9e653c711ce5",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "da365650e77eaf9d79801d475de7bf2b2a031251",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dbcf1c93634010c7e6131bcdfffa72e30da2376a",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "079ae4f813939dd96b961ae288fb7f930649dfebb4884c13af95309a71f986f5",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "31a60f9e0b5b4f0371f4130a184e27f79cefacb080a6273ccb1c9a908dc6ca9d",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8367daa8ce633724157b8edd21d625de5ac56b8c2d983bbb283836162037f3c1",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fa965ed784f7ec99e21475205cc177bb71ac7550b4015b4a4b3e232f032dcb91",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "00ca0c04d247ef09f2b2acc452029345",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "04d8a99447b16f6839fff3b978f88d7e",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "35baf8316645372eea40b91d48acb067",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "45dc9c02f82b4370ca92785282d43a86",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6fb87d243b011b5445f379f80e1a6b4d",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8cd683f78735c9bfc32600c73d3d9abe",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b523a69b27064d1715d1f0aaffcfae63",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d468f16eafccbc54a994f3d675ace8ae",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dbb9b09957113463bbeb420c2c4108b5",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e32eaf0c3cde9616831a1e92d42b0058",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0af7415d65753f6aede8c9c0f39be478666b9c12",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "307d0fa7407d40e67d14e9d5a4c61ac5b4f20431",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4b04304f6d51392e3f43856c94ca95800518a694",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6bc859aaee1f8885eec2a3016226e877e5adba08",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b6a28e92149637e5d7c7f4a2d3e54acd507c929",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bc95cc5dda788295aa0c9456791520599ef99526",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ca4a5bb85778ffcd2153ace88fe2d882c8ceeb23",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e80824a19f48d778a746571bb15279b5679fd61c",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1d9e4ece8e13c8eaf94cb858470d1bd8f81bb58f62583552303774fa1579edee",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "258257560fe2f1c2cc3924eae40718c829085b52ae3436b4e46d2565f6996271",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4066781fa830224c8bbcc3aa005a396657f9c8f9016f9a64ad44a9d7f5f45e34",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f933d00b7d05678eb43c90963a80b8947c4ae6830182f89df31da9f568fea95",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "80a3d2877813968ef847ae73b5eeeb70b9435254e74d7f07d8cf4057f0a710ac",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "86282ebcd3bebf50f087f2c6b00c62caa667cdcb53558033d85acd39e3d88b41",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a1da198bb4e883d077a0e13351bf2c3acdea10497152292e873d79d4f7420211",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb6eb4154b03ec73218727dc643d26f4e14dfda2438112926bb5daf37ae8bcdb",
+        "pulse": "Supply Chain Campaign Targets SAP npm Packages with Credential-Stealing Malware",
+        "tags": [
+          "ci/cd compromise",
+          "mini shai hulud",
+          "supply chain attack",
+          "github exfiltration",
+          "sap ecosystem",
+          "credential theft",
+          "npm packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35baf8316645372eea40b91d48acb067",
+        "pulse": "Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+        "tags": [
+          "credential-theft",
+          "supply-chain-attack",
+          "ci-cd-compromise",
+          "bun-binary",
+          "sap-cap",
+          "obfuscation",
+          "github-abuse",
+          "npm-packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4066781fa830224c8bbcc3aa005a396657f9c8f9016f9a64ad44a9d7f5f45e34",
+        "pulse": "Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+        "tags": [
+          "credential-theft",
+          "supply-chain-attack",
+          "ci-cd-compromise",
+          "bun-binary",
+          "sap-cap",
+          "obfuscation",
+          "github-abuse",
+          "npm-packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f933d00b7d05678eb43c90963a80b8947c4ae6830182f89df31da9f568fea95",
+        "pulse": "Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+        "tags": [
+          "credential-theft",
+          "supply-chain-attack",
+          "ci-cd-compromise",
+          "bun-binary",
+          "sap-cap",
+          "obfuscation",
+          "github-abuse",
+          "npm-packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "80a3d2877813968ef847ae73b5eeeb70b9435254e74d7f07d8cf4057f0a710ac",
+        "pulse": "Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+        "tags": [
+          "credential-theft",
+          "supply-chain-attack",
+          "ci-cd-compromise",
+          "bun-binary",
+          "sap-cap",
+          "obfuscation",
+          "github-abuse",
+          "npm-packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb6eb4154b03ec73218727dc643d26f4e14dfda2438112926bb5daf37ae8bcdb",
+        "pulse": "Supply Chain Attack Hits SAP CAP and Cloud MTA npm Packages",
+        "tags": [
+          "credential-theft",
+          "supply-chain-attack",
+          "ci-cd-compromise",
+          "bun-binary",
+          "sap-cap",
+          "obfuscation",
+          "github-abuse",
+          "npm-packages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "039e659ade3aa8ee7758c11fdb8fbfffd2491920046d638413cea2042f6d584c",
+        "pulse": "Komari Red: The Monitoring Tool with a Built-in Reverse Shell",
+        "tags": [
+          "rdp-enablement",
+          "credential-theft",
+          "sslvpn-compromise",
+          "impacket",
+          "nssm-persistence",
+          "reverse-shell",
+          "komari",
+          "github-infrastructure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T00:12:39",
+        "hash_type": "sha256"
+      },
       {
         "value": "7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9",
         "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
@@ -23023,477 +23928,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-23T09:02:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e5e72baff4fab6ea6a1fcac467dc4351",
-        "pulse": "The Group Theory Inside Bedep's DGA",
-        "tags": [
-          "domain generation algorithm",
-          "angler exploit kit",
-          "foreign exchange rates",
-          "ad-fraud botnet",
-          "cyclic groups",
-          "cve-2015-0311",
-          "group theory",
-          "bedep",
-          "angler",
-          "dga"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d0fb1b66b6e4da395892327be9f39adb4533e7759ace39f67bdde0bb1cdaef35",
-        "pulse": "The Group Theory Inside Bedep's DGA",
-        "tags": [
-          "domain generation algorithm",
-          "angler exploit kit",
-          "foreign exchange rates",
-          "ad-fraud botnet",
-          "cyclic groups",
-          "cve-2015-0311",
-          "group theory",
-          "bedep",
-          "angler",
-          "dga"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "834b6e5db5710b9308d0598978a0148a9dc832361f1fa0b7ad4343dcceba2812",
-        "pulse": "npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
-        "tags": [
-          "self-propagating",
-          "worm",
-          "icp canister",
-          "pypi",
-          "canisterworm",
-          "credential theft",
-          "npm",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T16:22:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "87259b0d1d017ad8b8daa7c177c2d9f0940e457f8dd1ab3abab3681e433ca88e",
-        "pulse": "npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
-        "tags": [
-          "self-propagating",
-          "worm",
-          "icp canister",
-          "pypi",
-          "canisterworm",
-          "credential theft",
-          "npm",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T16:22:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c19c4574d09e60636425f9555d3b63e8cb5c9d63ceb1c982c35e5a310c97a839",
-        "pulse": "npm Packages Hit with TeamPCP-Style CanisterWorm Malware",
-        "tags": [
-          "self-propagating",
-          "worm",
-          "icp canister",
-          "pypi",
-          "canisterworm",
-          "credential theft",
-          "npm",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T16:22:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "781c19b56fbdb17284707f9026e107f639e5447df7df3b248a5d5a50c4b0806c",
-        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
-        "tags": [
-          "cryptominer",
-          "repocket",
-          "botnet",
-          "linux compromise",
-          "multiple threat actors",
-          "credential harvesting",
-          "systemd-logind",
-          "dnser",
-          "ai-assisted remediation",
-          "earnfm",
-          "fkkkf",
-          "cve-2025-55182",
-          "xmrig",
-          "fh8a7d7m",
-          "data exfiltration",
-          "react2shell"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:09",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d47de3772f2d61a043e7047431ef4cf4",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e1023db24a29ab0229d99764e2c8deba",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "250f3633529457477a9f8fd3db3472e94383606a",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2b12cc5cc91ec483048abcbd6d523cdc9ebae3f3",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bbbca2ddaa5d8feaa63e36b76fdaad77386f024f",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "de0fac2e4500dabe0009e67214ff5f5447ce83dd",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "222e6bfed0f3bb1937bf5e719a2342871ccd683ff1c0cb967c8e31ea58beaf7b",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "24680027afadea90c7c713821e214b15cb6c922e67ac01109fb1edb3ee4741d9",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2588a44890263a8185bd5d9fadb6bc9220b60245dbcbc4da35e1b62a6f8c230d",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "26e8e9c5e53c972997a278ca6e12708b8788b70575ca013fd30bfda34ab5f48f",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2a6a35f06118ff7d61bfd36a5788557b695095e7c9a609b4a01956883f146f50",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "415610a42c5b51347709e315f5efb6fffa588b6ebc1b95b24abf28088347791b",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7391b531a07fccbbeaf59a488e1376cfe5b27aef757430a36d6d3a087c610322",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a0d9366f6f0166dcbf92fcdc98e1a03d2e6210e8d7e8573f74d50849130651a0",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a6871deb0480e1205c1daff10cedf4e60ad951605fd1a4efaca0a9c54d56d1cb",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d186161ae8e33cd7702dd2a6c0337deb14e2b178542d232129c0da64b1af06e4",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ff7b0f114f87c67402dfc2459bb3d8954dd88e537b0e459482c04cffa26c1f07",
-        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
-        "tags": [
-          "docker hub poisoning",
-          "github actions",
-          "mcpaddon.js",
-          "credential theft",
-          "npm propagation",
-          "ci/cd compromise",
-          "canister worm",
-          "checkmarx kics",
-          "vs code extension",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-22T22:57:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b2d9a99de44a7cd8faf396d0482268369d14a315edaf18a36fa273ffd5500108",
-        "pulse": "Beyond PowerShell: Analyzing the Multi-Action ClickFix Variant",
-        "tags": [
-          "scheduled task",
-          "social engineering",
-          "clickfix",
-          "cmdkey",
-          "unc path",
-          "lolbins",
-          "remote dll",
-          "regsvr32"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T03:26:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b2d9a99de44a7cd8faf396d0482268369d14a315edaf18a36fa273ffd5500108",
-        "pulse": "Beyond PowerShell: Analyzing the Multi-Action ClickFix Variant",
-        "tags": [
-          "scheduled task",
-          "social engineering",
-          "clickfix",
-          "cmdkey",
-          "unc path",
-          "lolbins",
-          "remote dll",
-          "regsvr32"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-23T08:56:35",
         "hash_type": "sha256"
       }
     ]
