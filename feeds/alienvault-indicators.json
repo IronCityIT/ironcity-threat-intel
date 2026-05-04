@@ -1,13 +1,45 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-04T13:16:00.994803",
+  "updated": "2026-05-04T19:08:51.442835",
   "counts": {
-    "ips": 60,
-    "domains": 332,
-    "hashes": 518
+    "ips": 46,
+    "domains": 356,
+    "hashes": 673
   },
   "data": {
     "ips": [
+      {
+        "value": "194.38.11.3",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "96.9.125.227",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
       {
         "value": "38.146.28.30",
         "pulse": "ClickFix Removes Your Background but Leaves the Malware",
@@ -705,281 +737,620 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-29T10:33:42"
-      },
-      {
-        "value": "136.158.24.160",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "112.209.151.78",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "111.235.93.125",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "112.207.101.227",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "112.207.108.30",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "119.111.248.227",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "136.158.27.101",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "136.158.27.72",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "136.32.210.197",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "136.35.103.90",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "184.93.0.17",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "185.193.127.130",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "185.231.33.62",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "24.177.37.97",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "35.139.72.161",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
-      },
-      {
-        "value": "72.180.124.192",
-        "pulse": "Extortion in the Enterprise: Defending Against BlackFile Attacks",
-        "tags": [
-          "blackfile",
-          "data exfiltration",
-          "saas attacks",
-          "unc6671",
-          "extortion",
-          "cordial spider",
-          "the com",
-          "credential theft",
-          "vishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:11:36"
       }
     ],
     "domains": [
+      {
+        "value": "console.info",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "pack.nppacks.com",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "hblnew.ecompk.com",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "ecompk.com",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "hblv2.ecompk.com",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "pkg.author.email",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42"
+      },
+      {
+        "value": "rgedist.com",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52"
+      },
+      {
+        "value": "rebelthumb.net",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52"
+      },
+      {
+        "value": "jdkgradle.com",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52"
+      },
+      {
+        "value": "www.talesseries.com",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52"
+      },
+      {
+        "value": "zero.masscan.cloud",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54"
+      },
+      {
+        "value": "chatgptforchrome.com",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "gosupersonic.email",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "newextensioninstallweb.com",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "notionapp.cn",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "pic-editor-chromeextension.uno",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "vomet.ru",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "xuix.top",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "api.reverserecruiting.io",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "banana.summarizer.one",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "mcp-browser.qubecare.ai",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33"
+      },
+      {
+        "value": "zimbra-beta.info",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "check.office365-update.com",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "nslookup.dnserver.life",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "router.dnserver.life",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "microsi0ft.com",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "zimbra.life",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "cert.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "check.dnsmaps.com",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "dns.dnserver.life",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "dns.dnsmap.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "erp.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "news.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "ns1.group-ib.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "ns1.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "ns2.group-ib.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "ns2.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "time.microsofttrends.com",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "update.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "ww12.dnserver.life",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "www.group-ib.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
+      {
+        "value": "www.kaspersky.icu",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27"
+      },
       {
         "value": "trindastal.com",
         "pulse": "ClickFix Removes Your Background but Leaves the Malware",
@@ -6291,306 +6662,3311 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-28T08:06:28"
-      },
-      {
-        "value": "air-upsuomi.fi",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "airupfranceshop.fr",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "airuppullosuomi.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "airupsweden.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "bratziezpuertorico.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "pinkpalmpuffnetherland.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "timberlandsromania.cc",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "ultimateearsindia.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "zapatilasbrookar.com",
-        "pulse": "Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops",
-        "tags": [
-          "fibergrid",
-          "e-commerce fraud",
-          "bulletproof hosting",
-          "shell companies",
-          "stolen ip addresses",
-          "autonomous systems",
-          "counterfeit goods",
-          "fake shops",
-          "afrinic"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:16:02"
-      },
-      {
-        "value": "escaperoomhub.com",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "govbr.icu",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "govbrk.shop",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "government1.icu",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "incometax.biz.id",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "lolpartyanimals.com",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "sjxcrojzkn.com",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "tyjmbeexa.cn",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
-      },
-      {
-        "value": "ywdtwss.icu",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51"
       }
     ],
     "hashes": [
+      {
+        "value": "4bdb7aef96dc04c250cceefa222d7d1a",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "83088e7cb00cf9fab74df2f64b7021b2deef6610",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0ce9b82d290004031b7cc49d724c00011811e1753a283a93a380a311360cfb66",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "78937711bbc74542d304c7a7ea451465a2342438116fb37aa715ccf89b027d04",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "abe9ee9edfc44f7675400207a826c260b2f197d1f93e36010c35d627983e4294",
+        "pulse": "PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers",
+        "tags": [
+          "remote-dynamic-dependency",
+          "phantomraven",
+          "supply-chain",
+          "azure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T14:27:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "91eaf215be336eae983d069de16630cc3580e222c427f785e0da312d0692d0fd",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5e40d106977017b1ed235419b1e59ff090e1f43ac57da1bb5d80d66ae53b1df8",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f3b0da965a4050ab00fce727bb31e0f889a9c05d68d777a8068cfc15a71d3703",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bfd74b4a1b413fa785a49ca4a9c0594441a3e01983fc7f86125376fdbd4acf6b",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "05957d98a75c04597649295dc846682d",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "33c9a47debdb07824c6c51e13740bdfe",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b62c912de846e743effdf7e5654a7605",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f50c83a4147b86cdb20cc1fbae458865",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7b6e6487b803bbe85d7466b89da51a269fa4fc29",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "973f7939ea03fd2c9663dafc21bb968f56ed1b9a56b0284acf73c3ee141c053c",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f2f61783a4a59449db4ba37211fa331",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "676537b0f7707feae0130bbcbdc881f5b4eb3f03",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6f391d282a37b770abcedd08c4c0e2156076cd8e",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8027c1d1ac0fd7d40ee850119c6d4501fbe75eab",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8a030a03570134cee4659b1b1f666f6f48c27fa5",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0b5db31e47b0dccfdec46e74c0e70c6a1684768dbacc9eacbb4fd2ef851994c7",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3c8dbfcbb4fccbaf924f9a650a04cb4715f4a58d51ef49cc75bfcef0ac258a3e",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c907b722c53a5be256dc5f96b755bc9e0b032cc30973a52d984d4174bace456",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bce1eb513aaac344b5b8f7a9ba9c9e36fc89926d327ee5cc095fb4a895a12f80",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cbf4cfa2d3c3fb04fe349161e051a8cf9b6a29f8af0c3d93db953e5b5dc39c86",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4c66950d791ff5d39d53ffcd0b52a64d",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "61d7b2c7814971e5323ec67b3a3d7f45",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ce35c935dcc9d55b2c79945bac77dc8e",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "720e6abf3befb585164450325246fe9cb000268f",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7637ee2925c88110fc15a77c120bf70dc66e84a7",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dd5bb0609b92163d8834a37a517885ce0b512938",
+        "pulse": "Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and macOS Backdoors",
+        "tags": [
+          "pypi",
+          "pondrat",
+          "supply chain attack",
+          "citrine sleet",
+          "applejeus",
+          "poolrat",
+          "badcall"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-04T06:08:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b14ca5898a4e4133bbce2ea2315a1916",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8f1af2175403195726957dc58fe64821",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c78c6f9b78e9503ab1a079010cf12a6182ec4d43",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2d0177a00bed31f72b48965bee34cec04cb5be8eeea66ae0bb144f77e4d439b1",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57cd5721bae65c29e58121b5a9b00487a83b6c37dded56052cab2a67f90ea943",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "74ac41406ce7a7aa992f68b4b3042f980027526f33ec6c8d84cb26f20495c9dc",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9c23c65a8a392a3fd885496a5ff2004252f1ad4388814b20e5459695280b0b82",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d8d84eaba9b902045ae4fe044e9761ad0ce9051b85feea3f1cf9c80b59b2b123",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1e8a11249ac38ca948a10308cc333a47",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bf2191620c2cca5f8238834149ba470",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "abfe90bd06b0781a075ed23757822816",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d69cc848443b63eb0ae8d05a6ecfba5e",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4d9ae84166f2083a1ee7f3e7a0b3581e4b41bc4b",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7f58210fa9fb9a154a8c9b4d595f10c3ef7f79ec",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a225c68ddfaa81bc3f13bbfc65a85b4e047e8aa5",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "afce743ccdd089a4132aad647ed47ba13b3f83b0",
+        "pulse": "Harvester: APT Group Expands Toolset With New GoGra Linux Backdoor",
+        "tags": [
+          "microsoft graph api",
+          "harvester",
+          "gogra"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e8a3e804a96c716a3e9b69195db6ffb0d33e2433af871e4d4e1eab3097237173",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d28f0cfae377553fcb85918c29f4889b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "df218168bf83d26386dfd4ece7aef2d0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "32e24780735a0148c3cc4ce7dda30ed9365397a9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4a3418d78d8fe36b39d1ee5435796369b88a8762",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "816d7616238958dfe0bb811a063eb3102efd82eff14408f5cab4cb5258bfd019",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a313840d25adf94c7bf1d17393f5b991ba8baf50b8cacb7ce0420189c177e26",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "539c228b6b332f5aa523e5ce358c16647d8bbe57",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e9dc058440d321aa17d0600b3ca0ab04",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "598555a7e053c7456ee8a06a892309386e69d473c73284de9bbc0ba73b17e70a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9f7835b3cdc7cbc641904b1923d7de4a72b3c437",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b214bddaab130c274de6204af6dba5aeec7433da99aa950022fa306421a6d32",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "205818e10c13d2e51b4c0196ca30111276ca1107fc8e25a0992fe67879eab964",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "987b65cd9b9f4e9a1afd8f8b48cf64a7",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f1cbc3d99558307bc1250d084fa968521482025",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c7d994eb2042633172bd8866c9f163be531444ce3126d5f340edd25cbdb473d4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "44bd492dfb54107ebfe063fcbfbddff5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b3774ba01a3096348fd76a7072407b9f07bb9589e0f5ba31ca576689bbbe94e4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "274ca13168b38590c230bddc2d606bbe8c26de8a6d79156a6c7d07265efe0fdf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c41216eee9756a1dcc546df4fe97defc05513eed64ce6ac05f1501b50e6f96cc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "99c4401366ad7e561ce3ac8e5bb9a7a8144aa3ea",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "97e045bc056b5f68f18ea4fbbb9cc64a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "207b11f7dc4f17e4e5a9c25dbfb6a785a7456d7c381ecea7c729d8d924be1fb9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8729815f87f4186fd46d52418c1b7ae2a54aebcf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6ce228240458563d73c1c3cbbd04ef15cb7c5badacc78ce331848f5431b406cc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5be325905df8aab7089ab2348d89343f55a2f88dadd75de8f382e8fa026451bd",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "58bb9dab4e9b3aa2fd1e7a7b17d2eeb1",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "23516ea1f2cc771f705807c2fc7d163e",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab06eeb603656d3943cd30396f82a45f",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d611f824074a57e7fd1d08341edeb559",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1a12519bdeb372e8b1836d78ec61617bbac166aa",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b67a2f9d9de2135617caea8d4a7488e2a962e3e2",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e43d7a6ad722d285813afb9eefe53d264af6948b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0b679027e38f3d9ca554085be0e762c651e83e6414401b56635cdf3765ca1dac",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0ce7badb26174b6129fb13d7e255e582f84d8aaedeabcd02c80d84a609144068",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1433aa8210b287b8d463d958fc9ceeb913644f550919cfb2c62370773799e5a5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1588023393eb6b4d9433d539d303ecb56b6c3630e860f94d1a137834bdedf2bd",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35f28a31a47b0bcd92722265473d66ffef6c4bd460c71c36b57df2ac0d02f671",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "396aa1f8f308010a3c76a53965d0eddd35e41176eacd1194745d9542239ca8dc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48f3d66492a494965e7039079158e2fee552aaab517d1a55352209c9eedcb765",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "49a7b3cf426d1f35a2138c0a6cec397688d223d7f2bcbbeed53b511a328a97be",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4a44d0c6cf5de515dd296f05ff6674d1a340fccf6b4c11612d27be2d3baa82b0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4adbb1906762c757764ffc5fa64af96e091966f4f5a43aae12fcc4f05f1c26b5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "647b2f12486343fe065dc4abbb11e2338589eb099c72792b5a05e64a5e2937fc",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6688fb3039ad6df606d76a897ef1072cdc78b928335c6bfa691d99498caf5c4b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6bac99f56e54d5195783513ae6954a4a8509d7bc397c94f405266b5df9cd96cb",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c31dd44b29b5f87030caececc616cf366badeff5a7e4c9933aa5fa6445a0c7a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72fc3d03065922b9a03774bbd1873e5e7f3a5a2abf5dcf7bfb2e98aceed53a9d",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73cd405b5bfc99ec5cf33467d4be7fc7e39ae18337568ee10173c17ba6e8f0d7",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "771de264c5d7e1e5ac85f00c42e9fe3b439bcbd4f9aa11e4fd7bc0d87fa2344e",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "87bf4b152d9548f415f12f353f988b5442729e7f24e2902ddfd0baa4a944354a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8a2f4907159a68867b22bc772590ebcafcfa656a23951228ecd89e4f598472b0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "99c4775ed813f354c9e53f42797226d82b26f44d19e81036c9e55222d1744189",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a18555c1ca53d4826191a30889d82205a304932f997baec755c98ddad4326cb8",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b066ca2702853c2fcbf686897c18f6d315be7ae753007ac2c1d73c87b0a30de9",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c64964944b4c1f649ae8f694964b3a212dc1028341ab71836306a456fba0b3f4",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d4339a5b9d15211dbc85424cf7fa8ff825033ea3378506d8ecb19b016db5b4ff",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d833e8fc97b3c865ebfb96a48da9ec446148cb5ad7e66ca5c47cd693f7923888",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df5a574254637d2880633b0582e956b23f66efc6781e825c65e1ccfaa6c58809",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eee885e5dae750848d0903d179cacd81149ceecec83c2ec4ad4545531de3cfdf",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f27eab3157451e31db71169e71f76d28325193218f9dc8f421136d4a20165feb",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f5390674f0f49fe8af116396828c3de6729347ebc3c772d87618e55629aec06c",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9b1ae658c91d5883d7743130c6ca0523",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b9b514e817a9e1cc2e86e3c00b555873",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "397a5701384f1ec1ded95f71dc69c0903935a9ad",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "92862afc2fb4c2e5d624d7e1b1ee2d9f0692b6f6",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "957f2d9e3370212548a57020233e6ba7",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fad7bc52b93328305f4bd52fe1ca498a",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5d275449228e6464410aaefc58d7f3732e279fad",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ea5cd55a44b8be532af602002f498717fc192818",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "716c04b0eaa8106b542d4041ad065ef5",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c48b572a659a1ade4190421ab2280d87",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1ca08190c945786c974156f75262d4fd55a868b0",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e61f7aca50ca1eb9857dadec2f601a113ade907c",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dc6252f2be3256e4202e46e6ffd4383b",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "239e671ea09e4c5154ffb3ed2a78aac1139ed3ef",
+        "pulse": "Trigona Affiliates Deploy Custom Exfiltration Tool to Streamline Data Theft",
+        "tags": [
+          "trigona",
+          "malextractor",
+          "gogra",
+          "dumpguard"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T17:53:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e69bf4b3e84e7951a7b4ded8fee8822c57630cf8",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e8a812c5ea7d8c7ed642b0d82754ced6a99025b0",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "50212a875643520353df158196b9b3be4595094125ad8d2d2c48bdd9cb04ce1f",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "66664a49edbcee0ed0d8365839707916e92d3aa06e7f26f33c9dcc58e5fc1ef3",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "832a976d1a8d54e296e8479aedbd89fa24baa02b8409a78bf06d4d03340881bd",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "907aec5b1288057a3e0885226918b6930a62a0f348ce23de026a683238c7903e",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b084743bd16043461e68b604dde80a8b386b405eae6f66c1103fb4fd6831d4a7",
+        "pulse": "Mini Shai-Hulud Spreads to Packagist: Malicious Intercom PHP Package Follows npm Compromise",
+        "tags": [
+          "credential theft",
+          "mini shai-hulud",
+          "supply chain attack",
+          "intercom",
+          "packagist compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-01T08:50:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "598f8a39b021cf56d33432b6f67f7660",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9bd71891febd47b6a7d9ef1f6120662a",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0cf67457352cf82dea4189d9dbd41b8f519dbb81",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7c8bf63a9ba9169d5237acfc683f1bd004349341",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5ae8b2343e97cc3b2c945ec34318b63f27fa2db1e3d8fbaa78c298aa63db52ed",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe64699649591948d6f960705caac86fe99600bf76e3eae29b4517705a58f0e2",
+        "pulse": "Intercom\u2019s npm Package Compromised in Ongoing Mini Shai-Hulud Worm Attack",
+        "tags": [
+          "ci/cd targeting",
+          "npm compromise",
+          "mini shai-hulud",
+          "supply chain attack",
+          "github account compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8ee4ec425bc0d8db050d13bbff98f483fff020050d49f40c5055ca2b9f6b1c4d",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "207b1a60f803d348c795d382f5aed9c3",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "aa72609186042f1d7d01ce070306a9f2",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e27f4feffc1ba6bf4e35aec4a5270fccb636e5cf",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f4b904fb6ba8474cb87f26302b74c4b82c106003",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e512d22d2bd989f35ebaccb63615434870dc0642b0f60e6d4bda0bb89adee27a",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9e18315690f148e1aa39facc39de913266bdcc13",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f5287a33a806b8de0d62ac24edead4dcb9f60c2a",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "69aa94434f545b41198b7d21f9acc71457584e62",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "488ed9ff65652a738042d93678591a579714a791",
+        "pulse": "Inside Vect Ransomware-as-a-Service",
+        "tags": [
+          "breachforums",
+          "supply chain attacks",
+          "ransomware-as-a-service",
+          "vect",
+          "teampcp"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0cbf101e96f6d5c4146812f07105f8b89bd76dd994f540470cd1c4bc37df37d5",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4e38bee33237a8c8b17a2504013e506ca7cbf667a7f68a2d94d75db505c2149f",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "604c7aef72892b56ac23ad54744376574239c8f0651e95dd5b6cf540eb70f7c3",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ac0a312398b3bf6b3d7c5169687ca72f361838bc5a90f2c0dbce2dc8e2094a02",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c9754454efede2dec2fcb856faa40424b8df378706b664a5ae4847fcd0336b53",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dfe307d957724ebe32331f92d53e366b7fa85968a9564c2285c5a0142ac9e1bb",
+        "pulse": "That AI Extension Helping You Write Emails? It's Reading Them First",
+        "tags": [
+          "huiyi",
+          "browser extension",
+          "genai",
+          "remote access trojan",
+          "search hijacker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T23:40:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "40d0f21b64ec8fb3a7a1959897252e09",
+        "pulse": "PyPI Package Compromised in Supply Chain Attack",
+        "tags": [
+          "npm worm",
+          "pypi",
+          "shai-hulud",
+          "ci/cd targeting",
+          "supply chain attack",
+          "github poisoning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f1b3e7b3eec3294c4d6b5f87854a52471f03997f",
+        "pulse": "PyPI Package Compromised in Supply Chain Attack",
+        "tags": [
+          "npm worm",
+          "pypi",
+          "shai-hulud",
+          "ci/cd targeting",
+          "supply chain attack",
+          "github poisoning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:29",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5f5852b5f604369945118937b058e49064612ac69826e0adadca39a357dfb5b1",
+        "pulse": "PyPI Package Compromised in Supply Chain Attack",
+        "tags": [
+          "npm worm",
+          "pypi",
+          "shai-hulud",
+          "ci/cd targeting",
+          "supply chain attack",
+          "github poisoning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:29",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2616e7ec2d6c4b86a7fa1f4a762ae918",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e1bcf36ed2f7a60dd0dde52abf11c942e2657e31",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "23c2ebc8f9bac96b2fbbb9b00b457c48d65a9f66ec24fbfba339eeefd0539ad7",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0c63857269205f6505c259a56ea53b23b2bf7432aabb8647d59b321232ca7e36",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0933fbd16c7a8b70199f5612e147a22c",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "531da3715b1e4fc9baeaa034888ac419",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a85459a1ec90a52b5c1f2f5a12bb2d10",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "128f3ad395f86be6569ef2a957d42902a910de6c",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "211e1fc502152ea272edb5a81a5b4405a28c48f9",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2dc1ad07b7529af3ba5c11a58519681909971a81",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2dd614427b80cdd38e8bbe0ace24a484671c0da2",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "31b3dd9ee46805b0ed6e6dd6a5ee17facadfd2ff",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3229ba46dd54802093c81e6e2123fd1520faf960",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "35cc0b684b0906aed9d672a1a8635510fe91aa67",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "36061be6ccd17e87e3d1ef15f8e7058f279439d1",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3f858c007d4d49dd7fa260bcc786c34d4f78dbf5",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4541e55b70ca12ae4a79e38c0b4c31f067eb5cdc",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "579bc9a640ac939b1f75eda852815f063cebd332",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "824f13f758ce278f72a4aeaf1e15a703d5107dd7",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "861a686461ad830b268977808ba56730616c7684",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8a5ac2682d70eacff7eb554e242227c82e2baa94",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9244cd99a27a8741a78e0b449cea063fdcfb0090",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "95015643ecb3ba321b8cff8eca2907e5356e8659",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9a83466f6c34e588ba3e99d6cbfac0102e173cdd",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ac7ffce58c70fb9f837e11a44d655d6c28e276f5",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b8d586d376b342b08b3dd8a77c788480e025ad12",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ebfd92291714e6d7e57cf4830aa8f87950b796bb",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ec38a56f9368eac67106a4ad61538e12053f03d1",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "03a89ea5a8604e8bc09a4249211e20404a2c7047adda65a57deeb46abb1fb116",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0c8c562ed7343d28c76d93a88bd0534440d0e71292ebcee66314d6d5c2f34403",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0eb72c1f1605d999488d903021d82a9ff4b937e6c1a1da50c55440f018e83ad9",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0eda83335334d3c877578326a5843d3e2a3b745834de27eac00b694262e2b1ed",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0fff684fa209cb79ab1104da3cfbbf4c950078e14e54c2564d130abbd4e464a9",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "165cc3a9a40e04c469e5c818943920f38dc48db2c2365f1a71bb52c9582f0ea9",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "188c72b101cd8ad96ef971e8943bddb3acd9dc45fe1d8719217d171e600a29aa",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1a5da90175ff7b55ddafcdb816adf574b92a112604019b219d82adab820fb3a2",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "26f4c7f37448911310adf20e6e74aac60e92b97591f4ac9e5e21cc503be8da16",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2dd93edc8cc64747a7ca94b6827dc4e5b1e385d493ed4450272dd1dfc52a6255",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3dffbfcb825a70e477474e88b18679557ef467de37fc26e45ddbe572f520c52a",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3f6382418d0137f6ecbef23bfd981938bb86a935b27203f5b053e3710e835f97",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4173c218efe31a6b36df714cf4e1073696f3acbe7edd1b7fcba01e4a2d923a27",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "41f74c3fc32752b5c7b88e7a5723441cb827958bc21b647fffae469407f1ce99",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4f77b4fcfde7abb7e6d0e36104e433abfed3a9d9938bf7fbe0e9d1a0b2ccf265",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "55e929971a7975c7f9dfa4d677d5ec357af23a4ca208ef8f920804743e9011cd",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5bf35daaf26508fc136157818ead48cc5c7fa3a3e6273cde2c757673586a78a6",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5eb2122c4c645543966b07b94faccb5b4697561163382f21fb3b793b0d5cc9fe",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "75d0d5080afd091114818d082babc418ccb43d545d9fda1fb715af6c129b6e51",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "83e9f99a377566cf30df0ad71ca8522613b14d45e3e2eaead4a336509d26bef3",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "884601e54fc2e6833167d33436b68e952020cdb99507b2807feec1bc086027c2",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8df8282da75ebe6cf1a535739991e3f298f903974a05966503d7fd2919ecea4e",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "97ea803792929f802388e9d0e75a3c79c28260d589bc2d87902c73c729ed6f9e",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "996fb4f7d1b3150490380c4ce9c7c3d60fac33bd6a7c1e3a46487021964cf3bb",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9dda789b85fce6294f91a79b7271a93de36dfcef21fc680dc2bf4235141e47df",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a5477ff2b3d6d475558abf03878dff0cca98c20c17aae35a8ad8e99e03293f89",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a65483b86847995a67de0fcb2a5487cdbc96361cb2e9dea8ab74005c8fef65ce",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b8a2a9ca58fb2b383a52f8be75cae44f08f2c3f8907bd8661ee8a4a78fd7dda3",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c935ded2729f0513672e261170d73d4e0e13a9b837f104d840c44a39b84c0d71",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d083b6d82765faffe738ebd0678c8eb01c1f1fac8d3c51ffdfe40e34da3ce902",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e12c2682a7949661fa99bf46723a1405c658d109411de3bf6cb04c57337cc020",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eff699456ed4c5938d53afdb8df0836d7cb953ed933ed1a2899ec43f6f9e540b",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f19a67b9c8805b335676f0fc17495839327f8135f791aa11d5d9adba2c83cc1c",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f43748a809680a23272ec684a8cce9af071ad165c3b01acdcd7fe501a0949745",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7c698dd4090564b179309c2a64266424",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e5e0e0c0fadacee1105bd340fa1b2e6d",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "82eb4b752c60b99b451f7a53b8ac856afe9deb88",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2870caa5f016822fdaf16e3c470f96eefd4b93f",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2e8f9fd8213d9f69044101cd029fd1797ec7afbcad40bb1f04eb93d881c04cd2",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4264cfb3980a068ab36d842c7ee0942f40aaf308f31ed48b41e140e59885f5c8",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8d9433e9734dd629d74abe41ff7024c84b3a28c45671df8f4baed344de733c78",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d67197bf407e74ecd77be89d0da107d5f7d37c21bdf55456c6b57df65cf429b3",
+        "pulse": "Inside Shadow-Earth-053: A China-Aligned Cyberespionage Campaign Against Government and Defense Sectors in Asia",
+        "tags": [
+          "vshell",
+          "proxylogon exploitation",
+          "godzilla",
+          "exchange server compromise",
+          "ringq",
+          "godzilla webshell",
+          "shadowpad",
+          "noodlerat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-30T19:11:27",
+        "hash_type": "sha256"
+      },
       {
         "value": "bde21d8be65d31e1c380f2daae2f73c79f3e1f4bca70fb990db6fdf6c3768c92",
         "pulse": "ClickFix Removes Your Background but Leaves the Malware",
@@ -13946,1196 +17322,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-28T08:11:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4ebfe8f66ca7e9751060b3301b5e8838d6017593cdae748541de83bfa28183bd",
-        "pulse": "73 Open VSX Sleeper Extensions Linked to Malware Show New Activations",
-        "tags": [
-          "open vsx",
-          "glassworm",
-          "supply chain attack",
-          "vsix payload",
-          "impersonation",
-          "sleeper extensions",
-          "transitive delivery",
-          "ide compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:18:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "28d59940483fa3bea0599ce55aa86245",
-        "pulse": "73 Open VSX Sleeper Extensions Linked to Malware Show New Activations",
-        "tags": [
-          "open vsx",
-          "glassworm",
-          "supply chain attack",
-          "vsix payload",
-          "impersonation",
-          "sleeper extensions",
-          "transitive delivery",
-          "ide compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:18:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c074880abdbf87a9fd2e1393d4cb36c32f1f8f58",
-        "pulse": "73 Open VSX Sleeper Extensions Linked to Malware Show New Activations",
-        "tags": [
-          "open vsx",
-          "glassworm",
-          "supply chain attack",
-          "vsix payload",
-          "impersonation",
-          "sleeper extensions",
-          "transitive delivery",
-          "ide compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:18:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1b62b7c2ed7cc296ce821f977ef7b22bae59ef1dcdb9a34ae19467ee39bcf168",
-        "pulse": "73 Open VSX Sleeper Extensions Linked to Malware Show New Activations",
-        "tags": [
-          "open vsx",
-          "glassworm",
-          "supply chain attack",
-          "vsix payload",
-          "impersonation",
-          "sleeper extensions",
-          "transitive delivery",
-          "ide compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:18:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "97c275e3406ad6576529f41604ad138c5bdc4297d195bf61b049e14f6b30adfd",
-        "pulse": "73 Open VSX Sleeper Extensions Linked to Malware Show New Activations",
-        "tags": [
-          "open vsx",
-          "glassworm",
-          "supply chain attack",
-          "vsix payload",
-          "impersonation",
-          "sleeper extensions",
-          "transitive delivery",
-          "ide compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-27T16:18:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1af5b25acd2df31f44a54fc8dcd85287",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "56cf8418fb7b599fe4df5e4b879ecb813132109a",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "244a2f4dc256f6d1c3710a2d27656a6bc21ffadca8f3236d63b327ff2f0b33db",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c4386cecc89f5f2dee323f2a1e0d9f42a28905be812de14173ca7ee9fc64e72",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "55b99f0d438800cad8288d81d2808728ce1bec8c22c5346a38a513dc6728b4ba",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "12a0d942652609bce7319be6bf0135bb",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "21d9a30074d65babfef9e9e9684c6f5a",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4f481a449ad050fea9ca3900118e5676",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5d29469672159fdb5d4aa4e02d36f60b",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6533bcf04eb69e5119ceec156c41897f",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7a1c4ccea43f902d9c9f4a24f3524567",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dfb07265ffe8a82a3d912c3a3fee5382",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65c67def0ae80c05200965934455a05",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "md5"
-      },
-      {
-        "value": "092d8e457cb9c54a757dad082740a45db67812ed",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0a99da9359d4cc823f72853b7d9c974bd196305c",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "10adbfaccff4ada35f37cf88a7f869b88429b93f",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "11a1e60fc3d57ea652903239d46d245a512d2e53",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "160f9241ff8183a18b0f1453622c9432b087bf41",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1eb13ad1f827e6ef72eb8a0023ef131c26f12e3e",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2328e572532f382e237e7a1b74cb0531308f5704",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "25510d914499b6a746c0317c7081e3c0bf564aa6",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2fa212ee231819a2343b60966cf53e1a8f8df927",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3d1f8fef94c1b1ffa7829e030eba3bcfca737110",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "469e41dde5a31bc91af8aa5db807f9f29f85510d",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4e6755a713bc7192f075312c1c499ac4ee9d70c2",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "51a0832fc378d08566427bf0510e1d7f922a8ae3",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "55358216844a60a5a0e895e858e3d75b8501fbb7",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "589a931024960b253a34e3fca58c89368822d8fc",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5bd82a88950e029312bcf55b1bb6528fe96a3046",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "62b5a6c1a45868b2454544888aef9ce18b4367d7",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6b00123ad0510bb5df667a05b518a3573ac90546",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6f93afebb90913e4410fd24580bae44a9ef852cc",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7974bad0b55d681bd269d0367d38f3a49f99aacd",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7b1bf4df1c8fc077d381fdb30962dfdeb6ccbaa5",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7b772c2c24c5afda17d3aab2cb8c50f9099e0d65",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "80c5d1ae1ee86f607fdefbbc5f88c5539f8582b5",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8a5907b4b4ab7b39aa3390249abcaa14e1618139",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8aaac65ccfb4670650c090fdc8d140713fa45bf9",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8abe494fd4143e77e1745b2576fc75d0d5ffe05c",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8e32b303226f6016726315be2b7dda39aadd984e",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8e65b41dc6b1c03ce3f9c9dd6c3f2dc44af53a43",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "93ffb9a59a3658dad9febc1221922832a5edf5b4",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a0233e66704b087c356dc5f30bd292ce4839be1a",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a3973e372f847d3ded1c877ad097c036c4cf43b2",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a4636d1c7d68b844748e68166f1985d2b594b4f3",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a74c078f662a78cd11d38c032689a0f5e9e53962",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b1b9a016b3fda14e3537dd73d15dcff83b168895",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c176ea706e8f0d5cc22b226634d3853e2509279b",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c8a3223bb0991c81d774a94316bccc64fb25b2a8",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c9559deb931b5ac9e1c491dd464ef331001a0851",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "cbc31f3fbbadcd49122f1beac28f648f7d98cc50",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d5e18be55d01e3c7b301bcdefe44dade963bad44",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d9cd907d51cfd082796eb636abe2e43f32bd0247",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dae74b42e4a6f123f0c2329f772c70af8dec2d71",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e5c8f43fb31d1d627b42273d03ec15723f80733a",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f46d3dab258eddfcb1a10d531d8ab7992357b2cd",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f95cd0d3244a09b61d39a827505ef061a9f04a38",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "fc5d4b1fb2bbc690016ff51567162865f3a0485b",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ff848dacc5062ed4c2eb51614c47a5d851dab6a0",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "516dd5f495d697b199a9e7cc71f686c992b65d14b57c55d91068c0909bcc7b00",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "677e42b1d3d7bfc87e5dddd1c7aad2c7142afb26e7ac0ace53f2996c3005ff90",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9d7f8e321082b46dcf625d7b24dcb9c72710e87a1a66cccd265cdbe926e78813",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a23640778b836420eecb5461938a98ad3588d2044359daf6b4b25ecaf35c996e",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b1398d15d45d439a2abd5f7341b870de0818df357ebc78e7410465b74409dfa5",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ca11ac11dc9dd8d2c6b95bc422a4c2f3d986f8dd5e508fb8d6e2b8aa7b4d5a31",
-        "pulse": "A cunning predator: How Silver Fox preys on Japanese firms this tax season",
-        "tags": [
-          "targeted attacks",
-          "valleyrat",
-          "financial lures",
-          "hr lures",
-          "tax season",
-          "spearphishing",
-          "remote access trojan",
-          "japan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-28T16:12:51",
         "hash_type": "sha256"
       }
     ]
