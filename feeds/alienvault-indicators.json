@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-06T13:22:55.713566",
+  "updated": "2026-05-06T19:16:13.240891",
   "counts": {
     "ips": 54,
-    "domains": 216,
-    "hashes": 676
+    "domains": 219,
+    "hashes": 670
   },
   "data": {
     "ips": [
@@ -901,6 +901,48 @@
       }
     ],
     "domains": [
+      {
+        "value": "filebulldogs.com",
+        "pulse": "Seqrite: Advisory: Middle East Conflict & Cyber Escalation",
+        "tags": [
+          "apt",
+          "muddywater",
+          "seedworm",
+          "government",
+          "iran",
+          "stryker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-06T15:04:38"
+      },
+      {
+        "value": "e-kflower.com",
+        "pulse": "Seqrite: Advisory: Middle East Conflict & Cyber Escalation",
+        "tags": [
+          "apt",
+          "muddywater",
+          "seedworm",
+          "government",
+          "iran",
+          "stryker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-06T15:04:38"
+      },
+      {
+        "value": "tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io",
+        "pulse": "Seqrite: Advisory: Middle East Conflict & Cyber Escalation",
+        "tags": [
+          "apt",
+          "muddywater",
+          "seedworm",
+          "government",
+          "iran",
+          "stryker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-06T15:04:38"
+      },
       {
         "value": "brnettlix.com",
         "pulse": "Iranian-Nexus Operation Against Oman's Government: 12 Ministries Hit and 26,000 Citizen Records Exposed",
@@ -14310,108 +14352,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-30T00:12:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cd08115806662469bbedec4b03f8427b97c8a4b3bc1442dc18b72b4e19395fe3",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5870a0bf82bbdf2687d8dce89dfa668f",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4ce6ad55d8912aacc4ae4c572237131d0b7ba4b5",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "23b1ec58649170650110ecad96e5a9490d98146e105226a16d898fbe108139e5",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ab4c4aebb52027bf3d2f6b2dcef593a1a2cff415774ea4711f7d6e0aa1451d4e",
-        "pulse": "TeamPCP\u2019s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM",
-        "tags": [
-          "base64 encoding",
-          "pypi",
-          "persistence",
-          "steganography",
-          "credential theft",
-          "supply-chain attack",
-          "wav files",
-          "multi-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-03-30T18:06:15",
         "hash_type": "sha256"
       }
     ]
