@@ -1,22 +1,128 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-07T08:08:59.028434",
+  "updated": "2026-05-07T13:22:34.843022",
   "counts": {
-    "ips": 52,
-    "domains": 212,
-    "hashes": 630
+    "ips": 48,
+    "domains": 221,
+    "hashes": 651
   },
   "data": {
     "ips": [
       {
-        "value": "45.76.155.14",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "value": "45.142.36.76",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
         "tags": [
-          "React2Shell",
-          "Kubernetes"
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
         ],
         "source": "alienvault_otx",
-        "created": "2026-04-07T09:52:00"
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "89.108.110.154",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "92.62.113.232",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "217.156.122.57",
+        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
+        "tags": [
+          "etherhiding",
+          "browser credential theft",
+          "ethereum blockchain c2",
+          "remus",
+          "tenzor",
+          "cryptocurrency wallet theft",
+          "application-bound encryption bypass",
+          "information stealer",
+          "lumma stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:00"
+      },
+      {
+        "value": "217.156.122.75",
+        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
+        "tags": [
+          "etherhiding",
+          "browser credential theft",
+          "ethereum blockchain c2",
+          "remus",
+          "tenzor",
+          "cryptocurrency wallet theft",
+          "application-bound encryption bypass",
+          "information stealer",
+          "lumma stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:00"
+      },
+      {
+        "value": "217.156.122.12",
+        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
+        "tags": [
+          "etherhiding",
+          "browser credential theft",
+          "ethereum blockchain c2",
+          "remus",
+          "tenzor",
+          "cryptocurrency wallet theft",
+          "application-bound encryption bypass",
+          "information stealer",
+          "lumma stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:00"
+      },
+      {
+        "value": "45.151.106.110",
+        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
+        "tags": [
+          "etherhiding",
+          "browser credential theft",
+          "ethereum blockchain c2",
+          "remus",
+          "tenzor",
+          "cryptocurrency wallet theft",
+          "application-bound encryption bypass",
+          "information stealer",
+          "lumma stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:00"
       },
       {
         "value": "185.196.10.136",
@@ -651,216 +757,138 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-04T10:30:23"
-      },
-      {
-        "value": "185.82.127.20",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "31.172.71.5",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "185.200.177.10",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "159.69.50.242",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "193.200.17.163",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "194.61.121.178",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "41.111.178.225",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "72.62.35.76",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "89.116.111.143",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21"
-      },
-      {
-        "value": "176.65.139.134",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02"
       }
     ],
     "domains": [
+      {
+        "value": "process.name",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50"
+      },
+      {
+        "value": "process.parent.name",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50"
+      },
+      {
+        "value": "sfrclak.com",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50"
+      },
+      {
+        "value": "kleymarket.ru",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "cdn.kleymarket.ru",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "helper.zulipchat.com",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59"
+      },
+      {
+        "value": "acceptable-use-policy-calendly.de",
+        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
+        "tags": [
+          "aitm",
+          "financial services",
+          "credential theft",
+          "healthcare targeting",
+          "mfa bypass",
+          "captcha evasion",
+          "phishing campaign",
+          "session hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:25:59"
+      },
+      {
+        "value": "cocinternal.com",
+        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
+        "tags": [
+          "aitm",
+          "financial services",
+          "credential theft",
+          "healthcare targeting",
+          "mfa bypass",
+          "captcha evasion",
+          "phishing campaign",
+          "session hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:25:59"
+      },
+      {
+        "value": "compliance-protectionoutlook.de",
+        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
+        "tags": [
+          "aitm",
+          "financial services",
+          "credential theft",
+          "healthcare targeting",
+          "mfa bypass",
+          "captcha evasion",
+          "phishing campaign",
+          "session hijacking"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:25:59"
+      },
       {
         "value": "filebulldogs.com",
         "pulse": "Seqrite: Advisory: Middle East Conflict & Cyber Escalation",
@@ -3784,6 +3812,234 @@
     ],
     "hashes": [
       {
+        "value": "07d889e2dadce6f3910dcbc253317d28ca61c766",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d6f3f62fd3b9f5432f5782b62d8cfd5247d5ee71",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "59336a964f110c25c112bcc5adca7090296b54ab33fa95c0744b94f8a0d80c0f",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e49c2732fb9861548208a78e72996b9c3c470b6b562576924bcc3a9fb75bf9ff",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7658962ae060a222c0058cd4e979bfa1",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7a9ddef00f69477b96252ca234fcbeeb",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "13ab317c5dcab9af2d1bdb22118b9f09f8a4038e",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ed8560c1ac7ceb6983ba995124d5917dc1a00288912387a6389296637d5f815c",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8c782b59a786f18520673e8d669e3b0a",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ae39c4c550ad656622736134035f17ca7a66a742",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "db7f4c82c732e8b107492cae419740ab",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b0e0f12f1be57dc67fa375e860cedd19553c464d",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6483c004e207137385f480909d6edecf1b699087378aa91745ecba7c3394f9d7",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "90e8e227ba8bef0ea7e0212b5b1e0d4c",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dbd62d788ce8dcaa96116a73f70ee24813d59428",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e56bafda15a624b60ac967111d227bf8",
+        "pulse": "Detections for the Axios supply chain compromise",
+        "tags": [
+          "supply chain attack",
+          "post-install execution",
+          "axios"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T11:10:50",
+        "hash_type": "md5"
+      },
+      {
         "value": "2c1d348131c4e3e1cb00002f226bad7e",
         "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
         "tags": [
@@ -3836,6 +4092,817 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-07T00:57:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2064ef387ac9e51ba72b32004d99e8a0b291dbab24ed8db30f437abf1b40cb49",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57e26f6e3b311a1064c946b69159ee05abedf9228b2f95c65536429e7ac7fb24",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "89f8e42c825d09a0a50e99bbf7304d7037be33ea362a57d34f87fa7981f80126",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a7bd8869293212e1671df90d2d41b96d4933eb9408b1111bd830e111a91bb202",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fdef9e489f773319f55f92f712d1b7b5447d59a632b8f4173d1b161d3759ad92",
+        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
+        "tags": [
+          "c2 exfiltration",
+          "multi-stage payload",
+          "aviation sector",
+          "unmanned aerial systems",
+          "spear phishing",
+          "rust malware",
+          "operation silent rotor",
+          "moscow summit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba2f1868f2af9e191ebf47a5fab5cbab",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1995682d600e329b7833003a01609252",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5152410aeef667ffaf42d40746af4d84",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "38b75af6cbdb60127decd59140d10640",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1c0a5b35c003ac3182c589c6e014a42678a0647f",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8a4a444761ca8836e6022af4a0e86a2be031aaa6",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "08a75a092e9793b6d3eb473c246d3c5e4750cd525342276d8bf1ab7d1fe45112",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d05d6b08078b3d153ab821cd4dd6b5f5bd390c007c6d01653f459c35b917b80c",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ccc71ba929add58ad89dff289295659b69ad43a5",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "437a824e63975a350108e20881020ad288fb6343d4f61fff7d64811270219dea",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "02f4701559fc40067e69bb426776a54f",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a5a06fa2e74a57fd5ed8e85f04a483a",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "22538214a3c917ff3b13a9e2035ca521",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "454b85dc32dc8023cd2be04e4501f16a",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "48be833b0b0ca1ad3cf99c66dc89c3f4",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5598baa59c716590d8841c6312d8349e",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "652f4da6c467838957de19eed40d39da",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "968782b4feb4236858e3253f77ecf4b0",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a26019b68ef060e593b8651262cbd0f6",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b55b6e364be44f27e3fecdce5ad69eca",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c33782c94c29dd268a42cbe03542bca5",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e200f2f6a2120286f9056743bc94a49d",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e4a0ad38fd18a0e11199d1c52751908b",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fce65c540d8186d9506e2f84c38a57c4",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "05391e972db01ed9d55b202b9ae3feec700eabf5",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "06adabcb962b5cf5d9fb63542518a5b80b5a9ad4",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "67b2e7eb4255f6b990f1bd9917ea54228af2c6a1",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6a8d20cf325b766e69f6133b3a7325034b76948c",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "93708b635f11f182d5541274d0ac7b7d5baf3795",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c7a2684ec7dc6484655e8dfe5b184341c416a3e0",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b5225816089467aacdcd201a44989a2f78491c29f6fad41b52731bfefc1b886",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "50d2fb75ef2bb56915e28595574663d8a1e0193e335e3e4f0ad2c0a4770fd787",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "68dfa75e916f4fb44a071851965493a324d331e37b791e21c45feba54aec23d8",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "be19d98b5449a052c03b189d9687543d619c8c1893f12709ef6bef6ff7657510",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c7e93e50f1f241e63e738925e4f8c7f8ee004506723c2b49ed0789100f4ce4ba",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f85f44ebdd341f22f0cbd408ee40f162d697fc48c3824c897b61980fa38a4d92",
+        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
+        "tags": [
+          "pypi",
+          "dropper",
+          "wheel packages",
+          "supply chain attack",
+          "python packages",
+          "zichatbot",
+          "zulip c2",
+          "cross-platform"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T15:01:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "95daa771a28eaed76eb01e1e8f403f7c",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cdd5717fd3bfd375c1c34237c24073e92ad6dccc",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7ea5afbc166c4e23498aa9747be81ceaf8dad90b8daa07a6e4644dc7c2277b82",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5e1f61b9c1c27cad3b7a81c804ac7b86",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c1888ba296f57e87a84411ddfce3cabc4536b142",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "180e93a091f8ab584a827da92c560c78f468c45f2539f73ab2deb308fb837b38",
+        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
+        "tags": [
+          "critical infrastructure",
+          "aerospace",
+          "remus",
+          "data extortion",
+          "apt",
+          "espionage",
+          "supply chain attacks",
+          "aviation",
+          "lockbit",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-06T10:26:03",
         "hash_type": "sha256"
       },
       {
@@ -12555,960 +13622,6 @@
         "source": "alienvault_otx",
         "created": "2026-03-31T16:14:19",
         "hash_type": "sha1"
-      },
-      {
-        "value": "4ec3c90846af6b79ee1a5188eefa3fd21f6d4cf6",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "033cb31c081ff4292f82e528f5cb78a5",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "03816462daba8cc18a6c4531009602c2",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3b0547c444735dba54ea6fce8539cf15",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "60c70cdcb1e998bffed2e6e7298e1ab6",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "65099f306d27c8bcdd7ba3062c012d24",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "68192ca0fde951d973eb41a07814f402",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "71812ec5e06678096394b238210f0f7c",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "835b0d87ed2d49899ab6f9479cddb8b4",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8398699ddfc87ddd3e26adb201242160",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8759e79cf3341406564635f3f08b2f33",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "abd2f1b89b2c676d3441a793f65ffaee",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bb3d90df04e437486c04e77c411cae4b",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d1389a1ff652f8ca5576f10e9fa2bf8e",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e03f5aeb2365c50a51f9088dcede68d5",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f2b46e610889224bd54583d8a332a464",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f4e9a3ddb83c53f5b7717af737ab0885",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "60c70cdcb1e998bffed2e6e7298e1ab6bb3d90df04e437486c04e77c411cae4b",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "835b0d87ed2d49899ab6f9479cddb8b4e03f5aeb2365c50a51f9088dcede68d5",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "65099f306d27c8bcdd7ba3062c012d2471812ec5e06678096394b238210f0f7c",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d1389a1ff652f8ca5576f10e9fa2bf8e8398699ddfc87ddd3e26adb201242160",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "75fec5afb2deebab6dd9c16d9de35032",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a727362416834fa63672b87820ff7f27",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c4379da51e8b9e86ec3de934f9373f4a",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "69ede7e341fd26fa0577692b601d80cb44778d93",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "86596a5c5b05a8bfbd14876de7404702f7d0d61b",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "033cb31c081ff4292f82e528f5cb78a503816462daba8cc18a6c4531009602c2",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4cb091e1adf824f406a315a087fa75fa",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ed98c116d49c959383451097ec65c203",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0e7dba87909836896f8072d213fa2da9afae3633",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "608a0b34ab3a1625cb88fcbc9a5e4be809519390",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8759e79cf3341406564635f3f08b2f333b0547c444735dba54ea6fce8539cf15",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f4e9a3ddb83c53f5b7717af737ab0885abd2f1b89b2c676d3441a793f65ffaee",
-        "pulse": "Energy Sector Incident Report",
-        "tags": [
-          "energy sector",
-          "cve-2024-2617",
-          "rubeus",
-          "dynowiper",
-          "lazywiper",
-          "destructive operations",
-          "fortigate exploitation",
-          "combined heat power",
-          "impacket",
-          "renewable energy",
-          "poland infrastructure",
-          "industrial control systems",
-          "wiper attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T10:11:21",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f962cb443975065b91d4512a42a529a091726e1815be28ced0ebb9dff997931d",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a03705fc225dbcec7e3c2f06a258afe81b5d88aaff1368d10dd6ba4f0932be7c",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5c3468e3c7a535b74fa91927fb1572d8",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "78774672884f8cd7593fced3c7d1faa4",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fac068afc5a0361f323f8b2fdbcbfd41",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "98182f78f2ee76f3dffa58c268dd9e653c711ce5",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "da365650e77eaf9d79801d475de7bf2b2a031251",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dbcf1c93634010c7e6131bcdfffa72e30da2376a",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "079ae4f813939dd96b961ae288fb7f930649dfebb4884c13af95309a71f986f5",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "31a60f9e0b5b4f0371f4130a184e27f79cefacb080a6273ccb1c9a908dc6ca9d",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8367daa8ce633724157b8edd21d625de5ac56b8c2d983bbb283836162037f3c1",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fa965ed784f7ec99e21475205cc177bb71ac7550b4015b4a4b3e232f032dcb91",
-        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
-        "tags": [
-          "minecraft",
-          "game server targeting",
-          "ddos-for-hire",
-          "mirai-derived",
-          "vltrig",
-          "xlabs_v1",
-          "mirai",
-          "bandwidth profiling",
-          "iot botnet",
-          "adb exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-29T19:42:02",
-        "hash_type": "sha256"
       }
     ]
   }
