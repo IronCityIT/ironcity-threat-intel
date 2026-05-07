@@ -1,13 +1,23 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-06T19:16:13.240891",
+  "updated": "2026-05-07T01:29:31.911733",
   "counts": {
-    "ips": 54,
+    "ips": 55,
     "domains": 219,
-    "hashes": 670
+    "hashes": 675
   },
   "data": {
     "ips": [
+      {
+        "value": "45.76.155.14",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T09:52:00"
+      },
       {
         "value": "185.196.10.136",
         "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
@@ -3935,6 +3945,61 @@
       }
     ],
     "hashes": [
+      {
+        "value": "2c1d348131c4e3e1cb00002f226bad7e",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T00:57:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9cdbc16912dcf188a0f0765ac21777b23b4b2bea",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T00:57:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "05eac3663d47a29da0d32f67e10d161f831138e10958dcd88b9dc97038948f69",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T00:57:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7d2c9b4a3942f6029d2de7f73723b505b64caa8e1763e4eb1f134360465185d0",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T00:57:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bb470a803b6d7b12fb596d2e4a18ea9ca91f40fd34ded7f01a487eed9a1d814d",
+        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
+        "tags": [
+          "React2Shell",
+          "Kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-07T00:57:14",
+        "hash_type": "sha256"
+      },
       {
         "value": "ecc3611f7dcbaa53acf44e67de2f10d78a26e03b3c77ba28bbd3ee16b2e66437",
         "pulse": "Iranian-Nexus Operation Against Oman's Government: 12 Ministries Hit and 26,000 Citizen Records Exposed",
