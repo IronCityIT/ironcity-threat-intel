@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-12T13:30:28.338797",
+  "updated": "2026-05-12T19:24:54.688126",
   "counts": {
-    "ips": 47,
+    "ips": 38,
     "domains": 257,
-    "hashes": 424
+    "hashes": 380
   },
   "data": {
     "ips": [
@@ -630,187 +630,60 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-06T10:26:00"
-      },
-      {
-        "value": "185.196.10.136",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25"
-      },
-      {
-        "value": "103.27.108.55",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "156.238.224.82",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "45.140.168.62",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "185.238.189.41",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "38.54.32.244",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "45.135.135.100",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "85.209.156.3",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "88.151.195.133",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
       }
     ],
     "domains": [
+      {
+        "value": "timetrakr.cloud",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57"
+      },
+      {
+        "value": "svc.wompworthy.com",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57"
+      },
+      {
+        "value": "git-tanstack.com",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21"
+      },
       {
         "value": "infra-telemetry.com",
         "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
@@ -4620,72 +4493,370 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-05T18:45:01"
-      },
-      {
-        "value": "msiidentity.com",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "trafficmanagerupdate.com",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "www.drivelivelime.com",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24"
       }
     ],
     "hashes": [
+      {
+        "value": "2533307ec1ef8b0611c8896e1460b076",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2f5166086da5a57d7e59a767a54ed6fe9a6db444",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "324918c73b985875d5f974da3471f2a0a4874687",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e25892603c42e34bd7ba0d8ea73be600d898cadc290e3417a82c04d6281b743b",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d587959841a763669279ad831b8f0379f6a7b037dffc19deab5d41f37f8b5ffc",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "da52c20a56cca22ad994a1f3baa8b3bd",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0c9b911935a3705b0ad569446804d80026feb6db3884aeb240b6c76e9b8cf139",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "128b58a2a2f1df66c474094aacb7e50189025fbf45d7cd8e0834e93a8fbed667",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ee7dab4ae4f6d4f16dfabb6f38faef370411a9fc00ff035844e54703b99600a",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "74ab3838ebed7054b2254bf7d334c80c8b2cfec4a97d1706723f8ea55f11061f",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b21c802775df0c0d82c8cfde299084abc624898b10258db641b820172a0ba29a",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bee79c3302b1a7afc0952842d14eff83a604ef00bfdae525176c16c80b2045f7",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6182fd01b14d84723e3c9d11bc0e16b34de6607ccb8334fc9bb97c1b44f0cde",
+        "pulse": "Iran-Linked Hackers Breached Korean Electronics Maker in Global Spying Campaign",
+        "tags": [
+          "iran",
+          "espionage",
+          "mois",
+          "credential-theft",
+          "dll-sideloading",
+          "muddywater",
+          "chromelevator",
+          "seedworm"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:58:57",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "79ac49eedf774dd4b0cfa308722bc463cfe5885c",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ab4fcadaec49c03278063dd269ea5eef82d24f2124a8e15d7b90f2fa8601266c",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2ec78d556d696e208927cc503d48e4b5eb56b31abc2870c2ed2e98d6be27fc96",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "833fd59ebe66a4449982c6d18db656b4",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b82e54923f7e440664d2d75bd31588ca",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "md5"
+      },
+      {
+        "value": "12ed9a3c1f73617aefdb740480695c04405d7b4b",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e7d582b98ca80690883175470e96f703ef6dc497",
+        "pulse": "TanStack npm Packages Compromised in Ongoing Supply-Chain Attack",
+        "tags": [
+          "github actions",
+          "supply-chain attack",
+          "session p2p network",
+          "oidc token theft",
+          "credential stealer",
+          "npm compromise",
+          "ci/cd targeting",
+          "router_init.js",
+          "router_runtime.js",
+          "mini shai-hulud",
+          "tanstack_runner.js"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T13:55:21",
+        "hash_type": "sha1"
+      },
       {
         "value": "a5c00451eb50fbafd0440d629fe153ed3e833d9df10d9932a273628438b8088d",
         "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
@@ -10727,1099 +10898,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-06T20:26:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "04ee5325c8900c9d644ed81c9012525b6fc19f21c65cef85b6ba98b6a0a23566",
-        "pulse": "Four published versions of a fake \"tanstack\" package uploaded in 27 minutes that want to steal your .env files",
-        "tags": [
-          "webhook-exfiltration",
-          "postinstall-hook",
-          "npm",
-          "package-squatting",
-          "tanstack",
-          "supply-chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:29:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "72ec4571e27c06f1d48737477c2b38a4f90d699950dab8946b48591133dc4f90",
-        "pulse": "Four published versions of a fake \"tanstack\" package uploaded in 27 minutes that want to steal your .env files",
-        "tags": [
-          "webhook-exfiltration",
-          "postinstall-hook",
-          "npm",
-          "package-squatting",
-          "tanstack",
-          "supply-chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:29:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7bb84e6ba893248814cd3bac70b7bdc115740fba9e13419940c73460cbcd7b6f",
-        "pulse": "Four published versions of a fake \"tanstack\" package uploaded in 27 minutes that want to steal your .env files",
-        "tags": [
-          "webhook-exfiltration",
-          "postinstall-hook",
-          "npm",
-          "package-squatting",
-          "tanstack",
-          "supply-chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:29:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "abc164807947b102164488a08161adb4ee08be6b78a371350a6b156eed0d97d9",
-        "pulse": "Four published versions of a fake \"tanstack\" package uploaded in 27 minutes that want to steal your .env files",
-        "tags": [
-          "webhook-exfiltration",
-          "postinstall-hook",
-          "npm",
-          "package-squatting",
-          "tanstack",
-          "supply-chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:29:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a916e56121212613d17932e124b68752c9312e73bde8f2351054bd64394257df",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "12edcaafab7703d0819b1395f45c35e3083dd83fb8b128292cb11033453fb6e8",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c67ae3b4b8d30d13a8118701134d94e",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a7f6308f3c7624a603e2242b19a0a8e7",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f2bd550773af344661689e259ffb97ed",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0c1d3da9c7a651ba40b40e12d48ebd32b3f31820",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "15ed5c3384e12fe4314ad6edbd1dcccf5ac1ee29",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "28b72576d67ae21d9587d782942628ea46dcc870",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2d4eb55b01f59c62c6de9aacba9b47267d398fe4",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "46b90bf370e60d61075d3472828fdc0b85ab0492",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "50d47adb6dd45215c7cb4c68bae28b129ca09645",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "524d2d92909eef80c406e87a0fc37d7bb4dadc14",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6325179f442e5b1a716580cd70dea644ac9ecd18",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "64462f751788f529c1eb09023b26a47792ecdc54",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8e7eb0f5ac60dd3b4a9474d2544348c3bda48045",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9a09ad7b7e9ff7a465aa1150541e231189911afb",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9ccd769624de98eeeb12714ff1707ec4f5bf196d",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9dbfc23ebf36b3c0b56d2f93116abb32656c42e4",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "aea55e42c4436236278e5692d3dcbcbe5fe6ce0b",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bd8fbb5e6842df8683163adbd6a36136164eac58",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d2a5c9cbb73849cc0667987c33a9bf3822718e1528faef005f1628de3348ffb0",
-        "pulse": "Popular DAEMON Tools software compromised",
-        "tags": [
-          "software compromise",
-          "quic rat",
-          "daemon tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5b7284bcf30569ae400e416a62391720cc9081e6047f15816f9d1a04a06eb321",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a39299719bb4151c373a0e9b92b2bd05",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e3ef02456a4df8236da5ee2082a5df36e746b463",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "24398b75be2645e6c695e529e62e60deb418143a4bbea13c561d3c361419eb54",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "33af554562176eff34598a839051b8e91692b0305edfdbb4d8eb9df0103ffd98",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "65fcd965040fabeb6f092df0a4b6856125018bb3b6a1876342da458139f77dac",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ed5de036edbbda52ab0049d2163607038d38a49404a46b6bcfc4bac26b743832",
-        "pulse": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
-        "tags": [
-          "cloudz",
-          "pheno"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fb6cebadd49d202c8c7b5cdd641bd16aac8258429e8face365a94bd32e253b00",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "071e662fc5bc0e54bcfd49493467062570d0307dc46f0fb51a68239d281427c6",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "843f8aea7842126e906cadbad8d81fa456c184fb5372c6946978a4fe115edb1c",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4c71357de3c0b12094693ca6eff94cad",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c46bac27b5ca151afabd22c5546f78ae2ae3a20d",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "111e8abb4b8592172d597926f47f018c",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3d00e34594dbaba266f301ca37246e06",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "99911fce9e0d697c99421b81e8fe2a04",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "efc71bd23572eec985a6d1bbf61308fd",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f694401d8e80bb0f672b1b30fd7b153a",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3ddd90b99ee7ac3ec39e1d22b67c257d273a0970",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "738d4398e7d11427051093ba8a6f37e51470795c",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7b6e094d98eb3f695e5856db4d8d22e11898cec9",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a1c3520282c81afabdefa4834b96563edf95c3c7",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f1551d3e5d144eef4e70a29dd3dc52fb22459d1f",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1139b39d3cc151ddd3d574617cf113608127850197e9695fef0b6d78df82d6ca",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "199bd156c81b2ef4fb259467a20eacaa9d861eeb2002f1570727c2f9ff1d5dab",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1bb59491f7289b94ab0130d7065d74d2459a802a7550ebf8cd0828f0a09c4d38",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2b627f6afe1364a7d0d832ccba87ef33a8a39f30a70a5f395e2a3cb0e2161cb3",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "343105919aa6df8a75ecb8b06b74f23a7d3e221fca56c67b728c50ea141314bc",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35b2a5260b21ddb145486771ec2b1e4dc1f5b7f2275309e139e4abc1da0c614b",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3dec6703b2cbc6157eb67e80061d27f9190c8301c9dd60eb0be1e8b096482d7e",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4109f15056414f25140c7027092953264944664480dd53f086acb8e07d9fccab",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "45cd169bf9cd7298d972425ad0d4e98512f29de4560a155101ab7427e4f4123f",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "51f0cf80a56f322892eed3b9f5ecae45f1431323600edbaea5cd1f28b437f6f2",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7c593ca40725765a0747cc3100b43a29b88ad1708ef77e915ab02686c0153001",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7d9c70fc36143eb33583c30430dcb40cf9d306067594cc30ffd113063acd6292",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9f115e9b32111e4dc29343a2671ab10a2b38448657b24107766dc14ce528fceb",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b19bfca2fc3fdabf0d0551c2e66be895e49f92aedac56654b1b0f51ec66e7404",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e74098b17d5d95e0014cf9c7f41f2a4e4be8baefc2b0eb42d39ae05a95b08ea5",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ee56c49f42522637f401d15ac2a2b6f3423bfb2d5d37d071f0172ce9dc688d4b",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f859a67ceebc52f0770a222b85a5002195089ee442eac4bea761c29be994e2ea",
-        "pulse": "UAT-8302 and its box full of malware",
-        "tags": [
-          "fringeporch",
-          "netdraft",
-          "draculoader",
-          "snowrust",
-          "snowlight",
-          "zingdoor",
-          "finaldraft",
-          "nosydoor",
-          "vshell",
-          "deedrat",
-          "cloudsorcerer",
-          "squiddoor",
-          "snappybee"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-05T14:07:24",
         "hash_type": "sha256"
       }
     ]
