@@ -1,13 +1,147 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-14T08:22:31.279799",
+  "updated": "2026-05-14T13:22:17.610155",
   "counts": {
-    "ips": 40,
-    "domains": 266,
-    "hashes": 674
+    "ips": 41,
+    "domains": 285,
+    "hashes": 647
   },
   "data": {
     "ips": [
+      {
+        "value": "183.111.174.69",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "114.207.246.156",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "211.169.73.104",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "211.239.157.126",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "218.150.78.198",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "220.73.160.23",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "206.206.103.106",
+        "pulse": "ClickFix Evolves with PySoxy Proxying",
+        "tags": [
+          "scheduled task persistence",
+          "python proxy",
+          "pysoxy",
+          "powershell c2",
+          "social engineering",
+          "domain reconnaissance",
+          "post-exploitation",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:06"
+      },
+      {
+        "value": "206.206.103.120",
+        "pulse": "ClickFix Evolves with PySoxy Proxying",
+        "tags": [
+          "scheduled task persistence",
+          "python proxy",
+          "pysoxy",
+          "powershell c2",
+          "social engineering",
+          "domain reconnaissance",
+          "post-exploitation",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:06"
+      },
       {
         "value": "91.107.247.163",
         "pulse": "LBIOC-20260071 - The Gentlemens Leak",
@@ -554,125 +688,465 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-06T19:35:01"
-      },
-      {
-        "value": "45.142.36.76",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "89.108.110.154",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "92.62.113.232",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "217.156.122.57",
-        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
-        "tags": [
-          "etherhiding",
-          "browser credential theft",
-          "ethereum blockchain c2",
-          "remus",
-          "tenzor",
-          "cryptocurrency wallet theft",
-          "application-bound encryption bypass",
-          "information stealer",
-          "lumma stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:00"
-      },
-      {
-        "value": "217.156.122.75",
-        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
-        "tags": [
-          "etherhiding",
-          "browser credential theft",
-          "ethereum blockchain c2",
-          "remus",
-          "tenzor",
-          "cryptocurrency wallet theft",
-          "application-bound encryption bypass",
-          "information stealer",
-          "lumma stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:00"
-      },
-      {
-        "value": "217.156.122.12",
-        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
-        "tags": [
-          "etherhiding",
-          "browser credential theft",
-          "ethereum blockchain c2",
-          "remus",
-          "tenzor",
-          "cryptocurrency wallet theft",
-          "application-bound encryption bypass",
-          "information stealer",
-          "lumma stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:00"
-      },
-      {
-        "value": "45.151.106.110",
-        "pulse": "Malware Bypasses Browser Application-Bound Encryption Protections",
-        "tags": [
-          "etherhiding",
-          "browser credential theft",
-          "ethereum blockchain c2",
-          "remus",
-          "tenzor",
-          "cryptocurrency wallet theft",
-          "application-bound encryption bypass",
-          "information stealer",
-          "lumma stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:00"
       }
     ],
     "domains": [
+      {
+        "value": "xpie348.online",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59"
+      },
+      {
+        "value": "test1.amanur.com",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59"
+      },
+      {
+        "value": "amanur.com",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59"
+      },
+      {
+        "value": "certificadosuporte.com.br",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59"
+      },
+      {
+        "value": "protocolovirtual.org",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59"
+      },
+      {
+        "value": "haeundaejugong.com",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "kumdo.org",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "luminix.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "hanainternational.net",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "attiferstudio.com",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "sunlin.org",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "ableinfo.co.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "ycpatent.co.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "versonnex74.fr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "choisy.fr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "ezvm.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "fe01.co.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "intobiz.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "kmot.co.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "printory.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "settingenv.cat",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "sjem.co.kr",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "udcontest.com",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05"
+      },
+      {
+        "value": "japanroom.com",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09"
+      },
+      {
+        "value": "hostroids.com",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03"
+      },
+      {
+        "value": "overlateise.com",
+        "pulse": "ClickFix Evolves with PySoxy Proxying",
+        "tags": [
+          "scheduled task persistence",
+          "python proxy",
+          "pysoxy",
+          "powershell c2",
+          "social engineering",
+          "domain reconnaissance",
+          "post-exploitation",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:06"
+      },
+      {
+        "value": "abledom.net",
+        "pulse": "ClickFix Evolves with PySoxy Proxying",
+        "tags": [
+          "scheduled task persistence",
+          "python proxy",
+          "pysoxy",
+          "powershell c2",
+          "social engineering",
+          "domain reconnaissance",
+          "post-exploitation",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:06"
+      },
+      {
+        "value": "strapness.com",
+        "pulse": "ClickFix Evolves with PySoxy Proxying",
+        "tags": [
+          "scheduled task persistence",
+          "python proxy",
+          "pysoxy",
+          "powershell c2",
+          "social engineering",
+          "domain reconnaissance",
+          "post-exploitation",
+          "clickfix"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:06"
+      },
       {
         "value": "ado-read-parser.com",
         "pulse": "Adobe Reader 0-day",
@@ -4826,138 +5300,955 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-06T19:35:02"
-      },
-      {
-        "value": "process.name",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50"
-      },
-      {
-        "value": "process.parent.name",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50"
-      },
-      {
-        "value": "sfrclak.com",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50"
-      },
-      {
-        "value": "kleymarket.ru",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "cdn.kleymarket.ru",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "helper.zulipchat.com",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59"
-      },
-      {
-        "value": "acceptable-use-policy-calendly.de",
-        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
-        "tags": [
-          "aitm",
-          "financial services",
-          "credential theft",
-          "healthcare targeting",
-          "mfa bypass",
-          "captcha evasion",
-          "phishing campaign",
-          "session hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:25:59"
-      },
-      {
-        "value": "cocinternal.com",
-        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
-        "tags": [
-          "aitm",
-          "financial services",
-          "credential theft",
-          "healthcare targeting",
-          "mfa bypass",
-          "captcha evasion",
-          "phishing campaign",
-          "session hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:25:59"
-      },
-      {
-        "value": "compliance-protectionoutlook.de",
-        "pulse": "Multi-Stage AiTM Attack Uses Code Of Conduct Phishing Emails",
-        "tags": [
-          "aitm",
-          "financial services",
-          "credential theft",
-          "healthcare targeting",
-          "mfa bypass",
-          "captcha evasion",
-          "phishing campaign",
-          "session hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:25:59"
       }
     ],
     "hashes": [
+      {
+        "value": "401c125517b1f845289bf0a7a33e5db0391034f631eab85dd65b76b7fec9a959",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b68eefb10e2c304681532bc0c812c7905888e6b8e47448f1e4bc1edfe7ac193d",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "386d4093f70219b8291d3f9e6f71ee1f",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bdac75f0e71a6e2ee2030259ad5ff7c002ebc98d",
+        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
+        "tags": [
+          "session-hijacking",
+          "clickfix",
+          "credential-theft",
+          "banking-stealer"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T13:56:59",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "804d12b116bb40282fbf245db885c093",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "09dabe5ab566e50ab4526504345af297",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "33c97fc4eacd73addbae9e6cde54a77d",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fcb97f87905a33af565b0a4f4e884d61",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "16d7be5ebc3c2ff1cffbb83b965fd4fb",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1aa7751332710f4e963a708243d3d550",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "255155bad9af5e2c6cf550ff2a95219d",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7922f91281e8b0fe00518d05bf295b4a",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "abbb362cdfe14b56b3a13a2a55937ee4",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b5f9cd67cb32f44c138c382e17b06fd6",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f7b2e0cebd7793c8cfee2c7c5b93df9c",
+        "pulse": "Python Backdoor Threat Analysis Following an AI Deepfake Impersonation Campaign",
+        "tags": [
+          "compiled python bytecode",
+          "apt37",
+          "environment variable obfuscation",
+          "chinotto",
+          "deepfake impersonation",
+          "python backdoor",
+          "spear-phishing",
+          "scheduled tasks persistence",
+          "lnk file"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-13T16:41:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "085128b4e96633c82beb2101f5c525e4",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "28d0143718153bf04c1919a26bb70c2d",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "36be2cbb59cd1c3f745d5f80f9aee21c",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c637b3e7d74c2d678663454d16311b15",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c681fe3f42e82e9240afe97c23971cbc",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d44a22d2c969988a65c7d927e22364c8",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4137911f14563fdf7500159ee7a386d9c54bbdae",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "441603f740667fd5b4365b880b55a6cb6991cd96",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6625f25a82a9739476402a759a514a59f822f5d8",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d0f8b7885e65a2d0714f91f7275d100bca25a886",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3ecb8632582982f5ea4cef6b32ac468bd43c61896b5de57416c8100f8ab90102",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8448b5ff7fac8b65dd9e5056a8a4b3e4230b7b602f46e24f1667821a64a90e6e",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d5a3321b215d2b141de7ebe24398cf43320a2016e4f20d079ddf7015ceb069a8",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dad0ca56b3fe2aeb1f7908765f279db5fc33392caf4849c573a5d63bf7e15604",
+        "pulse": "Pretexting-Based Targeted Intrusion: Analysis of Facebook Reconnaissance and Software Tampering Attacks",
+        "tags": [
+          "apt37",
+          "zoho workdrive c2",
+          "north korea",
+          "rokrat",
+          "shellcode injection",
+          "social engineering",
+          "process hollowing",
+          "installer tampering",
+          "pretexting",
+          "facebook reconnaissance"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:55:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bc72ff889e2b2a92834d5d88a97236e5",
+        "pulse": "Q1 2026 Malware Statistics Report for Linux SSH Servers",
+        "tags": [
+          "shellbot",
+          "prometei",
+          "credential attacks",
+          "ddos botnet",
+          "chinese attribution",
+          "mirai",
+          "xorddos",
+          "p2pinfect",
+          "v2ray",
+          "v2ray proxy",
+          "honeypot analysis",
+          "xmrig",
+          "linux servers",
+          "coinminer",
+          "ssh brute-force",
+          "gafgyt",
+          "tsunami"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:28",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a9f2e2ff98e9f19428da79680e80b77",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "28847cb6859b8239f59cbf2b8f194770",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5200410ec674184707b731b697154522",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7fbbf16256c7c89d952fee47b70ea759",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "89bf428b2d9214a66e2ea78623e8b5c9",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c031af92131cc5cef0be6fcb0804c2a84b976177",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9084885412af5ae242082869ebb204bcc855db4216bda0b399d06097d193aab9",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "10b31700a4a5ee1b673aa2a070d2908536ca2d9d",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8d8c4b1f1f80b368340c6f4f45f35a49be794d45",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6130a96f19ab4e3af5dfaf16fef8d8c176d9cc508b0422032ef4c18a4b65ef19",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7ac9ea9f9d9a25c73d3267e7466cb0643f4e981bda36013ee9264feebe38b51c",
+        "pulse": "Q1 2026 Malware Statistics Report for Windows Database Servers",
+        "tags": [
+          "dictionary attack",
+          "brute force",
+          "scanner",
+          "loveminer",
+          "gh0strat",
+          "database servers",
+          "shadowforce",
+          "mysql",
+          "coinminer",
+          "ice cloud",
+          "credential stuffing",
+          "juicypotato",
+          "clrshell",
+          "netcat",
+          "mykings",
+          "ms-sql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:54:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c8efbcef3af80a574cb2aa2224c145bb2e37c2f3d3f091571708288ceb22d5f",
+        "pulse": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day",
+        "tags": [
+          "cve-2026-27944",
+          "ransomware",
+          "cve-2021-30952",
+          "ghostsaber",
+          "cve-2026-3909",
+          "cve-2026-33032",
+          "cve-2026-3564",
+          "cve-2026-20963",
+          "plasmaloader",
+          "cve-2025-53521",
+          "cve-2026-20131",
+          "ghostknife",
+          "cve-2025-68613",
+          "cve-2025-32432",
+          "cve-2026-3910",
+          "cve-2025-54068",
+          "ghostblade",
+          "cve-2023-41974",
+          "cve-2026-3055",
+          "deserialization vulnerability",
+          "cve-2026-26127",
+          "cve-2026-33634",
+          "cve-2026-27483",
+          "cve-2017-7921",
+          "remote code execution",
+          "ios exploit kit",
+          "cve-2026-21262",
+          "cve-2026-25187",
+          "plasmagrid",
+          "cve-2026-21385",
+          "cve-2026-33017",
+          "cve-2025-26399",
+          "zero-day exploitation",
+          "cisco fmc"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:53:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12d399e6966db58f6d189d606ac34cc8",
+        "pulse": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day",
+        "tags": [
+          "cve-2026-27944",
+          "ransomware",
+          "cve-2021-30952",
+          "ghostsaber",
+          "cve-2026-3909",
+          "cve-2026-33032",
+          "cve-2026-3564",
+          "cve-2026-20963",
+          "plasmaloader",
+          "cve-2025-53521",
+          "cve-2026-20131",
+          "ghostknife",
+          "cve-2025-68613",
+          "cve-2025-32432",
+          "cve-2026-3910",
+          "cve-2025-54068",
+          "ghostblade",
+          "cve-2023-41974",
+          "cve-2026-3055",
+          "deserialization vulnerability",
+          "cve-2026-26127",
+          "cve-2026-33634",
+          "cve-2026-27483",
+          "cve-2017-7921",
+          "remote code execution",
+          "ios exploit kit",
+          "cve-2026-21262",
+          "cve-2026-25187",
+          "plasmagrid",
+          "cve-2026-21385",
+          "cve-2026-33017",
+          "cve-2025-26399",
+          "zero-day exploitation",
+          "cisco fmc"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:53:12",
+        "hash_type": "md5"
+      },
+      {
+        "value": "17986b6595fe960fe8e9757d3069d5daabd628ef",
+        "pulse": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day",
+        "tags": [
+          "cve-2026-27944",
+          "ransomware",
+          "cve-2021-30952",
+          "ghostsaber",
+          "cve-2026-3909",
+          "cve-2026-33032",
+          "cve-2026-3564",
+          "cve-2026-20963",
+          "plasmaloader",
+          "cve-2025-53521",
+          "cve-2026-20131",
+          "ghostknife",
+          "cve-2025-68613",
+          "cve-2025-32432",
+          "cve-2026-3910",
+          "cve-2025-54068",
+          "ghostblade",
+          "cve-2023-41974",
+          "cve-2026-3055",
+          "deserialization vulnerability",
+          "cve-2026-26127",
+          "cve-2026-33634",
+          "cve-2026-27483",
+          "cve-2017-7921",
+          "remote code execution",
+          "ios exploit kit",
+          "cve-2026-21262",
+          "cve-2026-25187",
+          "plasmagrid",
+          "cve-2026-21385",
+          "cve-2026-33017",
+          "cve-2025-26399",
+          "zero-day exploitation",
+          "cisco fmc"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-14T08:53:12",
+        "hash_type": "sha1"
+      },
       {
         "value": "adf675ffc1acb357f2d9f1a94e016f52",
         "pulse": "Thus Spoke\u2026The Gentlemen",
@@ -16814,1100 +18105,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-06T19:35:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "07d889e2dadce6f3910dcbc253317d28ca61c766",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d6f3f62fd3b9f5432f5782b62d8cfd5247d5ee71",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "59336a964f110c25c112bcc5adca7090296b54ab33fa95c0744b94f8a0d80c0f",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e49c2732fb9861548208a78e72996b9c3c470b6b562576924bcc3a9fb75bf9ff",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7658962ae060a222c0058cd4e979bfa1",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7a9ddef00f69477b96252ca234fcbeeb",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "13ab317c5dcab9af2d1bdb22118b9f09f8a4038e",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ed8560c1ac7ceb6983ba995124d5917dc1a00288912387a6389296637d5f815c",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c782b59a786f18520673e8d669e3b0a",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ae39c4c550ad656622736134035f17ca7a66a742",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "db7f4c82c732e8b107492cae419740ab",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b0e0f12f1be57dc67fa375e860cedd19553c464d",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6483c004e207137385f480909d6edecf1b699087378aa91745ecba7c3394f9d7",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "90e8e227ba8bef0ea7e0212b5b1e0d4c",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dbd62d788ce8dcaa96116a73f70ee24813d59428",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e56bafda15a624b60ac967111d227bf8",
-        "pulse": "Detections for the Axios supply chain compromise",
-        "tags": [
-          "supply chain attack",
-          "post-install execution",
-          "axios"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T11:10:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2c1d348131c4e3e1cb00002f226bad7e",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
-        "tags": [
-          "React2Shell",
-          "Kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T00:57:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9cdbc16912dcf188a0f0765ac21777b23b4b2bea",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
-        "tags": [
-          "React2Shell",
-          "Kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T00:57:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "05eac3663d47a29da0d32f67e10d161f831138e10958dcd88b9dc97038948f69",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
-        "tags": [
-          "React2Shell",
-          "Kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T00:57:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7d2c9b4a3942f6029d2de7f73723b505b64caa8e1763e4eb1f134360465185d0",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
-        "tags": [
-          "React2Shell",
-          "Kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T00:57:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bb470a803b6d7b12fb596d2e4a18ea9ca91f40fd34ded7f01a487eed9a1d814d",
-        "pulse": "Unit42: Understanding Current Threats to Kubernetes Environments",
-        "tags": [
-          "React2Shell",
-          "Kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-07T00:57:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2064ef387ac9e51ba72b32004d99e8a0b291dbab24ed8db30f437abf1b40cb49",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "57e26f6e3b311a1064c946b69159ee05abedf9228b2f95c65536429e7ac7fb24",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "89f8e42c825d09a0a50e99bbf7304d7037be33ea362a57d34f87fa7981f80126",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a7bd8869293212e1671df90d2d41b96d4933eb9408b1111bd830e111a91bb202",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fdef9e489f773319f55f92f712d1b7b5447d59a632b8f4173d1b161d3759ad92",
-        "pulse": "Operation Silent Rotor: Rust-Based Malware Targets Eurasian Unmanned Aviation Sector Ahead of Moscow Summit",
-        "tags": [
-          "c2 exfiltration",
-          "multi-stage payload",
-          "aviation sector",
-          "unmanned aerial systems",
-          "spear phishing",
-          "rust malware",
-          "operation silent rotor",
-          "moscow summit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ba2f1868f2af9e191ebf47a5fab5cbab",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1995682d600e329b7833003a01609252",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5152410aeef667ffaf42d40746af4d84",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "38b75af6cbdb60127decd59140d10640",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1c0a5b35c003ac3182c589c6e014a42678a0647f",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8a4a444761ca8836e6022af4a0e86a2be031aaa6",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "08a75a092e9793b6d3eb473c246d3c5e4750cd525342276d8bf1ab7d1fe45112",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d05d6b08078b3d153ab821cd4dd6b5f5bd390c007c6d01653f459c35b917b80c",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ccc71ba929add58ad89dff289295659b69ad43a5",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "437a824e63975a350108e20881020ad288fb6343d4f61fff7d64811270219dea",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02f4701559fc40067e69bb426776a54f",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0a5a06fa2e74a57fd5ed8e85f04a483a",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "22538214a3c917ff3b13a9e2035ca521",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "454b85dc32dc8023cd2be04e4501f16a",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "48be833b0b0ca1ad3cf99c66dc89c3f4",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5598baa59c716590d8841c6312d8349e",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "652f4da6c467838957de19eed40d39da",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "968782b4feb4236858e3253f77ecf4b0",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a26019b68ef060e593b8651262cbd0f6",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b55b6e364be44f27e3fecdce5ad69eca",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c33782c94c29dd268a42cbe03542bca5",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e200f2f6a2120286f9056743bc94a49d",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e4a0ad38fd18a0e11199d1c52751908b",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fce65c540d8186d9506e2f84c38a57c4",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "05391e972db01ed9d55b202b9ae3feec700eabf5",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "06adabcb962b5cf5d9fb63542518a5b80b5a9ad4",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "67b2e7eb4255f6b990f1bd9917ea54228af2c6a1",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6a8d20cf325b766e69f6133b3a7325034b76948c",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "93708b635f11f182d5541274d0ac7b7d5baf3795",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c7a2684ec7dc6484655e8dfe5b184341c416a3e0",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2b5225816089467aacdcd201a44989a2f78491c29f6fad41b52731bfefc1b886",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "50d2fb75ef2bb56915e28595574663d8a1e0193e335e3e4f0ad2c0a4770fd787",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "68dfa75e916f4fb44a071851965493a324d331e37b791e21c45feba54aec23d8",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "be19d98b5449a052c03b189d9687543d619c8c1893f12709ef6bef6ff7657510",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c7e93e50f1f241e63e738925e4f8c7f8ee004506723c2b49ed0789100f4ce4ba",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f85f44ebdd341f22f0cbd408ee40f162d697fc48c3824c897b61980fa38a4d92",
-        "pulse": "OceanLotus suspected of distributing ZiChatBot malware via wheel packages in PyPI",
-        "tags": [
-          "pypi",
-          "dropper",
-          "wheel packages",
-          "supply chain attack",
-          "python packages",
-          "zichatbot",
-          "zulip c2",
-          "cross-platform"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T15:01:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95daa771a28eaed76eb01e1e8f403f7c",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
-        "hash_type": "md5"
-      },
-      {
-        "value": "cdd5717fd3bfd375c1c34237c24073e92ad6dccc",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7ea5afbc166c4e23498aa9747be81ceaf8dad90b8daa07a6e4644dc7c2277b82",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5e1f61b9c1c27cad3b7a81c804ac7b86",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c1888ba296f57e87a84411ddfce3cabc4536b142",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "180e93a091f8ab584a827da92c560c78f468c45f2539f73ab2deb308fb837b38",
-        "pulse": "Data Extortion Groups Intensify Pressure On Global Aerospace Supply Chains",
-        "tags": [
-          "critical infrastructure",
-          "aerospace",
-          "remus",
-          "data extortion",
-          "apt",
-          "espionage",
-          "supply chain attacks",
-          "aviation",
-          "lockbit",
-          "ransomware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-06T10:26:03",
         "hash_type": "sha256"
       }
     ]
