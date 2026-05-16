@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-16T07:45:04.008563",
+  "updated": "2026-05-16T12:51:49.171388",
   "counts": {
     "ips": 40,
-    "domains": 201,
-    "hashes": 609
+    "domains": 202,
+    "hashes": 616
   },
   "data": {
     "ips": [
@@ -827,6 +827,18 @@
       }
     ],
     "domains": [
+      {
+        "value": "bskke4.dnslog.cn",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47"
+      },
       {
         "value": "1a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev",
         "pulse": "Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities",
@@ -4601,6 +4613,97 @@
       }
     ],
     "hashes": [
+      {
+        "value": "1d36de06a6240919189cb46e0bcccc3c",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bdcb5867f73beae89c3fce46ad5185be",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "md5"
+      },
+      {
+        "value": "049c35fa746a8b86c100bf6b348ef6163b215898",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9c363fbcc86662ce15cee15e5dd16b71b769ceb4",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "25e4b2c4bb37f125b693a9c57b0e743eab2a3d98234f7519cd389e788252fd13",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "27c62a041cc3c88df60dfceb50aa5f2217e1ac2ef9e796d7369e9e1be52ebb64",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f2960805f89990cb28898e892bbdc5a2f86b6089c68f4ab7f2f5e456a8d0c21d",
+        "pulse": "CVE-2026-39987 update: How attackers weaponized marimo to deploy a blockchain botnet via HuggingFace",
+        "tags": [
+          "huggingface",
+          "cve-2026-39987",
+          "nkn blockchain",
+          "marimo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-16T08:36:47",
+        "hash_type": "sha256"
+      },
       {
         "value": "1bd0a200528c82c6488b4f48dd6dbc818d48782a2e25ccd22781c5718c3f62f5",
         "pulse": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files",
