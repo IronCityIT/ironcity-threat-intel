@@ -1,13 +1,27 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-18T19:19:33.251928",
+  "updated": "2026-05-19T01:56:40.094241",
   "counts": {
-    "ips": 24,
-    "domains": 263,
-    "hashes": 528
+    "ips": 25,
+    "domains": 265,
+    "hashes": 730
   },
   "data": {
     "ips": [
+      {
+        "value": "45.64.52.242",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52"
+      },
       {
         "value": "194.87.92.109",
         "pulse": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files",
@@ -547,6 +561,35 @@
       }
     ],
     "domains": [
+      {
+        "value": "www.icloud-cdn.net",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29"
+      },
+      {
+        "value": "gin-tne-fahcesmukw.cn-hangzhou.fcapp.run",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52"
+      },
       {
         "value": "6182120286.my.id",
         "pulse": "FlowerStorm unleashes the KrakVM: PhaaS operators turn to VM-based obfuscation",
@@ -5279,6 +5322,2927 @@
       }
     ],
     "hashes": [
+      {
+        "value": "6615ea2fa3b879d27687a7ce917e93b0",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "37e83a8fc0e4e6ea5dab38b0b20f953b",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6eafae19d2db29f70fa24a95cf71a19d",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3e3c5471c69e933fcffa4f497ca936b8",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "44652be9dc36c33ef0a35d4422523f7c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8dbeb747aab3d3814bcee52c3b0f6ee5",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2282e2158b7fb714f77d8b0974d980b87884933f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "675ce37d4549fb9e2fabee91befa53c0bac157e0",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fc3b95b64aa817262e1dbb2fbfe6983e70a5f340",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1280cca4b520bfd018296c4d1645b7c9c8c7c4608752506285dad0e251b22e32",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1ba396a8cd9af661e0a5ceb1107c787290cff3ab05b70a9c5154f4e040f716be",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2727d521ef98815ba82b2c2cc504123db59e1e4df487e3d6253280d21d00020e",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2a9b971c835e2ee5f190d068c602601fdaf718d8bfe085c2032d59a6f25ed082",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "42910bf2aa4ac9d62e2b32e6fadc42f11bd7215fee492ecf72cfd6238965d066",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "44abef9297d6573674b27416435c891317cfb9de8753d075806d5777563e6cc2",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6efdf511512be5e256951813f2008ce2c4572d6ef191c69a62b7555aa33255ac",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "76542efd8113416322268676c8c32fc900661fe17db68a1ac9c2bcdcd936a7a6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8339333e1a1a8babc3fd72542e8fda58d19dd096cf2463867ca0328348338570",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "85fba8ba8377974392b9147a2adf2d2955e9dfbb8d9e0659c7f90487b1105ae7",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8f4836cca1850053e87a769a84baed3cdde060ad3fce26f101a20b37375835f1",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8f9029a5d5351078fc2f0b5499557c0f969b337817947314e37b2c7407ae2300",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b4195e7584ac97d9c444ee6292160c80f9c889e6cba27cc656506d3c5fcffd48",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "de73c1b5597f091b5e42e5d5b4dc40a46ddee4682308f5bbe010a32ede57b111",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fc8a6cc400dd822b6f5fc40c85a547cf7f266169edddb84a90f4b3f25956318c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6616717dfb2a795113b47d862c5412e2",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "99732e49668e56527963742922277459",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "111e42c31f8e4ae3764f339d7ad04b20bb21be5d97ede13aaa7c73e72cb7549d",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0a78005858bef767b39cfbbeb543a80dfde46807ee75594de77d3ddfe119e8b5",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0b6f7356919b9632c1158681ee0462f3",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4d5074d6e0722ceec45a083fa8444164",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "57dbf8c275fa56b9a84e9c4b9a35399e",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6a72ad3c06a29e12e668e8701daee00e",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "873480ab887de3a9cbbcccb982747637",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "99dc0dbaf5bd3918803391ec8d6d802c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab24e08da9e205ee3d3a5a2a05345cb9",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ac60971512c77f845cc4ec47400368a6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f1bc5841f6d6be1820848a7718bf4cce",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f2b470dc3fcd8a2fd7860851a81f3eb0",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f4d05a5cb783f1cdd179795125d23139",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ffefe836255e742abc3dc692d1dda3a4",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "29de6fff67bdd0d8fb8e68476ff1040fde48420a",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7490e916130a814b1e33c955f4a64ad23c08df5b",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b50320a005cf68e5c17d51a8fd8422ceef1611a",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "854fb7550238d9e4983319540afc4b76f4a74237",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "85d1c4c90242c054b17060885de556dfa5fe4cf9",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "863c91ef48d1fed77d260376a464bf0686d8afc6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "aaa3b6ca2753ae491b639631c236cae350bdb0f7",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "aba35de9e819396f89f34c03058ebe71a7f98b6b",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b2de369415574ffeb3858ff6a6213aa8397a331f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b708bb12f86b0eb55a7f49cec9510efbc6b3e262",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2a8dae7ab6ea92dcfecbe2ab6ac7efc289d6a18",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e7f20ba2f9c12f164fef37c618481564b4db3399",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a6d095dc0e01f97db7e74cb5bed402dc",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "940658590d938380b71fd5055635c02564a63ef1",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c22150121a13713b395a155af5d55680dde56ac1",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1fbdb99357ace6d6db830c63850a6e8a4ea3607776c4668feb135f3ff0d95151",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "63297928883b0dc4e0735963dbcb2b2fa0c1e131af6d486f882070a6eb7e339a",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a79b5162f9a49df3db4f001325938b9dc7bdc471b71108ed178350c89252e3a5",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bbcdb82918f0decb1d6e20c90e872175cf278006948c5995ffd88033f56a1b71",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f49d5e80acdbef693263ef60399bb8b",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4b94efa49fb59a43ac4a9fdf04c87ef6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3d27e65ae5cb7aba8c529c8010b2414f24e4122b",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d38de5d71d04dcd70039b897c2edbc0981ba8940c249872f7c3a77b60abb3955",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe0d64d07ef03b2db6a7fa1ccbcc62c3f24f003d5f5726129ff22341321575b4",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "63426f624c930a756faf7ce3e7b4789f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "227b3fa386cad73f0f388d801060e2c8",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d0b18d94c4abd7f0f3a3d07fd2172956f6ec9654b8cbf087954017dd92bd9e4f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1ec5607bd9c37d6aabc43066fcb87ca6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "53ac08488544ad1fefd6363db44549cf",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dea287ef5916eced7808ca3704ae67a6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "055e0229236497b91216b89395351ae8c9eed8f0",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3dd268fb969eaeb5d9068e185a9e33d5e25073cd",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "694feb5c1f2b605eb58b4218fdc3d056f5d19aad",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8e49c3ee98fc722c77b3b37e3abafb3581369b6e",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a609cf9a7250e6fbfc4cd3fdf04ea64b5a535617",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a2306445f6a9a9313ec3709c84bc3e932f75240fcaf2543bb1cdc3c362b64552",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2156c270ffe8e4b23b67efed191b9737",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "975d8bdfec6b58ae9004d526fa9f852108026a9c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "aaba9f60d81467c27c82f5c6d6cb6accd6890fc4",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "099e92221466c0d380f8fac942b65641",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "14167b8732f917d9b15df47de9a94125",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1a66a083fe2ac0adae45475825f3bb26",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "220ad634230523a239ab67253af00366",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "27dde6318bb7b2ca4f1f5df97007fbb8",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "284a56c416681090b3965250db2052d7",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2a290051c0e6fc27dab6d4212ed37641",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3e610b98255e35f492835b8c81d829a9",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "53bb7a229647cd4de8e23c075d4ffc2a",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5d72a10241aa04f7d19da448cba2cab9",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7578d6578f17f3d2f532414cd7808396",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "82710b81e610f074fe97a4f76e7f0843",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "85a2bd811866efadf369d6c0c54fc5b4",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c0434571198367df2cd1344f2bdc0cb",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a9cfe3f8ad5def658e774eb2f6f0792c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ad14a515332eb058436a7bba84b6affc",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b1549dc141bad1ef7419b819f2419514",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b8095944013853d982c4c045372a97c1",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b95b03094ac3b361585ecfa88e0c78ca",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c26198c104844e44d77d3da5389c040d",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cbbd3923adb5705a1ce61cdebb6a93b6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d57868d796f5ffac7a038f1392509625",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d688fb9bb64e916ff0bd68160caa6139",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d7e7f396a695cb23d0fda4dc716e47a6",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e355f9f69019a1248f4959fea69fab5f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ebc8b65e3e35f66147fa4cbb9051a192",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ef0b5a716fcaaa26553a16c0c725a1bf",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "md5"
+      },
+      {
+        "value": "76b45853917fe87b3dc82331d542d1a6ddde806c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9001e990f70fcb3cb7432ab3729bc9262395a371",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "95cc727a9bf07bff285060b3b68c4b3de828969c",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a75a744a8106626c39f5682556a0e58c40ce7315",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ae5f7d3e621a862bc156483ec8894d5d56b23d8f",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c6aeba8b8469176baaba41c3c1fc32543f656982",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eb73acce3e09b649b6d736e5bbcfeeb0a00a7490",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "06845a04d2329ca39c8378cb83118f6ffd278805f5b229cb65c21c4ca989fd56",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0c6c020a92517dcd757939c4f907550dbff08f133311d74928f27cf4133db7e9",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1e6ffcefe2561cbaaae6ff7a21fd5f90098610fda4d39889a8f6d4a510c20c10",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a43e2231b200b294b35dfb50fad446a0a7e42783c4f541981bc85a8930fb670a",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ddaef2e9377ce89222c3eadfb5b3c90e9a99f3d2d0635bbf5e7d8681eae051c7",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f5f9f66d0fbc1ab7ad0efe82e0aa29e1665047e945c7b821bb4189901c57ef13",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f78d87ff967bbdebbc43c58c2b5376522d2bbc975c98727c75bf28e2eb23ffd0",
+        "pulse": "Spring harvest - Leek Likho group's campaign to hunt for documents",
+        "tags": [
+          "Likho",
+          "Skycloak",
+          "telegram",
+          "dropbox",
+          "messenger app"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:45:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "067fbad4d6905d6e13fdc19964c1ea52",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "162f69fe29eb7de12b684e979a446131",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2cd781ab63a00ce5302ed844cfbecc27",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "482cc72e01dfa54f30efe4fefde5422d",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b2c8f1402d336963478f4c5bc36c961a",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c17f39d25def01d5c87615388925f45a",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "df3437c88866c060b00468055e6fa146",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fc3959ebd35286a82c662dc81ca658cb",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8a1f2f9baa900ab09dbfed7714948cdf9cbbf50b",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0bb1e7190c781ce5dd02304511604c225f0b1b5efe9c62583971266ef0b4ff3a",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47911cb0428f042c2da010ad833cf3830594ecb70cf5d1068ec969751d87647d",
+        "pulse": "Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor",
+        "tags": [
+          "anomalous file",
+          "twill typhoon",
+          "visual studio",
+          "chinese",
+          "apt",
+          "rat",
+          "remote access"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:29:29",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cdb9d76093d0938f30d93bcce4f58b13b4b21c9188eea387c6d9ec6f4cb4aad4",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12986838bf5c0b638edca3ac84c9e18f",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1da53ba0766c902a50ba40271b82e557",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "20150ed3ac726c486d60b2be05ee2b74",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2c3e4e7219e33327915a4371051fe84f",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "35f56e4a65b73a29e446b13eaff7eede",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4dbb6a1ae553dc9659cd734fc5586f8c",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7aa333c814c9ac618ae2fab66a6eddef",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d8d4e5be6f2014d17001f3a5ac7c1dcf",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "debb2b7123e2b024ac6ae77c1aa59da2",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f819c42f5e5dafc87d770cb8f6af8b11",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3874881233450ced72e743e3d9e6e3a7f0dc7ff9",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3d56fb150811ef2d5769b15cca5d3c363edfb926",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "552ea6e21dbd17054db51c61607aadee910d6f13",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "637c77e4b952ca38410f68c1fdcc3e57e75858ef",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c972d0f0f8c11c28272826add94f4e16e59dda1",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7412708f87194b3dc27b776840d83d7965aabc5c",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "93da3d6daf2ab0433f19d04e28e4736458f5606a",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e6229e69ace3adb6c6d59354c21e9de30fba0c50",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f6a4b3937dc373549e8f81eb29bfd2454e6e05a7",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fb3484f3b344c89c9c8f56348585e5f0cfc69f68",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "01dc3e7e673b4f2682f29b19ecabf9a6ec9c3042c9b1cfb39dbdddf1dda680ab",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "065c54893e4777d52be6b7bf30b832d5ffd9d96fd178642a5828a364c0e904a0",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "065f5a605ac04d5f443089b65aa1393414ee38c4ee8f780e7d78c06b46504ae4",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "06776635e386d536b1b0fc21e6aa41865d44d83dae5e9b109868d71ca309eeaa",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0fe91200a2bb4aed13b1a1ba4ec8fd4454566f5929ffed4f537d9a87c1bf1187",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12c6d0e603386b81751d95b32d1698d794c99343abb06d066b0f6060e8690aca",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12f76f48727916d6c05f53f8cd94915db5de5ffcbfa02c4807c27e090cfa47c1",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1329be66458962dabfa20185c230439c57d32b90a20de791afdce9c15226fccb",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "147f86854690ba096f3797c623b66365d6adbf7140d7d7c3dcf746b83a4b6dac",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1ba73df60e12b3feb8b5574e65cfceb6910460ab7fae2cf5554769fafdad049e",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1d2e37b41d616ecb32b8bd2f2a52c792f1808fdc938574fc366d737b6f643c61",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2012ff4d7c36e42d256d78c265f242d29a305af66686866c581ee96c2b05d5a6",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2a010bd1061e11da6f5cf951a3ebd23503916e159e3d486cc722b4b8b4a099c9",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "31635e4667eba1ba3588e1bc9c05d18a78d9693c801e5176e6cddf74e0d5bcc2",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37facbbd0047c19f4efdea75ccb9e3ec793cb9b1d7846afa4fb8e900d6e9ed95",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ffe3a6f328a6459624bd93edd206e2256b2753e17137cbc1530b91fa325ecac",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4ae8de40153c66455d972e6e98fe06fb68db7301ba126557e96599527bc5509c",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5ac484ec0846fff8f099b234dfd1602864300da8c68b01822c6036eb709fc584",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c02115b3f090551393cca3ce91fe837727d1c4586164c580759eb94387dba10",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5d19c07e3fb7ac4ff56a23f6e658d691f381442b1db2f8c5f345563c1cdc8998",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5ef76098be5ed1559b71ebd8d29cb32c1825991824051d8a641746e08bf9e1b3",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5eff99959683480d2280c931e433af836adf6a8b7a8489b1af17cddcf480cf63",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "64944d2a6129631ff675c6dcfdd57a7e99a1e4dc41802cbd0eabcef3eb3e81c3",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "660af53acdc505f333f6d4f4269cec740a5eb05e41a4c7926742606b18f22d33",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6de4da7919185f84212d02011e955530011b08c389408f2a012b81757c3d0c0f",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "710539554f065fe9a0bf6a6e32d3ea73ab3c797a033f8bfef57ad929bcdf9195",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7170f3051cc9f4520e84f1ea3b599616d82be8e5087f19d8e2951fa6848924b3",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73c24bafba21f871cc9d28de92ee7e4b9f9c8ec337279c14c1facdb9feeb7af4",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "746c4cd5fe3a8edd37d4b37b23af64b1086b5ea7c1ab0bcfd9c47e4e2e986518",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "750a707084839fe970266964957b8eaa7e25b4d9ca1050cd7ab19e4a2add707d",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "75b36769f0d36c05be74d41610d4af3f73397983ba746f8c569de6f23ee130e0",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "79340e589a69f5dc204d4073341a07e98a588d0401d18f34991d14b71a475063",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7abc129482ccdf787b35b92b7d5b7ff2478e72fe516f4ceca0c02e23a1d34314",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7f6bec5dd217151fcd03087a6e7ba1070f0fa603801fb128a4097076c9976d36",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8363ff6bddfaf247318308f215ad53f3c77f218d4a6562b537aeaf7e9135d10f",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8f5f4408998bbfc6987d9cb39216071c57c7b087f2867a504e83414ee5cfcd08",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "905ae6ac24225db221da346a1695e443ba4c57ea1c9066e8bac3e5fcb4156fc7",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "921e41190fed3437ca7a0d53e7590ccb0f1ab5d667532778fbda5664c657d712",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "943f952652fbc16923c0519449feeee11698304dac51268d4e6065146dcad69e",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "94f67819c0f7e200abf4b39fad2fd6fef227da15d939f21a657d1717ca2b3014",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "976f890ab0ee8aac613da2458d0069f00d0ebabc76f1fceb63e05b2113f6a449",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aaf49281b2f65390adc2e763af37fc4e3fe03b94af550927fc91141e0d6347db",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b5e0866368873b4c5eacc6df01114fc749cc32f507e9324bc6d763999371777d",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b77c8531ee45ffdfd63ef19aa1f1ae8b603b274f6951f7d8f4e725130bfca06d",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b7a5192a90c14a9a36e5a3565fed46becffa88dbc719e8ee396a0c9d46f5dde4",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3ecb90c9915daa23aec51f93ff8665778866f0592b2413578c8ba9708df6091",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d252aeabbf4cd9f336e83d1fa0042fcc2f74f45d4b8cbe2a8bfe790d4db0580d",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df5f74e1e0e5b0a0748de2efd86358293b4d368d171a926af6f14880d55adb57",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ed6058f0b0735ba56b781dea39353625fcb56bc3e77bf2d26a648511d754d216",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fdb5eca8f00e1802f3c9c0ca79f93a8419353f4ef2a0606bec39c4497da91035",
+        "pulse": "Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware",
+        "tags": [
+          "cato ctrl",
+          "china-linked",
+          "tencshell",
+          "rshell",
+          "go",
+          "tencent"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-18T19:23:52",
+        "hash_type": "sha256"
+      },
       {
         "value": "702ef1b4007f07887e9faaee0667b50b",
         "pulse": "Vidar v1.5 in Go: same family, new language, heavy sandbox checks",
