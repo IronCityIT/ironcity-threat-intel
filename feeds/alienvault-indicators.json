@@ -1,30 +1,13 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-21T08:50:51.790347",
+  "updated": "2026-05-21T14:32:34.819877",
   "counts": {
-    "ips": 21,
-    "domains": 207,
+    "ips": 20,
+    "domains": 202,
     "hashes": 365
   },
   "data": {
     "ips": [
-      {
-        "value": "172.94.9.250",
-        "pulse": "macOS ClickFix Campaign: AppleScript Stealers & New Terminal Protections",
-        "tags": [
-          "clickfix",
-          "macos",
-          "session hijacking",
-          "credential harvesting",
-          "cryptocurrency wallet theft",
-          "applescript",
-          "social engineering",
-          "browser data exfiltration",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-21T09:22:34"
-      },
       {
         "value": "162.141.111.227",
         "pulse": "Inside Banana RAT: From Build Server to Banking Fraud",
@@ -4124,69 +4107,101 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-14T15:38:11"
-      },
-      {
-        "value": "xpie348.online",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59"
-      },
-      {
-        "value": "test1.amanur.com",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59"
-      },
-      {
-        "value": "amanur.com",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59"
-      },
-      {
-        "value": "certificadosuporte.com.br",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59"
-      },
-      {
-        "value": "protocolovirtual.org",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59"
       }
     ],
     "hashes": [
+      {
+        "value": "a12957e7627cb19fba2a4b155f7258b7",
+        "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
+        "tags": [
+          "dev#popper rat",
+          "omnistealer",
+          "git history tampering",
+          "vs code exploitation",
+          "worm propagation",
+          "supply chain attack",
+          "fake job interview",
+          "blockchain infrastructure",
+          "invisibleferret",
+          "repository poisoning",
+          "north korea",
+          "developer targeting",
+          "beavertail",
+          "ottercookie"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T12:09:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "78be1ea752622c75fd5c636abc2e6e7a51484323",
+        "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
+        "tags": [
+          "dev#popper rat",
+          "omnistealer",
+          "git history tampering",
+          "vs code exploitation",
+          "worm propagation",
+          "supply chain attack",
+          "fake job interview",
+          "blockchain infrastructure",
+          "invisibleferret",
+          "repository poisoning",
+          "north korea",
+          "developer targeting",
+          "beavertail",
+          "ottercookie"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T12:09:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "23e37cf4e2a7d55ed107b3bc3eb7812a0e3d8f90b23b0c8f549d5c10d089a2c8",
+        "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
+        "tags": [
+          "dev#popper rat",
+          "omnistealer",
+          "git history tampering",
+          "vs code exploitation",
+          "worm propagation",
+          "supply chain attack",
+          "fake job interview",
+          "blockchain infrastructure",
+          "invisibleferret",
+          "repository poisoning",
+          "north korea",
+          "developer targeting",
+          "beavertail",
+          "ottercookie"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T12:09:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "834a92277f1bd82d4d473ac0aa2ddb23208a3a8763a576b882e7326c42bc5412",
+        "pulse": "Void Dokkaebi Uses Fake Job Interview Lure to Spread Malware via Code Repositories",
+        "tags": [
+          "dev#popper rat",
+          "omnistealer",
+          "git history tampering",
+          "vs code exploitation",
+          "worm propagation",
+          "supply chain attack",
+          "fake job interview",
+          "blockchain infrastructure",
+          "invisibleferret",
+          "repository poisoning",
+          "north korea",
+          "developer targeting",
+          "beavertail",
+          "ottercookie"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-21T12:09:44",
+        "hash_type": "sha256"
+      },
       {
         "value": "e12285f507c847b986233991b86b22e3",
         "pulse": "macOS ClickFix Campaign: AppleScript Stealers & New Terminal Protections",
@@ -10755,58 +10770,6 @@
         "source": "alienvault_otx",
         "created": "2026-05-14T11:16:28",
         "hash_type": "sha256"
-      },
-      {
-        "value": "401c125517b1f845289bf0a7a33e5db0391034f631eab85dd65b76b7fec9a959",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b68eefb10e2c304681532bc0c812c7905888e6b8e47448f1e4bc1edfe7ac193d",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "386d4093f70219b8291d3f9e6f71ee1f",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bdac75f0e71a6e2ee2030259ad5ff7c002ebc98d",
-        "pulse": "59 Victims, Zero Authentication: A ClickFix Campaign Force-Installs a Chrome Extension Banking Stealer and Leaves the Entire C2 Wide Open",
-        "tags": [
-          "session-hijacking",
-          "clickfix",
-          "credential-theft",
-          "banking-stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-14T13:56:59",
-        "hash_type": "sha1"
       }
     ]
   }
