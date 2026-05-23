@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-22T19:19:04.497581",
+  "updated": "2026-05-23T01:48:17.413136",
   "counts": {
     "ips": 24,
-    "domains": 4793,
-    "hashes": 1118
+    "domains": 4786,
+    "hashes": 1129
   },
   "data": {
     "ips": [
@@ -577,6 +577,48 @@
       }
     ],
     "domains": [
+      {
+        "value": "audit.checkmarx.cx",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46"
+      },
+      {
+        "value": "0x1x2x3.top",
+        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
+        "tags": [
+          "cryptominer",
+          "repocket",
+          "botnet",
+          "linux compromise",
+          "multiple threat actors",
+          "credential harvesting",
+          "systemd-logind",
+          "dnser",
+          "ai-assisted remediation",
+          "earnfm",
+          "fkkkf",
+          "cve-2025-55182",
+          "xmrig",
+          "fh8a7d7m",
+          "data exfiltration",
+          "react2shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:09"
+      },
       {
         "value": "fudcrypt.net",
         "pulse": "Dissecting FudCrypt: A Real-World Malware Crypting Service Analysis",
@@ -86451,207 +86493,357 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-17T18:56:14"
-      },
-      {
-        "value": "uw04webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "ur01webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "uv01webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "check02id.com",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "uv03webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "uv04webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "uw03webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "uw05webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
-      },
-      {
-        "value": "ux06webzoom.us",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43"
       }
     ],
     "hashes": [
+      {
+        "value": "d47de3772f2d61a043e7047431ef4cf4",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e1023db24a29ab0229d99764e2c8deba",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "250f3633529457477a9f8fd3db3472e94383606a",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b12cc5cc91ec483048abcbd6d523cdc9ebae3f3",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bbbca2ddaa5d8feaa63e36b76fdaad77386f024f",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "de0fac2e4500dabe0009e67214ff5f5447ce83dd",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "222e6bfed0f3bb1937bf5e719a2342871ccd683ff1c0cb967c8e31ea58beaf7b",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "24680027afadea90c7c713821e214b15cb6c922e67ac01109fb1edb3ee4741d9",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2588a44890263a8185bd5d9fadb6bc9220b60245dbcbc4da35e1b62a6f8c230d",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "26e8e9c5e53c972997a278ca6e12708b8788b70575ca013fd30bfda34ab5f48f",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2a6a35f06118ff7d61bfd36a5788557b695095e7c9a609b4a01956883f146f50",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "415610a42c5b51347709e315f5efb6fffa588b6ebc1b95b24abf28088347791b",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7391b531a07fccbbeaf59a488e1376cfe5b27aef757430a36d6d3a087c610322",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a0d9366f6f0166dcbf92fcdc98e1a03d2e6210e8d7e8573f74d50849130651a0",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a6871deb0480e1205c1daff10cedf4e60ad951605fd1a4efaca0a9c54d56d1cb",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d186161ae8e33cd7702dd2a6c0337deb14e2b178542d232129c0da64b1af06e4",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ff7b0f114f87c67402dfc2459bb3d8954dd88e537b0e459482c04cffa26c1f07",
+        "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
+        "tags": [
+          "docker hub poisoning",
+          "github actions",
+          "mcpaddon.js",
+          "credential theft",
+          "npm propagation",
+          "ci/cd compromise",
+          "canister worm",
+          "checkmarx kics",
+          "vs code extension",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "781c19b56fbdb17284707f9026e107f639e5447df7df3b248a5d5a50c4b0806c",
+        "pulse": "Untangling a Linux Incident With an OpenAI Twist (Part 2)",
+        "tags": [
+          "cryptominer",
+          "repocket",
+          "botnet",
+          "linux compromise",
+          "multiple threat actors",
+          "credential harvesting",
+          "systemd-logind",
+          "dnser",
+          "ai-assisted remediation",
+          "earnfm",
+          "fkkkf",
+          "cve-2025-55182",
+          "xmrig",
+          "fh8a7d7m",
+          "data exfiltration",
+          "react2shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-22T22:57:09",
+        "hash_type": "sha256"
+      },
       {
         "value": "e32f72e15f78347c51c4ca1b2847f667",
         "pulse": "Dissecting FudCrypt: A Real-World Malware Crypting Service Analysis",
@@ -105864,167 +106056,6 @@
         "source": "alienvault_otx",
         "created": "2026-04-17T18:32:59",
         "hash_type": "sha1"
-      },
-      {
-        "value": "05e1761b535537287e7b72d103a29c4453742725600f59a34a4831eafc0b8e53",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2075fd1a1362d188290910a8c55cf30c11ed5955c04af410c481410f538da419",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5e581f22f56883ee13358f73fabab00fcf9313a053210eb12ac18e66098346e5",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5fbbca2d72840feb86b6ef8a1abb4fe2f225d84228a714391673be2719c73ac7",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8fd5b8db10458ace7e4ed335eb0c66527e1928ad87a3c688595804f72b205e8c",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95e893e7cdde19d7d16ff5a5074d0b369abd31c1a30962656133caa8153e8d63",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a05400000843fbad6b28d2b76fc201c3d415a72d88d8dc548fafd8bae073c640",
-        "pulse": "Dissecting macOS intrusion from lure to compromise",
-        "tags": [
-          "social engineering",
-          "north korea",
-          "systemupdate.app",
-          "tcc bypass",
-          "com.google.chromes.updaters",
-          "applescript",
-          "services",
-          "softwareupdate.app",
-          "cryptocurrency theft",
-          "com.apple.cli",
-          "macos",
-          "sapphire sleet",
-          "credential harvesting",
-          "icloudz"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T08:37:43",
-        "hash_type": "sha256"
       }
     ]
   }
