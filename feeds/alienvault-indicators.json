@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-23T08:00:59.716935",
+  "updated": "2026-05-23T12:52:42.376810",
   "counts": {
     "ips": 24,
-    "domains": 4787,
-    "hashes": 1115
+    "domains": 4784,
+    "hashes": 1123
   },
   "data": {
     "ips": [
@@ -577,6 +577,25 @@
       }
     ],
     "domains": [
+      {
+        "value": "stg.lsmartv.com",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51"
+      },
       {
         "value": "luckyguys.site",
         "pulse": "Unmasking DPRK Cyber Threat Actors: Fake IT Worker Infrastructure",
@@ -86430,88 +86449,523 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-18T18:45:11"
-      },
-      {
-        "value": "hebsbsbzjsjshduxbs.xyz",
-        "pulse": "macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
-        "tags": [
-          "credential harvesting",
-          "cryptocurrency theft",
-          "infostealer",
-          "backdoor",
-          "shub reaper",
-          "atomic macos stealer",
-          "social engineering",
-          "shub stealer",
-          "amos",
-          "persistence mechanism",
-          "macos",
-          "typosquatting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-18T17:52:52"
-      },
-      {
-        "value": "mlroweb.com",
-        "pulse": "macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
-        "tags": [
-          "credential harvesting",
-          "cryptocurrency theft",
-          "infostealer",
-          "backdoor",
-          "shub reaper",
-          "atomic macos stealer",
-          "social engineering",
-          "shub stealer",
-          "amos",
-          "persistence mechanism",
-          "macos",
-          "typosquatting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-18T17:52:52"
-      },
-      {
-        "value": "qq-0732gwh22.com",
-        "pulse": "macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
-        "tags": [
-          "credential harvesting",
-          "cryptocurrency theft",
-          "infostealer",
-          "backdoor",
-          "shub reaper",
-          "atomic macos stealer",
-          "social engineering",
-          "shub stealer",
-          "amos",
-          "persistence mechanism",
-          "macos",
-          "typosquatting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-18T17:52:52"
-      },
-      {
-        "value": "r3brqw3d.b0ats.top",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14"
       }
     ],
     "hashes": [
+      {
+        "value": "2d7cc3646c287d6355def362916c6d26",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3238d2f6b9ea9825eb61ae5e80e7365c",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "67fcf5c21474d314aa0b27b0ce8befb2",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "71fa755b6ba012e1713c9101c7329f8d",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "89daa54fada8798c5f4e21738c8ea0b4",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9a69b717ec4e8a35ae595aa6762d3c27",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c620b4671a5715eec0e9f3b93e6532ba",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e2dc48ef24da000b8fc1354fa31ca9ae",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "19e3c4df728e3e657cb9496cd4aaf69648470b63",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2c65433696037f4ce0f8c9a1d78bdd6835c1b94d",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "343be0f2077901ea5b5b9fb97d97892ac1a907e6",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "401cc16d79d94c32da3f66df21d66ffd71603c14",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c68dc2e33780e07596c3c06aa819ea460b3d125",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "adb47733c224fc8c0f7edc61becb578e560435ab",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bd618c9e1e10891fe666839650fa406833d70afd",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2051635ccfdc0b48c260e7ceeee3f96bf026fea",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3936f522f187f8f67dda3dc88abfd170f6ba873af81fc31bbf1fdbcad1b2a7fb",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3c29c72a59133dd9eb23953211129fd8275a11b91a3b8dddb3c6e502b6b63edb",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47c7ce0e3816647b23bb180725c7233e505f61c35e7776d47fd448009e887857",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6eaea92394e115cd6d5bab9ae1c6d088806229aae320e6c519c2d2210dbc94fe",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a95ce0b5f201d9880a6844a1db69aac7d1a0bf1c88f85989264caf6c82c6001",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a4f2131eb497afe5f78d8d6e534df2b8d75c5b9b565c3ec17a323afe5355da26",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aeec65bac035789073b567753284b64ce0b95bbae62cf79e1479714238af0eb7",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b92a3a1cf5786b6e08643483387b77640cd44f84df1169dd00efde7af46b5714",
+        "pulse": "Malicious Campaign Deploying AdaptixC2 Beacon and VS Code via Trojanized SumatraPDF",
+        "tags": [
+          "sumatrapdf",
+          "cobaltstrike",
+          "adaptixc2 beacon",
+          "entryshell",
+          "toshis",
+          "tropic trooper",
+          "chinese targets",
+          "cobaltstrike beacon",
+          "toshis loader",
+          "adaptixc2",
+          "github c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:30:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b2d9a99de44a7cd8faf396d0482268369d14a315edaf18a36fa273ffd5500108",
+        "pulse": "Beyond PowerShell: Analyzing the Multi-Action ClickFix Variant",
+        "tags": [
+          "scheduled task",
+          "social engineering",
+          "clickfix",
+          "cmdkey",
+          "unc path",
+          "lolbins",
+          "remote dll",
+          "regsvr32"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T03:26:59",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b2d9a99de44a7cd8faf396d0482268369d14a315edaf18a36fa273ffd5500108",
+        "pulse": "Beyond PowerShell: Analyzing the Multi-Action ClickFix Variant",
+        "tags": [
+          "scheduled task",
+          "social engineering",
+          "clickfix",
+          "cmdkey",
+          "unc path",
+          "lolbins",
+          "remote dll",
+          "regsvr32"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-23T08:56:35",
+        "hash_type": "sha256"
+      },
       {
         "value": "d47de3772f2d61a043e7047431ef4cf4",
         "pulse": "Malicious Artifacts Found in Official KICS Docker Repository and Code Extensions",
@@ -105305,367 +105759,6 @@
         "source": "alienvault_otx",
         "created": "2026-05-18T18:45:11",
         "hash_type": "md5"
-      },
-      {
-        "value": "c917fcf8314228862571f80c9e4a871e",
-        "pulse": "macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
-        "tags": [
-          "credential harvesting",
-          "cryptocurrency theft",
-          "infostealer",
-          "backdoor",
-          "shub reaper",
-          "atomic macos stealer",
-          "social engineering",
-          "shub stealer",
-          "amos",
-          "persistence mechanism",
-          "macos",
-          "typosquatting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-18T17:52:52",
-        "hash_type": "md5"
-      },
-      {
-        "value": "aaed4dca8bd6bb42fc4efb358a02a554",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ebdae1b6a28589ecc8d84557f0e83963396291cf",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "89dae116c77b0035277d39dfe01043624427c119ddee8883a3ba54a42a6ae400",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "353874dd1e12a7f67ba4f7ecbcbcb2af",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "98d2ef26e37be7f8e0c9b1b45329a5288c832ea1",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0b510f93f47590791626d2fa74ddd62ba6eb8a5a5bb7b8476c0ceffc7be94ebe",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "29404df12a7723ce46c8b199c88a808aa315dd8ff8fd1e06a34ccd3d16f4553b",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2ccf23b8165e8c05899aa7ba4755b896ebf1d20d3b701cffdc768482486b0a74",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "37132e804ccb3fc4ba1f72205da70c3d7a6e66b43178707a9d8ee1156d815c21",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "696aeb6321313919f0a41a520e6fa715450bbfb271a9add1e54efe16484a9c35",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "721c7cb2109ec97c14413cb8b58ddce0ecf0c1f13f22ee4f72eed79b57592cf5",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7c01d5b53861cd34e10a79fdea16dcf08bce9c78ed72abd6d6f3e9ce75a24734",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "838e35b62a6b38675e467301166cdcc54f98d528fe43d56936caeffec88ac696",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95d1eb12d58206319c514c7240d058c512bb22b31f6ea22ed8be3ae44305c9f7",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9b805585c457811d2c5c5664ede9ee869b53e3c9999100505d7ee8de7f855fdf",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b1274de00a7f3d7ab9792ec3456e9d5bf057738666f34183f1d72060e2d4f678",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e4789416c35b345e75c023a8c07c207c79937c6a5444e1c29d85d18d2f660d8c",
-        "pulse": "Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign",
-        "tags": [
-          "cve-2024-3721",
-          "mirai variant",
-          "mirai",
-          "persistence mechanisms",
-          "iot botnet",
-          "multi-architecture",
-          "credential brute-force",
-          "tbk dvr exploitation",
-          "nexcorium",
-          "ddos attacks",
-          "cve-2017-17215"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-17T18:56:14",
-        "hash_type": "sha256"
       }
     ]
   }
