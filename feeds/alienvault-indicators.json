@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-05-29T14:33:41.664725",
+  "updated": "2026-05-29T20:02:44.105145",
   "counts": {
     "ips": 54,
-    "domains": 315,
-    "hashes": 504
+    "domains": 316,
+    "hashes": 516
   },
   "data": {
     "ips": [
@@ -818,6 +818,22 @@
       }
     ],
     "domains": [
+      {
+        "value": "onlineapp.ooraikaoo.info",
+        "pulse": "Kuse Web App Abused to Host Phishing Document",
+        "tags": [
+          "fake login page",
+          "credential harvesting",
+          "vendor email compromise",
+          "supply chain",
+          "ai platform abuse",
+          "markdown file",
+          "social engineering",
+          "phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:01"
+      },
       {
         "value": "load.serverpit.com",
         "pulse": "Kimsuky's Advanced Attack Techniques: JSONPing, Webex Spoofing, and a New HttpSpy Variant",
@@ -5801,6 +5817,234 @@
       }
     ],
     "hashes": [
+      {
+        "value": "f962cb443975065b91d4512a42a529a091726e1815be28ced0ebb9dff997931d",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a03705fc225dbcec7e3c2f06a258afe81b5d88aaff1368d10dd6ba4f0932be7c",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c3468e3c7a535b74fa91927fb1572d8",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "78774672884f8cd7593fced3c7d1faa4",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fac068afc5a0361f323f8b2fdbcbfd41",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "98182f78f2ee76f3dffa58c268dd9e653c711ce5",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "da365650e77eaf9d79801d475de7bf2b2a031251",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dbcf1c93634010c7e6131bcdfffa72e30da2376a",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "079ae4f813939dd96b961ae288fb7f930649dfebb4884c13af95309a71f986f5",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "31a60f9e0b5b4f0371f4130a184e27f79cefacb080a6273ccb1c9a908dc6ca9d",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8367daa8ce633724157b8edd21d625de5ac56b8c2d983bbb283836162037f3c1",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fa965ed784f7ec99e21475205cc177bb71ac7550b4015b4a4b3e232f032dcb91",
+        "pulse": "DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet",
+        "tags": [
+          "minecraft",
+          "game server targeting",
+          "ddos-for-hire",
+          "mirai-derived",
+          "vltrig",
+          "xlabs_v1",
+          "mirai",
+          "bandwidth profiling",
+          "iot botnet",
+          "adb exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-04-29T19:42:02",
+        "hash_type": "sha256"
+      },
       {
         "value": "c089457d5f4b22313b927bb36a320f8d7a1ddb6d5b82293dc2374dcfd4b1b8b2",
         "pulse": "Kimsuky's Advanced Attack Techniques: JSONPing, Webex Spoofing, and a New HttpSpy Variant",
