@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-06T01:52:24.828236",
+  "updated": "2026-06-06T08:19:42.916923",
   "counts": {
     "ips": 46,
     "domains": 356,
-    "hashes": 633
+    "hashes": 634
   },
   "data": {
     "ips": [
@@ -5987,6 +5987,21 @@
       }
     ],
     "hashes": [
+      {
+        "value": "e11f69b49b6f2e829454371c31ebf86893f82a042dae3f2faf63dcd84f97a584",
+        "pulse": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
+        "tags": [
+          "zero-day",
+          "pan-os",
+          "buffer overflow",
+          "reversesocks5",
+          "earthworm",
+          "tunneling tools"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-07T07:56:43",
+        "hash_type": "sha256"
+      },
       {
         "value": "241a50befcf5c1aa6dab79664e2ba9cb373cc351cb9de9c3699fd2ecb2afab05",
         "pulse": "ClickFix campaign uses fake macOS utilities lures to deliver infostealers",
