@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-05T19:26:02.045944",
+  "updated": "2026-06-06T01:52:24.828236",
   "counts": {
     "ips": 46,
     "domains": 356,
-    "hashes": 634
+    "hashes": 633
   },
   "data": {
     "ips": [
@@ -16476,23 +16476,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-04-30T09:42:52",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "039e659ade3aa8ee7758c11fdb8fbfffd2491920046d638413cea2042f6d584c",
-        "pulse": "Komari Red: The Monitoring Tool with a Built-in Reverse Shell",
-        "tags": [
-          "rdp-enablement",
-          "credential-theft",
-          "sslvpn-compromise",
-          "impacket",
-          "nssm-persistence",
-          "reverse-shell",
-          "komari",
-          "github-infrastructure"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-04-30T00:12:39",
         "hash_type": "sha256"
       }
     ]
