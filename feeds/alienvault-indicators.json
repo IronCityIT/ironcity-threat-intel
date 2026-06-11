@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-11T02:11:31.252338",
+  "updated": "2026-06-11T09:58:15.984819",
   "counts": {
-    "ips": 99,
-    "domains": 384,
-    "hashes": 605
+    "ips": 81,
+    "domains": 347,
+    "hashes": 472
   },
   "data": {
     "ips": [
@@ -1187,253 +1187,291 @@
         "tags": [],
         "source": "alienvault_otx",
         "created": "2026-06-04T16:40:30"
-      },
-      {
-        "value": "181.116.218.56",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "186.158.223.35",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "217.160.125.125",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:14:42"
-      },
-      {
-        "value": "176.100.37.91",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:16:05"
-      },
-      {
-        "value": "85.215.131.70",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:14:42"
-      },
-      {
-        "value": "194.62.55.81",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "194.59.31.192",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "194.150.220.218",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "217.156.122.75",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "45.225.135.54",
-        "pulse": "PCPJack Hijacked 230 AWS, GCP, and Azure Servers to Run a Hidden SMTP Relay Network",
-        "tags": [
-          "cloud compromise",
-          "teampcp",
-          "chisel",
-          "smtp relay",
-          "pcpjack",
-          "proxy network",
-          "sliver"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:43:40"
-      },
-      {
-        "value": "203.237.119.147",
-        "pulse": "PCPJack Hijacked 230 AWS, GCP, and Azure Servers to Run a Hidden SMTP Relay Network",
-        "tags": [
-          "cloud compromise",
-          "teampcp",
-          "chisel",
-          "smtp relay",
-          "pcpjack",
-          "proxy network",
-          "sliver"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:43:40"
-      },
-      {
-        "value": "154.81.166.17",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:24"
-      },
-      {
-        "value": "43.159.168.186",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "43.162.84.202",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "43.165.6.36",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "45.135.162.90",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "47.82.154.2",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "8.222.134.149",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
       }
     ],
     "domains": [
+      {
+        "value": "infra-telemetry.com",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36"
+      },
+      {
+        "value": "cloudservbr.com",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36"
+      },
+      {
+        "value": "thetruthinfo.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "catalystglobalsolutions.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "centrikglobalconsulting.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "cydfconsulting.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "finnaclevesperconsulting.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "geoindopacific.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "gpf-ina.org",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "gulfpeace.org",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "pulsewaveglobal.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "rightinfoconsult.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "safesec-group.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "thehorizzen.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "vandercons.com",
+        "pulse": "China-Linked Fake Consulting Sites Targeting US Clearance Holders Seized",
+        "tags": [
+          "job platforms",
+          "security clearance",
+          "recruitment operation",
+          "social engineering",
+          "china",
+          "espionage",
+          "ai-generated profiles",
+          "fake consulting firms"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T07:23:06"
+      },
+      {
+        "value": "msget.run",
+        "pulse": "Fake Software Tutorials on TikTok Spread Vidar Stealer",
+        "tags": [
+          "infostealer",
+          "tiktok",
+          "social media",
+          "vidar",
+          "social engineering",
+          "instagram reels",
+          "fake tutorials",
+          "powershell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-10T16:22:45"
+      },
+      {
+        "value": "d4ug.site",
+        "pulse": "Fake Software Tutorials on TikTok Spread Vidar Stealer",
+        "tags": [
+          "infostealer",
+          "tiktok",
+          "social media",
+          "vidar",
+          "social engineering",
+          "instagram reels",
+          "fake tutorials",
+          "powershell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-10T16:22:45"
+      },
       {
         "value": "tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
         "pulse": "Ransomware Analysis: Go Binary and Fast Encryption",
@@ -6550,801 +6588,449 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-05T14:07:24"
-      },
-      {
-        "value": "asper1.freeddns.org",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "country1.ignorelist.com",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "winst0.kozow.com",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "thomphon.com",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "e4wxbrg5277.com",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "49xb5hoiqsr.com",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "jh038x18gy9.com",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24"
-      },
-      {
-        "value": "guiformat.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "forestoaker.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "arch2.maxdatahost1.cyou",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "buccstanor.pics",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "gluckcreek.online",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "intem.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "ropea.top",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "ilspy.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "cdn-1415.brightcanvas.digital",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "flame-guard.cc",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "appfreshstart.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "appgetonline.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "appmakingcenter.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "carlessclapped.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "crystaldiskmark.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "dnspy.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "ghidralite.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "grpcurl.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "integritycrc.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "javascriptapiusa.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "mfcmapi.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "mobileversioncrc.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "mqttexplorer.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "originaldownloads.info",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "ukentaspectsofc.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "unlockcontent.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "webcrcprove.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "webinnosetup.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "winsetupfromusb.org",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "yourfastcrc.com",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "cw.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "ed.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "fd.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "io.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "kr.hugo-lapp.co",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "media.stellarcloudhub1.cfd",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "processing-in-progress-x4.t3.storage.dev",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "st.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "td.hugo-lapp.lat",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56"
-      },
-      {
-        "value": "xtadts.ddns.net",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "afxwd.ddns.net",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "catalogo.castrouria.com",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "fostercareintheus.optimizationprime.com",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "andrefelipedonascime1778799406970.2241107.meusitehostgator.com.br",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "bth.startthewave.org",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "pengajian.muliastudy.com",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23"
-      },
-      {
-        "value": "insight-sweet-drainage-appreciated.trycloudflare.com",
-        "pulse": "FSB\u2019s matryoshka #2/3 \u2013 Gamaredon\u2019s gifts that keeps unpacking \u2013 GammaLoad",
-        "tags": [
-          "gammaload",
-          "gammasteel",
-          "gammawipe",
-          "gammaworm",
-          "gammaphish",
-          "gamaredon",
-          "fsb"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:24"
       }
     ],
     "hashes": [
+      {
+        "value": "a5c00451eb50fbafd0440d629fe153ed3e833d9df10d9932a273628438b8088d",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "46b3efe9877f9d3e4fc4b9547ec213e75938397fdc30828857155238335973e7",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1c37a58df996dd62449a76e49dd700d9d5fc70739179a92f3a86b6bdf4e1d87e",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2dbf48e7da928f88d37d5f3560838987a277eafed85612ad841b4edfa59944f3",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b72ef13049bea56198134de13ee54bfb3b327a19dcec20e2d70719bd4379e63",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5209edb0076bbb0d08bfeb24fcd1eed714aa1038fe4c30921059bd3c95f83b72",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5f04fc6c7bc19155ac2b47405b58f0cb41ffe68f513f710d1cc0dd0ba324014e",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "669df5863f0d47a377b0f772334c935fb523cabf37a7547f6a717dcb41ccf067",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72640620e674d9236843b7e8bfe0e4f626eea3d7a954bb95b9d93d0474ff1212",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8d510a62ad31724672a648b8bdb7114d8e42b918f9d0dff7a63b91be24d66341",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "97f7a1a84d3d1aca5048f433d5689e3af1289597acae7e432fac2fc5f2c64341",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "98432af9273c1e0486661626e0c156211fcf4b2d88b64e1ad2410c785bb321b8",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aa0f56f1004632397a1f1633769e4469a370705418f649fe9057a7f9046eb999",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "abef3c0c62b7dd68ff0837e52b1c5f787003303d920dfbaec03e4a2d8946ee93",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c8905b274cee69d74ed34afc2c1384551b9ad988dd6819a0e79a0a17c170c6de",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d0c7d66206de5739315030dc580fce4fb9c39e0b48b10f49bf9d887be872fb20",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ead16af4f7e31c34b2167628c5499f8e108bf63bd08ac78f18cf0a6d92f6d86d",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb0fe48c75e689077a346a6bdf2b7368fb6ae5fe82020f2e969e04729e1c4f54",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f530985e9d7c9cafb2c30913a5de893fd01d40712b8bf171e3b62423b15f8f62",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ffe640442e49edece4d459bcee26be2c6814a099a62679c63a152c56bc48848a",
+        "pulse": "Vibe Hacking: Two AI-Augmented Campaigns Target Government and Financial Sectors in Latin America",
+        "tags": [
+          "socktz",
+          "chisel",
+          "neo-regeorg",
+          "implante_http",
+          "government targeting",
+          "financial sector",
+          "webshell deployment",
+          "agentic ai",
+          "pow",
+          "socks5 tunneling",
+          "data exfiltration",
+          "latin america",
+          "credential harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-12T08:51:36",
+        "hash_type": "sha256"
+      },
       {
         "value": "3a6adbe0081b2488e0f137496e92591e0c29148154b2d99faadab9cc435b879b",
         "pulse": "SilabRAT, What's Your Power?",
@@ -15603,2205 +15289,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-05T14:07:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02819d200d1424882af81cb504b3e8614b32397a",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1405a3c5e0aeb08012484134e16cdec4ab29b4a4",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "17f8f8f34dfa737f36182fed7ff9e9814a114058",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2423a5bf0fa7cb9ec09211630a5488629499691b",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "29f1d346a6e71774c7dad25b90f446b2974393df",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "42add9475e67a1ccc6a6af94b5475d3defc01b85",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "535f4337f261b6da20a3c614eb13270bed2d533a",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5f1f3689bcf23de1b280b5f35712946da0f7978f",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "69331cfdac792dc79240e6a6bb6e803eabd70beb",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "76253fb55aed707440e808ea78e7101318436b1c",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "901cfa97b1baaf908fd4a02bb52d970f576c4193",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "954722b0c9c678b1313d1f8b204e102842dc5889",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9803604ec45f31f9ef75bcca1e1310d8ac1fc3a6",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ae4601a19d28332a3ec6ac31b385cdf53be53450",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c2d9d48b3b10bd58cdf5df9463e3ffcd60533ff3",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d2cb0d7a9ad2b5d4ea7c2da8aec62beb37cf36d6",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dad26f61da7b8bccc78364411812be74c025b475",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e05f1767c2a337910ed75e90288838d6d0541164",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e815a9b418d09c2d4bcd074c2c0bc21406eeb22f",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "edce72f59e4c1d136cd1946af70d334c19df858d",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "396cac9e457ec54ff6d3f6311cb5cc1da8054d019ce3ffa1de5741506c7a4ea4",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8d170af3de17bb9b217c52aaaffdf9395f35ef015a57ef676e406c121e5e223",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "25e121e3b7d300c0d0075b33e5eca39a3e6a659fb9cfee52b70ef71686628f1b",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5a97614d5319ce9c8e01fa0b4eb06fb5b9e54fa13b23d718174a1546444123b",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f0641e053e81f0d01fa46db35a83e0a34494886503086866d956d14e81fd3e1c",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f88258e21592084a2f93a572ade8f9b91c0cd0e242f5cf6121ed7bad0f7bdd1f",
-        "pulse": "Preinstall to persistence: Inside the npm Miasma credential-stealing campaign",
-        "tags": [
-          "slsa provenance forgery",
-          "github actions",
-          "supply chain attack",
-          "oidc workflow abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "524c953e23ff8b768206cf33a529c11ac5510e47cbf6246db79ee671d1231716",
-        "pulse": "Browser Spy-Ons: Threat Actor's Extension Hijack Your AI Conversations",
-        "tags": [
-          "chrome extensions",
-          "javascript injection",
-          "privacy breach"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T02:46:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c984787ccd787629542da68302ed4ceb48fc7e458eab1c15bf45c3070883d26a",
-        "pulse": "Browser Spy-Ons: Threat Actor's Extension Hijack Your AI Conversations",
-        "tags": [
-          "chrome extensions",
-          "javascript injection",
-          "privacy breach"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T02:46:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f8cbe44fde6914bc8d06426c03c92ed536c891470292e567a586b54af29c2442",
-        "pulse": "Browser Spy-Ons: Threat Actor's Extension Hijack Your AI Conversations",
-        "tags": [
-          "chrome extensions",
-          "javascript injection",
-          "privacy breach"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T02:46:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1cd9eccc8e73d60164390beddf4cdc48",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "703a8383a3df68abce59b02fcd0b5678",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "28f871af1833935beba160b51e4a732c43a5dde5",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ca9d7aaff7c636120149168e2bbb509c10544993",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "20042f1efb59c99e3addf822a3e9e5a496f0b701362df038a50a32a9f504a136",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3ddb67ab079509dd1e7ac77fc4cfed25a271526668c68f8a2221e96a4cc21812",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "41e8e327abbf2ba721be677ad8a416a7295708257b39688a0af03275fb199cec",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "444a9d34a9f59dc7975dfabefb47d789813a4497bbac9127c4806dd816e85211",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "450ea44da0c9d96a2e8f4d6bad34f1c35cd35743295b8cd2defa9f7a9884685d",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7413cbb6eab4d6b10346f71be5dd76d7cf2f4817f7776367b162f83755aefa1f",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8fc2d35b66c692d37a85ae9d30dc5c7f06f0b3eaf01112a5a6398a1a0feb3aee",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9394666007fac4014a4641fdae150c1b969ed2bc4299876318a336fd386abf59",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b61a5508847a2167b737d31193dc393e92c5be2aa5141bbe4b7ea6f440fd4799",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b6f835ced11059d341222eba11fff3a4672f4de47a3a4d791fad86059a2b06d4",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d452f22dacab9785539484245c13e9cce58df23fc82eeef205684fcd196da20b",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dff0edae6e8854ddd3e617054ee0bd74c696c91411f704dff60aabaec839bec9",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ea44138b9701fce1b2fe13de8f9e00681c007c9adc625edc9f507f177704c2e8",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eead44c0af7ddb12cece1a6125cf213bab3c22511cd59aff9d63dcfddb7d4386",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f02b1d8010dac35b007796def0cbd5d0c9414df790e2b55b105c95df2f2ffa91",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fb3630822b70bacb56aa4cec29b5a0e3e9acb3920809e70310a4003385a6d34a",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0743154262c5ccf24794168ee331feeefc6539386715307ee44d5d9b6b321077",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d24216d0b82747e9406a696da76960183926145f9621947e34a772137f5e22a6",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f2357e70f359803d42298d016c7e1631e9fba6c7e01e5df1eb8fb9ff7eb3df4e",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3578e1588846a805ee806fa6151b5801d0acb88879a93d378300e2ee7665736e",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7d4fb94f6b4623690daea67ed52e97705cb102f443988ff605f2a9c4898244dc",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eca5c297008e7c07a5c6fc9070c03121d702ef093b4a8e508b712040d87fed36",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1d09357b6a096fdc35cd5c873eed15665d6b3c879d20c8cf01e6bca0005512cf",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d2c637235d62ad766f961f9b8563f6a0e6db2ec0a343470385991b4df826afbc",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1fc515870c681bf3e1b7947e2248bbcfe9918db2978117e91134de20bd42fd6a",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ced6b0f4441085bb9c54a32da9ab4ba14c6e21daf6e34fd61d54923f87baacd0",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "afd5f1ed45a9867daf3bc64152cef460a06b164c8183e490db39146d4749a82c",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2cd88d5280a61714836f5f07a16df190911c5b952af2998dbbcda910b3b1c494",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "00d979bdb1b29b2859f2120580f101f40e8e13de0b3b7bc29675e2c31098a03c",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ae8cded2822c56dd85f52bba09d9285cb2db3e6317227530b848ea143afb067c",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9eefc66d1fca7f18a91f49affb569b41bcde043f91567e7f5cc9f2016aeddf8c",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c958de72460256c9c1cceef527d880862e8bc29e3ae4e2d478af97dcafd41180",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6dc41555455860b8584d761303a7ae5487117944e2a24d74fa3e91ad8f840077",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6b22df0de0a40ff372973639c8a1974cfb75084b8e3b85f9ab9038e0acce43c0",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "31f27fdc14505e0cebe360579e1ba0326762cbe0948e50b5f920da51fdef1b51",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "389a6a2007e4f06d16beac0ec2cb01391f80ad5e392343386cae3ceb82ec1502",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "01b43dad62e56164771db696827a30ae",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "07d0d4c580ac76ac3ffb63353c9b6b85",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "19b2f2902825eaf62f2db1eb8aaa520a",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "347a3f5f2ed2f503a22f68c4951c78c7",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "37b996509ce2873f96781c9f9b12d8b5",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "37e065585c573ecc082aacbfd31564eb",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4442897e3b772dfa4f7af109bec8924d",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "609c3fc64a67630a7b206a6880c893a8",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "63e45ffa6d0c22cb04646ef549d61065",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "659575cb45a67b4d0c70e7361709fb03",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6b8ec32dc76fa3138f00616156962f4f",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6ee4050ac0c5192961c9f34568ca68fd",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7d384886720c8e576c3ca9d68cb5f08b",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9d066964414cff647beeecb75affb5b5",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a9198c1497481b2fea007ea5f13eafbf",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ce9abf0dab1facd7afeb70dc34925a78",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e6c69f14d7b0dabff5c67e54cf87aba2",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f799ea5df9ec08690385d0972aefb59d",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fa9d1f3e719d9284af8af075b1cef9cc",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "149f5cfe98e06f9f7fb6d29dd271830c02250f9d",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "29b38a57b22f0a442e4e731525aeada927ea2f56",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2b258b5cd3fc997d537ab92b7ebe2d42349a6f92",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "34e20e58b54e241596dfb2b87451b42f6bbaea95",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5a7caaed79b1302285c371960ee3f50779f26a81",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "70bee643d79fd82f7835b208e15a6d722f64dd7a",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "86ff1313888780942c6a0ad2f683312911582498",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "aeb63fc27339747fa922f52ae58d32f8c978ee71",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "af98e97cd49229845123a1063b8c386cc9b2f441",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "afd1818d136a5cad592fbd81122e2c0a1aaae4b2",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b14e1f931f602b1e1985d1362db0e17dd2d2131f",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c6c9b69fbfb77f1d07b44991dccc58719c37faf7",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d79246b49a00169993de60779cbcec17cae9da21",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dafbe5c235051bd6689f4b36a725360c38abdf25",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "deb10789274bf903060d700b3472fdf094a14763",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e47d2c9f62adbffff5353e21e212d98de869c81d",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "fd8e880cc32377af08327c9d187f6220c6ac449f",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b032d4ec4e24714f59e853da9b6e63794aacdbcb",
-        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
-        "tags": [
-          "brazil tax lure",
-          "invoice phishing",
-          "kongtuke",
-          "havoc",
-          "banana rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "87361ba2bb412dcf49f8738f3b8b9b7dccb557ad2e76ea8d98ffa5b098ae3886",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c4f8abe69bde5e1a53ca98fe22e13aa",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bfea4ee8ef934be7a2b4c64a0bad1e92",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f0ea4c47bc8fec96770d023f1025bcb3",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f48bf08687948ead049686cdee0e92dd",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "606966a9ec33765baedf63331595d1168f2a596f",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a3d2ea3aa5850ecac5e75b0cc1467bda57dbb776",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d6b6eb84b0718cbd02eea586637679b4d77bb34f",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "15e6df0c95f2147952308e640d55270e9d097639eaebb34d4b352415f1c6bceb",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "26f2abfc254a59c2386dd46dca16744f7147a0f0366cb6008e1d53219175f44c",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2e842eab0c16ddd1a2ec4a56610adb58d115b65a1e08e9b67e7e375f8eed0873",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "39dc2327fe1e5a56ac5ad9dc02f0386cff3d83dcfdc558cacba42ebb9dcc5ec2",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3bb92771e287aa0a8bdd8e5b5bb697427223eaefded3d9b64b5d5c32ad40f3c2",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4cdb1f7ac502289119f7f8256f00baaa994e6ecfb4000dcf5e1c46073508fcb3",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "598b023e56c45b19173e8f96c1c88036d732fec305cf6bf1b9cf4dbe304beb7f",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "74091f5a8746a1c68d73e1fc1e4e1ff514632ee3f632a8b306f35dabae2d2b64",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cbad672d9bd06ce91ce465d049e50696fbaec9d209ca0ab1fd814d993d04bc9b",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ce0888df5e28716432013a8ae002437bd3e993fbe8362c5ff9efbddabfe0ab77",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e6a1a428a7c09c9946f7c0179d89b263f442dc3208b5144a9146c200e4185bd6",
-        "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
-        "tags": [
-          "animateclipper",
-          "remusstealer",
-          "click hijacking",
-          "cryptocurrency clipper",
-          "infostealer",
-          "traffic distribution system",
-          "sessiongate"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T17:42:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c356aff1a01c2b0da472e584c8e3c8f875b9a24280435d42836a77b19f5a8c18",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c61b1941cf756eb7551f7c661743802362728b785adc22e860d269713dfb01a6",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5b7247c497788cf0031ceb06e3df77a45fef59f1e49633dc7159816d64759b5",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f1c3ebe78bd8c38559bf3cfcc9a9fa37d221e31780774a3787e26160a61f5348",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e91fb249aa97be5c7931e430781167edfe7ba804720b5f643e6ab70b7e6e74dd",
-        "pulse": "Inside DesckVB Rat Analysis: From Malspam to In-Memory RAT",
-        "tags": [
-          "in-memory execution",
-          "venomrat",
-          "amsi bypass",
-          "desckvb rat",
-          "jscript loader",
-          "malspam"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a2c6e01001c62f6198e31a9d603977c6",
-        "pulse": "FSB\u2019s matryoshka #2/3 \u2013 Gamaredon\u2019s gifts that keeps unpacking \u2013 GammaLoad",
-        "tags": [
-          "gammaload",
-          "gammasteel",
-          "gammawipe",
-          "gammaworm",
-          "gammaphish",
-          "gamaredon",
-          "fsb"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bf94f4056627907d86ce1cae8b44c67a",
-        "pulse": "FSB\u2019s matryoshka #2/3 \u2013 Gamaredon\u2019s gifts that keeps unpacking \u2013 GammaLoad",
-        "tags": [
-          "gammaload",
-          "gammasteel",
-          "gammawipe",
-          "gammaworm",
-          "gammaphish",
-          "gamaredon",
-          "fsb"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d2a6009587b3cb73355c2d1e53d5cdfa",
-        "pulse": "FSB\u2019s matryoshka #2/3 \u2013 Gamaredon\u2019s gifts that keeps unpacking \u2013 GammaLoad",
-        "tags": [
-          "gammaload",
-          "gammasteel",
-          "gammawipe",
-          "gammaworm",
-          "gammaphish",
-          "gamaredon",
-          "fsb"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T13:18:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c3405d9c9d593d75d773c0615254e69d0362954384058ee970a3ec0944519c37",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1f385acf11f8ea6673d7295be6492ea9913b525da25dcc037ea49ef4f86a9d58",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02048121fd0b3a51751ce7677155aa8818eba9d8ce67ea26fd1d7f43cfcdabd2",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "22f335a65c479c26019f6187dae290624117c82a702a96acbb04fa325f730d3e",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2587217bc685527480c803ddf34a56ae9d9bf02681828a8a2081acc775312cf3",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "308351124c496d4f4effee65ab828506abf70385773c167ab1f32a7f030385ac",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3aae5a24e63f3cb1ca4759b9e4ee8e503ff139189423f5fd8cc923c6819697ca",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3b6cb20891bce8602ce669187754871e402a1782031ef8b032cd007e3894bc5d",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "611db3195d55e871dce67ce5c41e894bbaab88dd0d019af68f5a259f0108aef7",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6a69ea2ce3fea0ebfd7a32a1dfc4251bd4d7d8a4fbd44aaa47b82290d0414a9f",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6c700ca4e6d917c7aa9d964e98604a0349d9b8b4673df96a3f73a3d2d042635a",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8b283c954d19a839a724961ccaf025c56988c4e745acb2d31a15a006cda072bf",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c0871cd0f60bc603424e948a689945a1828d0bef926a6470ae18cf17d93f7cb",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "acf5ed6e5bb90c44683938f35efeca551428064cdedbbaab8be69e3474fb806f",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cf731b82c471211938b210ae8a6dcc7ece4f44371e716f056fa05151a9910727",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5e42104292513232d26ad7d9d317b5c779577da43e28fe27f8c2fb9318b0e8e",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d78f64551d1b31a31e5998e442f0debd458e011e05019b3951d9ddde997f8384",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "db59813e3f27fb8608a4876e758f60b69d9700dc22d15237ac095bb3166fb622",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eaff006ac0eb7f7fe4db5fc6a4b5b1dc272d83ced66d510dcea185b1278bb453",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f72a8b71f12eaab6518873f72ea4be4572d9f3fb8e8706ade3b9a7314f236f22",
-        "pulse": "Espionage Campaign Targeted Stock Exchange Executive for Five Months",
-        "tags": [
-          "stock exchange",
-          "email theft",
-          "frpc",
-          "outlook ost",
-          "secretsdump"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T12:55:41",
         "hash_type": "sha256"
       }
     ]
