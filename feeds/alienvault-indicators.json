@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-13T02:00:54.448946",
+  "updated": "2026-06-13T08:42:13.967569",
   "counts": {
     "ips": 88,
     "domains": 369,
-    "hashes": 531
+    "hashes": 530
   },
   "data": {
     "ips": [
@@ -16721,21 +16721,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-07T12:22:54",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e11f69b49b6f2e829454371c31ebf86893f82a042dae3f2faf63dcd84f97a584",
-        "pulse": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
-        "tags": [
-          "zero-day",
-          "pan-os",
-          "buffer overflow",
-          "reversesocks5",
-          "earthworm",
-          "tunneling tools"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-07T07:56:43",
         "hash_type": "sha256"
       }
     ]
