@@ -1,13 +1,101 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-16T16:17:21.747611",
+  "updated": "2026-06-16T20:33:12.607703",
   "counts": {
-    "ips": 74,
-    "domains": 503,
-    "hashes": 503
+    "ips": 79,
+    "domains": 525,
+    "hashes": 628
   },
   "data": {
     "ips": [
+      {
+        "value": "62.164.177.25",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "77.110.122.58",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "213.165.41.26",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "138.124.186.2",
+        "pulse": "Investigation of email-based attack delivering MediaFire ZIP file with execution chain analysis",
+        "tags": [
+          "mediafire",
+          "netsupport rmm",
+          "dll hijacking",
+          "scheduled task persistence",
+          "remote access",
+          "email delivery",
+          "python side-loading",
+          "process injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T05:29:41"
+      },
+      {
+        "value": "185.76.243.85",
+        "pulse": "Investigation of email-based attack delivering MediaFire ZIP file with execution chain analysis",
+        "tags": [
+          "mediafire",
+          "netsupport rmm",
+          "dll hijacking",
+          "scheduled task persistence",
+          "remote access",
+          "email delivery",
+          "python side-loading",
+          "process injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T05:29:41"
+      },
       {
         "value": "103.142.140.238",
         "pulse": "How attackers are jailbreaking LLMs with CTF framing and how to catch them",
@@ -1794,6 +1882,406 @@
       }
     ],
     "domains": [
+      {
+        "value": "comunidadesparentais.com.br",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "glanz-gmbh.de",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "mysimerp.net",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "professionalhomebasedbusiness.com",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "projetosmecanicos.com.br",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "safefire.jo",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "socialbizsolutions.com",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "turnkeyaiagents.com",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34"
+      },
+      {
+        "value": "resumeacceptable.com",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "cl.distritovagas.com",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "sonra.eutialyson.com",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "pestrear-lamp.xyz",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "anus-staylard.xyz",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "fair-bath-fond.xyz",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "rule-bead-dust.xyz",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "uglyshop-mare.xyz",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52"
+      },
+      {
+        "value": "morevoms.cfd",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53"
+      },
+      {
+        "value": "abiorime.cfd",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53"
+      },
+      {
+        "value": "blestorians.cfd",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53"
+      },
+      {
+        "value": "beralisvc.info",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53"
+      },
+      {
+        "value": "bsc.blockrazor.xyz",
+        "pulse": "Investigation of email-based attack delivering MediaFire ZIP file with execution chain analysis",
+        "tags": [
+          "mediafire",
+          "netsupport rmm",
+          "dll hijacking",
+          "scheduled task persistence",
+          "remote access",
+          "email delivery",
+          "python side-loading",
+          "process injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T05:29:41"
+      },
+      {
+        "value": "xn--fiqq24b9hejs1c.clickvector.tech",
+        "pulse": "Investigation of email-based attack delivering MediaFire ZIP file with execution chain analysis",
+        "tags": [
+          "mediafire",
+          "netsupport rmm",
+          "dll hijacking",
+          "scheduled task persistence",
+          "remote access",
+          "email delivery",
+          "python side-loading",
+          "process injection"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T05:29:41"
+      },
       {
         "value": "dodod.lat",
         "pulse": "WebAssembly Malware Found in Trojanized Open VSX Extensions",
@@ -11777,6 +12265,2217 @@
       }
     ],
     "hashes": [
+      {
+        "value": "8a4033425d36cd99fe23e6faef9764fbf555f362ebdb5b72379342fbbe4c5531",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ecb1d69999a730760b3c5654920f0ef6",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b4ddb0adf94e28b53e392900c5ff2f538616441b",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "048e18416177de2ead251abdf4d89837f6807c6aba4d5b1debe49adfdecbf05c",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "65ab49119c845801f29a57e8aa177146b2ffbd289d4278109b146f933380f951",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6bbf10bcbef7ac5102b54c81137859891a3802dbacd888be90f990d50e18b0b4",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f9fbe29f8cc2788e2bc9d631e0eea2a8e9837076837b55838005a0e654f0a9e",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "821da79d727351dd67ce5df7950e9a3de6647a3cf474bb3a093f67507fed92a6",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8284c8676cc22c4b2e66826ac16986da7ddecba1f2776b16771be17bfdc45dc2",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "82b37a92589dfd4d67ca87eb9e52ac8e682e8e60d2211f59074cd5ccc693013b",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9335f61f8ad276d94455c5b6876fea48152c3cea759f2598c8108ee461fa5759",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aea26980059ef2ad11e99556a4edfa1f8ec769fa9f06aa573b81bedf319954b5",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd078957167e1af4de39aecdb981cd14156fa81d5a9c6ac51e74ae5b6199a12a",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ce66b8221446c9b6d83f0ce6382f430e519601641e5daaaf1ca7a8a8806cb0b0",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d0da2832ae1e13a98f7ce7e33a66c1b0d9797b81f69ece134e4462ea55ac923e",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d20a3c928761fe00ac522eeb474612b5804cd9108453ea8591106d5d4428428e",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e45b18c93d187aac5c4486f57483bc87580e15def82a312bfb377ff16eb96b22",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f174c19902523dcf005fa044b6598403a5e5c0a5982398d1bc0dcc5ec1cd351b",
+        "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
+        "tags": [
+          "dragonforce",
+          "dll side-loading",
+          "ransomware",
+          "byovd",
+          "cve-2023-52271",
+          "cve-2025-61155",
+          "cve-2025-1055",
+          "turn relay",
+          "credential theft",
+          "vulnerable drivers",
+          "backdoor.turn",
+          "microsoft teams abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:44:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "79f7b67ce8b39070f3e1c2b90fce0ce84134782a7dedcccc1edac197ee9e089b",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d37cc44db90a65341263deb162024447",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4537b37b65e9dc35640d750f3fa7f4944534f6b1",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2abe5dd3a057fdef935722e50e9251c272d29fd26113187b853a1f9a9cb89d9b",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2ada24dd6e517f37942b749c2bd57ddd97445e9853002cee70a0bc30d0b0ce3a",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b7ae925e2d64522b4f69b56285b05aeca8c5aab5ab46a9c02c4fafb69d881ce",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T17:19:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd4e5e2c65b1660470d3446539ee68adf5faeece3eaeb46583623be9911ee145",
+        "pulse": "Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack",
+        "tags": [
+          "rmmproject",
+          "blockchain c2",
+          "chisel",
+          "etherrat",
+          "credential theft",
+          "clickfix",
+          "dga",
+          "lateral movement",
+          "hidden desktop",
+          "potemkin"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "006c773fb376e69395d078fbfeb37845",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0a91605c428936cc57079c82f58e5ab2",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "114377794c485b464a09d8a712fdf89a",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "12dd7582991eedb150605dc9b4df96d9",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "18bf467368ab5197320af4c776fcc1ff",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2b68a1032a5da7fd5c6d917c757f1483",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3b5b36bf3666a37e55cca68a617a8d27",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "41e46bdfac77abcce3fe5539e367eafb",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "493b92c3b3d73a5511ccd84bf578463e",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4c8533c5231f023b8230abdf18d8750a",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "53e4e5d8733569615de08e88555809e8",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "59cf6e1d2b9fa977a99e20dcd9fe07f7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "617a9505680f81c08cd8223e41393a03",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6386b68eabc6360276f6fc88aade79e7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "669d827d9f128959bc94797836ec2943",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6ef6efc798600c1007d5196d488d1a16",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "78a1a18f78ebe666a82f22f54a9e2330",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "791ead6b2a562f777d70e594bbd86b52",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "86f30770dd116c9da42098f11f84ac46",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8f92be9f524a636904721c2af49abb97",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "960eaa15382138938020c2e9907208bb",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9a53a27511314d7f9571ce0eb7619f70",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9d613c4da12345202913d67e6692c1b7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a9127719338a0f4124660d1c90a03a5c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b0833c924d43001be3e4534fa3e3d727",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c0bfc715aa0b6f9ff41fe5f22ade0c76",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dc2bec284f293d1a58f8c8a02d4e6c85",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e07e1ec214564d12c2f5aea847138232",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e5ef5bc4ccae37c4d041afdaaca9a784",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fefec424a52e88ef72e707c1f401df01",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "017923d2295bf92a9c1731c7457978b3f900f4cb",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0bcad256c661a9de209d4d148901c51be1906896",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "153f0af2340a959ec0f431b795a979f48d5f712b",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1dea2add161006bae979e542fc551fcfca1fc0aa",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "22ee22f4f8b163cbf4df4a7c4b37a90d036b2e0e",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "23c5b055bfc35ddc5316d96e3c1a6518ed2ce444",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2658de23293a03bd077d46d75dfc83bca9525d29",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2897379c58f6971e38d4717caf323b6ed9da7fd5",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "294943cf10d268d83ba8ffaa57ab38f340d5e1e1",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3701b8dea3a2a852039834424fc214651bc97dac",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "45e0515694788ddeb0abb3dd2a86bbc967b1eeec",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "549ec32545e0accc26ec168a4832efcbff729c3c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "61e6d6b8e46eb466be8f8cd772b283037d65e30c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "62d67355c676d177381a9bf30e86980acddb898c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "68cc04a6f8b8f8f602b58acc28a1d170fa653b0c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "77ad9fc130a326010e527a279d7ead7b2a0c792c",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7a2b4acbfa9d4907c0681e880977e8cdfb26ae62",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b088a7f9b99895b23c0bd243c84558f55e27a98",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7e98337538437c4ab99105ae2e31d776d9c21590",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "886e568e4189d2f4ad912db54af82b1b6870f3a7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8d053559e1884e38bb13966d20003ffb34de8f6d",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9650ee6d3d7eca38952cb2e6a264e0d6d5c63a76",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "99c13966aa82a1af216fc967c519eb1c77abbcfc",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b4512e7d743e3597f975ae47ca87a4afd5b3cb53",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c1fa081d0cd62005f69018171ae0397c44230cc8",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c43a50956de20d8afd5b3259add038b53cbaeeb7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d781e4c217adec0d4f4e52ab70d747c2759cf968",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d9e6324d888754fee460a3577badd449f940e518",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dbbc915ba86e7b314e6082f735ed92d847dd1ef2",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e8daa78dca3287b2dd5ebb2ad1c202e869d1eed9",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1ba364113c4cec5542d1b2c76d7c163a66bdf90bc373256d5178f880f9742960",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1d3270a9141f8f16047799f1132633d72fd421b6c8f1878b5ef04ced6add4db8",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1e4ed7e40608750cd0bfe96f5ed493a022b58ec54da2345336c522f7c78197af",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1f4c70cb317ffd25adc828fbac3bb8f07739e23111f7b7905926489fe35f8973",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2eb80e5519fc6defcec8cc30a5cf4f75ee5ec8d2435759bb77c19826f1e20efb",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3c304a1ac73590aaf94b62711a5f2fd0cbb863dab13aef6ec1eb156f4a7bd5b9",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3e25c28c5e93376683e841b7ad60f9383bb3bf831284a93a4aae798fc769d767",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3fae7ede2ef9c809b54504c3d78e5111d7fad0b522c707b8f6ff21015af79251",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43888be8debbbd74012484d4e4f9a1c70c2ff3970e0bf499c9aebba9776930a1",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48a3db92fac1ba9c218253576e09f42faabeaf48cf80663cf32e06b0a66e983d",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4e2cbefc6bdbfdb6e885057ce47d460e3d3355a5e97db51b22e9c5a14e14302b",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5139253b1f30b34ab3aa888aba175866fa1f82728ab07b999c24b49b191c3f68",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57307ee8a3cda10730eacecaf789fab6f8771f9d29397e07c31a6bd4551bba10",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5d0c5d8da8202f512339457ae00ed2d9b9c930cefc63fa5a28a049aba4127ab7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "62aef76c2d1897203649844b45317d9e1723819479a2b88ca4b3290ca9f4c9f0",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "696ef29f77a91aa91279c83088a07ab137d5049dc096ef862a35f9d890a552b3",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "726095e56c693977b7796dc7cead2e2a49551d77d3f442aaa28997615ba07e99",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7aa389f25997610a96f014977eecd6d69142bdc63841e0d84976e3e621831303",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "890ecea4ebe4fea692ad36adf02abeb37c181cb7bdb6122cd52d9aaafe7d6cf3",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8d65e4df0ad369f491698437413afd1bd55fff309860f9cdecc778c9ac062282",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8ddbcebe1014a645855986e85b2c54ee167baf1e9a0d74179faf81a5ee6878f4",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "97e76acebea510c8641183866be4392601314b20e73c7ba8cf1f3ee2de6080fd",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9a8ec3b21fdb4167f8fdd46f4d38b9a99ff2d3515ee70215438a1360c1474221",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a5e6763b09553691c8b42deefb725fa3b8c133a03a34cea87740b1f13d08bac3",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aec2a36e8d68b23444348a7cec2d6ec287cb8810d1e190e04743645426ababb1",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "be8573971b85fda81a2fac27adb7a3a9b2cf7e1d9bdf713361a725324d378d34",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c08cd3f78c0edcced6b1a694284b6ed4a9e0422f469e07c702c4a8d1f6c186f4",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3cfe522d2da15b033f65eb5377bf9e99be598dc4c21729e6f168dbc8f19540b",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c3e324106803df27f5b6e0d49d2daf02d4cde396af4401f1ad29d78198e370b6",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c505353a6c58a21cb7b0343202e8629bee2f121f01c21dd8e0b61b7c55b77495",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c734a665f04eb9ab17047e65940fc35bad0221d59c2fc4fd0d170f2181514034",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d6403ec82659eb62424bb1033615a8df27635080d02e438a4ee7e2334b1155f7",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d7d960ef10b08c472ad397b6fd9e9481338b2077c7c2f44d3dc2c65b19345ae0",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e134cffcbe1fa8a861fd1f9a506f10ca5ff56cd5082360ef13d204676792e8bc",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e76cbdf420540a18e2ddea02938acf3c4b4139f3511d314dca9781afe1e439bb",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ed036356fa2d3490d3ddb5ee7ae98bab80b505938f0199d9b10f12266f345896",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f0c18f045e3bb0193ef1169f5fa1abff7aa47e9a23da35cf67bbb9548a5e32c0",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f49be77b95cabd28d2dfe91786863576f6bd3f43a9d6de67a5b5851afe3aff9a",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f8cb375a4129358ad5881c29a6921fc1e5773028c0b31da83298f606118b185a",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe41e6c1725f63582f022a17abe098e49338a78118a00ca87785b2fa0cf3dadf",
+        "pulse": "Android Banker with Complete Device Takeover Capabilities",
+        "tags": [
+          "rokarolla",
+          "cryptocurrency theft",
+          "overlay attacks",
+          "banking credentials",
+          "accessibility abuse",
+          "sms hijacking",
+          "android trojan",
+          "keylogger"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T14:27:53",
+        "hash_type": "sha256"
+      },
       {
         "value": "4efbef69eb3b09bacff892d6a55778d07c418e7f15eba3cf1245e8cdfd8dda0b",
         "pulse": "Public and Private Medical Community Targeted by Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
