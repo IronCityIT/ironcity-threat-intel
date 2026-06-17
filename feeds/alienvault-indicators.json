@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-17T02:14:02.901971",
+  "updated": "2026-06-17T10:20:33.978424",
   "counts": {
     "ips": 79,
-    "domains": 525,
-    "hashes": 628
+    "domains": 524,
+    "hashes": 617
   },
   "data": {
     "ips": [
@@ -1882,6 +1882,100 @@
       }
     ],
     "domains": [
+      {
+        "value": "api.keensie.com",
+        "pulse": "New APT-Q-27 sample spotted",
+        "tags": [
+          "dropper",
+          "dll side-loading",
+          "chinese threat actor",
+          "apt-q-27",
+          "tencent",
+          "digital signature abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-17T08:46:02"
+      },
+      {
+        "value": "bluekit.cc",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01"
+      },
+      {
+        "value": "bluekit.pk",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01"
+      },
+      {
+        "value": "bluekit.su",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01"
+      },
+      {
+        "value": "bluekit.ws",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01"
+      },
+      {
+        "value": "bluekitsmi6sd5mjurh3l7n7oeizbedoe2hw2lsljtb5nbxiul6hzkqd.onion",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01"
+      },
       {
         "value": "comunidadesparentais.com.br",
         "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
@@ -12171,100 +12265,86 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-09T15:50:24"
-      },
-      {
-        "value": "xtadts.ddns.net",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "afxwd.ddns.net",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "catalogo.castrouria.com",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "fostercareintheus.optimizationprime.com",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "andrefelipedonascime1778799406970.2241107.meusitehostgator.com.br",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "bth.startthewave.org",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
-      },
-      {
-        "value": "pengajian.muliastudy.com",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15"
       }
     ],
     "hashes": [
+      {
+        "value": "8838df7298abf4d4312648e2ee80bdee",
+        "pulse": "New APT-Q-27 sample spotted",
+        "tags": [
+          "dropper",
+          "dll side-loading",
+          "chinese threat actor",
+          "apt-q-27",
+          "tencent",
+          "digital signature abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-17T08:46:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c0aca5dfbbfcb1c9796b3d974b1ee78b",
+        "pulse": "New APT-Q-27 sample spotted",
+        "tags": [
+          "dropper",
+          "dll side-loading",
+          "chinese threat actor",
+          "apt-q-27",
+          "tencent",
+          "digital signature abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-17T08:46:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1d1808686dbf36138f3067c34566d627",
+        "pulse": "New APT-Q-27 sample spotted",
+        "tags": [
+          "dropper",
+          "dll side-loading",
+          "chinese threat actor",
+          "apt-q-27",
+          "tencent",
+          "digital signature abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-17T08:46:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "130fbe74fea31b30b59b071ccf22bf68",
+        "pulse": "New APT-Q-27 sample spotted",
+        "tags": [
+          "dropper",
+          "dll side-loading",
+          "chinese threat actor",
+          "apt-q-27",
+          "tencent",
+          "digital signature abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-17T08:46:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2f08ce5a60ec42ffaaac5c46ba18bac8",
+        "pulse": "Bluekit Phishing as a Service (PhaaS)",
+        "tags": [
+          "peer-to-peer-infrastructure",
+          "anti-detection",
+          "session-hijacking",
+          "automated-workflows",
+          "phishing-as-a-service",
+          "cryptocurrency-theft",
+          "account-takeover",
+          "credential-harvesting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-16T23:44:01",
+        "hash_type": "md5"
+      },
       {
         "value": "8a4033425d36cd99fe23e6faef9764fbf555f362ebdb5b72379342fbbe4c5531",
         "pulse": "Attackers Weaponize Microsoft Teams Relays to Stay Hidden",
@@ -26716,283 +26796,6 @@
         "source": "alienvault_otx",
         "created": "2026-06-09T15:50:15",
         "hash_type": "md5"
-      },
-      {
-        "value": "1fc0a876a121882ffaad6677f444cf5b",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ea690c3acfa6592c601e4b5dd6122805063bac53",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "86db2530298e6335d3ecc66c2818cfbd0a6b11fcdfcb75f575b9fcce1faa00f1",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f79d05065a2ba7937b8781e69b5859d78d5f65f01fb291ae27d28277a5e37f9b",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "83b7a106a5e810a1781e62b278909396",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e1ec76a0e1f48901566d53828c34b5dc",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d3beab2e2252a13d5689e9911c2b2b2fc3a41086",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "deb4b5841eea43cb8c5777ee33ee09bf294a670d",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ab6677fcbbb1ff4a22cc3e7355e1c36768ba30bbf5cce36f4ec7ae99f850e6c5",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b1b2f1e36dcaa36bc587fda1ddc3cbb8e04c3df5f1e3f1341c9d2ec0b0b0ffaf",
-        "pulse": "Honeypot reveals botnet exploiting scriptText to launch DDoS attacks on game servers",
-        "tags": [
-          "source engine",
-          "honeypot analysis",
-          "vietnam infrastructure",
-          "game servers",
-          "win_sys.exe",
-          "opportunistic attacks",
-          "scripttext abuse",
-          "jenkins exploitation",
-          "bot_x64",
-          "ddos botnet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:55:04",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0d681bd160db1b1df5db321a6d2dd9ae81b2609b",
-        "pulse": "Needle: Inside a Modular Crypto-Stealing C2 That Left Its Keys in the Malware",
-        "tags": [
-          "maas",
-          "cryptocurrency-theft",
-          "crypto-stealer",
-          "needle",
-          "phorpiex",
-          "bulletproof-hosting",
-          "wallet-spoofer",
-          "rustystealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-11T08:50:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c356aff1a01c2b0da472e584c8e3c8f875b9a24280435d42836a77b19f5a8c18",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c61b1941cf756eb7551f7c661743802362728b785adc22e860d269713dfb01a6",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5b7247c497788cf0031ceb06e3df77a45fef59f1e49633dc7159816d64759b5",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f1c3ebe78bd8c38559bf3cfcc9a9fa37d221e31780774a3787e26160a61f5348",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e91fb249aa97be5c7931e430781167edfe7ba804720b5f643e6ab70b7e6e74dd",
-        "pulse": "From Malspam to Fileless .NET Loader",
-        "tags": [
-          "malspam",
-          "sandbox detection",
-          "ddns c2",
-          "fileless",
-          "amsi patching"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-09T15:50:15",
-        "hash_type": "sha256"
       }
     ]
   }
