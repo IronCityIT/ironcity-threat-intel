@@ -1,7 +1,7 @@
 {
   "source": "spamhaus",
-  "updated": "2026-06-18T02:12:16.701432",
-  "count": 1803,
+  "updated": "2026-06-18T10:00:17.897879",
+  "count": 1800,
   "data": [
     {
       "cidr": "1.10.16.0/20",
@@ -580,13 +580,6 @@
     {
       "cidr": "38.107.120.0/21",
       "reference": "SBL693166",
-      "feed": "drop",
-      "source": "spamhaus",
-      "threat_type": "spam_botnet"
-    },
-    {
-      "cidr": "38.182.0.0/19",
-      "reference": "SBL689983",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -1531,14 +1524,14 @@
     },
     {
       "cidr": "62.60.226.0/24",
-      "reference": "SBL671779",
+      "reference": "SBL697779",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
     },
     {
       "cidr": "62.60.226.0/24",
-      "reference": "SBL697779",
+      "reference": "SBL671779",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -2659,13 +2652,6 @@
     {
       "cidr": "91.224.92.0/24",
       "reference": "SBL642214",
-      "feed": "drop",
-      "source": "spamhaus",
-      "threat_type": "spam_botnet"
-    },
-    {
-      "cidr": "91.227.114.0/24",
-      "reference": "SBL697976",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -10156,13 +10142,6 @@
     {
       "cidr": "204.115.128.0/21",
       "reference": "SBL521782",
-      "feed": "drop",
-      "source": "spamhaus",
-      "threat_type": "spam_botnet"
-    },
-    {
-      "cidr": "204.117.88.0/21",
-      "reference": "SBL679706",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
