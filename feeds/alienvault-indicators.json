@@ -1,13 +1,51 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-19T10:06:51.616945",
+  "updated": "2026-06-19T14:35:05.229880",
   "counts": {
-    "ips": 208,
-    "domains": 538,
-    "hashes": 661
+    "ips": 200,
+    "domains": 590,
+    "hashes": 694
   },
   "data": {
     "ips": [
+      {
+        "value": "217.154.162.45",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45"
+      },
+      {
+        "value": "217.154.217.139",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45"
+      },
       {
         "value": "172.105.19.27",
         "pulse": "Popa: From Sourcing to Distribution",
@@ -4265,175 +4303,1154 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-12T21:29:02"
-      },
-      {
-        "value": "211.239.157.126",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "218.150.78.198",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "121.254.222.10",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "121.254.222.80",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "218.150.78.231",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "61.100.9.206",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "87.251.64.134",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05"
-      },
-      {
-        "value": "80.94.95.37",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05"
-      },
-      {
-        "value": "216.152.151.168",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05"
-      },
-      {
-        "value": "212.93.152.37",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05"
       }
     ],
     "domains": [
+      {
+        "value": "lysander.asia",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01"
+      },
+      {
+        "value": "sso-tha.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax-pajak.online",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax-pajakonline.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax-peralihan.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax-registrasi.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax-sinkronisasi.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretaxlayanan.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretaxonline-pajak.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretaxpelayan.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretaxpelayananonline.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretaxperalihan.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "newsss.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "newsss.net",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "ngovsss.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "onlinecoretaxpelayanan.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajakcoretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pelayanan-coretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pelayananonlinecoretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pelayananonlinepajak.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pembaharuan-coretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "peralihan-coretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "peralihancoretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "registrasi-coretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sinkronisasicoretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss-cgov.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss-gov.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss-negov.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sssnegov.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "verifikasi-coretax.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "verifikasicoretax.online",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "verifikasicoretaxonline.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax.skjgo.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax.svzgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "coretax.vfbgo.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "djp.otuind.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.abbgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.abfigo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.crxind.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.dkhid.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.jvcid.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.ksjvgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.mghgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.mvzgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.mzfgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.nbvgo.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.nsbid.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.oeixgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.wpiego.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "pajak.yhvgo.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss.aqego.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss.sksgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss.slhgo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sss.sligo.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sso-tha.net",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "djp.dvhid.cc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "taspen.xufgo.com",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55"
+      },
+      {
+        "value": "sh.azurestaticprovider.net",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15"
+      },
+      {
+        "value": "atlantis-software.net",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15"
+      },
+      {
+        "value": "child.channel",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15"
+      },
+      {
+        "value": "wawsenti.duckdns.org",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45"
+      },
+      {
+        "value": "pois43.s3.eu-central-003.backblazeb2.com",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:26:19"
+      },
+      {
+        "value": "sentiwaw.s3.eu-central-003.backblazeb2.com",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:26:19"
+      },
+      {
+        "value": "w456w5.s3.eu-central-003.backblazeb2.com",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:26:19"
+      },
       {
         "value": "nice-protect.com",
         "pulse": "Popa: From Sourcing to Distribution",
@@ -16166,206 +17183,971 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-12T21:29:02"
-      },
-      {
-        "value": "query.quicksearchtool.com",
-        "pulse": "How 23 Browser Extensions Silently Monetize ~758,000 Users' Searches",
-        "tags": [
-          "adware",
-          "affiliate fraud",
-          "browser extension hijacking",
-          "chrome extensions",
-          "searchjack",
-          "search hijacking",
-          "monetization middleware",
-          "yahoo hosted search"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "s.fusebase-search.com",
-        "pulse": "How 23 Browser Extensions Silently Monetize ~758,000 Users' Searches",
-        "tags": [
-          "adware",
-          "affiliate fraud",
-          "browser extension hijacking",
-          "chrome extensions",
-          "searchjack",
-          "search hijacking",
-          "monetization middleware",
-          "yahoo hosted search"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "search.freshysearch-api.net",
-        "pulse": "How 23 Browser Extensions Silently Monetize ~758,000 Users' Searches",
-        "tags": [
-          "adware",
-          "affiliate fraud",
-          "browser extension hijacking",
-          "chrome extensions",
-          "searchjack",
-          "search hijacking",
-          "monetization middleware",
-          "yahoo hosted search"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "search.getbettersearch-api.com",
-        "pulse": "How 23 Browser Extensions Silently Monetize ~758,000 Users' Searches",
-        "tags": [
-          "adware",
-          "affiliate fraud",
-          "browser extension hijacking",
-          "chrome extensions",
-          "searchjack",
-          "search hijacking",
-          "monetization middleware",
-          "yahoo hosted search"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "services.templatesearch-svc.org",
-        "pulse": "How 23 Browser Extensions Silently Monetize ~758,000 Users' Searches",
-        "tags": [
-          "adware",
-          "affiliate fraud",
-          "browser extension hijacking",
-          "chrome extensions",
-          "searchjack",
-          "search hijacking",
-          "monetization middleware",
-          "yahoo hosted search"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "crwellfood.com",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "fe01.co.kr",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "novel21.co.kr",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "webhostingkorea.com",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "www.novel21.co.kr",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19"
-      },
-      {
-        "value": "akmuniverstall.top",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18"
-      },
-      {
-        "value": "boots-rewards-uk.xyz",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05"
       }
     ],
     "hashes": [
+      {
+        "value": "902533852b16b6ba322bf33de0e4215e",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b5fa57a839f7d63ea8d5d00a9cd5a143777e7da9",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "35a478f53f64bd412f374c65360fdba0518749537193669a8fe08d14bed65a2a",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c937eca7c4c9b98df9257d986e666d25411aac5fa39d21f7018dd2e1663f0c76",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd99e83d241cfbb41bfcd0bc622a87d16268e710ca7d736d0c5f44774e0056e2",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e7aff6a55a7866776272d9913dfbf9d7db33fc9de6aced22f2a195feebb0e85f",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb14d9e35a3bf0a933297f861bee0be9e6b9061fe4573a81ac92b71d55b6474f",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ed7087e3afba4b320bdf04f32d3a6c567effd3d18a97682968e567000e70b335",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe11b199ada23d5ac25efc4215e67f4ff617ccb4d429eb64412072687367ca1c",
+        "pulse": "Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure",
+        "tags": [
+          "spear-phishing",
+          "dll sideloading",
+          "in-memory execution",
+          "education sector targeting",
+          "social engineering",
+          "chinese academia",
+          "cobalt strike",
+          "anti-debugging"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T13:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "004d80e0efe9ea4d572350e8ce4771dfa432f0a2",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "00fcb2abd35049ad3cc9a8a3e1aaba156c0770cf",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "02462bace6937e92f3d1ef35f08c4ad270082104",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "036aa79692470ad8d6a3bedb5da310af111317af",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "03a1bcd3ba59c02ce6c37699baa73a2c075a6644",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "041dcd27e1c77548f7d5897b43a6e1817cb3e9d0",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "045144bfd86e0cf8d884ec4668d074a8d6eb4ee1",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "047190859b100d017c3b651f488eef8eba98ad28",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "07701239a7003699a02aa97bfab46e7b92800949",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0852fbee4372c194f429b8ec217a5699f56448dc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3f018345d993d0d8fd778c7f6f4667cc0e974dd4",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "49acba8d46b57fdd324f32735e0052750f51b844",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6f474c2d89850f907f538921fd25bd52f0f99af0",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7b5c154e4aaa51b3652dc685c2f21b6eb70c1440",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b125aea155d1d14be40644ba50f31418c3f40ebc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ea87642a88788469e7aafc4657588b39709f1509",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "075d8eeb5552da8524eb14a6ed72416e6e956aa3",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2a954c7c1d764493abc285c34e47525c211fe768",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3106aa0c8b260e36ece48b8a681353de76d69ca9",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3bb475b9de75a5f1c6a941210b88b0c0f55f7005",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4911144aea43d00f6c7150766e4c0ab29c93d06e",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4bb5c9382fe37012017c88c6ac90afa2efeb2cbc",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9aab26a308f86ca137e6d6c171568a442e38abb6",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c74dbe25d81bbe3c5e6177049ee393f6657fb799",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cf9b8f3f1f795c3bdf0c14af66904ce8e2b95fff",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f6627863f81cac5bf01664232473da47146f9d4c",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fd09c9c916436e13da1c204f1f4c276c159f198a",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "59be73a679ac8f661cf9a686e8095177",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a70dfc48b59aaa5099577c3719b576ce",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5513348df877471f81188210d2e8f2ba1c11ae087692c4ff6f64639a928c6b3d",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b0f45091e7290797be2a85032d797891064a5cd611b194534b78cb024003468d",
+        "pulse": "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia",
+        "tags": [
+          "GoldFactory",
+          "Gigabud.RAT",
+          "MMRat",
+          "Taotie",
+          "Indonesia",
+          "banking trojan",
+          "phishing",
+          "vishing",
+          "MaaS",
+          "brand abuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T12:33:55",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "96097e0612d9575cb133021017fb1a5c68a03b60f9f3d24ebdc0e628d9034144",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "78a82d93b4f580835f5823b85a3d9ee1f03a15ee6f0e01b4eac86252a7002981",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c2f4dc64aec4631540a568e88932b61daebbfb7e8281b812fa01b7215f9be9ea",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "449e4265979b5fdb2d3446c021af437e815debd66de7da2fe54f1ad93cbcc75e",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bf9d8c0c3ed3ceaa831a13de27f1b1c7c7b7f01d2db4103bfdba4191940b0301",
+        "pulse": "Popular node-ipc npm Package Infected with Credential Stealer",
+        "tags": [
+          "supply chain attack",
+          "npm package compromise",
+          "credential stealer",
+          "DNS exfiltration",
+          "maintainer account takeover",
+          "developer secrets harvesting",
+          "node-ipc compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-05-20T11:12:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0378a5ef51b008aa2d6b76bd44a0bf061339bc3b737a188ec82029444d4d18fe",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1f00fd604bb18bbe3081f9ce8d741c4029d2a2125eb8888ac4e0d955938059d6",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "291cb1fd0f2709b4457447cbb87adacf5c36c1bcb0f8754524024d44174bb195",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b7642b0f84e83a36334c608655c6cb7aae774839a6a3488526b853d89830a60",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aa7ea19e34567458b4ee66a7cd274181764984bf32123f756a7fdc64d5857b31",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c79091ceae7cd592fc08e4854cda7c1182af762b6b126371cc604debdc995fc7",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f06e7e1a4363a01ba2a4fee2e28abdd623abf4194bda373f23ff0e151b5c2b45",
+        "pulse": "Operation Poisson \u2013 Analyzing a Cybercriminal\u2019s Entire Operation",
+        "tags": [
+          "tailscale",
+          "rustdesk",
+          "poisson",
+          "credential-theft",
+          "france",
+          "keylogger",
+          "fileless-attack",
+          "openssh",
+          "havoc",
+          "havoc-c2",
+          "vpn-mesh-persistence"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-19T11:24:45",
+        "hash_type": "sha256"
+      },
       {
         "value": "2227df1207d2c90db46610bd98909032",
         "pulse": "Popa: From Sourcing to Distribution",
@@ -31539,333 +33321,6 @@
         "source": "alienvault_otx",
         "created": "2026-06-12T21:29:02",
         "hash_type": "sha1"
-      },
-      {
-        "value": "3715092aa00f380cefe8b4d2eddb7d08",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7cef19f9c4480adac0cd4702ff98f46c",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7eb9cee1f696727752169f25cf79a338",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b6b0602310bb2d4360c52685119aac1b",
-        "pulse": "Analysis of APT37 NarwhalRAT Leveraging MS-Themed Phishing and Dead-drop C2",
-        "tags": [
-          "anti-vm",
-          "rokrat",
-          "python-backdoor",
-          "lnk-obfuscation",
-          "dead-drop-resolver",
-          "pcloud",
-          "narwhalrat",
-          "spear-phishing",
-          "korean-targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "78945c844fc23dd3446cf17987edeeb6cc21986820c92df82a126af24a5a38d1",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d89bb4b23a67814ef511e4e9dda7ad36fa519a322fa7c25ea451c7dd7ef61e54",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b5b603ff57142a454c3b0fb12eb8a4eb",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "cf64c7e2e3897ae5fce3d5414e3d1d27",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "04ccc8f9f5e343f94ad9f41f08439b545d4b8486",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c333a821f1764abe2aed2c1ab27d2349f64e4264",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "41999a3d0da035ff8068905c90235ea50121329cb0661e38d745974ebf5e3ae2",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f6e4b09ef788adef3f65fd2b99da8f5be5391be29471676dc07040a56c8fdfab",
-        "pulse": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
-        "tags": [
-          "password manager harvesting",
-          "cryptocurrency wallet",
-          "2fa theft",
-          "malware-as-a-service",
-          "onyxc2",
-          "remote access",
-          "credential stealer",
-          "dll sideloading"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:58:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "13ac78f8f2ed76a03c85f0cdef07e5463aa64458303c0949090fcd81868ba8ca",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "375c2c84e2ca022c565507523b75c9c08a455479861ea41fc9b9ff74b3453445",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5d2ad1795b0dfc4a58424b2fa2f002246f653b119d362954ae270b6998e9d575",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6c428acbd91be85fedf9cbb334457ddea08ff624d4de88041749578e968d62a8",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7fda5f10a2bc212daaa467484c56eb8abf3f3681f6405c5c2fac16d4124e44ca",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95fc58dc321b07ecc99d95359bcdee08a5beb519ead8e70e40f33928533a1b14",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c5ec55270af084d3c07d2918098d598bc2c5ca42f4189d69cdfcae2c958e5ec7",
-        "pulse": "The Devil, Eight Million Emails, and a Whole Lot of Milk | Phishing Stager Exposed",
-        "tags": [
-          "phishing campaign",
-          "credential theft",
-          "romanian threat actor",
-          "rdweb portal",
-          "payment card harvesting",
-          "bulk email abuse",
-          "terminal server compromise",
-          "compromised government website"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-15T14:53:05",
-        "hash_type": "sha256"
       }
     ]
   }
