@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-24T08:48:47.996557",
+  "updated": "2026-06-24T13:59:01.853845",
   "counts": {
     "ips": 170,
-    "domains": 4916,
-    "hashes": 585
+    "domains": 4915,
+    "hashes": 581
   },
   "data": {
     "ips": [
@@ -91893,20 +91893,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-18T19:23:52"
-      },
-      {
-        "value": "api.keensie.com",
-        "pulse": "New APT-Q-27 sample spotted",
-        "tags": [
-          "dropper",
-          "dll side-loading",
-          "chinese threat actor",
-          "apt-q-27",
-          "tencent",
-          "digital signature abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T08:46:02"
       }
     ],
     "hashes": [
@@ -102616,66 +102602,6 @@
         "source": "alienvault_otx",
         "created": "2026-05-18T19:23:52",
         "hash_type": "sha256"
-      },
-      {
-        "value": "8838df7298abf4d4312648e2ee80bdee",
-        "pulse": "New APT-Q-27 sample spotted",
-        "tags": [
-          "dropper",
-          "dll side-loading",
-          "chinese threat actor",
-          "apt-q-27",
-          "tencent",
-          "digital signature abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T08:46:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c0aca5dfbbfcb1c9796b3d974b1ee78b",
-        "pulse": "New APT-Q-27 sample spotted",
-        "tags": [
-          "dropper",
-          "dll side-loading",
-          "chinese threat actor",
-          "apt-q-27",
-          "tencent",
-          "digital signature abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T08:46:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1d1808686dbf36138f3067c34566d627",
-        "pulse": "New APT-Q-27 sample spotted",
-        "tags": [
-          "dropper",
-          "dll side-loading",
-          "chinese threat actor",
-          "apt-q-27",
-          "tencent",
-          "digital signature abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T08:46:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "130fbe74fea31b30b59b071ccf22bf68",
-        "pulse": "New APT-Q-27 sample spotted",
-        "tags": [
-          "dropper",
-          "dll side-loading",
-          "chinese threat actor",
-          "apt-q-27",
-          "tencent",
-          "digital signature abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T08:46:02",
-        "hash_type": "md5"
       }
     ]
   }
