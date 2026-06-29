@@ -1,13 +1,32 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-06-29T15:23:02.005962",
+  "updated": "2026-06-29T19:29:05.105252",
   "counts": {
-    "ips": 59,
-    "domains": 465,
+    "ips": 60,
+    "domains": 467,
     "hashes": 675
   },
   "data": {
     "ips": [
+      {
+        "value": "34.244.249.157",
+        "pulse": "New customs charges for online orders outside the EU",
+        "tags": [
+          "customs",
+          "taxes",
+          "smishing",
+          "eu",
+          "email",
+          "phishing",
+          "impersonating",
+          "postal services",
+          "payment",
+          "scam",
+          "fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T15:40:53"
+      },
       {
         "value": "130.94.104.165",
         "pulse": "Phishing Campaign PasasteSinTAG - New domain rotation identified associated with the campaign impersonating the PasasteSinTAG portal",
@@ -913,6 +932,44 @@
       }
     ],
     "domains": [
+      {
+        "value": "anpost.ie-sci.help",
+        "pulse": "New customs charges for online orders outside the EU",
+        "tags": [
+          "customs",
+          "taxes",
+          "smishing",
+          "eu",
+          "email",
+          "phishing",
+          "impersonating",
+          "postal services",
+          "payment",
+          "scam",
+          "fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T15:40:53"
+      },
+      {
+        "value": "service-charge.help",
+        "pulse": "New customs charges for online orders outside the EU",
+        "tags": [
+          "customs",
+          "taxes",
+          "smishing",
+          "eu",
+          "email",
+          "phishing",
+          "impersonating",
+          "postal services",
+          "payment",
+          "scam",
+          "fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T15:40:53"
+      },
       {
         "value": "pasastesintag.pics",
         "pulse": "Phishing Campaign PasasteSinTAG - New domain rotation identified associated with the campaign impersonating the PasasteSinTAG portal",
