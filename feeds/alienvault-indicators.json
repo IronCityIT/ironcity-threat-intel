@@ -1,13 +1,29 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-01T02:04:11.136875",
+  "updated": "2026-07-01T09:23:43.960675",
   "counts": {
-    "ips": 57,
-    "domains": 599,
-    "hashes": 798
+    "ips": 58,
+    "domains": 600,
+    "hashes": 804
   },
   "data": {
     "ips": [
+      {
+        "value": "154.92.16.22",
+        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
+        "tags": [
+          "phishing emails",
+          "process injection",
+          "fake installers",
+          "donut shellcode",
+          "japanese targets",
+          "dll sideloading",
+          "chinese targets",
+          "valleyrat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-01T01:24:45"
+      },
       {
         "value": "96.126.130.126",
         "pulse": "A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain",
@@ -893,6 +909,22 @@
       }
     ],
     "domains": [
+      {
+        "value": "frehf.oss-cn-hongkong.aliyuncs.com",
+        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
+        "tags": [
+          "phishing emails",
+          "process injection",
+          "fake installers",
+          "donut shellcode",
+          "japanese targets",
+          "dll sideloading",
+          "chinese targets",
+          "valleyrat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-01T07:01:10"
+      },
       {
         "value": "arbsniper.com",
         "pulse": "A stealthy RAT burrowing deep into Android devices",
@@ -10380,6 +10412,111 @@
       }
     ],
     "hashes": [
+      {
+        "value": "7ee17efef04bb7c9de90d5210263ed6993f867e5a11f86e65e3bb1362c7de237",
+        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
+        "tags": [
+          "the gentlemen",
+          "edr killer",
+          "byovd",
+          "ransomware",
+          "kontron driver",
+          "zero-day",
+          "endpoint protection bypass",
+          "ktapi.sys",
+          "kernel exploit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T16:35:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9ca9432b0d29204cb5420a1a6b01533d4552130c2a8a5ecd7837efadefb4a046",
+        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
+        "tags": [
+          "the gentlemen",
+          "edr killer",
+          "byovd",
+          "ransomware",
+          "kontron driver",
+          "zero-day",
+          "endpoint protection bypass",
+          "ktapi.sys",
+          "kernel exploit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T16:35:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c277ae5a4dd62f51de5278790796cd2700de7f77ea17762e97729f27872d076b",
+        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
+        "tags": [
+          "the gentlemen",
+          "edr killer",
+          "byovd",
+          "ransomware",
+          "kontron driver",
+          "zero-day",
+          "endpoint protection bypass",
+          "ktapi.sys",
+          "kernel exploit"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T16:35:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e8be03f19ada1f5cec74b143e21d4939e781671d",
+        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
+        "tags": [
+          "phishing emails",
+          "process injection",
+          "fake installers",
+          "donut shellcode",
+          "japanese targets",
+          "dll sideloading",
+          "chinese targets",
+          "valleyrat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-01T01:24:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "65168c8dd93b16d3b77092fb70c0fa6fba4dffcc",
+        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
+        "tags": [
+          "phishing emails",
+          "process injection",
+          "fake installers",
+          "donut shellcode",
+          "japanese targets",
+          "dll sideloading",
+          "chinese targets",
+          "valleyrat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-01T01:24:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eca7ed7b699835fadc2c2997a2845864e02b8dfe",
+        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
+        "tags": [
+          "phishing emails",
+          "process injection",
+          "fake installers",
+          "donut shellcode",
+          "japanese targets",
+          "dll sideloading",
+          "chinese targets",
+          "valleyrat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-01T01:24:45",
+        "hash_type": "sha1"
+      },
       {
         "value": "25e3c200de4868d754a3b4f4f09ec2bf",
         "pulse": "A stealthy RAT burrowing deep into Android devices",
