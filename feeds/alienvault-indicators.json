@@ -1,39 +1,13 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-04T08:16:42.245402",
+  "updated": "2026-07-04T12:53:00.963015",
   "counts": {
-    "ips": 55,
-    "domains": 676,
-    "hashes": 699
+    "ips": 47,
+    "domains": 619,
+    "hashes": 694
   },
   "data": {
     "ips": [
-      {
-        "value": "217.160.125.125",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:14:42"
-      },
-      {
-        "value": "85.215.131.70",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:14:42"
-      },
       {
         "value": "107.172.235.213",
         "pulse": "AsyncRAT and Remcos delivered in an optimistic campaign",
@@ -98,84 +72,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-25T15:51:18"
-      },
-      {
-        "value": "43.159.168.186",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "43.162.84.202",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "43.165.6.36",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "45.135.162.90",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "47.82.154.2",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
-      },
-      {
-        "value": "8.222.134.149",
-        "pulse": "Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages",
-        "tags": [
-          "brand impersonation",
-          "credit card theft",
-          "smishing",
-          "phishing-as-a-service",
-          "mobile targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T08:48:07"
       },
       {
         "value": "45.11.229.230",
@@ -931,6 +827,48 @@
       }
     ],
     "domains": [
+      {
+        "value": "asper1.freeddns.org",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53"
+      },
+      {
+        "value": "country1.ignorelist.com",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53"
+      },
+      {
+        "value": "winst0.kozow.com",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53"
+      },
       {
         "value": "justsstop.ru",
         "pulse": "Matryoshka #3/3: Gamaredon's Gammasteel Infostealer",
@@ -11270,1089 +11208,309 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-29T10:49:20"
-      },
-      {
-        "value": "driver-updater.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "login.teamicrosoft.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "live.ong",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teams.live.us.org",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.driver-updater.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.live.us.org",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teams.retesta.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.drvstore.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.retesta.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "login.retesta.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.retesta.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "driver-store.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "apple.driver-store.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "windows.driver-store.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "driver-hub.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "apple.drvstore.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.live.ong",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.driver-store.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teams.live.ong",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "windows.drvstore.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "drvstore.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.teams.us.org",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.live.ong",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.driver-hub.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "team.live.us.org",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "login.live.ong",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "byte-io.us",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "cloud-sync.online",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "datahub.ink",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "alibaba.xyz",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "bitget-meeting.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "driver-update.io",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "live.org.mx",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "slktest.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teamicrosoft.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teams.cam",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "us03-slack.online",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "app.us03-slack.online",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "apple.driver-hub.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "apple.driver-update.io",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.bitget-meeting.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.teamicrosoft.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "learn.teams.cam",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "live.teams.cam",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "login.bitget-meeting.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "login.teams.cam",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "my-home-company-group.slktest.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "my-home-company-group.us03-slack.online",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "resource.bitget-meeting.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "resource.teamicrosoft.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "sitemaps.driver-store.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "teams.live.org.mx",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "windows.driver-hub.net",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "windows.driver-update.io",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.bitget-meeting.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.driver-update.io",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.slktest.live",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.teamicrosoft.com",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.teams.cam",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
-      },
-      {
-        "value": "www.us03-slack.online",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45"
       }
     ],
     "hashes": [
+      {
+        "value": "02819d200d1424882af81cb504b3e8614b32397a",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1405a3c5e0aeb08012484134e16cdec4ab29b4a4",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "17f8f8f34dfa737f36182fed7ff9e9814a114058",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2423a5bf0fa7cb9ec09211630a5488629499691b",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "29f1d346a6e71774c7dad25b90f446b2974393df",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "42add9475e67a1ccc6a6af94b5475d3defc01b85",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "535f4337f261b6da20a3c614eb13270bed2d533a",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5f1f3689bcf23de1b280b5f35712946da0f7978f",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "69331cfdac792dc79240e6a6bb6e803eabd70beb",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "76253fb55aed707440e808ea78e7101318436b1c",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "901cfa97b1baaf908fd4a02bb52d970f576c4193",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "954722b0c9c678b1313d1f8b204e102842dc5889",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9803604ec45f31f9ef75bcca1e1310d8ac1fc3a6",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ae4601a19d28332a3ec6ac31b385cdf53be53450",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2d9d48b3b10bd58cdf5df9463e3ffcd60533ff3",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d2cb0d7a9ad2b5d4ea7c2da8aec62beb37cf36d6",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dad26f61da7b8bccc78364411812be74c025b475",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e05f1767c2a337910ed75e90288838d6d0541164",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e815a9b418d09c2d4bcd074c2c0bc21406eeb22f",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "edce72f59e4c1d136cd1946af70d334c19df858d",
+        "pulse": "Argamal: Malware hidden in hentai games",
+        "tags": [
+          "credential theft",
+          "powershell",
+          "pixeldrain",
+          "argamal",
+          "termixia",
+          "adult gaming"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:19:53",
+        "hash_type": "sha1"
+      },
       {
         "value": "1cd9eccc8e73d60164390beddf4cdc48",
         "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
@@ -24431,481 +23589,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-05-29T10:49:20",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b6cab0b3aa8e56e2427f486c74588d598ae58bb0cbc0eda6939fe171cb0aed17",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7bd3201946ef8b8a836bc2f951923adc",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "860ef29773cf680ed765cb08ac3072cb",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6ca184cb838a989220254ff1914313d774e65712",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "db077e20e429b93d9b1187cf09869544d83dbe02",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0a8ab3d16b12d3a453ee5a3208fe04744ad54514ef8ea27bb8fe32679efad270",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0b028b781950641818800fee2b4bf68e4ef2bcee53fe71a21755275ba108783d",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3318c614fa7d74b71c81f0e5532cc27e",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "425dbed05e53394a719c6e0986a9ce87",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5fa825564b4ede126005a88ba9efbb54",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ce9da8845b153c5ba50281304b77969b",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0614fe623f6014bccae634e15e3c883a41aa89ee",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2e763321936858b8a566eaadcaf5a7ce064bbad0",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d068b346169ced2ed677e1d4d75becf84829017f",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e581b38c6d4e659742839f3025a2add0a7e3fe60",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0b1a36a31b952341a534fe24890f1ed2921ee259773cff46e4f6273b8c4d5d21",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2a10ffe0367bb1b26ba2c3bc600892c21074725c0b8c9dc9161e6ceb33915460",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3e3901519c2305fbe9d5483b7234c25c6d2b562512916481d96f26b849c39fdb",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "402625ec79e3573a80b6de9b33fc1e503e3c7803603cd958ddd515fb0549007c",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "65cba741fe30fa4799fb9002ea8de6d96042a59159dd7c3419c766af24c835e6",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c2ce925133a3bf5a924063bbef8df49918d5b7258695c1894cd18c75970157a",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a35d2b67fa478a7174e308b43ce30bf69b3bc6f44fa76197fdf95fc2fbc1cf5b",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c6ef82d2864dfd26f117a1ef5602679153423f2742970a7949cec72722f0a01e",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d4e863f9818bfb2f1dd932df6441dff204e6142c3bdb55b298cb08dc7b6a0c62",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e8ee6f5145c9d503c5130bfc6585567f6e19d409158c3c0ca0b259f1875b15f4",
-        "pulse": "A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure",
-        "tags": [
-          "supply chain attack",
-          "social engineering",
-          "audiofix",
-          "npm trojan",
-          "linkedin phishing",
-          "macos",
-          "cryptocurrency",
-          "ci/cd hijacking",
-          "minirat",
-          "developer targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-05-28T10:51:45",
         "hash_type": "sha256"
       }
     ]
