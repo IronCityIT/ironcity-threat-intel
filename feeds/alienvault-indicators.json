@@ -1,13 +1,39 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-03T18:56:29.039204",
+  "updated": "2026-07-04T01:27:55.784746",
   "counts": {
-    "ips": 53,
-    "domains": 680,
-    "hashes": 629
+    "ips": 55,
+    "domains": 685,
+    "hashes": 706
   },
   "data": {
     "ips": [
+      {
+        "value": "217.160.125.125",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:14:42"
+      },
+      {
+        "value": "85.215.131.70",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T09:14:42"
+      },
       {
         "value": "107.172.235.213",
         "pulse": "AsyncRAT and Remcos delivered in an optimistic campaign",
@@ -905,6 +931,80 @@
       }
     ],
     "domains": [
+      {
+        "value": "justsstop.ru",
+        "pulse": "Matryoshka #3/3: Gamaredon's Gammasteel Infostealer",
+        "tags": [
+          "vbscript",
+          "gammaworm",
+          "cyberespionage",
+          "ukraine",
+          "fsb",
+          "usb-propagation",
+          "gammasteel",
+          "gammaphish",
+          "gammawipe",
+          "gamaredon",
+          "dead-drop-resolver",
+          "infostealer",
+          "gammaload",
+          "dpapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-04T13:57:27"
+      },
+      {
+        "value": "thomphon.com",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24"
+      },
+      {
+        "value": "e4wxbrg5277.com",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24"
+      },
+      {
+        "value": "49xb5hoiqsr.com",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24"
+      },
+      {
+        "value": "jh038x18gy9.com",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24"
+      },
       {
         "value": "guiformat.com",
         "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
@@ -12316,6 +12416,1084 @@
       }
     ],
     "hashes": [
+      {
+        "value": "1cd9eccc8e73d60164390beddf4cdc48",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "703a8383a3df68abce59b02fcd0b5678",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "28f871af1833935beba160b51e4a732c43a5dde5",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ca9d7aaff7c636120149168e2bbb509c10544993",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "20042f1efb59c99e3addf822a3e9e5a496f0b701362df038a50a32a9f504a136",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ddb67ab079509dd1e7ac77fc4cfed25a271526668c68f8a2221e96a4cc21812",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "41e8e327abbf2ba721be677ad8a416a7295708257b39688a0af03275fb199cec",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "444a9d34a9f59dc7975dfabefb47d789813a4497bbac9127c4806dd816e85211",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "450ea44da0c9d96a2e8f4d6bad34f1c35cd35743295b8cd2defa9f7a9884685d",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7413cbb6eab4d6b10346f71be5dd76d7cf2f4817f7776367b162f83755aefa1f",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8fc2d35b66c692d37a85ae9d30dc5c7f06f0b3eaf01112a5a6398a1a0feb3aee",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9394666007fac4014a4641fdae150c1b969ed2bc4299876318a336fd386abf59",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b61a5508847a2167b737d31193dc393e92c5be2aa5141bbe4b7ea6f440fd4799",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b6f835ced11059d341222eba11fff3a4672f4de47a3a4d791fad86059a2b06d4",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d452f22dacab9785539484245c13e9cce58df23fc82eeef205684fcd196da20b",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dff0edae6e8854ddd3e617054ee0bd74c696c91411f704dff60aabaec839bec9",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ea44138b9701fce1b2fe13de8f9e00681c007c9adc625edc9f507f177704c2e8",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eead44c0af7ddb12cece1a6125cf213bab3c22511cd59aff9d63dcfddb7d4386",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f02b1d8010dac35b007796def0cbd5d0c9414df790e2b55b105c95df2f2ffa91",
+        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
+        "tags": [
+          "gafgyt",
+          "botnet",
+          "python scanner",
+          "c0xmo",
+          "ddos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fb3630822b70bacb56aa4cec29b5a0e3e9acb3920809e70310a4003385a6d34a",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0743154262c5ccf24794168ee331feeefc6539386715307ee44d5d9b6b321077",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d24216d0b82747e9406a696da76960183926145f9621947e34a772137f5e22a6",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f2357e70f359803d42298d016c7e1631e9fba6c7e01e5df1eb8fb9ff7eb3df4e",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3578e1588846a805ee806fa6151b5801d0acb88879a93d378300e2ee7665736e",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7d4fb94f6b4623690daea67ed52e97705cb102f443988ff605f2a9c4898244dc",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eca5c297008e7c07a5c6fc9070c03121d702ef093b4a8e508b712040d87fed36",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1d09357b6a096fdc35cd5c873eed15665d6b3c879d20c8cf01e6bca0005512cf",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d2c637235d62ad766f961f9b8563f6a0e6db2ec0a343470385991b4df826afbc",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1fc515870c681bf3e1b7947e2248bbcfe9918db2978117e91134de20bd42fd6a",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ced6b0f4441085bb9c54a32da9ab4ba14c6e21daf6e34fd61d54923f87baacd0",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "afd5f1ed45a9867daf3bc64152cef460a06b164c8183e490db39146d4749a82c",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2cd88d5280a61714836f5f07a16df190911c5b952af2998dbbcda910b3b1c494",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "00d979bdb1b29b2859f2120580f101f40e8e13de0b3b7bc29675e2c31098a03c",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ae8cded2822c56dd85f52bba09d9285cb2db3e6317227530b848ea143afb067c",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9eefc66d1fca7f18a91f49affb569b41bcde043f91567e7f5cc9f2016aeddf8c",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c958de72460256c9c1cceef527d880862e8bc29e3ae4e2d478af97dcafd41180",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6dc41555455860b8584d761303a7ae5487117944e2a24d74fa3e91ad8f840077",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6b22df0de0a40ff372973639c8a1974cfb75084b8e3b85f9ab9038e0acce43c0",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "31f27fdc14505e0cebe360579e1ba0326762cbe0948e50b5f920da51fdef1b51",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "389a6a2007e4f06d16beac0ec2cb01391f80ad5e392343386cae3ceb82ec1502",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "01b43dad62e56164771db696827a30ae",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "07d0d4c580ac76ac3ffb63353c9b6b85",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "19b2f2902825eaf62f2db1eb8aaa520a",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "347a3f5f2ed2f503a22f68c4951c78c7",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "37b996509ce2873f96781c9f9b12d8b5",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "37e065585c573ecc082aacbfd31564eb",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4442897e3b772dfa4f7af109bec8924d",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "609c3fc64a67630a7b206a6880c893a8",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "63e45ffa6d0c22cb04646ef549d61065",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "659575cb45a67b4d0c70e7361709fb03",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6b8ec32dc76fa3138f00616156962f4f",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6ee4050ac0c5192961c9f34568ca68fd",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7d384886720c8e576c3ca9d68cb5f08b",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9d066964414cff647beeecb75affb5b5",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a9198c1497481b2fea007ea5f13eafbf",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ce9abf0dab1facd7afeb70dc34925a78",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e6c69f14d7b0dabff5c67e54cf87aba2",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f799ea5df9ec08690385d0972aefb59d",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fa9d1f3e719d9284af8af075b1cef9cc",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "149f5cfe98e06f9f7fb6d29dd271830c02250f9d",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "29b38a57b22f0a442e4e731525aeada927ea2f56",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b258b5cd3fc997d537ab92b7ebe2d42349a6f92",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "34e20e58b54e241596dfb2b87451b42f6bbaea95",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5a7caaed79b1302285c371960ee3f50779f26a81",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "70bee643d79fd82f7835b208e15a6d722f64dd7a",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "86ff1313888780942c6a0ad2f683312911582498",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "aeb63fc27339747fa922f52ae58d32f8c978ee71",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "af98e97cd49229845123a1063b8c386cc9b2f441",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "afd1818d136a5cad592fbd81122e2c0a1aaae4b2",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b14e1f931f602b1e1985d1362db0e17dd2d2131f",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c6c9b69fbfb77f1d07b44991dccc58719c37faf7",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d79246b49a00169993de60779cbcec17cae9da21",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dafbe5c235051bd6689f4b36a725360c38abdf25",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "deb10789274bf903060d700b3472fdf094a14763",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e47d2c9f62adbffff5353e21e212d98de869c81d",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fd8e880cc32377af08327c9d187f6220c6ac449f",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b032d4ec4e24714f59e853da9b6e63794aacdbcb",
+        "pulse": "The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP",
+        "tags": [
+          "brazil tax lure",
+          "invoice phishing",
+          "kongtuke",
+          "havoc",
+          "banana rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-03T22:14:24",
+        "hash_type": "sha1"
+      },
       {
         "value": "87361ba2bb412dcf49f8738f3b8b9b7dccb557ad2e76ea8d98ffa5b098ae3886",
         "pulse": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
