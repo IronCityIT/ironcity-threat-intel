@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-08T01:19:17.013796",
+  "updated": "2026-07-08T08:02:28.242077",
   "counts": {
-    "ips": 54,
-    "domains": 410,
-    "hashes": 536
+    "ips": 53,
+    "domains": 409,
+    "hashes": 530
   },
   "data": {
     "ips": [
@@ -899,22 +899,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-29T11:01:01"
-      },
-      {
-        "value": "154.92.16.22",
-        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
-        "tags": [
-          "phishing emails",
-          "process injection",
-          "fake installers",
-          "donut shellcode",
-          "japanese targets",
-          "dll sideloading",
-          "chinese targets",
-          "valleyrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T01:24:45"
       }
     ],
     "domains": [
@@ -7811,22 +7795,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-06-29T11:01:01"
-      },
-      {
-        "value": "frehf.oss-cn-hongkong.aliyuncs.com",
-        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
-        "tags": [
-          "phishing emails",
-          "process injection",
-          "fake installers",
-          "donut shellcode",
-          "japanese targets",
-          "dll sideloading",
-          "chinese targets",
-          "valleyrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T07:01:10"
       }
     ],
     "hashes": [
@@ -16632,111 +16600,6 @@
         "source": "alienvault_otx",
         "created": "2026-06-29T11:01:01",
         "hash_type": "sha256"
-      },
-      {
-        "value": "7ee17efef04bb7c9de90d5210263ed6993f867e5a11f86e65e3bb1362c7de237",
-        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
-        "tags": [
-          "the gentlemen",
-          "edr killer",
-          "byovd",
-          "ransomware",
-          "kontron driver",
-          "zero-day",
-          "endpoint protection bypass",
-          "ktapi.sys",
-          "kernel exploit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T16:35:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9ca9432b0d29204cb5420a1a6b01533d4552130c2a8a5ecd7837efadefb4a046",
-        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
-        "tags": [
-          "the gentlemen",
-          "edr killer",
-          "byovd",
-          "ransomware",
-          "kontron driver",
-          "zero-day",
-          "endpoint protection bypass",
-          "ktapi.sys",
-          "kernel exploit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T16:35:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c277ae5a4dd62f51de5278790796cd2700de7f77ea17762e97729f27872d076b",
-        "pulse": "Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs",
-        "tags": [
-          "the gentlemen",
-          "edr killer",
-          "byovd",
-          "ransomware",
-          "kontron driver",
-          "zero-day",
-          "endpoint protection bypass",
-          "ktapi.sys",
-          "kernel exploit"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T16:35:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e8be03f19ada1f5cec74b143e21d4939e781671d",
-        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
-        "tags": [
-          "phishing emails",
-          "process injection",
-          "fake installers",
-          "donut shellcode",
-          "japanese targets",
-          "dll sideloading",
-          "chinese targets",
-          "valleyrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T01:24:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "65168c8dd93b16d3b77092fb70c0fa6fba4dffcc",
-        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
-        "tags": [
-          "phishing emails",
-          "process injection",
-          "fake installers",
-          "donut shellcode",
-          "japanese targets",
-          "dll sideloading",
-          "chinese targets",
-          "valleyrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T01:24:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "eca7ed7b699835fadc2c2997a2845864e02b8dfe",
-        "pulse": "An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails",
-        "tags": [
-          "phishing emails",
-          "process injection",
-          "fake installers",
-          "donut shellcode",
-          "japanese targets",
-          "dll sideloading",
-          "chinese targets",
-          "valleyrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T01:24:45",
-        "hash_type": "sha1"
       }
     ]
   }
