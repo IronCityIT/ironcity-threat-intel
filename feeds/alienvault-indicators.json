@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-09T14:22:39.059296",
+  "updated": "2026-07-09T19:16:18.661622",
   "counts": {
     "ips": 37,
-    "domains": 304,
-    "hashes": 950
+    "domains": 307,
+    "hashes": 959
   },
   "data": {
     "ips": [
@@ -620,6 +620,42 @@
       }
     ],
     "domains": [
+      {
+        "value": "amazonalert.xyz",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24"
+      },
+      {
+        "value": "amazonattention.com",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24"
+      },
+      {
+        "value": "security.amazonassist.xyz",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24"
+      },
       {
         "value": "vniir-info.space",
         "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
@@ -5653,6 +5689,129 @@
       }
     ],
     "hashes": [
+      {
+        "value": "09c121225fe254676a27c21943506714",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "33760b2aa86deea5805e647197c34ef5",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9abebe5a34eefb80db12bf8d51bfe7f7",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b31f62e1d3b28808daad3ec5efa5df54ae56898d",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3a87cab1e8c6868a7939eb422f1851ecc746405cda6b3d3502b9d8eedc360898",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5f7bb80bf85c1fae7413eb534cc2f022402c8753f75666525adb1dc85a677f4c",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cf94ff2ecc4f3157704c9cfed5e446c405e7729141019045cb05ef6ffad122d5",
+        "pulse": "From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT",
+        "tags": [
+          "clickfix",
+          "fake captcha",
+          "phishing campaign",
+          "harbor sentinel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "52fda5c1b9704544f32ee98d9060e689",
+        "pulse": "Active Exploitation of Check Point VPN Authentication Bypass (CVE-2026-50751)",
+        "tags": [
+          "ransomware",
+          "cve-2026-50751",
+          "cve-2026-50752",
+          "qilin",
+          "remote access vpn",
+          "active exploitation",
+          "vpn authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "51d39aa39478beeac94f2d12f682ecce",
+        "pulse": "Active Exploitation of Check Point VPN Authentication Bypass (CVE-2026-50751)",
+        "tags": [
+          "ransomware",
+          "cve-2026-50751",
+          "cve-2026-50752",
+          "qilin",
+          "remote access vpn",
+          "active exploitation",
+          "vpn authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-09T15:50:15",
+        "hash_type": "md5"
+      },
       {
         "value": "0dc0fa727f900ed5033f46f8ba6cf2d97d20ab95fd334cabc0f216da6e0622b0",
         "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
