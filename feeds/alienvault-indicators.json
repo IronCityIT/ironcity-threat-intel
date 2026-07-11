@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-11T07:28:03.087814",
+  "updated": "2026-07-11T12:44:30.378820",
   "counts": {
     "ips": 55,
     "domains": 220,
-    "hashes": 1005
+    "hashes": 972
   },
   "data": {
     "ips": [
@@ -988,6 +988,42 @@
       }
     ],
     "domains": [
+      {
+        "value": "linkednewsapi.top",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23"
+      },
+      {
+        "value": "sharingfile.cloud",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23"
+      },
+      {
+        "value": "www.sharingfile.cloud",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23"
+      },
       {
         "value": "cms.balochistanpolice.gov.pk",
         "pulse": "One Target, Two Flags | Rival Espionage Actors Converge On Pakistani Law Enforcement",
@@ -4956,51 +4992,87 @@
         "tags": [],
         "source": "alienvault_otx",
         "created": "2026-06-04T16:40:30"
-      },
-      {
-        "value": "asper1.freeddns.org",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "country1.ignorelist.com",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
-      },
-      {
-        "value": "winst0.kozow.com",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53"
       }
     ],
     "hashes": [
+      {
+        "value": "03e7a4065df354a99add76e8ba7dd37b",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "04e7a98fb3b7738cca42557c3e2d9906d04fa2f6",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "15278c52f4e0d8b5bbfe288a5e826ab2ebeaedb7fb85572940cf1263e384761f",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1852120a84a328edd1995e633dfd2009867898a8e3f0b385e2490cf21c77a994",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "90bbfa9e7af176b85d110f4f1789cae6777fcb60813b047133c8f12caa344a17",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3e853eee14fb7948c6907888ee07139085ba9af4231c30e97ff6236b86ca024",
+        "pulse": "Targeted espionage against Cambodian government entities",
+        "tags": [
+          "kaynldr",
+          "nightforge",
+          "khmer shadow",
+          "havoc demon"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-11T11:50:23",
+        "hash_type": "sha256"
+      },
       {
         "value": "3a6adbe0081b2488e0f137496e92591e0c29148154b2d99faadab9cc435b879b",
         "pulse": "SilabRAT, What's Your Power?",
@@ -23055,572 +23127,6 @@
         "tags": [],
         "source": "alienvault_otx",
         "created": "2026-06-04T16:40:30",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02819d200d1424882af81cb504b3e8614b32397a",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1405a3c5e0aeb08012484134e16cdec4ab29b4a4",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "17f8f8f34dfa737f36182fed7ff9e9814a114058",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2423a5bf0fa7cb9ec09211630a5488629499691b",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "29f1d346a6e71774c7dad25b90f446b2974393df",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "42add9475e67a1ccc6a6af94b5475d3defc01b85",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "535f4337f261b6da20a3c614eb13270bed2d533a",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5f1f3689bcf23de1b280b5f35712946da0f7978f",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "69331cfdac792dc79240e6a6bb6e803eabd70beb",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "76253fb55aed707440e808ea78e7101318436b1c",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "901cfa97b1baaf908fd4a02bb52d970f576c4193",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "954722b0c9c678b1313d1f8b204e102842dc5889",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9803604ec45f31f9ef75bcca1e1310d8ac1fc3a6",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ae4601a19d28332a3ec6ac31b385cdf53be53450",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c2d9d48b3b10bd58cdf5df9463e3ffcd60533ff3",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d2cb0d7a9ad2b5d4ea7c2da8aec62beb37cf36d6",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dad26f61da7b8bccc78364411812be74c025b475",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e05f1767c2a337910ed75e90288838d6d0541164",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e815a9b418d09c2d4bcd074c2c0bc21406eeb22f",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "edce72f59e4c1d136cd1946af70d334c19df858d",
-        "pulse": "Argamal: Malware hidden in hentai games",
-        "tags": [
-          "credential theft",
-          "powershell",
-          "pixeldrain",
-          "argamal",
-          "termixia",
-          "adult gaming"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-04T09:19:53",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1cd9eccc8e73d60164390beddf4cdc48",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "703a8383a3df68abce59b02fcd0b5678",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "28f871af1833935beba160b51e4a732c43a5dde5",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ca9d7aaff7c636120149168e2bbb509c10544993",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "20042f1efb59c99e3addf822a3e9e5a496f0b701362df038a50a32a9f504a136",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3ddb67ab079509dd1e7ac77fc4cfed25a271526668c68f8a2221e96a4cc21812",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "41e8e327abbf2ba721be677ad8a416a7295708257b39688a0af03275fb199cec",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "444a9d34a9f59dc7975dfabefb47d789813a4497bbac9127c4806dd816e85211",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "450ea44da0c9d96a2e8f4d6bad34f1c35cd35743295b8cd2defa9f7a9884685d",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7413cbb6eab4d6b10346f71be5dd76d7cf2f4817f7776367b162f83755aefa1f",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8fc2d35b66c692d37a85ae9d30dc5c7f06f0b3eaf01112a5a6398a1a0feb3aee",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9394666007fac4014a4641fdae150c1b969ed2bc4299876318a336fd386abf59",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b61a5508847a2167b737d31193dc393e92c5be2aa5141bbe4b7ea6f440fd4799",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b6f835ced11059d341222eba11fff3a4672f4de47a3a4d791fad86059a2b06d4",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d452f22dacab9785539484245c13e9cce58df23fc82eeef205684fcd196da20b",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dff0edae6e8854ddd3e617054ee0bd74c696c91411f704dff60aabaec839bec9",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ea44138b9701fce1b2fe13de8f9e00681c007c9adc625edc9f507f177704c2e8",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eead44c0af7ddb12cece1a6125cf213bab3c22511cd59aff9d63dcfddb7d4386",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f02b1d8010dac35b007796def0cbd5d0c9414df790e2b55b105c95df2f2ffa91",
-        "pulse": "Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO",
-        "tags": [
-          "gafgyt",
-          "botnet",
-          "python scanner",
-          "c0xmo",
-          "ddos"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-03T22:14:24",
         "hash_type": "sha256"
       }
     ]
