@@ -1,13 +1,32 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-22T08:02:30.772512",
+  "updated": "2026-07-22T13:14:27.974304",
   "counts": {
-    "ips": 71,
-    "domains": 631,
-    "hashes": 459
+    "ips": 48,
+    "domains": 641,
+    "hashes": 516
   },
   "data": {
     "ips": [
+      {
+        "value": "209.99.186.235",
+        "pulse": "NadMesh Botnet Analysis: Product-Level Threat in the AI Services Era",
+        "tags": [
+          "redis",
+          "cve-2016-0638",
+          "nadmesh",
+          "botnet",
+          "go malware",
+          "ai infrastructure",
+          "kubernetes",
+          "shodan harvesting",
+          "mcp exploitation",
+          "credential theft",
+          "docker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-20T14:51:15"
+      },
       {
         "value": "188.225.72.157",
         "pulse": "Operation STANDOFF: A Campaign Hiding C2 Behind GitHub Redirects",
@@ -1007,405 +1026,366 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-15T14:20:03"
-      },
-      {
-        "value": "213.165.51.115",
-        "pulse": "Six Minutes to Compromise: How 'Patriot Bait' Actor Used AI to Build and Deploy a C&C Botnet",
-        "tags": [
-          "cryptocurrency fraud",
-          "wordpress compromise",
-          "patriot bait",
-          "ai-assisted hacking",
-          "botnet operations",
-          "google gemini cli"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T14:15:24"
-      },
-      {
-        "value": "112.213.124.159",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.153",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.154",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.155",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.229.115.229",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "45.64.52.242",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.238.134.166",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "112.213.124.132",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "112.213.124.163",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.114",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.115",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "134.122.200.116",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.163.167.10",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.163.167.5",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.163.167.6",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.163.167.7",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "192.229.115.230",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "38.55.105.143",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "45.64.52.245",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "45.64.52.246",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47"
-      },
-      {
-        "value": "168.222.254.204",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46"
-      },
-      {
-        "value": "191.44.109.130",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46"
-      },
-      {
-        "value": "87.120.108.18",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46"
       }
     ],
     "domains": [
+      {
+        "value": "baoxis.cc",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02"
+      },
+      {
+        "value": "invoice.msopsa.top",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02"
+      },
+      {
+        "value": "temu.baskwms.top",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02"
+      },
+      {
+        "value": "cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "clipeditskill.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "accesslinkssl.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "d.53466d4c67515a.0.p.cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "google.com.ayalon-print.co.il",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "ns1.cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "ns2.cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "ns3.cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "ns4.cloudlanecdn.com",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51"
+      },
+      {
+        "value": "cdnorigin.net",
+        "pulse": "NadMesh Botnet Analysis: Product-Level Threat in the AI Services Era",
+        "tags": [
+          "redis",
+          "cve-2016-0638",
+          "nadmesh",
+          "botnet",
+          "go malware",
+          "ai infrastructure",
+          "kubernetes",
+          "shodan harvesting",
+          "mcp exploitation",
+          "credential theft",
+          "docker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-20T14:51:15"
+      },
+      {
+        "value": "auto-contabilistica.com",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05"
+      },
+      {
+        "value": "autoridade-contabilistica.org",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05"
+      },
+      {
+        "value": "autoridade-financeira.com",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05"
+      },
+      {
+        "value": "fat-contabislitaca.com",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05"
+      },
       {
         "value": "sohantraders.com",
         "pulse": "Inside a Global Procurement-Themed AiTM Phishing Campaign",
@@ -12741,127 +12721,1403 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-15T14:20:03"
-      },
-      {
-        "value": "tralalarkefe.com",
-        "pulse": "Six Minutes to Compromise: How 'Patriot Bait' Actor Used AI to Build and Deploy a C&C Botnet",
-        "tags": [
-          "cryptocurrency fraud",
-          "wordpress compromise",
-          "patriot bait",
-          "ai-assisted hacking",
-          "botnet operations",
-          "google gemini cli"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T14:15:24"
-      },
-      {
-        "value": "authplanned.online",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06"
-      },
-      {
-        "value": "levaquin2us.top",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06"
-      },
-      {
-        "value": "sessionopen0.site",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06"
-      },
-      {
-        "value": "grantfundingapplications.com",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06"
-      },
-      {
-        "value": "secure-folder-9f8a2983fbf5479e8d8c267e0df4e73d.3vvcompany.com",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06"
-      },
-      {
-        "value": "pipicka.xyz",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46"
       }
     ],
     "hashes": [
+      {
+        "value": "02bb20455cc592a69c080abac770ce90",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "31037a42ca048e06e69a78f55bc2eff5",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "887ec87e4a19759cad25d4bc0956d2b965d3041d",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f0fde01b1e36503227252f6cb6b3b075f93a2c1a",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "452259dc297f56cf22c7932e8fbcefe821ef9c3127134074fae585f89355d397",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "50c74b468c217776b8890b841baefec8b196b14083a7873a9201c838a8e4c90a",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "05d188f071d097f5b6bd8138749b4b14",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0ba93109757776a44de9d8c88baa4963",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1a3cc75466ffb1971482f7abf7aabc3f",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1c47c63e5ed25060d95359c57c77b107",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1d94fbe9cab21278cc3f104bea334d08",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "20209b3a32769afc6a75694b8d8839dd",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2c6f05f1f309d89b2236e6c8b59c88f9",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3b1aba44dd3d9b6339b6f56e2f42034b",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4044e4b6471c9de7b0a4ba37d9d9df9a",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4f0593e8e0e8fac49429e9b45ebf7fa1",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5002eca748205d544618e3bd2dedc223",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5b6bbcc06cf08cc99e1afeda486d42fb",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6359e6236471cbe434d0ef4c42b7f879",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "63ac85195b73753333316a889cf5880f",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "66442f2457eca8f47385b1fb2c6fcab8",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "66705384a7ad81d14c34fc6c054a0ecf",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "68c16c46f8afb9e00bbaba0207fb0a46",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6c39900d77dcba158e1d27c7619cb06d",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6fb6a55424adfb61e31f06aef33273e5",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7403cbcc5a9c32384d431856dc48fcc9",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "74fd9f91fc93b6288b4fc253ea5b3e20",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7849061c536a3efb05a56d504694e7e7",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "79ecd61b09b0f2d54b34586c916c4ec9",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7f16449cd0c4862d1eadf8a5742bf09a",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7f81c1bc8cfd588e8998968e2621456e",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c3322009b8982663c0cbecd9492e7eb",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c6d9fc389ad3f20ccbc71d77eb39bfa",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "993f4c0cadbc769a4b0ed62a918db58d",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9d9ac85765e4a818a3ccabe2cf4fef82",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9f13c7b8ba391b2f597874e54d310648",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b7cd06c71465038b658a6dc1f273a507",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c7f38cbb99c8b74fa0465293feeba700",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d01cad98dd0d01b75e04e784953c5e2b",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d06333c360b51456f427e616c3c5f8bd",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d43fdaa1f0ee09d7e5f0f94ee9df7b6c",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dad708e050632a4280cabf98ac1376b7",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ddaffe9849f7f3c79f8804adb9a6b3d5",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "df4fa0369eaca5cec348be293890d4af",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f90ed4b2d0b67114aa89ddfed658e5c0",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8be8f6955de47d980c257ab5bc732cfbd0e23d99",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "01f1eb07125db5de0c2362afc777aa015f136feabd769628f01d01ac6472646c",
+        "pulse": "An unknown actor distributes malicious VBS scripts via WhatsApp",
+        "tags": [
+          "uac bypass",
+          "valleyrat",
+          "gh0st rat",
+          "rmm abuse",
+          "multi-stage infection",
+          "social engineering",
+          "whatsapp",
+          "manageengine endpoint central",
+          "vbscript",
+          "chinese-speaking operator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-22T11:01:02",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "75e51774b8f79e5f256eaae639635f911b3e744d4774fd6068dd980255621509",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3d0f6e4e3be395fd7cf9e8101c89963d77216578cbb117a6ac9bc3564485eff",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f3f3006f8304788251b153d53b305322b8acab0c66ec816b8d9f101bcc851da3",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29b2b8c5d99f05bfcdd0d8d976eb5678",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c092b02fbc0fdf7ee9608dd016673806",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "caf021dda726b8ba049c2aa395e505a1",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "66c8a4d782ec9e19d67f426376e0ebb5af868590",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "83ed3f17a83b083246f90011d33861cdb5734ab3",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "beb57441b81e56d1d7ba72acd841f2ffe171a325",
+        "pulse": "New Project CAV3RN .NET Native AOT communication module",
+        "tags": [
+          "veaty",
+          "whisper",
+          "encryption",
+          "sc5k",
+          "israel",
+          "dns aaaa",
+          "rdat",
+          "cav3rn",
+          "project cav3rn",
+          "oilcheck",
+          "oilbooster",
+          "solar",
+          "outlook calendar",
+          "cyberespionage",
+          "microsoft graph",
+          "apt34"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T11:19:51",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ca024acead8f54cfe5b07ac4bdf7fcea",
+        "pulse": "NadMesh Botnet Analysis: Product-Level Threat in the AI Services Era",
+        "tags": [
+          "redis",
+          "cve-2016-0638",
+          "nadmesh",
+          "botnet",
+          "go malware",
+          "ai infrastructure",
+          "kubernetes",
+          "shodan harvesting",
+          "mcp exploitation",
+          "credential theft",
+          "docker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-20T14:51:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "31c69b3e12936abca770d430066f379ec1d997ec",
+        "pulse": "NadMesh Botnet Analysis: Product-Level Threat in the AI Services Era",
+        "tags": [
+          "redis",
+          "cve-2016-0638",
+          "nadmesh",
+          "botnet",
+          "go malware",
+          "ai infrastructure",
+          "kubernetes",
+          "shodan harvesting",
+          "mcp exploitation",
+          "credential theft",
+          "docker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-20T14:51:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fc4109f5dd1d30b65dd60e57dc639ac1d313bfa5241e36e61fbc4aabc1cda482",
+        "pulse": "NadMesh Botnet Analysis: Product-Level Threat in the AI Services Era",
+        "tags": [
+          "redis",
+          "cve-2016-0638",
+          "nadmesh",
+          "botnet",
+          "go malware",
+          "ai infrastructure",
+          "kubernetes",
+          "shodan harvesting",
+          "mcp exploitation",
+          "credential theft",
+          "docker"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-20T14:51:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "036c8f32012abdcb9a389ae9c284da89505e830bca74eb1aa9ea3794b067aab6",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "050e84d134a32ed7c4885a9d57ce37f8ae5f910960b67e2156941961bd5781ba",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1541c23f34eb05dfcbede3830741427681d719cee1dfd397a2c04110e0fa81b2",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1bd347ce5deee3d783a038e2d2d224bc30cc074e0471a3897c5409ce99816dc9",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "643c0093baec45952a46b0210f7a6f8fb26883b396b66f1cb609c5b55e6dae1e",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7ad89fb0a4a5449a381b8f540238193019673adc7cfb1c008dcd14a745891551",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "87efeada5fe39a94cefc6151fd84af223d0e0e2b070daec606274481ed87b87b",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab46f7c4d3f717bb1e61d2f236917976d2a85be6958ae099fee79ea6e9031e37",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b1c101bd1ba134ffbea61f9fac2b7c8fbd13ca113a37944abdc131ef86da92ac",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6618bb692fb3f5d7959f8db1fedaaac5e8a36fb901397a008aa2b88874448fd",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d25d32478ae67403484a309591b6409224d26ca3d094c5ccd8428ebef7efcfd1",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe769fd85a7440751e1508614c8d9ef0de00bece803329bf3318ff863a146216",
+        "pulse": "Portugal-focused phishing campaign delivers multistage malware",
+        "tags": [
+          "phishing campaign",
+          "banking trojan",
+          "vbs infection chain",
+          "obfuscation techniques",
+          "lampion",
+          "portuguese lures",
+          "sapo impersonation",
+          "portugal targeting",
+          "chepro"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-21T16:05:05",
+        "hash_type": "sha256"
+      },
       {
         "value": "e77221d7a4b47b9107ba1b61a551ca89",
         "pulse": "Operation STANDOFF: A Campaign Hiding C2 Behind GitHub Redirects",
@@ -21838,250 +23094,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-15T11:58:14",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9f8a2983fbf5479e8d8c267e0df4e73d",
-        "pulse": "Threat Spotlight: The Jalisco Toolkit and AI-Powered Phishing Surge",
-        "tags": [
-          "oauth token theft",
-          "venom",
-          "microsoft 365",
-          "kali365",
-          "tycoon2fa",
-          "omegalord",
-          "jalisco",
-          "phishing-as-a-service",
-          "mfa bypass",
-          "darcula"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T01:40:06",
-        "hash_type": "md5"
-      },
-      {
-        "value": "90b7b2c6f3d05234dc55678243039d7e51f0d54190239e5234a0005533337dc8",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "050b84a0d6105a98f443f0165368cc1c",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4da236de055bfaf08ee21fb6b88442b4",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1cac633d290a876fc1ead63c58de48575b67b1fc",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "66049dd42a29dde7481d5ca2951efec27214ce15",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "03f26cbfa3ca15fcb43f512aa4041732beeec267f9d1dc74a11f7b0bb32e86bb",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2954639be599f23c2229a9743aba09a1d9d11bf2becc62bf353384437db37dee",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "64107e3e0a333f685d1be6386426223a030c4126ac7c295aa7b1d54c508bbace",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "643de2a1cf9148b896efecf560c9476fa56118ec477c4e15eb5c2da4b318061f",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ad1a0b3e22a10a2bd680b773b178a0d3824cfcbdf3551016f3d052a0b823079f",
-        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
-        "tags": [
-          "phishing",
-          "vshell",
-          "gshell",
-          "llm-powered attacks",
-          "deepseek",
-          "webshell",
-          "claude code",
-          "tencshell",
-          "supply chain targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8bf355a198fb5db3ea65cfdfcdfbd19",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8c4e4804f21649e5ddc6a5670f3b3828a43bff304f02f184f9842c2569570f3d",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b7443b0ab48d2f5786d1b6f3a580f02621e9ae5a3877ee3a44e01df13d984328",
-        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
-        "tags": [
-          "rust",
-          "webview2",
-          "labubarat",
-          "dns tunneling",
-          "socks5 proxy",
-          "labubapanel"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-14T21:17:46",
         "hash_type": "sha256"
       }
     ]
