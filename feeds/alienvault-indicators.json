@@ -1,13 +1,463 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-24T13:10:51.671302",
+  "updated": "2026-07-24T19:06:51.505480",
   "counts": {
-    "ips": 66,
-    "domains": 415,
-    "hashes": 414
+    "ips": 91,
+    "domains": 418,
+    "hashes": 429
   },
   "data": {
     "ips": [
+      {
+        "value": "139.28.37.250",
+        "pulse": "Security Advisory - Action Required - July 2026 Security Update",
+        "tags": [
+          "privilege escalation",
+          "cve-2026-62144",
+          "cve-2026-62145",
+          "active exploitation",
+          "firewall",
+          "cve-2026-16232",
+          "gaiaos",
+          "management products",
+          "smartconsole",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:24:56"
+      },
+      {
+        "value": "151.241.99.207",
+        "pulse": "Security Advisory - Action Required - July 2026 Security Update",
+        "tags": [
+          "privilege escalation",
+          "cve-2026-62144",
+          "cve-2026-62145",
+          "active exploitation",
+          "firewall",
+          "cve-2026-16232",
+          "gaiaos",
+          "management products",
+          "smartconsole",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:24:56"
+      },
+      {
+        "value": "151.241.99.233",
+        "pulse": "Security Advisory - Action Required - July 2026 Security Update",
+        "tags": [
+          "privilege escalation",
+          "cve-2026-62144",
+          "cve-2026-62145",
+          "active exploitation",
+          "firewall",
+          "cve-2026-16232",
+          "gaiaos",
+          "management products",
+          "smartconsole",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:24:56"
+      },
+      {
+        "value": "158.62.198.182",
+        "pulse": "Security Advisory - Action Required - July 2026 Security Update",
+        "tags": [
+          "privilege escalation",
+          "cve-2026-62144",
+          "cve-2026-62145",
+          "active exploitation",
+          "firewall",
+          "cve-2026-16232",
+          "gaiaos",
+          "management products",
+          "smartconsole",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:24:56"
+      },
+      {
+        "value": "79.133.46.209",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.162",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.164",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.171",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "135.136.1.133",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.165",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.167",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.168",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.170",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "175.110.121.107",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "175.110.121.39",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "175.110.121.42",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.82.73.175",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.225.17.225",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "185.225.17.225",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38"
+      },
+      {
+        "value": "141.11.164.153",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "192.142.54.79",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "84.200.205.165",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "88.80.150.199",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "88.80.150.200",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "88.80.150.202",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
       {
         "value": "43.246.208.207",
         "pulse": "Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged",
@@ -1366,6 +1816,169 @@
       }
     ],
     "domains": [
+      {
+        "value": "mi.overlapsnowbound.com",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01"
+      },
+      {
+        "value": "ocferda.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38"
+      },
+      {
+        "value": "ocferda.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "tylarion867mino.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38"
+      },
+      {
+        "value": "tylarion867mino.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "uuokhhfsdlk.tylarion867mino.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17"
+      },
+      {
+        "value": "uuokhhfsdlk.tylarion867mino.com",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38"
+      },
+      {
+        "value": "bohyeonsanvil.com",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40"
+      },
+      {
+        "value": "kumhosports.com",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40"
+      },
       {
         "value": "mail.authorized-logins.net",
         "pulse": "New Backdoor May be Linked to Ransomware Access Broker",
@@ -9482,135 +10095,350 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-17T20:08:01"
-      },
-      {
-        "value": "crefisa.online",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
-      },
-      {
-        "value": "windowsupdate-cdn.com",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
-      },
-      {
-        "value": "c.windowsupdate-cdn.com",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
-      },
-      {
-        "value": "cartaobb.com",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
-      },
-      {
-        "value": "cartaobrb.com.br",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
-      },
-      {
-        "value": "vfsgloball.net",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55"
       }
     ],
     "hashes": [
+      {
+        "value": "ff8d2afd9d7f0a828592fee34ca55d1a3542f7ed",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "09002d4668a778853e8da5c488c6e421c0628357",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "11a42ef076686cb27ba2c8845301943652a5aadc",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "32d0c3300825b0bb991c4a8f1e6244f0ad2da989",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "38d744543b2051e6f749af171b5ef8d6df8aac7b",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5f3f99b14243404c7cf57b40bb101244cce394bf",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "87867ad29e621bf9ebf57e1757f75090842458be",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b4101027bf2f1261402bf6318c6eb016ce249037",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c0e178d26e1e67985a9c67e649d71d54642e0eed",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f61e3a643f2417e1a1ab2c83bbdbfc8a7cb96756",
+        "pulse": "Operation Endgame disrupts Amadey and Stealc",
+        "tags": [
+          "stealc",
+          "botnet disruption",
+          "danabot",
+          "operation endgame",
+          "lumma stealer",
+          "infostealer",
+          "amadey"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-24T18:53:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "95bd07b4400095acdafce05888da27228d7d07ca",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "95bd07b4400095acdafce05888da27228d7d07ca",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "366e435a1ea0f597deb6ebe7c0c5acdb6e8b33eb",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:38",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "366e435a1ea0f597deb6ebe7c0c5acdb6e8b33eb",
+        "pulse": "Ongoing PLC Exploitation Against Critical U.S. Infrastructure",
+        "tags": [
+          "industrial control systems",
+          "critical infrastructure",
+          "water facilities",
+          "malpdb",
+          "ot security",
+          "irgc-cec",
+          "plc exploitation",
+          "iocontrol",
+          "hmi manipulation",
+          "energy sector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T14:28:17",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "03e4bef86f3e3e6ea23eb6f017af0c98",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40",
+        "hash_type": "md5"
+      },
+      {
+        "value": "05c07339603994b36dcfefcce720d03d",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40",
+        "hash_type": "md5"
+      },
+      {
+        "value": "07bb21d28ae4ab07d62f8deb4343aaeb",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40",
+        "hash_type": "md5"
+      },
+      {
+        "value": "07ed2c9ed61b60078af0164f061696be",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0b1de625a89da12bd1fdd292b341bad3",
+        "pulse": "June 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "xenorat",
+          "autoit",
+          "task scheduler",
+          "spear phishing",
+          "apt",
+          "pebbledash",
+          "prxclient",
+          "kimsuky",
+          "github abuse",
+          "powershell",
+          "south korea",
+          "lnk files"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-24T12:34:40",
+        "hash_type": "md5"
+      },
       {
         "value": "3f797a639bc855bc6d5471f327924b62d10900ddec49b970eca6604142bbb4be",
         "pulse": "New Backdoor May be Linked to Ransomware Access Broker",
@@ -18296,94 +19124,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-17T11:18:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "297eb45f028d44d750297d2f932b9c91",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3c72e1f37f115b00c3ad6ed31bacfe8a",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6bf4d4c62b5138ace281ce3d08297787",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b17ccdb5531555e43f082d6e77c07227",
-        "pulse": "ClickFix Campaign Generated Via AI Delivers SmartRAT",
-        "tags": [
-          "banana rat",
-          "fake captcha",
-          "smartrat",
-          "powershell",
-          "typosquatting",
-          "ghostloader",
-          "brazil",
-          "clickfix",
-          "qr code interception",
-          "banking trojan",
-          "credential theft",
-          "remcos rat",
-          "ai-generated"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-17T18:20:55",
         "hash_type": "md5"
       }
     ]
