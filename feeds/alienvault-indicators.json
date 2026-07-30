@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-07-30T01:10:46.681991",
+  "updated": "2026-07-30T08:01:29.690700",
   "counts": {
     "ips": 77,
     "domains": 418,
-    "hashes": 622
+    "hashes": 624
   },
   "data": {
     "ips": [
@@ -1502,6 +1502,23 @@
       }
     ],
     "domains": [
+      {
+        "value": "a.dev-tunnels.com",
+        "pulse": "A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain",
+        "tags": [
+          "ai development tools",
+          "cve-2026-48558",
+          "taskweaver",
+          "supply chain risk",
+          "credential theft",
+          "node.js",
+          "djinn stealer",
+          "simplehelp",
+          "rmm exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T02:01:09"
+      },
       {
         "value": "angryipscanner.org",
         "pulse": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira",
@@ -8347,26 +8364,45 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-23T14:56:13"
-      },
-      {
-        "value": "is-01-ast.ols-img-12.workers.dev",
-        "pulse": "Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel",
-        "tags": [
-          "browser hijacking",
-          "webrtc",
-          "twilio turn",
-          "msarat",
-          "cloudflare workers",
-          "ransomware-as-a-service",
-          "rust-based rat",
-          "covert tunneling",
-          "chrome devtools protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-23T14:55:10"
       }
     ],
     "hashes": [
+      {
+        "value": "00cc86d1144020c24c8fbb3a8dc6b908926497ebd23be3bf854360f93d1c8f4c",
+        "pulse": "A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain",
+        "tags": [
+          "ai development tools",
+          "cve-2026-48558",
+          "taskweaver",
+          "supply chain risk",
+          "credential theft",
+          "node.js",
+          "djinn stealer",
+          "simplehelp",
+          "rmm exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T02:01:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f4a72600a3735c2a4d843875ea61bbb6f935a1af51a81f2fbc992ce11ba94afc",
+        "pulse": "A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain",
+        "tags": [
+          "ai development tools",
+          "cve-2026-48558",
+          "taskweaver",
+          "supply chain risk",
+          "credential theft",
+          "node.js",
+          "djinn stealer",
+          "simplehelp",
+          "rmm exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-30T02:01:09",
+        "hash_type": "sha256"
+      },
       {
         "value": "a14506c6fb92a5af88a6a44d273edafe10d69ee3d85c8b2a7ac458a22edf68d2",
         "pulse": "From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira",
