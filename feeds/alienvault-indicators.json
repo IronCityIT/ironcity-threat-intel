@@ -1,13 +1,146 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-06T08:09:31.207644",
+  "updated": "2026-08-06T13:26:59.687772",
   "counts": {
-    "ips": 89,
-    "domains": 513,
-    "hashes": 654
+    "ips": 97,
+    "domains": 567,
+    "hashes": 723
   },
   "data": {
     "ips": [
+      {
+        "value": "87.249.138.34",
+        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
+        "tags": [
+          "take control",
+          "remote access",
+          "rmm",
+          "cve-2026-18577",
+          "n-central",
+          "cloudflared",
+          "cve-2026-18556",
+          "msp compromise",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:39:27"
+      },
+      {
+        "value": "37.19.210.32",
+        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
+        "tags": [
+          "take control",
+          "remote access",
+          "rmm",
+          "cve-2026-18577",
+          "n-central",
+          "cloudflared",
+          "cve-2026-18556",
+          "msp compromise",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:39:27"
+      },
+      {
+        "value": "68.235.46.214",
+        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
+        "tags": [
+          "take control",
+          "remote access",
+          "rmm",
+          "cve-2026-18577",
+          "n-central",
+          "cloudflared",
+          "cve-2026-18556",
+          "msp compromise",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:39:27"
+      },
+      {
+        "value": "37.153.90.88",
+        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
+        "tags": [
+          "take control",
+          "remote access",
+          "rmm",
+          "cve-2026-18577",
+          "n-central",
+          "cloudflared",
+          "cve-2026-18556",
+          "msp compromise",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:39:27"
+      },
+      {
+        "value": "92.118.112.181",
+        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
+        "tags": [
+          "take control",
+          "remote access",
+          "rmm",
+          "cve-2026-18577",
+          "n-central",
+          "cloudflared",
+          "cve-2026-18556",
+          "msp compromise",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:39:27"
+      },
+      {
+        "value": "43.248.136.125",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "47.100.190.96",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "47.107.224.89",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
       {
         "value": "217.60.195.167",
         "pulse": "Phishing Email Delivers ScreenConnect Malware",
@@ -1629,6 +1762,951 @@
       }
     ],
     "domains": [
+      {
+        "value": "zbtlink.com",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "zbtwifi.com",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "rbdg4nzqadui.wikaba.com",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "zbtctl.epplink.net",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06"
+      },
+      {
+        "value": "buyaccounts.net",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "socialaccountshop.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "gmailpva.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "accountstore.net",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "redditaccounts.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "bulkaccounts.shop",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "buyaccounts.co",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "buyaccounts.store",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "buyawsaccounts.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "buytwitteraccounts.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "churnbot.co",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "dumps-cc-best.ru",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "ghostaudit.io",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "gmailshop.com",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "thepaygate.store",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "track2ccdumps.ru",
+        "pulse": "SecuritySnack - Account Farmers and Sellers",
+        "tags": [
+          "fraudulent accounts",
+          "payment fraud",
+          "social media abuse",
+          "account farming",
+          "mfa evasion",
+          "cloud infrastructure abuse",
+          "account trafficking",
+          "kyc bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T13:12:02"
+      },
+      {
+        "value": "berapt-medii.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "zuwufag.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "binonelola.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "bovetewa.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "dutabuz.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "gowixese.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "jufewine.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "pofezaf.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "riwitamo.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "scorenetsystems.pro",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "solidlinkpro.info",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "vimemug.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "ww19.nurepikis.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "ww80.tugoduzak.com",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07"
+      },
+      {
+        "value": "applefilevault.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "apricotfilepoint.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "bananafastfile.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "lemonfilewave.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "limefilescope.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "mangocloudfile.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "orangesmartfile.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "cloudfilebridge.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filecedarwallet.online",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filecopperbasket.sbs",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filecrimsonsignal.online",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filemarblegarden.sbs",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "fileoceanhammer.sbs",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filerubyfolder.sbs",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "filevelvettractor.sbs",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "syncdatavault.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "cloudsendhub.com",
+        "pulse": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+        "tags": [
+          "atomic stealer",
+          "fingerprinting",
+          "infostealer",
+          "clickfix",
+          "social engineering",
+          "macsync",
+          "amos",
+          "traffic distribution system",
+          "macos"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:53:16"
+      },
+      {
+        "value": "poison-claude.bitsender.top",
+        "pulse": "How fake signups drive AI fraud",
+        "tags": [
+          "startup credits",
+          "token reselling",
+          "platform abuse",
+          "fraudulent registration",
+          "ai fraud",
+          "fake signups",
+          "gray market",
+          "bot networks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:54:29"
+      },
+      {
+        "value": "api.claudeopus.shop",
+        "pulse": "How fake signups drive AI fraud",
+        "tags": [
+          "startup credits",
+          "token reselling",
+          "platform abuse",
+          "fraudulent registration",
+          "ai fraud",
+          "fake signups",
+          "gray market",
+          "bot networks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:54:29"
+      },
+      {
+        "value": "ratixq.com",
+        "pulse": "How fake signups drive AI fraud",
+        "tags": [
+          "startup credits",
+          "token reselling",
+          "platform abuse",
+          "fraudulent registration",
+          "ai fraud",
+          "fake signups",
+          "gray market",
+          "bot networks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:54:29"
+      },
+      {
+        "value": "claudeopus.shop",
+        "pulse": "How fake signups drive AI fraud",
+        "tags": [
+          "startup credits",
+          "token reselling",
+          "platform abuse",
+          "fraudulent registration",
+          "ai fraud",
+          "fake signups",
+          "gray market",
+          "bot networks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T18:54:29"
+      },
+      {
+        "value": "npm-cache.com",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05"
+      },
+      {
+        "value": "awqhnjewqjkl.icu",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05"
+      },
       {
         "value": "bkofamerica.com",
         "pulse": "Phishing Email Delivers ScreenConnect Malware",
@@ -12988,63 +14066,1395 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-01T07:01:10"
-      },
-      {
-        "value": "gecko.id",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37"
-      },
-      {
-        "value": "vpngogmail.com",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37"
-      },
-      {
-        "value": "vpngo.com",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37"
       }
     ],
     "hashes": [
+      {
+        "value": "bbbca2ddaa5d8feaa63e36b76fdaad77386f024f",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "de0fac2e4500dabe0009e67214ff5f5447ce83dd",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "00ca0c04d247ef09f2b2acc452029345",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dbb9b09957113463bbeb420c2c4108b5",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29ac906c8bd801dfe1cb39596197df49f80fff2270b3e7fbab52278c24e4f1a7",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4140f7e17e6f97f83aa3472473e01add",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bcf8d9f6834c44450eac145a967d2f2",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7",
+        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
+        "tags": [
+          "npm-registry",
+          "cacheable",
+          "vault-harvesting",
+          "shai-hulud",
+          "vs-code-hooks",
+          "trusted-publishing",
+          "claude-hooks",
+          "github-compromise",
+          "aws-secrets",
+          "token-theft",
+          "keyv"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:42:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "00ca0c04d247ef09f2b2acc452029345",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dbb9b09957113463bbeb420c2c4108b5",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29ac906c8bd801dfe1cb39596197df49f80fff2270b3e7fbab52278c24e4f1a7",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4140f7e17e6f97f83aa3472473e01add",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bcf8d9f6834c44450eac145a967d2f2",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7",
+        "pulse": "Here We Go Again - JavaScript Payload Analysis",
+        "tags": [
+          "supply chain attack",
+          "shai-hulud",
+          "vault secrets",
+          "credential theft",
+          "ci compromise",
+          "github actions",
+          "npm package compromise",
+          "kubernetes"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:43:35",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4140f7e17e6f97f83aa3472473e01add",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bcf8d9f6834c44450eac145a967d2f2",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f92ee93a0af971a3966bfa8efa9c2625",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
+        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "npm compromise",
+          "keyv",
+          "jaredwray account compromise",
+          "cloud credential theft",
+          "self-propagating",
+          "cacheable"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-06T09:04:56",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "00a1228648fffa7338076970037b89f679a166a08c4d9573f1f27973ec6ed497",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "09ed9ad3ac886f5aaf8357127b6dd5926bd4af1e2cc687a6a4856bcaedee2667",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1545169fa8a3ae182d8e39aca8ec6cb6849b864e38646f29017232813e397e77",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2d558bc9a6c7e7480e946f1c0524a651554887a1c563d7633f1903d06ff493fb",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "31ee58a134b766f6ed4424a22cc2cb08cfabbc9a5f35e0ae11a250c81ccc7f5e",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "33f8c0532100eeb10213d167e5eb483394a7e43bf6d276441a1573360622011a",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37efadf0f4a110be0145139a43ebd032abb5b27b79b1eb2ab3578dcd31655a9e",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47d8ffb3a9a3fe0337e3c1e355fab4847dd61952fbe9aad98aadede489ca31fd",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4f5d8319b4bad5d9243496c1358fda4783ea9a0865c32881b3f57ecedb879570",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6926f919da7f4447229f49842266d884369e1587df655149673e46f1d8787e47",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "71b20ebff0630b33c96bef320adc75901b34f1fd2cc9af974cf93ff37d102ec8",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73a0d95b8e23c7780cd91e978238c6db519665b05481fb228b4db9a9ec99c8ae",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "76a17581bbde4c0550e8f4abfd903923aceeb50dc69dae4dd904628c273b90ee",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7791de11cd27cb596deff089904a6eab3a7e0aa391f867c2389582d5c78fef4c",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab8467e1495479693f4de8e838a5aeb61a65f3682d68f5b2d7c856cbfc91a247",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3956cfbebf9c8d0b2c7a2ecbe59e71c31a5802f2084d25d93a984c0f811e2c7",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3e667235e9b41b8fc3594edaa64879750e7f75d7518fff7514d55837430411a",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b4fda77e082fbf961db02273999e92e715e1824140ea92b2ab30163338b6622b",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dc1f4056af20677bdc7294ae4707f0c7bdfc85d8b57db212b622b9dc09c92731",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dcdaa1fe80707b8d8fde8ad36c3e62a53623aff09bf5ccc544d4c1a1a54208b8",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dee3908280b91cb7ad60c69c1d34c599ceed7c8c66c025851e5831482815b271",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e85104fce4061d52d47f4528df9aaf656edc49f05c0f026c5bc6b65d57eb7f22",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "efc8a8ead69c63ecfffd883cfbe6bd131082aa13c0d3b324c00d79f4c149bd92",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f019d03c2489b2bc486d71e355e07f8f2862dff078574a8662a5a45932e7e453",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f5a94e536a1cac8552fb9c327c4bac6017e034786be98cc402a149cb51250d8f",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f961e4243e759453294340bc7d1b145016d70b97ab328caf47c64ea3cd818148",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df1ae1a109b329689a1eb3d1bd9bd1e9ed247cfd",
+        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
+        "tags": [
+          "zbtlink",
+          "pre-installed implant",
+          "endlessdoors",
+          "iot compromise",
+          "rctl",
+          "cve-2026-66747",
+          "router backdoor",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f40c47b9d68ea251957b705c851a6ee9",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07",
+        "hash_type": "md5"
+      },
+      {
+        "value": "67ef6e09000a5ae837faecd579deb331035d6717",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "87b8b76762eac941c562c6c8eefb8402f48fc70fcfe360a274b12e75dd5726e2",
+        "pulse": "Fake CAPTCHA, Real Business: Traffic Distribution for Hire",
+        "tags": [
+          "search engine poisoning",
+          "ai assistant exposure",
+          "webflow cdn abuse",
+          "legion loader",
+          "traffic distribution system",
+          "tds",
+          "trojan.win32.injuke",
+          "fakecaptcha",
+          "premium sms scam"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T14:36:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4140f7e17e6f97f83aa3472473e01add",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bcf8d9f6834c44450eac145a967d2f2",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f92ee93a0af971a3966bfa8efa9c2625",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
+        "pulse": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+        "tags": [
+          "supply chain attack",
+          "credential harvesting",
+          "chaindrop",
+          "javascript obfuscation",
+          "chaindrop worm",
+          "npm compromise",
+          "ethereum c2",
+          "self-propagating",
+          "preinstall hook"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T23:44:05",
+        "hash_type": "sha1"
+      },
       {
         "value": "3e404e542ae99eeb8827fa72e74dafeacc9b2a8af463a8e0789d7efb0a2dbfb8",
         "pulse": "Phishing Email Delivers ScreenConnect Malware",
@@ -28418,177 +30828,6 @@
         "source": "alienvault_otx",
         "created": "2026-07-01T01:24:45",
         "hash_type": "sha1"
-      },
-      {
-        "value": "43dc5b1d4c73d5ed9f4f7f561830079896eeb533a7c21bc577e4e267d5a3aa56",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b3b63970833b3379ecec2d3ef8fea328fef8dd1c1574b1bcdfebad5bdce9280c",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "72fc06a8b03720f4a64744eecd5b3f658ad880bdb327c0c465c7bdc66b14a8d2",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fbbdf4bc490ad7b28953630c1707aa68b89d319b9b735f3d8563320b81b21a97",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2fe9c41901045013ba28ccb9af5870f9aef4f1ffd1e717cd5e0189ffdbe7fca2",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "11f01e8296a074e6e3b23e9413c51f205d4b6a14146fb4d95bec291d768a9071",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "638636692e3eef6c83dbca784a40fb7b6ac95b76d6551a2fbdfebc11588ad8ff",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7386252b9a86e5357e6aa884326720abf015465a2567e75717830b6688ef05cc",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d7d43e8e8f03afdcaaba85622daf24ced944e7ca4d03ac124fc325d0bb6e3d66",
-        "pulse": "Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates",
-        "tags": [
-          "vpn impersonation",
-          "firefox add-ons",
-          "free vpn by vpn go",
-          "staged updates",
-          "supply chain",
-          "credential theft",
-          "chrome web store",
-          "clipboard stealer",
-          "vpn go: free vpn",
-          "browser extension"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-06-30T12:07:37",
-        "hash_type": "sha256"
       }
     ]
   }
