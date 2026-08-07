@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-07T12:33:44.990120",
+  "updated": "2026-08-07T18:34:58.334603",
   "counts": {
     "ips": 111,
-    "domains": 469,
-    "hashes": 883
+    "domains": 466,
+    "hashes": 869
   },
   "data": {
     "ips": [
@@ -2000,6 +2000,28 @@
       }
     ],
     "domains": [
+      {
+        "value": "couldinstallup.com",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14"
+      },
       {
         "value": "npm-cache.com",
         "pulse": "Inside a Self-Propagating npm Worm",
@@ -12468,77 +12490,331 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "controlfacturas.site",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13"
-      },
-      {
-        "value": "faturanova.xyz",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13"
-      },
-      {
-        "value": "facture-arsys.duckdns.org",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13"
-      },
-      {
-        "value": "faturanova.duckdns.org",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13"
       }
     ],
     "hashes": [
+      {
+        "value": "c04c947efdfdd9ce24617903b6746a83",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "43d646eda4166261eb1433c7599bf5cc9129a4f1",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fcf4efa82d477c924d42cc6b71aa672ab2381ca256769925ae34dabe2e77e025",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "390148f5157c0f6b337ff19d162c3c2ee3e6d782fdfbe11fb1e411c0684fd33b",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f53fd0626404a129dcddb8ee7589387dd7bda7999814e0df46c670af6b3da5f5",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8aeba3c711eaa0116807c66390284dfa572d2cc7",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b267acd1b7c15b18178ae9fd4974f3f4",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7e7b30071565773d480578537ee3b0e6",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bca1e295acaacbb19c7e3a7868746f6b772b7b71",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5f22ec5c14dfd47c92850a5fb3bd8e3754d538b8021b6238238e4020336cfb5c",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a43084f5af861f44c75c5273c779cb26d506cab6b51c33746626da504148a4ec",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd9397797216fd4c08df324937509124e57258328c8e4c6d795c6a2cd25b69b0",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ebd533de7ca16daa70093b0b1084fb6136b6ba091d6ee0e4199762581e1b2e5a",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f2bed071676feb831ed460489643fd57f6c6c1e0d024a1ea447820276fb13828",
+        "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
+        "tags": [
+          "india",
+          "government targeting",
+          "websocket",
+          "minirecon",
+          "zohomurk",
+          "shadowpad",
+          "cloud c2",
+          "hydropower",
+          "espionage",
+          "pubload",
+          "shardloader",
+          "toneshell",
+          "zoho workdrive",
+          "dll sideloading"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-06-29T20:25:14",
+        "hash_type": "sha256"
+      },
       {
         "value": "d42595b695fc008ef2c56aabd8efd68e",
         "pulse": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
@@ -31962,510 +32238,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-03T12:13:51",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d4eb4ff02df659fdeec17d36b77084627469623bb3c7d16383d257404b52d1c3",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "18205d398e5df7d38705dbdc700ccb46",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "22e3cd043e36a9c0bad1479ad4c3214a",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "26c0aee6c79935ee6da46e6444f1c109",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ebb680f7ae4db6cdc426b8112d2536b6",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "11ca4e19ea79f68aaf23c4afe472dbc03833002c",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1ec576cf0c82c023f2eb380809588980b98cd296",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "26b9b123e0f664dd9792b820255fe991496cf2d6",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6e37b4a0c1d747d19abb6736a1ec3293972d3e0f",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "18fd38988d58dd930f5992d448cc09a9400c1eafba76b820b9a83239ac48cf4e",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "19ac18a50abb48dc0ea9524850acfaec49359e6b3bcc67c6193c2d56da812c71",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e77992666acbbfa0d01fcefa9cc8fbdac291e0681b35745be27c6dfb159a375",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "21b24f7ee1f6bdbbb670f0394d66009ee0daa8ced57048298da715e88f7a7cdd",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "48723a33bab89f174750576f9a62da35b3b9e5ac31a5a8f1ce9859a1b35bf8b8",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4c9fdc2823da505ef339d43c6ad38499b7e3447736733e42b5ab6b1afcfd42aa",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4ca2c863d740bb7022776dccabd8ae34bb9998768928042d76ebcf08984eefcb",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "540ee1936e61d2344b5ebc93485589a351ec2f113a9b4940ae16f3baa4807392",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5837e47198a20877e1b04b270c36d9194206ee38d4f32fe3151b3c3b396c4f0d",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5a2ed557c357ba8f96f2d55a8a00695987806b5df766cd1dfdab0cbed111774a",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5e06af187b45476ade0d953e834fced6197d0a33ac60c2575877660e26ab15e8",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "65c1a998bac48e02b52b1c850cd500e9fb87521e21755c3a4a491243f5f9a700",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6bc2e11b0917f47d0557288c4f0cb20bd7589185943b989a969fdc6d3704ee73",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9d07a83cf89685651ea8992047ae694c24f6ddef193044357debd15ce07a64fe",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9e81ade09cc18f0fc09d73e72d2e0bffad02f52fdcc26553e473cee8cabc1567",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e2f0c2d4c1552cd81fa012043e4a5ac832582b639b7b6b7eccc0c4802d7a8ad8",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e6e78eb2e9bd41a4bc62f7ad54d095ea9813864bebe37172ae30a1afa631fe14",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fadbb8061715128bebecf7bc59132b6bb04fe8cc39b965aa5b8722dffe28d7e7",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ffb9eb47cc0cb2f43e04a10dc84df13d04bca1ebacbe47fad0b669728de2f59c",
-        "pulse": "Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula",
-        "tags": [
-          "credential theft",
-          "phishing",
-          "portugal",
-          "iberian peninsula",
-          "ousaban",
-          "geofencing",
-          "casbaneiro",
-          "spain",
-          "banking trojan"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-01T21:35:13",
         "hash_type": "sha256"
       }
     ]
