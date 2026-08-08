@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-08T06:28:53.924851",
+  "updated": "2026-08-08T12:19:33.613296",
   "counts": {
     "ips": 111,
-    "domains": 466,
-    "hashes": 869
+    "domains": 459,
+    "hashes": 881
   },
   "data": {
     "ips": [
@@ -2000,6 +2000,38 @@
       }
     ],
     "domains": [
+      {
+        "value": "vniir-info.space",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10"
+      },
+      {
+        "value": "vniir-avia.space",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10"
+      },
       {
         "value": "couldinstallup.com",
         "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
@@ -12319,180 +12351,213 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-03T10:55:04"
-      },
-      {
-        "value": "acasiallc.shop",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "amdocsllc.shop",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "ansysllc.shop",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "cimentosservices.online",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "epsilongroup.online",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "softinsallc.online",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "taicom.top",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "krysegroupllc.online",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
-      },
-      {
-        "value": "shengan-light.com.tw",
-        "pulse": "A single RedLine C2 pivots into a maritime spear-phishing cluster and attacker-owned infrastructure.",
-        "tags": [
-          "spear-phishing",
-          "south korean victims",
-          "business email compromise",
-          "infrastructure pivoting",
-          "maritime sector targeting",
-          "formbook",
-          "metamorfo",
-          "redline stealer",
-          "domain impersonation",
-          "casbaneiro",
-          "xloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-02T11:29:27"
       }
     ],
     "hashes": [
+      {
+        "value": "0dc0fa727f900ed5033f46f8ba6cf2d97d20ab95fd334cabc0f216da6e0622b0",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "144a0a499e007931628c98f38929466f",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c7eccd855d2e97b57420afd23a4b9261f42f5b84",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "12648cd9d425f78db2dbc6e03c14f11e6ac6aadf8b3975c23cce9519e2b58d33",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47854deb456cb08c651b7f9ae2f9d87c72d0719de6af233340632efb3c1980f4",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f57e010541fb4ccbf23aefc4a827f753a6ff3f8792d9c04c3eea83f6963c6bae",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6cc3c68c56e099792fdeadde76256d56",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7884be8a701f31421717c0835add92d5",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "eabd440c996846d0992e37ab01d01208",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5d9d91cf9da3b37d8eee87d5d4dd38dbfec28358",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7d415612a00d99617bd89670e1570c145863ad08",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ee577f1880397a00480b210fcd6bc84d2330a19e",
+        "pulse": "From Invoice to AnyDesk: Uncovering a Phishing Campaign Targeting Russian Aerospace Organizations",
+        "tags": [
+          "scheduled task persistence",
+          "remote access tool",
+          "aerospace targeting",
+          "smtp exfiltration",
+          "russian victims",
+          "living-off-the-land",
+          "anydesk",
+          "spear-phishing"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-09T11:27:10",
+        "hash_type": "sha1"
+      },
       {
         "value": "c04c947efdfdd9ce24617903b6746a83",
         "pulse": "India's government and energy sectors targeted with ZOHOMURK and MINIRECON",
