@@ -1,13 +1,54 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-11T06:41:27.200098",
+  "updated": "2026-08-11T12:34:29.785487",
   "counts": {
-    "ips": 101,
-    "domains": 267,
-    "hashes": 850
+    "ips": 103,
+    "domains": 277,
+    "hashes": 862
   },
   "data": {
     "ips": [
+      {
+        "value": "213.145.86.42",
+        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
+        "tags": [
+          "vnc remote access",
+          "llvm obfuscation",
+          "abyssos",
+          "custom tcp protocol"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:09"
+      },
+      {
+        "value": "209.99.184.223",
+        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
+        "tags": [
+          "vnc remote access",
+          "llvm obfuscation",
+          "abyssos",
+          "custom tcp protocol"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:09"
+      },
+      {
+        "value": "193.221.200.219",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
       {
         "value": "112.216.9.171",
         "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
@@ -1779,28 +1820,433 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-04T13:08:11"
-      },
-      {
-        "value": "217.77.6.50",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
       }
     ],
     "domains": [
+      {
+        "value": "deadlock.liveblog365.com",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T07:55:59"
+      },
+      {
+        "value": "polygon.meowrpc.com",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:07"
+      },
+      {
+        "value": "deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:07"
+      },
+      {
+        "value": "deadlockblog.medianewsonline.com",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:07"
+      },
+      {
+        "value": "deadlockblog.great-site.net",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T07:55:59"
+      },
+      {
+        "value": "dlock.liveblog365.com",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T07:55:59"
+      },
+      {
+        "value": "endpoints.omniatech.io",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-zkevm.drpc.org",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "cdnjsdelivr.beer",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-mumbai.gateway.tenderly.co",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "sekirolegion.duckdns.org",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "api.zan.top",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "download.sftp-api-group-wechat.com",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "update.constant-path.xyz",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "update-launcher.xyz",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "test-steve.cyou",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "api.noderpc.xyz",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-amoy.gateway.tenderly.co",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-amoy.therpc.io",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-mumbai-bor-rpc.publicnode.com",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon-zkevm-mainnet.public.blastapi.io",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygon.rpc.hypersync.xyz",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "polygontestapi.terminet.io",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "rpc.polygon-zkevm.gateway.fm",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "rpc.polygonsupernet.public.arianee.net",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
+      {
+        "value": "rpc.poolz.finance",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44"
+      },
       {
         "value": "powercat.dog",
         "pulse": "Powercat malware campaign: Fake game cheats deliver infostealer",
@@ -6378,294 +6824,374 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-05T08:30:11"
-      },
-      {
-        "value": "pozeny.shop",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
-      },
-      {
-        "value": "aonexa.shop",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
-      },
-      {
-        "value": "mainsec.site",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
-      },
-      {
-        "value": "serverdock.online",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
-      },
-      {
-        "value": "final.mainsec2.site",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57"
-      },
-      {
-        "value": "ftabnews.com",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37"
-      },
-      {
-        "value": "cert.hypersnet.com",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37"
-      },
-      {
-        "value": "contacts.ftabnews.com",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37"
-      },
-      {
-        "value": "ssl.blsouqs.com",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37"
-      },
-      {
-        "value": "about.blsouqs.com",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37"
-      },
-      {
-        "value": "ngdance.fun",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
-      },
-      {
-        "value": "fokindenfo1.lol",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
-      },
-      {
-        "value": "stardancer.fun",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
-      },
-      {
-        "value": "thebestscollato.top",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
-      },
-      {
-        "value": "vatiter.click",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
-      },
-      {
-        "value": "megadencer.top",
-        "pulse": "WhatsApp account takeover scam asks you to \"vote for my friend\"",
-        "tags": [
-          "phishing",
-          "whatsapp",
-          "qr code scam",
-          "messaging platform",
-          "account takeover",
-          "social engineering",
-          "linked devices abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-04T07:17:40"
       }
     ],
     "hashes": [
+      {
+        "value": "52b400c5be1557a8df146f62fde76d906e7e0a92ed76788717ef61c758f315aa",
+        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
+        "tags": [
+          "vnc remote access",
+          "llvm obfuscation",
+          "abyssos",
+          "custom tcp protocol"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ca94d95413210a2a325155740eb8a5c58627ad5c4e704478621e7fc8165fe173",
+        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
+        "tags": [
+          "vnc remote access",
+          "llvm obfuscation",
+          "abyssos",
+          "custom tcp protocol"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a1fdf65020ce4a0f0940c793c6425baf8a0b994ec48b9baaf72788661a9d29f4",
+        "pulse": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+        "tags": [
+          "polygon",
+          "lynx",
+          "deadlock",
+          "ransomware",
+          "blockchain infrastructure",
+          "decentralized communications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-10T18:05:07",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5bfb25b8255b61e5ffdf6804451534bcfa9f1dfd225e6c8cdcefb5f50d846898",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1505eda3da68e2ff9919b55a31018bd30a991236f041aee835f3bc4e430ce505",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f2a326cff405299e4ebdfaac955c52fc7e496544eaa0921ecad4816cb3ae3a27",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4e24bbd0fabac6c3efcec943046afbfd332b2c0108a13becfda23a0e26f9ff5f",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "81bb80d9c5a97dc41b65f6248c131963c91346eb4fb672836b3d53ae67564d9f",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ea1b6ff3a0c1a749b9f09d66789973321d63d8896b48f7345193bdad512950a2",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "673a51a179a78fbdf2b8770f868f883a",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "848b1440f5f52bfddf2e1b3e9e248f12",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a45e8679d2695d10a45a3f78268fab64",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "96f6794fa4b7414e38be4ef497cd8611d50a59ec",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d224dde23da2faff57235192333fc7998762c645",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d3e0f9448c94b1017f26e4da63b710a886a2b426",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1ef50e9d715245e29220936a66c0bece",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "66575cc1df33e40a47fe00abdc067fe5",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cd8b231a2101c7de3f0b118f99279cbd",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "326a4305420a5c57950a7ee8c1e41b31132dd027",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b51a50ffc57565c8488cb8101252db0e60619750",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cfd101963a4e791fc59bda97bfc87f33ce7ce379",
+        "pulse": "The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications",
+        "tags": [
+          "polygon",
+          "aeternum",
+          "xmrig",
+          "zingostealer",
+          "xworm",
+          "blockchain c2",
+          "smart contracts",
+          "cryptocurrency mining",
+          "decentralized botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T02:41:44",
+        "hash_type": "sha1"
+      },
       {
         "value": "a33a96cbd92eef15116c0c1dcaa8feb6eee28a818046ac9576054183e920eeb5",
         "pulse": "Powercat malware campaign: Fake game cheats deliver infostealer",
@@ -22766,190 +23292,6 @@
         "source": "alienvault_otx",
         "created": "2026-08-04T13:08:11",
         "hash_type": "sha256"
-      },
-      {
-        "value": "10b40185106eb3760cb71c46117aa0bf",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1500fefcdda275b70e2051a3e7d9f794",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2973fda8d0d0fa0200a05889fce85df6",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "444fb3592cd1848660259a913684795b",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4ad28d0313549e98383144d82982be6e",
-        "pulse": "Analysis of a Phishing Email Attack Case",
-        "tags": [
-          "lnk",
-          "ultravnc",
-          "larva-24009",
-          "keylogger",
-          "heptax",
-          "phishing email",
-          "credential theft",
-          "nirsoft tools",
-          "notifier",
-          "powershell backdoor",
-          "quasarrat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T16:50:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7a14a99d70d42d3f7bf72f843185fc07",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "577b1cc894636f4ac5ad670b0079b9b7ade137c3",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3b0c658ebaa2bae80af97f390b9b2bb20a2f815eb584b2251255e84da4fa669d",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "59fe1ef7707fe497d89f34505222862f",
-        "pulse": "Targeted Attack on Government Entities in the Middle East | Part 2",
-        "tags": [
-          "energy sector",
-          "octlurk",
-          "government",
-          "teleshim",
-          "backdoor",
-          "middle east",
-          "c2 communication",
-          "edr evasion",
-          "east asia",
-          "modular",
-          "bindcloak",
-          "mixedkey"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-03T21:38:37",
-        "hash_type": "md5"
       }
     ]
   }
