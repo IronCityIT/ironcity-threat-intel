@@ -1,13 +1,77 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-12T00:50:29.400837",
+  "updated": "2026-08-12T07:01:45.473590",
   "counts": {
-    "ips": 67,
-    "domains": 329,
-    "hashes": 830
+    "ips": 57,
+    "domains": 331,
+    "hashes": 837
   },
   "data": {
     "ips": [
+      {
+        "value": "193.169.240.81",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32"
+      },
+      {
+        "value": "38.146.28.75",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "213.145.86.112",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "38.146.28.132",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
       {
         "value": "212.193.31.102",
         "pulse": "An Evolution of the Botnet",
@@ -937,269 +1001,193 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-05T09:03:11"
-      },
-      {
-        "value": "83.97.20.150",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19"
-      },
-      {
-        "value": "94.156.154.48",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19"
-      },
-      {
-        "value": "213.176.72.223",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19"
-      },
-      {
-        "value": "193.233.202.17",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "185.45.193.151",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "38.110.228.43",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "77.110.122.137",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "77.110.126.46",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "77.110.122.58",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "146.103.127.44",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "185.117.72.215",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "38.110.228.125",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "38.110.228.33",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "50.114.167.112",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
       }
     ],
     "domains": [
+      {
+        "value": "enveil.online",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11"
+      },
+      {
+        "value": "envell.xyz",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11"
+      },
+      {
+        "value": "uxtramine.org",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11"
+      },
+      {
+        "value": "ccleanerwind.top",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32"
+      },
+      {
+        "value": "liderongrade.duckdns.org",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32"
+      },
+      {
+        "value": "m365-owa.com",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "ms365-device.com",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "ms365-live.com",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "owa-ms365.com",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33"
+      },
+      {
+        "value": "npm-cache.com",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34"
+      },
+      {
+        "value": "awqhnjewqjkl.icu",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34"
+      },
+      {
+        "value": "copilot-instructions.md",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34"
+      },
       {
         "value": "edctgwib2n5l34t525zkxqzk5bqb6e5il2yiq5r6zu7gtlxa4uosn3qd.onion",
         "pulse": "An Evolution of the Botnet",
@@ -7289,189 +7277,1053 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-04T18:21:01"
-      },
-      {
-        "value": "reviewassignment.in",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19"
-      },
-      {
-        "value": "yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19"
-      },
-      {
-        "value": "resumeacceptable.com",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "publisherresolution.com",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "simultaneouslypower.com",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "wiselystarting.com",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "itemrange.com",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37"
-      },
-      {
-        "value": "npm-cache.com",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39"
-      },
-      {
-        "value": "pypi-get.com",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39"
-      },
-      {
-        "value": "js-mirror.com",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39"
       }
     ],
     "hashes": [
+      {
+        "value": "13d10bc99f7f7abe7ee0902be87920b73b2ea41bd9683dbfcad340dacbcdef79",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1de949c71efcfb0ffc41f33d38833dbc4b082075b1a540fc68c18c535d7ad86c",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "21c3ad4838c4324bc5f081021da5fb2e9073d0c9304087811c21eb47c9e22762",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "231b1ef8b95bf77887d5377e2a60f649035e78f543af1b82877db36a5759d858",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29e24c007549e51319ff3aee011da6f9f93568e8c85a5ad69c9e53bd3f4533a2",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2b4987c07a3d9a9a5d1a9bf4efa3d1903e775090b611710edafdc92874265ca8",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2db25ac41a66aa523c79e23e00443573530dd7bd82b8371bcc87bd7232e141eb",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3601060c62edeeaa49def6a13be6e126e1024ce011faad4e2d9f585ccf6bd5a6",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "396192d92d17ace1a521f1351eeeba2825e60badd0d799cc5c338e4934b3c82c",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3a02d0d798e8d35555776886d92b20ff38a101c9ef7e0eebc8ce5d259516525a",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b6378df8442e63a6ed7317075913e4720847a510d95022d4a8347b2637c245d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4c9b804d6155b29f1e27a9ffe531e10bc42a7bdab42f905b50146bf2026768d9",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4dd792c9f672bbdcc8d363d745994efe90f4ffc5fdc2c059c8e379a48ad6a68a",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4ebdce2f47c23ff8c9e8e80c8b5239c7a5764da31cd3ab8f0505926890adc105",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4fd32432341dfcf54d0517a6bbc38e5d265be70933493e4183c2a340cdde9a2d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5278ee922838352f1480a73e971161017d643a80b7ec22bf725897dfd088696d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "590fb6ae19480d694e08ee85859cad8066f2f87e7e5abba2960c6d115e1615d6",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "68d4fba7b1300a59cd6212c08910a260cd71b40cd9f51cac933030a68faac0bb",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6da9b1e6f3315ceb77dd14a937a26cc3602bf6a7e2c2ecafb3c65ce5319837be",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72dccae85e062f541fecad9ec7a18a3123e7ae5ac5d53c91709b53a46dbbd289",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "743172aab606974b054a64561534ae66baa3a840657f79d7c6fa18350e8d45d1",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "75b93a7103b0562f6497d30052c0c5cf7aa58c1bf0e9297022b74469a7f096f1",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "82268052f94df6f4870d02e57b18d4c54136cc7a8c8d80ad162631f99462c943",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8ce6c29f92dc45b1474417cbdff4ed0c18e58fa63e3a071ee9f85aa9d2aac07c",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "92106b0c62a0a42678232f8273f030b2d3c8e92efce81b98b9eec70cfe98afa1",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a0578a2b7821d7e2c573530648f26d7a0d98b373ab24fb7f0c792736761e542d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a45144d22cac70a45d71cf4dffa4efbc373658779a56cf1300d6ac863d6cc7e2",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a673ae661593c0de9bbb815593b816a6853dad6d55ad5042d2ef1875cd13d6e7",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a738059ce07c951c31ab2da3d93d8f69bff32f9b7d933dbf5943441b9cc99075",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "acb97cec84e08b89f41967a24e965d1fd2c51751cef158f7aa35bb4306b87b97",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b4082d21070d9ddf53fde4ea22524d09e41ec9826ce63cef3c6235e458d21afb",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba96c603e44046de703c67b2c3b7e4ca974afef7b437a0244418bc4edc781bb7",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c2aa28bb5e2a749c693712008276f311edd912f689371ef9e8a1ee5fb4167461",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc4e06aa378a190f71384c03023bb3d18a6d66e297d46701220e132963d2e222",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d578c28c9afe7457a0d81f6701332ef8197e8f7468de654935fb29a50ea66459",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "db3d69b7eeda2e35e23006bf4b7e206281fce809584207214fc213f9bc30376d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ea7056f2bf36c66a61ff787ff5be975a85f534c3c5ca178791dac2504db2c619",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f7e620134ca935067797ab957317b346ce0df84a4e9b9ca54a6acc9b75afda4d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fb3fc5626f68677fb1269a2fefbe70e719211b4065e836ab92e06a8210139a2d",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fecf12088843801215898442bd1ff3e266f29d14e29a94780e857f69c4915d6b",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb0c40cefac66574d6b6e7ead832ee8b40e2d8db",
+        "pulse": "Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack",
+        "tags": [
+          "Troy",
+          "MISTPEN",
+          "Operation Dream Job",
+          "DPRK-linked",
+          "CVE-2026-68820",
+          "Lazarus group"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T20:52:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c0b4a4af8a3a8c4b113d7f203fcf480cfac79160102490daf287748634b9ce23",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8d921bdd1f5bc8c03209a5dfacfd9ed313497ac2e3f1b4a2000f4c474a464904",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3d7411e2e445a2210dbbf061f3e8e3dd3476a4fc5d4a2135dcceb0bc705776bf",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cfd9c0bcc89ebc68aae889b9b49bc8290c3764bce5f2c9ac8b5ba0ba58e9bf61",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "590b04e35fc0b3dcd9dabe82f2e96d4d1e0fccc598911cf80f8255232ee75fcb",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ecde892dbc28af620ba8e311fa9dd4c66521c7fe95e6aadacc7cd9a5bb57d32d",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cfa3900cefb447d89a7498224f2ecafa65b190336934811e6c1d4196d9b92452",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0bf8f52b28291edc505a64962e6ce04387a9784fc5b18aeff53629adb1f72f56",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d6b27a00e79e8138b3d93b2c56b24d7",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a9c499afa0278279acd80597cbfc1e47",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f7f11caf5992f370ed9657ff898b96fa4fe17ba",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e4571f7b27285ddc0e39d005a9f1109a9335820d",
+        "pulse": "Fake CCleaner installs GhostDesk Chrome spyware",
+        "tags": [
+          "spyware",
+          "keylogger",
+          "ghostdesk",
+          "chrome extension",
+          "trojan dropper"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-11T21:01:32",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6f4df18cb880500f3921a179c3a3766",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fba867df17721879df9d8dcca68d6900",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "md5"
+      },
+      {
+        "value": "510af9bb00ff5d4a6856b1291af55db9f6e13551",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "937e75e0e1c82eecab69e9b8ad481bd7e0845308",
+        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
+        "tags": [
+          "microsoft 365",
+          "device code phishing",
+          "cozy bear",
+          "apt29",
+          "captive portal compromise",
+          "chocoshell",
+          "storm-2945",
+          "hotel wi-fi",
+          "cornflake"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:31:33",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4140f7e17e6f97f83aa3472473e01add",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7bcf8d9f6834c44450eac145a967d2f2",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f92ee93a0af971a3966bfa8efa9c2625",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
+        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+        "tags": [
+          "supply chain attack",
+          "etherhiding",
+          "chaindrop",
+          "shai-hulud",
+          "miasma",
+          "slsa provenance",
+          "self-propagating worm",
+          "ethereum c2"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T02:32:34",
+        "hash_type": "sha1"
+      },
       {
         "value": "421111a57b0a4224c052fa4108d90429d579974b5b5111ed2e58516ba09422ca",
         "pulse": "An Evolution of the Botnet",
@@ -22227,1125 +23079,6 @@
         "source": "alienvault_otx",
         "created": "2026-08-04T18:21:01",
         "hash_type": "sha256"
-      },
-      {
-        "value": "673570abcb54b368b9521bdff8f331d4",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6f2e3a9ec6914209bf85be0677aadf9e",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "82e81158366a953c33d0720dfe34b95b",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ab5cdef0cde09c4bb0cab33ab0d2f92e",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c2a7f19ba96dc460d591d37d664fe6aa",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "09c42a82aa43d639f519c000123d28409c281c4d",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2e930eb7072ac6f8906c5df11e041d88aaea1fcd",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4b5eee1d2ba5bf3ca0389c0415626634c640a4bd",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6b62b776acccf2316247b31e78804b7ee0999cd0",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "eb34adba2c6119def77f408f4e1f7ec6c4cfb783",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "04d3c82782927330d56827ff551697666dbab4b3abf5b86bde492efdd142bc58",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2da227ce38dbf8881fe0f6c4f864fcbb7b55dc861d4daf040312cba7e612dac4",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4e0d3da33f13e6440ecbdf4f0b838a164c73ad375c4788c4c205d87f5d2c1875",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4f4cefa348ed856f075b71449c39ed7734bb21e116186fc4a8f03bea1279e6eb",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "57646c00b1fab68a1e7205a2b3963ce4a6dc85f1c559b63d02449a51db2c461b",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7ad4b911d05a12f91ab27ba3baa351a56653ca099dda7ad87ee2b94f8cd018c9",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ad9da27f72bb7abbfcba92f9302d3467f5487814bb34bbf4b1573abcb56e4efc",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b3a9d5283f982f19979689af2f4416b3e0e57cbf469c71b6275b12fcba358b65",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f513e3e510970cfec0020d955df8d738a427d471bde49e483d55131826ba8706",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fc4494011c094e1046b22489004e5471b766baf51ed9c2c88a431bdecea84206",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0e3d182f6fd64f4b10910d3a19af738e",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5ae98c92fdb96b216d628ec633f65281",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "721a0b232b5456d8c40ef8f850f5be70",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d1f0e502ea4e81805ace4fd4cac2447a",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "md5"
-      },
-      {
-        "value": "777439faf46d5120401e9474a94282de532c8693",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "90b7336963d5ec15ffc86489bed4d6eb18f516d6",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b9f8b42be79c20b34e08fae7b80548d821824617",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ddefa54547b45c7fc0859fe05a35aa84d2215453",
-        "pulse": "Fake AI Tools Deliver Infostealer",
-        "tags": [
-          "infostealer",
-          "prometheus",
-          "nodejs infostealer",
-          "smartloader",
-          "ai developers",
-          "github impersonation",
-          "etherhiding",
-          "blockchain c2",
-          "lua obfuscator"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:59:19",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f92ee93a0af971a3966bfa8efa9c2625",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "credential theft",
-          "developer targeting",
-          "supply chain attack",
-          "npm compromise",
-          "package repository",
-          "ci/cd compromise",
-          "self-propagating worm",
-          "cloud credentials"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:15:07",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4b690f3ce585df982a042917b82642c8",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bd1eaea733425cd21a51a652c429951d",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "60285f6776cc3ff20872feeee7f2fd0b3b04410d",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9dd99bc68e60132f32fc33617deb9583c8cebb51",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "73955566338adffb423c3b7608792963080da780e8b7b2c2cd6b6b0cef6f217f",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7567994310a9576b1f98dc672ecfa038f1d65084315f59e3883f9b6f24000073",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "756c2096f54c5497110c9d854625c3ed592873e566d532077cd7adb4d10d4add",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "86881b8e9d197ac2f734792de48d5dfaebe7cafb6e35d49c5dd7fe6eb697230e",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bd61c2880920bbfb86c12df439dd1ca0258a10e532433698fd029aef2a5b33f2",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c7a80576fbd25057435652788591d13998da272edf627fc29d296684cefc50e5",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ee6807a8abfabced22ee026e178a28da64d13cc3408e224394ff6e5782fb9e1d",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f4c87a1df04274b7497cbf9a4619b946c915cf5210b6e2eaa2fee1629f4ff196",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f609621698eaad8c4683750fe8bd0e242349be3eea408da593151ff877ed8ab6",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f659681525debda69fe0865b2b27a42f684b1fda66aa7398e80b84cc765c73c7",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fb94688ed37dfcb985a8a4d720230e5150956e1788d579b0a54b53a153fd2f2e",
-        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
-        "tags": [
-          "lateral movement",
-          "chisel",
-          "etherrat",
-          "sliver",
-          "blockchain c2",
-          "mimikatz",
-          "ligolo-ng",
-          "reverse tunnels",
-          "scheduled tasks",
-          "domain persistence",
-          "credential dumping"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:26:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f92ee93a0af971a3966bfa8efa9c2625",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
-        "pulse": "ChainDrop: The Mini Shai Hulud npm worm's latest wave hits keyv and cacheable",
-        "tags": [
-          "node.js",
-          "mini shai hulud",
-          "self-propagating",
-          "github compromise",
-          "chaindrop",
-          "shai hulud",
-          "npm worm",
-          "supply chain",
-          "credential harvesting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T08:28:39",
-        "hash_type": "sha1"
       }
     ]
   }
