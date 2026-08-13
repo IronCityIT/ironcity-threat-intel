@@ -1,25 +1,197 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-13T07:05:28.466991",
+  "updated": "2026-08-13T12:38:09.572630",
   "counts": {
     "ips": 74,
-    "domains": 386,
+    "domains": 412,
     "hashes": 951
   },
   "data": {
     "ips": [
       {
-        "value": "213.111.148.90",
-        "pulse": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+        "value": "72.23.77.35",
+        "pulse": "Hits Safe Mode: Ransomware Rebooting Around EDR",
         "tags": [
-          "salesforce",
-          "oauth abuse",
-          "vishing",
-          "supply chain compromise",
-          "saas security"
+          "anydesk",
+          "akira",
+          "edr evasion",
+          "credential spraying",
+          "double extortion",
+          "safe mode",
+          "ransomware",
+          "sonicwall vpn"
         ],
         "source": "alienvault_otx",
-        "created": "2026-07-14T08:41:18"
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "45.129.137.232",
+        "pulse": "Cl0p Ransomware: Attack Pattern in Threat Intelligence",
+        "tags": [
+          "q4 seasonal pattern",
+          "mft targeting",
+          "zero-day exploitation",
+          "infrastructure diversification",
+          "cve-2023-34362",
+          "managed file transfer",
+          "lemurloot",
+          "architectural vulnerability",
+          "reconnaissance",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "92.118.36.233",
+        "pulse": "Cl0p Ransomware: Attack Pattern in Threat Intelligence",
+        "tags": [
+          "q4 seasonal pattern",
+          "mft targeting",
+          "zero-day exploitation",
+          "infrastructure diversification",
+          "cve-2023-34362",
+          "managed file transfer",
+          "lemurloot",
+          "architectural vulnerability",
+          "reconnaissance",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "200.107.207.26",
+        "pulse": "Cl0p Ransomware: Attack Pattern in Threat Intelligence",
+        "tags": [
+          "q4 seasonal pattern",
+          "mft targeting",
+          "zero-day exploitation",
+          "infrastructure diversification",
+          "cve-2023-34362",
+          "managed file transfer",
+          "lemurloot",
+          "architectural vulnerability",
+          "reconnaissance",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "12.19.29.30",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "12.121.234.120",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "74.65.75.102",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "89.208.97.165",
+        "pulse": "Inside a Ukrainian IP Camera Toolkit",
+        "tags": [
+          "russian operator",
+          "cve-2021-33044",
+          "cve-2021-36260",
+          "government targeting",
+          "ukrainian targeting",
+          "ip cameras",
+          "dahua",
+          "cve-2020-25169",
+          "camview",
+          "hikvision",
+          "cve-2020-25078",
+          "ingram scanner",
+          "cve-2017-7921",
+          "cve-2021-33045",
+          "edge device exploitation",
+          "cve-2024-53375",
+          "cve-2024-57049",
+          "proxy infrastructure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:23:56"
+      },
+      {
+        "value": "213.165.63.49",
+        "pulse": "Inside a Ukrainian IP Camera Toolkit",
+        "tags": [
+          "russian operator",
+          "cve-2021-33044",
+          "cve-2021-36260",
+          "government targeting",
+          "ukrainian targeting",
+          "ip cameras",
+          "dahua",
+          "cve-2020-25169",
+          "camview",
+          "hikvision",
+          "cve-2020-25078",
+          "ingram scanner",
+          "cve-2017-7921",
+          "cve-2021-33045",
+          "edge device exploitation",
+          "cve-2024-53375",
+          "cve-2024-57049",
+          "proxy infrastructure"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:23:56"
       },
       {
         "value": "185.100.87.116",
@@ -1110,142 +1282,585 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-06T12:38:46"
-      },
-      {
-        "value": "87.249.138.34",
-        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-        "tags": [
-          "take control",
-          "remote access",
-          "rmm",
-          "cve-2026-18577",
-          "n-central",
-          "cloudflared",
-          "cve-2026-18556",
-          "msp compromise",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:39:27"
-      },
-      {
-        "value": "37.19.210.32",
-        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-        "tags": [
-          "take control",
-          "remote access",
-          "rmm",
-          "cve-2026-18577",
-          "n-central",
-          "cloudflared",
-          "cve-2026-18556",
-          "msp compromise",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:39:27"
-      },
-      {
-        "value": "68.235.46.214",
-        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-        "tags": [
-          "take control",
-          "remote access",
-          "rmm",
-          "cve-2026-18577",
-          "n-central",
-          "cloudflared",
-          "cve-2026-18556",
-          "msp compromise",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:39:27"
-      },
-      {
-        "value": "37.153.90.88",
-        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-        "tags": [
-          "take control",
-          "remote access",
-          "rmm",
-          "cve-2026-18577",
-          "n-central",
-          "cloudflared",
-          "cve-2026-18556",
-          "msp compromise",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:39:27"
-      },
-      {
-        "value": "92.118.112.181",
-        "pulse": "Authentication Bypass Vulnerability in N-central Exploited In-The-Wild",
-        "tags": [
-          "take control",
-          "remote access",
-          "rmm",
-          "cve-2026-18577",
-          "n-central",
-          "cloudflared",
-          "cve-2026-18556",
-          "msp compromise",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:39:27"
-      },
-      {
-        "value": "43.248.136.125",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
-      },
-      {
-        "value": "47.100.190.96",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
-      },
-      {
-        "value": "47.107.224.89",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
       }
     ],
     "domains": [
+      {
+        "value": "enveil.online",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06"
+      },
+      {
+        "value": "envell.xyz",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06"
+      },
+      {
+        "value": "uxtramine.org",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06"
+      },
+      {
+        "value": "pubstorm.com",
+        "pulse": "Cl0p Ransomware: Attack Pattern in Threat Intelligence",
+        "tags": [
+          "q4 seasonal pattern",
+          "mft targeting",
+          "zero-day exploitation",
+          "infrastructure diversification",
+          "cve-2023-34362",
+          "managed file transfer",
+          "lemurloot",
+          "architectural vulnerability",
+          "reconnaissance",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "pubstorm.net",
+        "pulse": "Cl0p Ransomware: Attack Pattern in Threat Intelligence",
+        "tags": [
+          "q4 seasonal pattern",
+          "mft targeting",
+          "zero-day exploitation",
+          "infrastructure diversification",
+          "cve-2023-34362",
+          "managed file transfer",
+          "lemurloot",
+          "architectural vulnerability",
+          "reconnaissance",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11"
+      },
+      {
+        "value": "2934523t5234535323973294afhdsfga.com",
+        "pulse": "Inside Multi-Stage Phishing Redirection Chains",
+        "tags": [
+          "cloudflare workers",
+          "html smuggling",
+          "phishing",
+          "framer abuse",
+          "device code phishing",
+          "multi-stage redirection",
+          "brand impersonation",
+          "newly registered domains"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T21:15:24"
+      },
+      {
+        "value": "alasilla.com",
+        "pulse": "Inside Multi-Stage Phishing Redirection Chains",
+        "tags": [
+          "cloudflare workers",
+          "html smuggling",
+          "phishing",
+          "framer abuse",
+          "device code phishing",
+          "multi-stage redirection",
+          "brand impersonation",
+          "newly registered domains"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T21:15:24"
+      },
+      {
+        "value": "bl.dase7.shop",
+        "pulse": "Inside Multi-Stage Phishing Redirection Chains",
+        "tags": [
+          "cloudflare workers",
+          "html smuggling",
+          "phishing",
+          "framer abuse",
+          "device code phishing",
+          "multi-stage redirection",
+          "brand impersonation",
+          "newly registered domains"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T21:15:24"
+      },
+      {
+        "value": "studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "api.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "ns1.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "ns2.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "m.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "p.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "q.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "ycz2.41414141303030.m.studiotikva.com",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11"
+      },
+      {
+        "value": "tomorrowland-booking.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "belgium-tomorrowlland.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "belgium-tomorrowlland.info",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "belgiumtomoorrowland.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "festreisen.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "jedemenatomorrowland.cz",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "mcsdirect.tech",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tmrlnd.shop",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowland-2026.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowland-book.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowlandbuytickets.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowlandtickets.org",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowlland.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "winter-tomorrowlland.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "belgium.tomorrowland.now",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "tomorrowland.events.cryptonexum.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "www.vvipevent.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
+      {
+        "value": "billetterie-tomorrowland.com",
+        "pulse": "Tomorrowland 2026, Belgium: People of Tomorrow, Targets of Today",
+        "tags": [
+          "social-engineering",
+          "payment-fraud",
+          "phishing",
+          "festival-scam",
+          "tomorrowland",
+          "fake-ticket-shops"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T07:19:35"
+      },
       {
         "value": "app.cnn-news.net",
         "pulse": "Fake popular sites offer a free app, instead take over PCs",
@@ -8107,137 +8722,1932 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-06T12:38:46"
-      },
-      {
-        "value": "npm-cache.com",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29"
-      },
-      {
-        "value": "pypi-get.com",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29"
-      },
-      {
-        "value": "js-mirror.com",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29"
-      },
-      {
-        "value": "go.getblock.io",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29"
-      },
-      {
-        "value": "zbtlink.com",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
-      },
-      {
-        "value": "zbtwifi.com",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
-      },
-      {
-        "value": "rbdg4nzqadui.wikaba.com",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
-      },
-      {
-        "value": "zbtctl.epplink.net",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06"
       }
     ],
     "hashes": [
+      {
+        "value": "13d10bc99f7f7abe7ee0902be87920b73b2ea41bd9683dbfcad340dacbcdef79",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1de949c71efcfb0ffc41f33d38833dbc4b082075b1a540fc68c18c535d7ad86c",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "21c3ad4838c4324bc5f081021da5fb2e9073d0c9304087811c21eb47c9e22762",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "231b1ef8b95bf77887d5377e2a60f649035e78f543af1b82877db36a5759d858",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29e24c007549e51319ff3aee011da6f9f93568e8c85a5ad69c9e53bd3f4533a2",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2b4987c07a3d9a9a5d1a9bf4efa3d1903e775090b611710edafdc92874265ca8",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2db25ac41a66aa523c79e23e00443573530dd7bd82b8371bcc87bd7232e141eb",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3601060c62edeeaa49def6a13be6e126e1024ce011faad4e2d9f585ccf6bd5a6",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "396192d92d17ace1a521f1351eeeba2825e60badd0d799cc5c338e4934b3c82c",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3a02d0d798e8d35555776886d92b20ff38a101c9ef7e0eebc8ce5d259516525a",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b6378df8442e63a6ed7317075913e4720847a510d95022d4a8347b2637c245d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4c9b804d6155b29f1e27a9ffe531e10bc42a7bdab42f905b50146bf2026768d9",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4dd792c9f672bbdcc8d363d745994efe90f4ffc5fdc2c059c8e379a48ad6a68a",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4ebdce2f47c23ff8c9e8e80c8b5239c7a5764da31cd3ab8f0505926890adc105",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4fd32432341dfcf54d0517a6bbc38e5d265be70933493e4183c2a340cdde9a2d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5278ee922838352f1480a73e971161017d643a80b7ec22bf725897dfd088696d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "590fb6ae19480d694e08ee85859cad8066f2f87e7e5abba2960c6d115e1615d6",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "68d4fba7b1300a59cd6212c08910a260cd71b40cd9f51cac933030a68faac0bb",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6da9b1e6f3315ceb77dd14a937a26cc3602bf6a7e2c2ecafb3c65ce5319837be",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72dccae85e062f541fecad9ec7a18a3123e7ae5ac5d53c91709b53a46dbbd289",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "743172aab606974b054a64561534ae66baa3a840657f79d7c6fa18350e8d45d1",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "75b93a7103b0562f6497d30052c0c5cf7aa58c1bf0e9297022b74469a7f096f1",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "82268052f94df6f4870d02e57b18d4c54136cc7a8c8d80ad162631f99462c943",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8ce6c29f92dc45b1474417cbdff4ed0c18e58fa63e3a071ee9f85aa9d2aac07c",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "92106b0c62a0a42678232f8273f030b2d3c8e92efce81b98b9eec70cfe98afa1",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a0578a2b7821d7e2c573530648f26d7a0d98b373ab24fb7f0c792736761e542d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a45144d22cac70a45d71cf4dffa4efbc373658779a56cf1300d6ac863d6cc7e2",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a673ae661593c0de9bbb815593b816a6853dad6d55ad5042d2ef1875cd13d6e7",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a738059ce07c951c31ab2da3d93d8f69bff32f9b7d933dbf5943441b9cc99075",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "acb97cec84e08b89f41967a24e965d1fd2c51751cef158f7aa35bb4306b87b97",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b4082d21070d9ddf53fde4ea22524d09e41ec9826ce63cef3c6235e458d21afb",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba96c603e44046de703c67b2c3b7e4ca974afef7b437a0244418bc4edc781bb7",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c2aa28bb5e2a749c693712008276f311edd912f689371ef9e8a1ee5fb4167461",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc4e06aa378a190f71384c03023bb3d18a6d66e297d46701220e132963d2e222",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d578c28c9afe7457a0d81f6701332ef8197e8f7468de654935fb29a50ea66459",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "db3d69b7eeda2e35e23006bf4b7e206281fce809584207214fc213f9bc30376d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ea7056f2bf36c66a61ff787ff5be975a85f534c3c5ca178791dac2504db2c619",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f7e620134ca935067797ab957317b346ce0df84a4e9b9ca54a6acc9b75afda4d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fb3fc5626f68677fb1269a2fefbe70e719211b4065e836ab92e06a8210139a2d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fecf12088843801215898442bd1ff3e266f29d14e29a94780e857f69c4915d6b",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eb0c40cefac66574d6b6e7ead832ee8b40e2d8db",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "07bfd8b5cf77a22d6029c3fcf9157ecd",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "07c9e9716abfdb91cb11ac1dfd0ea536",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "329dcba41a6a070dae647c9d72ec5fec",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5413eeaa33cdf631c7317c9f6e280809",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "56d15f308984c1a388c112ac39dfb18a",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "718706333b6f2251f13f62885ba0156d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8a1ff3e23a209bfe920e01a61a6769aa",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b9254ba90665acc86905268c6edbc70a",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c36966242f141aa2bc280b5821928111",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cc9e17a83ff4e200e9ad2afc9be559b3",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "md5"
+      },
+      {
+        "value": "09b4d20c19cc7b12d95a1d644c848aea34edf642",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1857213d27b7ae42147f820218b92a4158837335",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3df76260cd2612117d8638f8b56bb8b3b23f801c",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "60226f03e6ac978eb4ddbb55fa2f23f68aaabe53",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "684538f963443a15872c79771197135224aea34e",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "72a36fb44932462b031a6986ad6cbe6f200ceb9d",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9eec3bd5ea0686f22d6d68b2d99151211b89d912",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b68c0cf7d1e563dad02fb2fad3590e43399c140b",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d49cbc10f8d484108c2aeec652c1f77fa933a657",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e69d84517c8f95173a0a8a3d0f5dcf0fbe051a0e",
+        "pulse": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+        "tags": [
+          "aerospace targeting",
+          "troy",
+          "zero-day",
+          "cve-2025-49113",
+          "mistpen",
+          "trojanized pdf",
+          "foresttiger",
+          "operation dream job",
+          "troy backdoor",
+          "relayshell",
+          "privilege escalation",
+          "cve-2026-68820",
+          "securitypdf",
+          "defense sector",
+          "cve-2025-60719",
+          "north korea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:16:06",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e2356c742c74cce5c6b6100162d0071a3f71e2fed2ed895c2011061a95b3299a",
+        "pulse": "Hits Safe Mode: Ransomware Rebooting Around EDR",
+        "tags": [
+          "anydesk",
+          "akira",
+          "edr evasion",
+          "credential spraying",
+          "double extortion",
+          "safe mode",
+          "ransomware",
+          "sonicwall vpn"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "61a1ad1b6a028a1833c85e6544383999",
+        "pulse": "Hits Safe Mode: Ransomware Rebooting Around EDR",
+        "tags": [
+          "anydesk",
+          "akira",
+          "edr evasion",
+          "credential spraying",
+          "double extortion",
+          "safe mode",
+          "ransomware",
+          "sonicwall vpn"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bb6f97878c8cbf762d69717b3480658fe9157ff0",
+        "pulse": "Hits Safe Mode: Ransomware Rebooting Around EDR",
+        "tags": [
+          "anydesk",
+          "akira",
+          "edr evasion",
+          "credential spraying",
+          "double extortion",
+          "safe mode",
+          "ransomware",
+          "sonicwall vpn"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "414b9985f46714f44dd1bd63860d2a48dcfababcfe5c712a4b4f575378127a56",
+        "pulse": "Hits Safe Mode: Ransomware Rebooting Around EDR",
+        "tags": [
+          "anydesk",
+          "akira",
+          "edr evasion",
+          "credential spraying",
+          "double extortion",
+          "safe mode",
+          "ransomware",
+          "sonicwall vpn"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-12T16:42:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "904784c9943d019da332bea2cd03996f",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f9156d42410c8a5429dec43329bd72e0",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2dcd4a8ac166404977cd3c48418a8cd9",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "981c7404d31b8ce35ec88a6b290f354d",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "34d50eec364d920b8b5d885c9bc98607",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c55cf5029b8cccb179472fa1d22ce2687a66c7945f79a4ec8f757451f5af9138",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b43b2b28c7a3cfa6decc27cff8f5c5d5de68435a1b3417ad998b5bc545394861",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "da2dea79c3b6c0894ea3d2c25fb1718374091db9fdc82a58589ed4edbbd154a7",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0bb69350705ddb8104ad0ee2dadb58b4be14909220f2e7726ba448c656aca623",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "218544ed5f4c322da4fbf223606f05bd66ef3ea7f8e668a0f71485a9eda1bc78",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1830b4e04981bab23b9a338edcec3002d0da1f3c",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1b14e9be18bf9e3028d08ef9b5b153e0d04150a8",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8dd86ad1ca9afbf3fb35990a9a9c691d939f1f7d",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d8d44921174c48eb4b5a1469c6ce49e794f77906",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e7a112dde6a9ab4c3f485889b27f7794748ea3a0",
+        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
+        "tags": [
+          "google apps script",
+          "texture.dll",
+          "modular architecture",
+          "googleservice.dll",
+          "espionage framework",
+          "c2 channel",
+          "communicationuxtheme.dll",
+          "cav3rn",
+          "dns tunneling",
+          "israel targeting",
+          "rnp.dll",
+          "net.dll",
+          "dynamic relay"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T09:22:11",
+        "hash_type": "sha1"
+      },
       {
         "value": "12ce0d5bcd316a2aaa3f789f4e7de022",
         "pulse": "Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme",
@@ -24432,1421 +26842,6 @@
         "source": "alienvault_otx",
         "created": "2026-08-06T12:38:46",
         "hash_type": "md5"
-      },
-      {
-        "value": "00ca0c04d247ef09f2b2acc452029345",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dbb9b09957113463bbeb420c2c4108b5",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7",
-        "pulse": "ChainDrop npm Attack Compromises Hundreds of Packages",
-        "tags": [
-          "supply chain",
-          "shai-hulud",
-          "self-propagating worm",
-          "chaindrop",
-          "credential theft",
-          "npm",
-          "developer infrastructure",
-          "github actions"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T12:57:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a02f124c5ce4180bd130a62ee03262f399c33491de3aed36e0b15155ae4926c0",
-        "pulse": "One Email Closer to the Edge: UNK_MassTraction & the Physics of Exploitation",
-        "tags": [
-          "squareshell",
-          "cve-2024-42009",
-          "snowlight",
-          "cve-2023-2868",
-          "university targeting",
-          "roundcube exploitation",
-          "squareshell webshell",
-          "vshell",
-          "china-aligned",
-          "icecube",
-          "icecube stealer",
-          "cve-2025-49113",
-          "unk_masstraction",
-          "vshell backdoor",
-          "cross-site scripting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-07T09:24:54",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bbbca2ddaa5d8feaa63e36b76fdaad77386f024f",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "de0fac2e4500dabe0009e67214ff5f5447ce83dd",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "00ca0c04d247ef09f2b2acc452029345",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dbb9b09957113463bbeb420c2c4108b5",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "29ac906c8bd801dfe1cb39596197df49f80fff2270b3e7fbab52278c24e4f1a7",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7",
-        "pulse": "Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages",
-        "tags": [
-          "npm-registry",
-          "cacheable",
-          "vault-harvesting",
-          "shai-hulud",
-          "vs-code-hooks",
-          "trusted-publishing",
-          "claude-hooks",
-          "github-compromise",
-          "aws-secrets",
-          "token-theft",
-          "keyv"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:42:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "00ca0c04d247ef09f2b2acc452029345",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dbb9b09957113463bbeb420c2c4108b5",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ff7ed7a0fa1c43eed01809d076feedbaed464fc7",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "927387d0cfac1118df4b383decc2ea6ba49c9d2f98b47098bcbcba1efc026e1f",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "29ac906c8bd801dfe1cb39596197df49f80fff2270b3e7fbab52278c24e4f1a7",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7",
-        "pulse": "Here We Go Again - JavaScript Payload Analysis",
-        "tags": [
-          "supply chain attack",
-          "shai-hulud",
-          "vault secrets",
-          "credential theft",
-          "ci compromise",
-          "github actions",
-          "npm package compromise",
-          "kubernetes"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:43:35",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f92ee93a0af971a3966bfa8efa9c2625",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
-        "pulse": "Supply Chain Compromise Affecting keyv and cacheable npm Packages",
-        "tags": [
-          "supply chain attack",
-          "credential harvesting",
-          "npm compromise",
-          "keyv",
-          "jaredwray account compromise",
-          "cloud credential theft",
-          "self-propagating",
-          "cacheable"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T09:04:56",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "00a1228648fffa7338076970037b89f679a166a08c4d9573f1f27973ec6ed497",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "09ed9ad3ac886f5aaf8357127b6dd5926bd4af1e2cc687a6a4856bcaedee2667",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1545169fa8a3ae182d8e39aca8ec6cb6849b864e38646f29017232813e397e77",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2d558bc9a6c7e7480e946f1c0524a651554887a1c563d7633f1903d06ff493fb",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "31ee58a134b766f6ed4424a22cc2cb08cfabbc9a5f35e0ae11a250c81ccc7f5e",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "33f8c0532100eeb10213d167e5eb483394a7e43bf6d276441a1573360622011a",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "37efadf0f4a110be0145139a43ebd032abb5b27b79b1eb2ab3578dcd31655a9e",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "47d8ffb3a9a3fe0337e3c1e355fab4847dd61952fbe9aad98aadede489ca31fd",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4f5d8319b4bad5d9243496c1358fda4783ea9a0865c32881b3f57ecedb879570",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6926f919da7f4447229f49842266d884369e1587df655149673e46f1d8787e47",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "71b20ebff0630b33c96bef320adc75901b34f1fd2cc9af974cf93ff37d102ec8",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "73a0d95b8e23c7780cd91e978238c6db519665b05481fb228b4db9a9ec99c8ae",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "76a17581bbde4c0550e8f4abfd903923aceeb50dc69dae4dd904628c273b90ee",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7791de11cd27cb596deff089904a6eab3a7e0aa391f867c2389582d5c78fef4c",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ab8467e1495479693f4de8e838a5aeb61a65f3682d68f5b2d7c856cbfc91a247",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b3956cfbebf9c8d0b2c7a2ecbe59e71c31a5802f2084d25d93a984c0f811e2c7",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b3e667235e9b41b8fc3594edaa64879750e7f75d7518fff7514d55837430411a",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b4fda77e082fbf961db02273999e92e715e1824140ea92b2ab30163338b6622b",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dc1f4056af20677bdc7294ae4707f0c7bdfc85d8b57db212b622b9dc09c92731",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dcdaa1fe80707b8d8fde8ad36c3e62a53623aff09bf5ccc544d4c1a1a54208b8",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dee3908280b91cb7ad60c69c1d34c599ceed7c8c66c025851e5831482815b271",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e85104fce4061d52d47f4528df9aaf656edc49f05c0f026c5bc6b65d57eb7f22",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "efc8a8ead69c63ecfffd883cfbe6bd131082aa13c0d3b324c00d79f4c149bd92",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f019d03c2489b2bc486d71e355e07f8f2862dff078574a8662a5a45932e7e453",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f5a94e536a1cac8552fb9c327c4bac6017e034786be98cc402a149cb51250d8f",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f961e4243e759453294340bc7d1b145016d70b97ab328caf47c64ea3cd818148",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "df1ae1a109b329689a1eb3d1bd9bd1e9ed247cfd",
-        "pulse": "ENDLESSDOORS Is Phoning Home. Pick Up.",
-        "tags": [
-          "zbtlink",
-          "pre-installed implant",
-          "endlessdoors",
-          "iot compromise",
-          "rctl",
-          "cve-2026-66747",
-          "router backdoor",
-          "supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T14:36:06",
-        "hash_type": "sha1"
       }
     ]
   }
