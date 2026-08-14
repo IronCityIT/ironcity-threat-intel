@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-13T18:42:48.532492",
+  "updated": "2026-08-14T00:51:26.816875",
   "counts": {
-    "ips": 84,
+    "ips": 81,
     "domains": 450,
-    "hashes": 1004
+    "hashes": 992
   },
   "data": {
     "ips": [
@@ -1451,60 +1451,23 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "138.124.118.69",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00"
-      },
-      {
-        "value": "193.29.224.151",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00"
-      },
-      {
-        "value": "77.221.152.34",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00"
       }
     ],
     "domains": [
+      {
+        "value": "pipicka.xyz",
+        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
+        "tags": [
+          "rust",
+          "webview2",
+          "labubarat",
+          "dns tunneling",
+          "socks5 proxy",
+          "labubapanel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:46"
+      },
       {
         "value": "buenne.de",
         "pulse": "\u200b\u200bKratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk\u200b",
@@ -9670,26 +9633,234 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-07T10:27:04"
-      },
-      {
-        "value": "profitnow.io",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00"
       }
     ],
     "hashes": [
+      {
+        "value": "90b7b2c6f3d05234dc55678243039d7e51f0d54190239e5234a0005533337dc8",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "050b84a0d6105a98f443f0165368cc1c",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4da236de055bfaf08ee21fb6b88442b4",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1cac633d290a876fc1ead63c58de48575b67b1fc",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "66049dd42a29dde7481d5ca2951efec27214ce15",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "03f26cbfa3ca15fcb43f512aa4041732beeec267f9d1dc74a11f7b0bb32e86bb",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2954639be599f23c2229a9743aba09a1d9d11bf2becc62bf353384437db37dee",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "64107e3e0a333f685d1be6386426223a030c4126ac7c295aa7b1d54c508bbace",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "643de2a1cf9148b896efecf560c9476fa56118ec477c4e15eb5c2da4b318061f",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad1a0b3e22a10a2bd680b773b178a0d3824cfcbdf3551016f3d052a0b823079f",
+        "pulse": "Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries",
+        "tags": [
+          "phishing",
+          "vshell",
+          "gshell",
+          "llm-powered attacks",
+          "deepseek",
+          "webshell",
+          "claude code",
+          "tencshell",
+          "supply chain targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:47",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d8bf355a198fb5db3ea65cfdfcdfbd19",
+        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
+        "tags": [
+          "rust",
+          "webview2",
+          "labubarat",
+          "dns tunneling",
+          "socks5 proxy",
+          "labubapanel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c4e4804f21649e5ddc6a5670f3b3828a43bff304f02f184f9842c2569570f3d",
+        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
+        "tags": [
+          "rust",
+          "webview2",
+          "labubarat",
+          "dns tunneling",
+          "socks5 proxy",
+          "labubapanel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b7443b0ab48d2f5786d1b6f3a580f02621e9ae5a3877ee3a44e01df13d984328",
+        "pulse": "LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software",
+        "tags": [
+          "rust",
+          "webview2",
+          "labubarat",
+          "dns tunneling",
+          "socks5 proxy",
+          "labubapanel"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-14T21:17:46",
+        "hash_type": "sha256"
+      },
       {
         "value": "4a88efd00ba8b036ec4642fcecbe6df3",
         "pulse": "Recent Attack Activity Analysis Using North Korea-Related Lures",
@@ -28526,437 +28697,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-07T10:23:01",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3bff25e745707056cf4ed6428ee8aace9a1bff2fb4030e32a7c0470a34cbfa62",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4bdf15157fc0067af179d11e9ad168816ce99a849fd45332482b0b88a05aeabb",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5dbddac39fda06acc703c22935fa24e0b4bcdbc26624a1869fe93cd568cdb9fc",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6f20836eef6496695e5f2a5fd81e7dfb8770df38fb1bf67fcf024c1261352daa",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "09e3ce307b2af3f94a315eba97c094d8d755b3674208cc47ceab3c1630a84ad9",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "026c85b97a6ddac14c9835d0580228c0a82dd82ce12d8d921c2f3067a12bbb7e",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "31f3e50e764a090d2dbf759e6cb5f678c5c6a3a5a96ff3a2069ffda520580e52",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "34a01c2429161a8711adff3495ab1dee4419511c8f45c483f50ac71205f68512",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "44d48b4876cc99f1781877eae9d1e22e99925079a5a8cd0d9022176f5757baaf",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "64d85df47edd0187462786ff290f34b080f909a5dda946fa7e83fa3f40aaa878",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "96cc8dc992e465f5f959c7d1481e3789067a78c83706a3dd7ba5a20eaf32b701",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "467c192e3aeafbac29ab272575bc76545f371a50670fb4a1cf3104dae30622e0",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "785d6372f397470c48faa0a9a525b91cb990d0b3ed4b6452e31d75ed179a409c",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "858fcd9bd05d73d2dcc1496761e2f71fd0bf75fa0ae66eeb7405f788837ec384",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3349f0cf1d4f294d7d98ee12e0ce03a40740668b50e5e553d843f233a0021d36",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9339c056663e9f57d4b9d34b339cd85048176b9e7d9a20958b7ba190964acd47",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a71c4149bcb8a77ca755ff235e91b1e774293cf3d653aaa2c41fe943cd0848f1",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aa9268a758b5333d725b4b08350ec35e05b9a86f02d65b83b2d9a51e8859b5cd",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b6a7d57fb37a0d9dab8a9e1a81ac6c228fefa4375611bbdf847a775c66cf96c5",
-        "pulse": "Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
-        "tags": [
-          "python-based stealer",
-          "cryptocurrency wallet theft",
-          "discord token theft",
-          "credential harvesting",
-          "gaming platform targeting",
-          "modular architecture",
-          "pyarmor obfuscation",
-          "vanta stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "39854a5f9c557b8e639bdb40f1866f4b",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
-        "hash_type": "md5"
-      },
-      {
-        "value": "504eea132c86ad37297dea78aa0e1143414d6300",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5bad988affc1094f12b8b8bed659ef55b20e2988eb25441e1c1b34dd03b3eb52",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "619a99ba4ee9d7f33db8045c7e03c4265424977993fe8a53b0f45157c5abd3e5",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b43a909a01e954d6549558f2f7e9bb58e34959a0ae229f340d61091ab726bbd3",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f0062f7e70e61493684a2f60748a475168e155bc2502163c844c42e87692abd0",
-        "pulse": "Mac Malware Drains Crypto Wallets Via Fake CAPTCHA Scam",
-        "tags": [
-          "macos",
-          "stealer",
-          "cryptocurrency theft",
-          "macsync",
-          "social engineering",
-          "credential harvesting",
-          "aeza group",
-          "clickfix",
-          "mach-o"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T17:36:00",
         "hash_type": "sha256"
       }
     ]
