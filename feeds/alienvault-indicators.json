@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-15T06:15:45.813404",
+  "updated": "2026-08-15T12:11:26.828388",
   "counts": {
-    "ips": 90,
-    "domains": 566,
-    "hashes": 880
+    "ips": 82,
+    "domains": 500,
+    "hashes": 849
   },
   "data": {
     "ips": [
@@ -1432,153 +1432,193 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T02:41:44"
-      },
-      {
-        "value": "112.216.9.171",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55"
-      },
-      {
-        "value": "27.102.137.126",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55"
-      },
-      {
-        "value": "27.102.138.44",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55"
-      },
-      {
-        "value": "27.102.137.159",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55"
-      },
-      {
-        "value": "107.128.45.122",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "38.42.59.171",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "47.218.103.146",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "76.103.148.180",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
       }
     ],
     "domains": [
+      {
+        "value": "beta.padmin.com",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25"
+      },
+      {
+        "value": "computer.kplus.com",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25"
+      },
+      {
+        "value": "windowscreenrepairnearme.com",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "zynaris.io",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "aipythondevs.com",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "alphabitcapital.info",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "eorthopaedics.com",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "niggerdemon.in",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "sastoro.com",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
+      {
+        "value": "web-devtools.com",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03"
+      },
       {
         "value": "obfuscator.io",
         "pulse": "Miasma Worm Returns to npm",
@@ -9695,1375 +9735,1020 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-10T13:45:54"
-      },
-      {
-        "value": "dorenzaa.com",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37"
-      },
-      {
-        "value": "oktaenroll.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "idokta.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "myoktasso.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "mypasskeysso.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "setupssopasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyms.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "keyokta.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "portalpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "oktaportalsso.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyportal.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyportalsetup.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "addoktapasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "deploypasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "mysecurepasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "activatemypasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "createpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "registerpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "setupsso.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeycenter.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyregister.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "secureauthpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "createmypasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyset.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyokta.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyadd.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeydeploy.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "setpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "addmypasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkey-portal.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyregistration.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "portalsetuphub.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "mynewpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "myconnectkey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "enablepasskey2fa.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyuser.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyenroll.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "startpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "oskeysync.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "assignpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "keysyncos.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyhelpdesk.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeycreate.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeysupport.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "createssopasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "activatepasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "activatepasskeyportal.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "add-passkey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "addpasskey2fa.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "addssopasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "addyourpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "checkpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "createmfa.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "enablepasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "enrollpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "hubpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "makepasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "mspasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "myaccountsecurity.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "mypasskeyid.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "myssopasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "newpasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "oskeyconnect.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkey-check.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkey-connect.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkey-enable.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyactivation.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeycreator.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyenable.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeymfa.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeyrollout.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "passkeystatus.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "secure-passkey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "sqfepjvmrd.xyz",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "ssopasskey.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
-      },
-      {
-        "value": "startpasskeysetup.com",
-        "pulse": "UNC6671 Rebrands: Multi-Brand Vishing Extortion Targets Financial Services and Enterprise Cloud Environments",
-        "tags": [
-          "blackfile",
-          "saas-exfiltration",
-          "pink",
-          "adversary-in-the-middle",
-          "phishing-resistant-mfa",
-          "redact",
-          "data-theft-extortion",
-          "vishing",
-          "credential-harvesting",
-          "helix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-06T22:15:44"
       }
     ],
     "hashes": [
+      {
+        "value": "26a15a6a9bea58e9ad2ada9a6c8606b5",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e25c56bd13eff7280e493bf58501c47891fe63bf",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0f9574dc38e5c34a31153f0bcc603c6ec29cb3bf65c3d25380dbe86d42573141",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4cab935d0ec400059a3fcdc95b6623efdd51a61dff401fba8d5da244cc2de649",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7f0d49b11d0a3697685622ce510c570199bf2dc76515b3f9a6b6735de8c9134b",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "83a7e51f3787ac5a8a9884edd0a58ddbef380969aa6529d282a461a1a614a892",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "84b9a9a1668145df04faa3d0e118e2f0acbebd3d9d260baf3a355b44c815c22d",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "862a3ca7e944ccf0ff3a6d556b34faade4b68343015c35a014a43725ac14a2a1",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b5d598b00cc3a28cabc5812d9f762819334614bae452db4e7f23eefe7b081556",
+        "pulse": "Spirals: New Stealthy Ransomware Deployed Against Asian IT Company",
+        "tags": [
+          "chisel",
+          "web shell",
+          "asp.net web shell",
+          "cloudflare tunnel",
+          "it services",
+          "credential dumping",
+          "revsocks",
+          "south asia",
+          "rust-based ransomware",
+          "spirals",
+          "lateral movement",
+          "double extortion"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:39:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a6821c7e9bfe2e6af0f690d906ec6a26161e2198c256fb60f3b4731c317f3ad9",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c33f097fdb2b69b4cbb1c3f29ae88b43",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "md5"
+      },
+      {
+        "value": "650e751e8ee5f5958c6a70288a24a4e3d19904a2",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "162e436f18fe6099c57855c8d63fd747493624e87702dc749b242eb9a6b758ca",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "17e41d66ebfd56edc960f58f4285697ceceaa812514bb15092672c747979896e",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1a01ad25712d306f27f526332fdccf959f2de53207b54e4e80f60faa804d6cb6",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1b46f761719dce44baa2d7b417c5214fc41c080f7f9ba485e7e489d949097f1f",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2751281d3800d82ecd3fad7c1d2293f3b947875a343b0672b4f4024a261165d2",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2a27b3415114b874da295c19cce5227a8b8d9525cc2da331034a1f45528eecae",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2c7a99f137efd718f89cf8b260379c99af89ea1939568df09314918f2c5999a3",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "365024336c7681ac0854321ac6c140a245b9593285da02d2a590124cdc592370",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "36e3838d07978f49ebe6546d57d2f311b8d6566558bcd58448e921c988cc346a",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "451ac8ca34d5bcdfe476465f69eb517b2608f267c7e8d69f8ef36197a6f1d949",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "47dedb08385449d48d8b6543030310317c92cddafa25e14ee0cb9a32d53ced5c",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "575ce92c473e6d47810321e309a4e29dd7f52f4152526b0bdca80f54b53aed2f",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5b9bf7957a9f8869c87ace1a6d76b48e2623073e72739ad0636b5dfa4bb2e0c3",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "603fd9724de346a06e00c1b8502c2ac1180812a18bbf30032dab8d469e5c18e1",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ae334ce60d1a9b7fb96d1d0d0eda5ec7c2c31d3f0cf3e4d7e3056504d50043d",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ca7a458985350ac082a9c9820d7f8d39128a4c4bda2f5d32f169a45b7b22bc6",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7dc77a5abab119960fbe42b1535c957020cce1b8e0a3cf58d4eddc51b5bf9940",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "896185a89bd7eb0520b03fdcfb8db0be98b43cf15f14041d73b23d3988c1bcab",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "964256d3259b6e0c701ec04116c45cf0ec381c1c209dc29b09a7930cd7a4810b",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a080b5380ccc8fc40b24c02151d305efc32d931dc547881e01a2e6f2b070c7dc",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a1835d333ac3db961a8ff1f4864e3c10a6f73a872c040599091390a009ac7804",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a32ac345e39cb7606322e2155bd7b4d6941c1678619e48d1f14d9301ee53e6c0",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a59742d3086924c5f511d248df01601bfbf723359590fb3f3ba355f2792cc455",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d52540621dec5ed56cac8532f0e4fe10a7575c3e17e984f59646909fa587dd35",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ddcf66ecc61dc6b8cd36748d284d8cb45a470201b5373dd2bfc47700c7da32e1",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f4491736743a16f1278b8ba01649ee93343764e35ae5e1c0d5e0c0e1d7e32c14",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f8da52ff98e66b137b5d31908f0a5d0fa1eb446034337f8bba3d5bba60f586be",
+        "pulse": "Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign",
+        "tags": [
+          "credential harvesting",
+          "trojanized installers",
+          "python rat",
+          "powershell implant",
+          "starland rat",
+          "clickfix",
+          "wldr agent",
+          "castlestealer",
+          "remcos rat",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T11:34:03",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "34014776d3d3ff11bc4439b02fd7ac0f02a887eb3a052eeafff236e2f6db8ad1",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "082d733db0687dcd768104972b065d4b58cb1e6043688c6c20fa3702337f36ab",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bfaeb987faa6de2b5a5eb63b1233d055215b09b0349a9394f2175fd7cdf385e4",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9b2e65db653ca8575c9b10eefb9a80c6006404812c2ec212bf5675e3c690233b",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d425e4583cc6185d41e95c45eda00550045a5d1919b9a012236a4520d009dbd7",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8351d251cf0b5a0bd82242deaa0a14e3e1394418d55c0f4259dac4303b79fc0c",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c70e105e212ff3c1daa04bb2a62507717f296b0b",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d602f4eeb914cf32782799376a8c5953",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "93d8cffab1171a115228808e526d9bd7fe935e4e",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "69813c330d52f2a93082651c071a302c",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "71e67d32d2a6e052893dc0c679f9f7fd",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8c09a52a15a6e617e2b6ccee11046805",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cd961d0b7b29996b795ddc80c09cc5d9",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e67c6be63e55148de424e030cf6bed3b",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1f5c2e809d1ebd369d34ac22b771c522ced6e5b4",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "46a236cc9f140deb62bbcfb055e7865d5b23ad81",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9b65b9f1bb27cef7b8a2b0327a47a539b8e473fb",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ef2d28477befaa103031c7182a6f0dd6b4bb82dd",
+        "pulse": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
+        "tags": [
+          "bluerabbit",
+          "miasma",
+          "npm compromise",
+          "gigawiper",
+          "asyncapi"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-16T06:59:08",
+        "hash_type": "sha1"
+      },
       {
         "value": "0538e73fc195c3b4441721d4c60d0b96",
         "pulse": "TA416 resumes European government espionage campaigns",
@@ -24984,1650 +24669,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-10T13:45:54",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "30d5f17d5e3f85be18220a7cab0b9fff",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a4f72ce8b5736fe3ca2083cfe21bd51697f12e900e307c357cb8523b8f86e3ec",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "22180919f562fb9f6e50d7f20b2eb3f94eb009c212b74b45cf77659fe8274d5b",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4453b9e985f452365995c399f5292c92764570f03e6a066d7845320dd4ad09a1",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aa9d5dd632bb90addca480eaa5ff4382",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5746f3e78351439caebfa3721e8feea36b67263f",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4b0358c7e4afa54bc489a6199cca132b5f4a330892eb15bf06c0c4da9e020df2",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e34d73a1da492c9a79a9729f2f7d9d4b5a2448f44934bd5552bd0bbbe1586767",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7bc61d1bbc90d66d9988fd3baacd7834b1d2dfefe6d4ac999a194bccb9ba7dfc",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02ebc2356f9f700bbdac444cdefa0da2",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0d8ceb7dea7d471afa2f8e753b13d2d6",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1f378c0efc13669dada1fe340c6837bd",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2669731cb5ff664dfb5fbfc37637876d",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2ab3df4762fbde5d86e99a1ad147850e",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2e76d5316663a3dc472398b1c01cb9a8",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2eb77109cce1e8afca6245c2963e52a6",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "302725413076d1aeaee2d7f2b3692646",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "30792a0c0dfad55fb2b19d3e30e9a7d4",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "37cec428257cd41153cf43d7f1a12652",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3b9d40f3d620ec87960b4350d42ccc03",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3e2110d233d4543830e14c78d53900f4",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "422a221851ea6ad15f53cd3aea51c8af",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "49bdbe7e6cbb88842afcce3a9fe60e9b",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4d87fef16790cbe1df72007d99149665",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5577fffb5b5acd3771ef9dc696498f1e",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5af95590a33b9bc64d95808f1fc71b78",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5c5672bb14e1d2f07a8318ffec19b213",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6add815cd61d6514f81a23ab8c23405a",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "73ff669fc282653bd6c42cf87ade9337",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7f12fa589f56f6203c692715b3958d30",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8406075af0a1e9ec09bafdc0de01f138",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8c859a03814443c6f0da341ee594c352",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a1c07ac866fb6b388e38c6bb1d4bbe94",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a343d8bcf02a0554fa271452a512f3ce",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a435292106026e257789036a70ee1a14",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a5701848f82c65a55765dc534111899f",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "af3fa7f22f6e97901f20326cc12bdb49",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b406ea5b8628cb7801f47c0189b96182",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b50dad56d891ef230656b37ce62cdada",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b516ec6c6b37618ad65080a063270ea4",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ba0238423b5c29667cd760ccd7b000aa",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ba8e682a72c6a3e634c070f0fb057bf5",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "bbf1b0ab9fc27439de4386ed7b8fc151",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c410055bfa198937825dfd7e41000e7a",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c63d021de798034cbf933e1c99bcb83f",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c7723bf166ef08ff3112257a1244f584",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ca0b57807f79f26e7f59cab2a2542da0",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e0e4aec6d494fe68cdaa52d6878a8366",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e22367800e9d39bc865bd50cddd0537d",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ead95793528572e7b89679860e2f2116",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ed2f8dd9b96d706d833b7aa545b8e621",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f4e7ca8c1de252840c1f0e957cd4b717",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f73e07efb8707e3561e9cbff74557acb",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "md5"
-      },
-      {
-        "value": "215343916d101c6bbe287871816e063c78103dd1",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "263efd45e5cedce553c25cf2c49dbcf28c352cd8",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2b381a3f3e303da8832c8b60120aa6f7486264bf",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6bd211981540cd167615e916847e383c5ddb4fbd",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7117859ffe0380d6e5e6f9691d6d5f5fc1da20d1",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "75ea9f4a55575f39e38c1beb9ec44c0fc7b1c937",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "79fcc73e1bcb0b339336c81c8d733bf00bac4001",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "984a98b7daeee159ea018a055b86a596c5dccc46",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a1b44d94af77705b075e67b40eb1937cedc55fa8",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b9f25b21eccbcca77adb11a0e613d4eca4e38442",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "beb0ab87b52a417912e0ec84cfa203fd05cae660",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "feaad17999c1a7c768c6d841e790b2f2c006b00f",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ff6eac85bb9b11d7c1422938235896c8b3a6da3c",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "018c31af135a0bc5e068df26d866440b28164aa4a659ea7df47bcbaab4a898cd",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0432ae814945633b605c77d137bef96c7f84934c682aada69baa326dce781286",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "456ed6926b706c203ac65b5174ac2ce78a5dad2ef0f083ae1f0aedd75d811ca2",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4d37b4ccd6e4c0c9de82e66e40dfb6412b92ea33bcf10442a290b0732eeadae0",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5b1f75205cb79a8c8a3d8083f34b552852dfd567dd65763183b7536a29f55f5b",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a40a61e54be9cc1671ea6832fef8139ce811a7d759058bb8b4ca86863f4cc1bd",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b50422ec3a98d098bb3f7d728012da7e1795221c8b0624562568dff87ab5de2a",
-        "pulse": "Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM",
-        "tags": [
-          "ai integration",
-          "local llm",
-          "kimsuky",
-          "spear phishing",
-          "git-based c2",
-          "asyncrat",
-          "north korea",
-          "apt",
-          "powershell",
-          "lnk files"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T13:45:55",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8620f4df9e0159a8db675868b4ed9a205638c847439f52cf1c88541d0655a64",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3eaf786bfb4ae5688b347511f98d74c948b7dc0749558acbdc6bbe33dcfa3a61",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b385111d6599a30210b7be8f7674a163",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b02d6b80c14bc5556bd7eaa6f1bc502b59818f90",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0cd022f31b436d6c83ddc1b5c14d47dc",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5efe9666ca501077aefc818dae7be59f",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2fdc615e948222bec395f988bebcea4da854756d",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "65e1bb0b0594e9264747640aead433a7bd4fe4fd",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4366679a4fea2c1bf7e29290f8e162e0db9d0707030b5b99ce870195afeb3782",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a25bbc466416f65726c5e3f587f69515dd003f114c1eab29fdfca7b52fbd74b1",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dbaf04df50088031ea64a9879c1adeee8b7e551c79dc247fa1bb4de5b263f7b4",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e04487377e4f976ac18e7c1c5b22bc85e03b4423e73fd490e9d1641758faac81",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f139bd347cba0b197c97ca084c224d8c779bdb9116a5327e9cf30b0f72a59530",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fe693cc07c5d8a4d479e987e64ffb7473bd79066f3505e7f2c8f0b86815d0f08",
-        "pulse": "Investigating a Multi-Stage PowerShell Loader",
-        "tags": [
-          "vercel infrastructure",
-          "hidden execution",
-          "xor encoding",
-          "powershell",
-          "base64",
-          "obfuscation",
-          "multi-stage loader",
-          "payload delivery"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T14:20:37",
         "hash_type": "sha256"
       }
     ]
