@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-16T06:17:41.594788",
+  "updated": "2026-08-16T12:12:25.901057",
   "counts": {
-    "ips": 81,
-    "domains": 469,
-    "hashes": 889
+    "ips": 79,
+    "domains": 470,
+    "hashes": 890
   },
   "data": {
     "ips": [
@@ -1391,33 +1391,28 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "213.145.86.42",
-        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
-        "tags": [
-          "vnc remote access",
-          "llvm obfuscation",
-          "abyssos",
-          "custom tcp protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T18:05:09"
-      },
-      {
-        "value": "209.99.184.223",
-        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
-        "tags": [
-          "vnc remote access",
-          "llvm obfuscation",
-          "abyssos",
-          "custom tcp protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T18:05:09"
       }
     ],
     "domains": [
+      {
+        "value": "cdnorigin.net",
+        "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
+        "tags": [
+          "shodan intelligence",
+          "credential harvesting",
+          "polymorphic",
+          "ai infrastructure targeting",
+          "mcp exploitation",
+          "botnet",
+          "autonomous scanning",
+          "go-based",
+          "kubernetes compromise",
+          "nadmesh",
+          "cve-2016-0638"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-17T11:27:50"
+      },
       {
         "value": "mail.taikei-rmc-co.biz",
         "pulse": "The TTF Trap: A Global Campaign of a Low-Detection Lua Loader",
@@ -9247,6 +9242,66 @@
       }
     ],
     "hashes": [
+      {
+        "value": "ca024acead8f54cfe5b07ac4bdf7fcea",
+        "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
+        "tags": [
+          "shodan intelligence",
+          "credential harvesting",
+          "polymorphic",
+          "ai infrastructure targeting",
+          "mcp exploitation",
+          "botnet",
+          "autonomous scanning",
+          "go-based",
+          "kubernetes compromise",
+          "nadmesh",
+          "cve-2016-0638"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-17T11:27:50",
+        "hash_type": "md5"
+      },
+      {
+        "value": "31c69b3e12936abca770d430066f379ec1d997ec",
+        "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
+        "tags": [
+          "shodan intelligence",
+          "credential harvesting",
+          "polymorphic",
+          "ai infrastructure targeting",
+          "mcp exploitation",
+          "botnet",
+          "autonomous scanning",
+          "go-based",
+          "kubernetes compromise",
+          "nadmesh",
+          "cve-2016-0638"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-17T11:27:50",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fc4109f5dd1d30b65dd60e57dc639ac1d313bfa5241e36e61fbc4aabc1cda482",
+        "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
+        "tags": [
+          "shodan intelligence",
+          "credential harvesting",
+          "polymorphic",
+          "ai infrastructure targeting",
+          "mcp exploitation",
+          "botnet",
+          "autonomous scanning",
+          "go-based",
+          "kubernetes compromise",
+          "nadmesh",
+          "cve-2016-0638"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-17T11:27:50",
+        "hash_type": "sha256"
+      },
       {
         "value": "ebffd5a76aaa690bcdb922f82e0bacc5",
         "pulse": "GoSerpent backdoor attacks in Southeast Asia",
@@ -25202,32 +25257,6 @@
         "source": "alienvault_otx",
         "created": "2026-08-11T15:03:13",
         "hash_type": "sha1"
-      },
-      {
-        "value": "52b400c5be1557a8df146f62fde76d906e7e0a92ed76788717ef61c758f315aa",
-        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
-        "tags": [
-          "vnc remote access",
-          "llvm obfuscation",
-          "abyssos",
-          "custom tcp protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T18:05:09",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ca94d95413210a2a325155740eb8a5c58627ad5c4e704478621e7fc8165fe173",
-        "pulse": "Abyssos: Technical Analysis of a New Modular RAT",
-        "tags": [
-          "vnc remote access",
-          "llvm obfuscation",
-          "abyssos",
-          "custom tcp protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-10T18:05:09",
-        "hash_type": "sha256"
       }
     ]
   }
