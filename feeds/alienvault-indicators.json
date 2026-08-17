@@ -1,13 +1,40 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-17T06:26:16.541246",
+  "updated": "2026-08-17T12:15:58.617627",
   "counts": {
-    "ips": 79,
-    "domains": 470,
-    "hashes": 890
+    "ips": 77,
+    "domains": 463,
+    "hashes": 884
   },
   "data": {
     "ips": [
+      {
+        "value": "91.92.40.118",
+        "pulse": "New Mirai-Based Linux Botnet 'Evooo1Bot' Turns Victims Into Proxies",
+        "tags": [
+          "edge devices",
+          "cve-2007-3010",
+          "iot exploitation",
+          "cve-2022-37055",
+          "cve-2025-55583",
+          "cve-2020-10987",
+          "mirai variant",
+          "cve-2025-10123",
+          "cve-2021-46422",
+          "cve-2024-29269",
+          "cve-2018-14558",
+          "cve-2019-14931",
+          "ddos attacks",
+          "linux botnet",
+          "evooo1bot",
+          "cve-2016-6277",
+          "socks proxy",
+          "encrypted c2",
+          "mirai"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-14T15:30:39"
+      },
       {
         "value": "38.12.1.47",
         "pulse": "Jewelbug: APT Group Runs Espionage and Crypto Fraud Operations Side by Side",
@@ -1328,72 +1355,27 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "12.19.29.30",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "12.121.234.120",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "74.65.75.102",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
       }
     ],
     "domains": [
+      {
+        "value": "rema200426.duckdns.org",
+        "pulse": "Still Circling: Toolkit Keeps Evolving",
+        "tags": [
+          "hvnc",
+          "njrat",
+          "banking fraud",
+          "vbscript dropper",
+          "asyncrat",
+          "limerat",
+          "process injection",
+          "apt-c-36",
+          "chrome credential theft",
+          "latin america"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-18T11:29:33"
+      },
       {
         "value": "cdnorigin.net",
         "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
@@ -9071,177 +9053,47 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "api.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "ns1.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "ns2.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "m.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "p.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "q.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
-      },
-      {
-        "value": "ycz2.41414141303030.m.studiotikva.com",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24"
       }
     ],
     "hashes": [
+      {
+        "value": "a4fbd707f4ce7ca68e6137cef1c56b6f408e5f0a0f148434d996bb98c3a21fff",
+        "pulse": "Still Circling: Toolkit Keeps Evolving",
+        "tags": [
+          "hvnc",
+          "njrat",
+          "banking fraud",
+          "vbscript dropper",
+          "asyncrat",
+          "limerat",
+          "process injection",
+          "apt-c-36",
+          "chrome credential theft",
+          "latin america"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-18T11:29:33",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a73cb9d5d46e19f3daa4a14cfe5d8fa4319a3d62452039e4972e6a316bbb26f4",
+        "pulse": "Still Circling: Toolkit Keeps Evolving",
+        "tags": [
+          "hvnc",
+          "njrat",
+          "banking fraud",
+          "vbscript dropper",
+          "asyncrat",
+          "limerat",
+          "process injection",
+          "apt-c-36",
+          "chrome credential theft",
+          "latin america"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-07-18T11:29:33",
+        "hash_type": "sha256"
+      },
       {
         "value": "ca024acead8f54cfe5b07ac4bdf7fcea",
         "pulse": "Botnet Analysis: A Product-Grade Threat for the AI Service Era",
@@ -25095,167 +24947,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "904784c9943d019da332bea2cd03996f",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f9156d42410c8a5429dec43329bd72e0",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2dcd4a8ac166404977cd3c48418a8cd9",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "981c7404d31b8ce35ec88a6b290f354d",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "34d50eec364d920b8b5d885c9bc98607",
-        "pulse": "Project CAV3RN uses Google Apps Script for stealthy C2 in Israel",
-        "tags": [
-          "dns-based c2",
-          "net.dll",
-          "communicationuxtheme.dll",
-          "project cav3rn",
-          "googleservice.dll",
-          "rnp.dll",
-          "israel",
-          "google apps script",
-          "texture.dll",
-          "espionage",
-          "modular framework",
-          "c2 relay",
-          "dll components"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T11:06:24",
-        "hash_type": "md5"
-      },
-      {
-        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
-        "pulse": "Self-Propagating ChainDrop Worm Infects More Than 400 npm Packages in Major Software Supply Chain Attack",
-        "tags": [
-          "mini shai-hulud",
-          "ci/cd compromise",
-          "credential theft",
-          "worm propagation",
-          "developer workstation",
-          "chaindrop",
-          "github actions oidc",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:03:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f92ee93a0af971a3966bfa8efa9c2625",
-        "pulse": "Self-Propagating ChainDrop Worm Infects More Than 400 npm Packages in Major Software Supply Chain Attack",
-        "tags": [
-          "mini shai-hulud",
-          "ci/cd compromise",
-          "credential theft",
-          "worm propagation",
-          "developer workstation",
-          "chaindrop",
-          "github actions oidc",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:03:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
-        "pulse": "Self-Propagating ChainDrop Worm Infects More Than 400 npm Packages in Major Software Supply Chain Attack",
-        "tags": [
-          "mini shai-hulud",
-          "ci/cd compromise",
-          "credential theft",
-          "worm propagation",
-          "developer workstation",
-          "chaindrop",
-          "github actions oidc",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:03:13",
         "hash_type": "sha1"
       }
     ]
