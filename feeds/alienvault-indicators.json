@@ -1,13 +1,65 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-18T06:19:40.909121",
+  "updated": "2026-08-18T12:18:01.598786",
   "counts": {
-    "ips": 77,
-    "domains": 463,
-    "hashes": 884
+    "ips": 69,
+    "domains": 420,
+    "hashes": 855
   },
   "data": {
     "ips": [
+      {
+        "value": "38.60.244.141",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54"
+      },
+      {
+        "value": "45.158.196.184",
+        "pulse": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2",
+        "tags": [
+          "github c2",
+          "backdoor",
+          "clickfix",
+          "oyster",
+          "initial access broker",
+          "lactrodectus",
+          "rust-based",
+          "dll sideloading",
+          "c2looper",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:55"
+      },
+      {
+        "value": "45.158.196.23",
+        "pulse": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2",
+        "tags": [
+          "github c2",
+          "backdoor",
+          "clickfix",
+          "oyster",
+          "initial access broker",
+          "lactrodectus",
+          "rust-based",
+          "dll sideloading",
+          "c2looper",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:55"
+      },
       {
         "value": "91.92.40.118",
         "pulse": "New Mirai-Based Linux Botnet 'Evooo1Bot' Turns Victims Into Proxies",
@@ -1146,218 +1198,263 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "212.193.31.102",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "212.193.31.158",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "212.193.31.119",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "212.193.31.122",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "212.193.31.92",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "194.87.239.71",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "194.87.93.153",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "31.59.102.61",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "38.244.205.244",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "81.177.32.12",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "158.94.208.104",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
       }
     ],
     "domains": [
+      {
+        "value": "maui-cocktailbar.com",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54"
+      },
+      {
+        "value": "register.mediumser.com",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54"
+      },
+      {
+        "value": "pdfgrip.com",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "doceditor.in",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "doceditorinc.com",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "flipformatpdf.com",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "meal-formula.com",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "conv.doceditorinc.com",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23"
+      },
+      {
+        "value": "ledgerhelp.com",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "36mcrypto.com",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "atechservicecentre.co.uk",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "ledger.com.lv",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "macos-claude.com",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "ses-noreply.com",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
+      {
+        "value": "xcjnrucne9xfvmci.com",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31"
+      },
       {
         "value": "rema200426.duckdns.org",
         "pulse": "Still Circling: Toolkit Keeps Evolving",
@@ -7718,1344 +7815,673 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "npm-cache.com",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34"
-      },
-      {
-        "value": "awqhnjewqjkl.icu",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34"
-      },
-      {
-        "value": "copilot-instructions.md",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34"
-      },
-      {
-        "value": "edctgwib2n5l34t525zkxqzk5bqb6e5il2yiq5r6zu7gtlxa4uosn3qd.onion",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "eth.rpcuniverse.com",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "avax.rpcuniverse.com",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "penzadogshelter.site",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "urbanpixel.store",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "vks.gossopka.forum",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18"
-      },
-      {
-        "value": "networksolutionson.sbs",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "verification-cdn-cloud.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "istile-c-cloud.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "ghdnsserverns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "mnoskemp.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "ap7.supportly.au",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "dreff-nsdns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "letsgomakemoneyoncaptcha.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "bootstrup-cdn-ns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "nslsconscloud.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "webflare.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "web-protection.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "web-safe.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "pohuimne.lol",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "etomoidomen.cfd",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "dtc.victorramarisimobiliaria.com.br",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "ns-claude-js.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "vhyip.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "best-claudns-js.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "framesavecloudjs.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "remoteshcontrol.com",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "mnepohui.sbs",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "anakondabob.club",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "bcncdncl-ns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "kyjpwnw.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "grovalstandard.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "ssns-cdn-ns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "adflow.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "exportearth.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "adtraffic.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "jogosdecarrobr.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "slndcdnclaud.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "adzeta.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "travel-js-ns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "biletors.cfd",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "totalads.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "moonglide.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "lsikjsns.beer",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "equinixad.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "ganiballektor.cfd",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "oraxdata.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "bigblower.click",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "accordtrucking.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "coffeecincup.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "merindashop.cyou",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "mob.lanjut.in",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "karenheil.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "dogesgroom.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
-      },
-      {
-        "value": "yangdiet.monster",
-        "pulse": "How the ErrTraffic Malware Campaign Uses ClickFix and EtherHiding",
-        "tags": [
-          "dll side-loading",
-          "etherhiding",
-          "clipbanker",
-          "clickfix",
-          "blockchain",
-          "polygon smart contracts",
-          "errtraffic",
-          "vidar",
-          "okobot",
-          "telepuz",
-          "cve-2026-48294",
-          "oniondrop",
-          "babadedaloader",
-          "legionloader",
-          "wordpress compromise",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:30:02"
       }
     ],
     "hashes": [
+      {
+        "value": "c4b4647795567ab15528edd1ab1bf37fb50e21b442e59a653051061973e87c02",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5a91a13e681788ab02354f2fc2f82355",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a204bc8249df2b64dfab8181172c25ee",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b9622eb982f7c8b9885c932ca54339a0",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6e66d673306fc57d6479422e1e8cc17c5dbf94e8",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9216fcae1736e8ff7cbed130677a52e3daf93dc1",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c06b90b06caf4e2e8d9eeef84c34ca84a2f40fa7",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0803521a7e9081f46f8f9f61d72371ecc1f49657f10202fffa9a33f581d8bb39",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "26f735cbbb1257be94e6d01656a35bf66a8ae9c34868548d69ec5cb588f9f916",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4a1a1b1455c3ea91a3d9203ebff025553227302cede6077e821d303655e2c9f2",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "575305cdaeb1d2187ca6d5ebe32f4c3e3fb53f5ccbe1c0cc257a7f71d84e6f35",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aeff39943e254c34187e4a60be3d09d49687439e709eeb4be2b1984310d8ba5c",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cd147efe37003399e174951927e5fe727a4481756b116f0204a14a64cc62b059",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "daeac66441b88ba22806f6617058a2dbf1ea0ddcc6c94f291542ea853ac6f9d3",
+        "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
+        "tags": [
+          "vhd file",
+          "quic protocol",
+          "cloudflare workers",
+          "china-nexus",
+          "quicagent",
+          "operation quicsilver",
+          "go backdoor",
+          "myanmar diplomats"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:54",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f59f32c9af4fa8a5dbd4668df8893593bc0c4324816cbf9b956acedcbfb8cdb6",
+        "pulse": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2",
+        "tags": [
+          "github c2",
+          "backdoor",
+          "clickfix",
+          "oyster",
+          "initial access broker",
+          "lactrodectus",
+          "rust-based",
+          "dll sideloading",
+          "c2looper",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:55",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f96ff2f3abbff7f382ace509b90e54853b4b61c402ecde27d82f1c17b414867b",
+        "pulse": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2",
+        "tags": [
+          "github c2",
+          "backdoor",
+          "clickfix",
+          "oyster",
+          "initial access broker",
+          "lactrodectus",
+          "rust-based",
+          "dll sideloading",
+          "c2looper",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:55",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "20675a659c338f7267fd09bacb431f4491f061d3acf42d07aca2dec3d25fa549",
+        "pulse": "C2Looper: A New Backdoor Likely Tied To Ransomware With GitHub C2",
+        "tags": [
+          "github c2",
+          "backdoor",
+          "clickfix",
+          "oyster",
+          "initial access broker",
+          "lactrodectus",
+          "rust-based",
+          "dll sideloading",
+          "c2looper",
+          "ransomware"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:03:55",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d749e0f8f2cd4e14178a787571534121",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "04cc663812883562b762d184266e1457e98b7de8",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3c1dbc3f56e91cc79f0014850e773a7f12bbfef06680f08f883b2bf12873eccc",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "415a96f247ec0477080f576a4b91f7a1",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "973c9e55811bf4940a874d3b6e6e2e0c",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b648ec0880e9f5421fdb380e620b6173",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bb389838978c45391288979ae6c634e61aa61448",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e387f61298206d5e538fafb5f0f83b5ea72959f8",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f7a060bc408acfb14ce59e40710b630291c76540",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4ce5e5768d2f9f71e2835ab8ebc4a2191d436ca3a990a56e9bc264235c7b5b55",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "71656539cc644513396f56100ffb56f9ef9eaa5b7a16b0773d6e5d370a912a88",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a799417bd79060d63e93682f339fbe2868de3881f9c5865d9b583f5b715c70a9",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c21eb14ba63e943db5ea9ab64af02a50a17260c7d8538a133c4f6e0957d36f47",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d50ca2fa212df1c1ff69b5d26ba594bd39bfd86a71b068a650cc577e5dc9a94e",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e7bc36c7345b3894bc1da3d18ff3dbf0a20713d17b93a585ac0da65776d29027",
+        "pulse": "Projextor: Abusing Electron in Trojanized Productivity Applications",
+        "tags": [
+          "javascript execution",
+          "trojanized software",
+          "impersonation websites",
+          "desktop capture",
+          "projextor",
+          "productivity applications",
+          "tamperedchef",
+          "electron framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-17T15:16:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0f2c7194f1f577e73460db9ec2e75fc0c7f845588cbd4246333b7a4fbec90d9f",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4bee9affff9fa718a2c94f02ebe6a75143d4d461d291c2df9b769920fc927bf8",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7073b2a3a34525c5969921dd17ef1fa5607af92be78b3fc6129cdea73216691a",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "918fa540126b7db6424652d84a5ce7e968947136db3d6e3e0cab30ea309e25a2",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "961a398a5c71e837626b5fce68e44b14a5d220e3bd74a3d0ecd61a2762c38176",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba9d459169a303067a4fe36c8b8582a5ea023b9c270dafe89613bab840501b19",
+        "pulse": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+        "tags": [
+          "vishing",
+          "electron-malware",
+          "account-enumeration",
+          "jailbreak-prompt",
+          "telegram-exfiltration",
+          "phishing",
+          "cryptocurrency",
+          "wallet-theft",
+          "ai-assisted-development",
+          "seed-phrase-exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T07:15:31",
+        "hash_type": "sha256"
+      },
       {
         "value": "a4fbd707f4ce7ca68e6137cef1c56b6f408e5f0a0f148434d996bb98c3a21fff",
         "pulse": "Still Circling: Toolkit Keeps Evolving",
@@ -23660,1293 +23086,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-12T02:31:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "35a672cf34b996b91f3e1c28cbf3a05a37e036e4",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f525d52ceb966516686b482d3dc0137028cc6a63",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4140f7e17e6f97f83aa3472473e01add",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bcf8d9f6834c44450eac145a967d2f2",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f92ee93a0af971a3966bfa8efa9c2625",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e65b155ce74f3f81fb7d2b5b60f8e62b36e6d69c",
-        "pulse": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-        "tags": [
-          "supply chain attack",
-          "etherhiding",
-          "chaindrop",
-          "shai-hulud",
-          "miasma",
-          "slsa provenance",
-          "self-propagating worm",
-          "ethereum c2"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:32:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "421111a57b0a4224c052fa4108d90429d579974b5b5111ed2e58516ba09422ca",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2078af54891b32ea0b1d1bf08b552fe8",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "726557aaebee929541f9c60ec86d356e",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "18dcf61dad028b9e6f9e4aa664e7ff92",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c46b363e9d4fee5118174e16f0d02ab05d4bf009",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "951c94809aa6c7ab587125f9d4df30fa6a49ee0cbba76a4b7ceedaaa0e5dcd36",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "345222bca004595977f971d76900b0c65fd9bf9d91c50cd0c5bf5a93f1ad9e49",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2ec2e85b0358e0c681cb5067489a9086ec97dbbf7e3c952dd9cd496b319d5af5",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f07821e313c16cbbd82def45094a22c8d474164051bdbc7648d6869e012014b4",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "406647de09a0ffa279756b4ccb344b1b76a333320c5b50fd367901fa006cf0ff",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d759364844d78a728505fb0485c3adbc",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "036bcb62be72c4663b9564955f93b05f",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "33faca1e0090f6b12eff703daf4606e4",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9470c68f9b6fe5f90d61891b95623afd7b4298815b0f95e25610e1c09008dc24",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8242443dfcec66e3fe04cbfa2fbd211ad34065ee07aa93813d792a437caab212",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "76554ad09897ac723a850eaf8c525efa",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7e8131f426a8a17f62bb72a31dfdba44",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c76144616c360a39873344ef0b5efb6e",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2675949d9d204dc3bb8848037df319df119aa140",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2a1d96f1b066877812587ac94f45f82dfff5f5f9",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4cf441a24a2aa4aacfef8a91285212876f95c11a",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "fc5f1c24a93475cdc37ee46b10ced608e63463e6",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f3e8a55a2a3ea7c7b6676e90f4f49a2c55b13065b68ee50c51cc35fe2b5c3237",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2b66fb6d23be66863185cc1b67cac7410222b0b2",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5d5c63920934e8eb0c22fa598e6e9efb971325df",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f295e9ab7cdf902e615c8047c26ef85c49844eea",
-        "pulse": "An Evolution of the Botnet",
-        "tags": [
-          "http/2 flood",
-          "ethereum name service",
-          "ddos attacks",
-          "blockchain c2",
-          "tor infrastructure",
-          "aisuru",
-          "iot botnet",
-          "android tv boxes",
-          "kimwolf",
-          "kimwolf v7"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0e4541c3153ec5ed01497f19cf4f63d0",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0e79996d9483d1e44fea32b0a48c2c19",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "129462164a7d52e9ea8560b60f0412c5",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "12d4e8f5295f2ef7e0f9bfc0f4830939",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2bb75c20e778eb5c416965bd4d4259b1",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "43f435c3c437bc879a2d7d4634f43494",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "489f43be558b2679284ceabed7adc4f3",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4d27b4eb1c5dbb3d8160f29b8119523e",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "748c9f8cb1065000616204935f96207f",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7f267006cac10f341c356b62fe493527",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8fcc3e4ccbf1725d9989fb464abf3561",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "aee9642b45b099cb7f3053b9b680b425",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b348642146ea34771e5785c5857950f5",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b3a6fee3307f1c26841fd5c603e2b013",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c3a2abe8756910f42582b04a44ea3514",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c5a460e4e68a088f6e51b2c6474642ec",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c915cb6c2aeb863ee8479238e1644217",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dd1fd2b459b97b7d59375cb8383cd19a",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ec0bf4a2186a88874e9f26f07cfeb532",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ee2861d5965e8730708cd1da8a93fa4c",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7b9c37d82be5102e47a267e9f3c7c16b23bb1114",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ac9f013ad20aab607264d7cfe69ad153a4224d4b",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b7cea387205e16c9f43d750035e77735415dad34",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ce1ae52bd60bf4a15a8d9aa597989b0d9df8ff3b",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f9a692dadf9cc72352b979b1ecb80eb09ddf941a",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0ed9306deabddaa587ad75d0775f7e63b27857a13adcc870dc9f8c92a9ddc6da",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0fce4b732ce10c72093587e82ca9747a885430e366934ddc27e437443ff0cc0e",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "72029a4d4790784dd3029d13e73f57494dcb8f8187ca234b131e2b825bd84336",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b9e4052b310f9451eca9784a4a33bf5282d1bd07e3359eba9648be625e2e40dd",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ceea2f175eaa02919e8b5161c2ecf585de3e8b6d586bca8046eee2e3f4efa386",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4bbe23daa43583037420ff17b6c6d0844523037c",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "67bdd48ca58910cc5da499edc8a2b891dc9dc18a",
-        "pulse": "PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server",
-        "tags": [
-          "arcbridge",
-          "bridgehead",
-          "supply chain attack",
-          "head mare",
-          "trueconf",
-          "phantomgraph",
-          "nightledger",
-          "zero-day exploitation",
-          "phantomcore",
-          "video conferencing",
-          "backdoor deployment"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-11T15:24:18",
         "hash_type": "sha1"
       }
     ]
