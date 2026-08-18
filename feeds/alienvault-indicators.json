@@ -1,9 +1,9 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-18T12:18:01.598786",
+  "updated": "2026-08-18T18:16:58.814138",
   "counts": {
-    "ips": 69,
-    "domains": 420,
+    "ips": 66,
+    "domains": 417,
     "hashes": 855
   },
   "data": {
@@ -1147,60 +1147,25 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T21:01:32"
-      },
-      {
-        "value": "38.146.28.75",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "213.145.86.112",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "38.146.28.132",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
       }
     ],
     "domains": [
+      {
+        "value": "relay.gamedbd.com",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24"
+      },
       {
         "value": "maui-cocktailbar.com",
         "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
@@ -7747,77 +7712,111 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T21:01:32"
-      },
-      {
-        "value": "m365-owa.com",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "ms365-device.com",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "ms365-live.com",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
-      },
-      {
-        "value": "owa-ms365.com",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33"
       }
     ],
     "hashes": [
+      {
+        "value": "6557ed877a26fa254bcebb59a474c47a",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab707764ad3fc2611ed1cf8e9ce85d9d",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1d9d6928d4f17ae31acd5b2046e3684986976cbf",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b64572b3df55930638db3226d9213d5e55c7165d28ae75782cf72967c2aeffa0",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fce8943cf82bc5a6e1fa4590fb940061cf2baca9",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "82a7410b7c56f5389831c89334517acd2dc409bade29f286507721455abeb5d3",
+        "pulse": "Beware of Phishing Emails Disguised as Transaction Receipts",
+        "tags": [
+          "pdf attachment",
+          "remote access",
+          "vbs script",
+          "transaction receipt lure",
+          "living-off-the-land",
+          "phishing campaign",
+          "screenconnect abuse",
+          "screenconnect"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-18T10:20:24",
+        "hash_type": "sha256"
+      },
       {
         "value": "c4b4647795567ab15528edd1ab1bf37fb50e21b442e59a653051061973e87c02",
         "pulse": "Operation QUICSILVER: China-Nexus Actor Targets Myanmar Diplomats via VHD-Delivered Go Backdoor",
@@ -22978,114 +22977,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-11T21:01:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c6f4df18cb880500f3921a179c3a3766",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fba867df17721879df9d8dcca68d6900",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "510af9bb00ff5d4a6856b1291af55db9f6e13551",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "937e75e0e1c82eecab69e9b8ad481bd7e0845308",
-        "pulse": "CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials",
-        "tags": [
-          "microsoft 365",
-          "device code phishing",
-          "cozy bear",
-          "apt29",
-          "captive portal compromise",
-          "chocoshell",
-          "storm-2945",
-          "hotel wi-fi",
-          "cornflake"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-12T02:31:33",
         "hash_type": "sha1"
       }
     ]
