@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-08-21T12:19:06.285842",
+  "updated": "2026-08-21T18:17:40.218078",
   "counts": {
     "ips": 47,
     "domains": 4875,
-    "hashes": 650
+    "hashes": 657
   },
   "data": {
     "ips": [
@@ -793,6 +793,23 @@
       }
     ],
     "domains": [
+      {
+        "value": "hwsrv-798836.hostwindsdns.com",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21"
+      },
       {
         "value": "rasgthaufd.com",
         "pulse": "Popular Rust Crates Compromised in Build-Time Supply Chain Attack",
@@ -88700,21 +88717,135 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-07-16T11:34:03"
-      },
-      {
-        "value": "obfuscator.io",
-        "pulse": "Miasma Worm Returns to npm",
-        "tags": [
-          "miasma v3",
-          "npm hijacking",
-          "asyncapi",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-15T14:20:03"
       }
     ],
     "hashes": [
+      {
+        "value": "25ad700976873c76af785cb99b33c48db7df8b81f21d1e9e06b3676b9a9373ae",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b5c1b5b0763a8809a644a8f92224653f0aca623a98eecc714d27f74b80fbe436",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f22e3e01e38bcdf001f0d15a2dbfdec5a1cf8eff",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f4767ad92cb61401fd69139cade563501c39b991",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fc0fdb978eac72f4484b48db058e4473f1bc516e",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ff7e20cf642346bf893f1eca808df82035bb53d0",
+        "pulse": "Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+        "tags": [
+          "crates.io",
+          "dprk",
+          "backdoor",
+          "typosquatting",
+          "supply chain attack",
+          "proc-macro1",
+          "mastra campaign",
+          "rust",
+          "compile-time execution"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-20T21:47:21",
+        "hash_type": "sha1"
+      },
       {
         "value": "408ef22050ffc5a67e005802809026b29f297a8019f8fda91a2afa8e877ba434",
         "pulse": "Popular Rust Crates Compromised in Build-Time Supply Chain Attack",
