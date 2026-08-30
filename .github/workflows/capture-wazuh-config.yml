@@ -100,7 +100,7 @@ jobs:
           OUT=/tmp/icit-capture
           rm -rf "$OUT"; mkdir -p "$OUT"/{ossec,logstash,opensearch,dashboard,scripts,cron,apt}
 
-          copy() { [ -e "$1" ] && cp -r "$1" "$2" 2>/dev/null || true; }
+          copy() { if [ -e "$1" ]; then cp -r "$1" "$2" 2>/dev/null || true; fi; }
 
           copy /var/ossec/etc/ossec.conf              "$OUT/ossec/"
           copy /var/ossec/etc/shared                  "$OUT/ossec/"
@@ -127,7 +127,12 @@ jobs:
           MANIFEST="$OUT/REDACTIONS.txt"
           : > "$MANIFEST"
           find "$OUT" -type f ! -name REDACTIONS.txt -print0 | while IFS= read -r -d '' f; do
-            case "$(file -b --mime-type "$f")" in text/*|application/json|application/xml) ;; *) continue ;; esac
+            # `file` is not guaranteed present; fall back to grep's own binary test.
+            if command -v file >/dev/null 2>&1; then
+              case "$(file -b --mime-type "$f")" in text/*|application/json|application/xml) ;; *) continue ;; esac
+            else
+              grep -Iq . "$f" 2>/dev/null || continue
+            fi
             before=$(md5sum "$f" | cut -d' ' -f1)
             sed -i -E \
               -e 's#(https://hooks\.slack\.com/[A-Za-z0-9/_-]+)#${SLACK_WEBHOOK_URL}#g' \
@@ -141,7 +146,11 @@ jobs:
               -e 's#-----BEGIN [A-Z ]*PRIVATE KEY-----#${PRIVATE_KEY_REMOVED}#g' \
               "$f" 2>/dev/null || true
             after=$(md5sum "$f" | cut -d' ' -f1)
-            [ "$before" != "$after" ] && echo "redacted: ${f#$OUT/}" >> "$MANIFEST"
+            # `[ cond ] && echo` returns 1 when the condition is false, which under
+            # `set -e` aborted the whole capture on the first unmodified file.
+            if [ "$before" != "$after" ]; then
+              echo "redacted: ${f#$OUT/}" >> "$MANIFEST"
+            fi
           done
           echo "--- redaction manifest ---"; cat "$MANIFEST" || true
           tar czf /tmp/icit-wazuh-config.tgz -C /tmp icit-capture
