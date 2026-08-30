@@ -98,7 +98,7 @@ jobs:
           ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'bash -s' <<'REMOTE'
           set -euo pipefail
           OUT=/tmp/icit-capture
-          rm -rf "$OUT"; mkdir -p "$OUT"/{ossec,logstash,opensearch,dashboard,scripts,cron,apt}
+          rm -rf "$OUT"; mkdir -p "$OUT"/{ossec,logstash,opensearch,dashboard,scripts,integrations,systemd,cron,apt}
 
           copy() { if [ -e "$1" ]; then cp -r "$1" "$2" 2>/dev/null || true; fi; }
 
@@ -113,9 +113,25 @@ jobs:
           copy /etc/wazuh-indexer/opensearch.yml      "$OUT/opensearch/"
           copy /etc/filebeat/filebeat.yml             "$OUT/opensearch/"
           copy /etc/wazuh-dashboard/opensearch_dashboards.yml "$OUT/dashboard/"
-          copy /usr/local/bin/logstash-validate.sh          "$OUT/scripts/"
-          copy /usr/local/bin/sentinel-watchdog.sh          "$OUT/scripts/"
-          copy /usr/local/bin/sentinel-pipeline-monitor.sh  "$OUT/scripts/"
+          # Everything operational under /usr/local/bin, not a guessed subset. The
+          # root crontab referenced ten scripts the original list did not know
+          # about -- logstash-watchdog.sh, siem-health-check.sh, fix-fielddata.sh,
+          # the health/status collectors and the per-tenant Workspace pulls. On a
+          # host built live, the crontab is the only reliable index of what runs.
+          for f in /usr/local/bin/*.sh /usr/local/bin/*.py; do
+            if [ -f "$f" ]; then cp "$f" "$OUT/scripts/" 2>/dev/null || true; fi
+          done
+          # Wazuh integrations are executables with no extension as well as .py.
+          if [ -d /var/ossec/integrations ]; then
+            for f in /var/ossec/integrations/*; do
+              if [ -f "$f" ]; then cp "$f" "$OUT/integrations/" 2>/dev/null || true; fi
+            done
+          fi
+          # systemd units for the five services this host actually runs.
+          for u in wazuh-manager wazuh-indexer wazuh-dashboard logstash filebeat; do
+            copy "/etc/systemd/system/${u}.service"     "$OUT/systemd/"
+            copy "/lib/systemd/system/${u}.service"     "$OUT/systemd/"
+          done
           copy /etc/apt/preferences.d                 "$OUT/apt/"
           crontab -l > "$OUT/cron/root.crontab" 2>/dev/null || echo "(none)" > "$OUT/cron/root.crontab"
           ls -1 /etc/cron.d 2>/dev/null > "$OUT/cron/cron.d.listing" || true
