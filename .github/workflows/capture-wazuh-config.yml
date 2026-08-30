@@ -1,0 +1,173 @@
+name: Capture Wazuh config (sanitized)
+
+# One-shot capture for ICIT-Infrastructure.
+#
+# The Sentinel host was built live with no source control. This reaches it with the
+# WAZUH_SSH_KEY already provisioned on this repository, copies the configuration
+# set, SANITIZES IT ON THE HOST, and uploads only the sanitized copy as an
+# artifact. Raw configs never leave the machine.
+#
+# Sanitization is deliberately aggressive and deliberately dumb: anything that
+# looks like a key, password, token or webhook is replaced before the file moves.
+# A redaction manifest is uploaded alongside so what was stripped is auditable.
+
+on:
+  workflow_dispatch:
+    inputs:
+      probe_only:
+        description: 'Only test the connection and list what would be captured'
+        required: false
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    name: Capture
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Verify the SSH credential is present
+        env:
+          KEY: ${{ secrets.WAZUH_SSH_KEY }}
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          for n in KEY HOST USER; do
+            eval "v=\${$n:-}"
+            if [ -z "$v" ]; then echo "::error::WAZUH_$n is not set"; exit 1; fi
+          done
+          echo "credential, host and user all present"
+
+      - name: Open the connection
+        env:
+          KEY: ${{ secrets.WAZUH_SSH_KEY }}
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/wazuh
+          chmod 600 ~/.ssh/wazuh
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 \
+            "$USER@$HOST" 'echo CONNECTED; hostname; . /etc/os-release 2>/dev/null && echo "$PRETTY_NAME"'
+
+      - name: Inventory what exists
+        env:
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'bash -s' > inventory.txt <<'REMOTE'
+          set -u
+          echo "=== versions ==="
+          /var/ossec/bin/wazuh-control info 2>/dev/null || echo "wazuh-control: n/a"
+          dpkg -l 2>/dev/null | grep -iE 'wazuh|logstash|opensearch' | awk '{print $2, $3}' || true
+          echo "=== apt pins ==="
+          ls -la /etc/apt/preferences.d/ 2>/dev/null || true
+          echo "=== paths present ==="
+          for p in /var/ossec/etc/ossec.conf /etc/logstash/pipelines.yml /etc/logstash/pipelines \
+                   /etc/logstash/conf.d /usr/local/bin/logstash-validate.sh \
+                   /usr/local/bin/sentinel-watchdog.sh /usr/local/bin/sentinel-pipeline-monitor.sh \
+                   /var/ossec/integrations/custom-webhook.py /etc/logstash/threat-intel \
+                   /var/ossec/etc/shared /var/ossec/etc/rules \
+                   /etc/opensearch/opensearch.yml /etc/wazuh-dashboard/opensearch_dashboards.yml; do
+            [ -e "$p" ] && echo "PRESENT $p" || echo "absent  $p"
+          done
+          echo "=== systemd units ==="
+          systemctl list-units --type=service --no-pager 2>/dev/null | grep -iE 'wazuh|logstash|opensearch|filebeat' || true
+          echo "=== listening ports ==="
+          ss -lntp 2>/dev/null | head -30 || true
+          echo "=== crontab (root) ==="
+          crontab -l 2>/dev/null || echo "(none)"
+          REMOTE
+          echo "--- inventory ---"; cat inventory.txt
+
+      - name: Collect and sanitize on the host
+        if: ${{ !inputs.probe_only }}
+        env:
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'bash -s' <<'REMOTE'
+          set -euo pipefail
+          OUT=/tmp/icit-capture
+          rm -rf "$OUT"; mkdir -p "$OUT"/{ossec,logstash,opensearch,dashboard,scripts,cron,apt}
+
+          copy() { [ -e "$1" ] && cp -r "$1" "$2" 2>/dev/null || true; }
+
+          copy /var/ossec/etc/ossec.conf              "$OUT/ossec/"
+          copy /var/ossec/etc/shared                  "$OUT/ossec/"
+          copy /var/ossec/etc/rules                   "$OUT/ossec/"
+          copy /var/ossec/integrations/custom-webhook.py "$OUT/ossec/"
+          copy /etc/logstash/pipelines.yml            "$OUT/logstash/"
+          copy /etc/logstash/pipelines                "$OUT/logstash/"
+          copy /etc/logstash/conf.d                   "$OUT/logstash/"
+          copy /etc/logstash/threat-intel             "$OUT/logstash/"
+          copy /etc/opensearch/opensearch.yml         "$OUT/opensearch/"
+          copy /etc/wazuh-dashboard/opensearch_dashboards.yml "$OUT/dashboard/"
+          copy /usr/local/bin/logstash-validate.sh          "$OUT/scripts/"
+          copy /usr/local/bin/sentinel-watchdog.sh          "$OUT/scripts/"
+          copy /usr/local/bin/sentinel-pipeline-monitor.sh  "$OUT/scripts/"
+          copy /etc/apt/preferences.d                 "$OUT/apt/"
+          crontab -l > "$OUT/cron/root.crontab" 2>/dev/null || echo "(none)" > "$OUT/cron/root.crontab"
+          ls -1 /etc/cron.d 2>/dev/null > "$OUT/cron/cron.d.listing" || true
+
+          # Drop anything that is itself a key file.
+          find "$OUT" -type f \( -name '*.key' -o -name '*.pem' -o -name '*.p12' -o -name '*.jks' \) -delete
+
+          # Sanitize in place. Value-bearing assignments first, then bare secrets.
+          MANIFEST="$OUT/REDACTIONS.txt"
+          : > "$MANIFEST"
+          find "$OUT" -type f ! -name REDACTIONS.txt -print0 | while IFS= read -r -d '' f; do
+            case "$(file -b --mime-type "$f")" in text/*|application/json|application/xml) ;; *) continue ;; esac
+            before=$(md5sum "$f" | cut -d' ' -f1)
+            sed -i -E \
+              -e 's#(https://hooks\.slack\.com/[A-Za-z0-9/_-]+)#${SLACK_WEBHOOK_URL}#g' \
+              -e 's#(https://chat\.googleapis\.com/[A-Za-z0-9/_?=&.-]+)#${GOOGLE_CHAT_WEBHOOK_URL}#g' \
+              -e 's#(https://discord(app)?\.com/api/webhooks/[A-Za-z0-9/_-]+)#${DISCORD_WEBHOOK_URL}#g' \
+              -e 's#((password|passwd|pwd)[[:space:]]*[:=][[:space:]]*)["'"'"']?[^"'"'"'[:space:]]+#\1${PASSWORD}#Ig' \
+              -e 's#((api[_-]?key|apikey|token|secret|auth[_-]?token|bearer)[[:space:]]*[:=][[:space:]]*)["'"'"']?[^"'"'"'[:space:]]+#\1${API_KEY}#Ig' \
+              -e 's#(<authd_pass>)[^<]*(</authd_pass>)#\1${AUTHD_PASS}\2#g' \
+              -e 's#(<password>)[^<]*(</password>)#\1${PASSWORD}\2#g' \
+              -e 's#(<key>)[^<]*(</key>)#\1${KEY}\2#g' \
+              -e 's#-----BEGIN [A-Z ]*PRIVATE KEY-----#${PRIVATE_KEY_REMOVED}#g' \
+              "$f" 2>/dev/null || true
+            after=$(md5sum "$f" | cut -d' ' -f1)
+            [ "$before" != "$after" ] && echo "redacted: ${f#$OUT/}" >> "$MANIFEST"
+          done
+          echo "--- redaction manifest ---"; cat "$MANIFEST" || true
+          tar czf /tmp/icit-wazuh-config.tgz -C /tmp icit-capture
+          echo "archive bytes: $(stat -c%s /tmp/icit-wazuh-config.tgz)"
+          REMOTE
+
+          scp -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST:/tmp/icit-wazuh-config.tgz" .
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'rm -rf /tmp/icit-capture /tmp/icit-wazuh-config.tgz'
+
+      - name: Final scan for anything that still looks like a secret
+        if: ${{ !inputs.probe_only }}
+        run: |
+          set -euo pipefail
+          mkdir -p check && tar xzf icit-wazuh-config.tgz -C check
+          if grep -rInE 'BEGIN [A-Z ]*PRIVATE KEY|gsk_[A-Za-z0-9]{20,}|sk-or-v1-|AIza[A-Za-z0-9_-]{30,}|xox[baprs]-' check/ ; then
+            echo "::error::possible secret survived sanitization — artifact NOT uploaded"
+            exit 1
+          fi
+          echo "no key material found in the sanitized set"
+
+      - name: Upload
+        if: ${{ !inputs.probe_only }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: wazuh-config-sanitized
+          path: icit-wazuh-config.tgz
+          retention-days: 1
+
+      - name: Always remove the key from the runner
+        if: always()
+        run: rm -f ~/.ssh/wazuh
