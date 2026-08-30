@@ -156,6 +156,12 @@ jobs:
               -e 's#(https://discord(app)?\.com/api/webhooks/[A-Za-z0-9/_-]+)#${DISCORD_WEBHOOK_URL}#g' \
               -e 's#((password|passwd|pwd)[[:space:]]*[:=][[:space:]]*)["'"'"']?[^"'"'"'[:space:]]+#\1${PASSWORD}#Ig' \
               -e 's#((api[_-]?key|apikey|token|secret|auth[_-]?token|bearer)[[:space:]]*[:=][[:space:]]*)["'"'"']?[^"'"'"'[:space:]]+#\1${API_KEY}#Ig' \
+              -e 's#(^|[^A-Za-z0-9_])([A-Z][A-Z0-9_]*_(KEY|SECRET|TOKEN|PASS|PASSWORD|PASSWD|CREDENTIAL|CREDENTIALS|APIKEY))[[:space:]]*=[[:space:]]*"[^"]*"#\1\2="${\2}"#g' \
+              -e "s#(^|[^A-Za-z0-9_])([A-Z][A-Z0-9_]*_(KEY|SECRET|TOKEN|PASS|PASSWORD|PASSWD|CREDENTIAL|CREDENTIALS|APIKEY))[[:space:]]*=[[:space:]]*'[^']*'#\1\2='\${\2}'#g" \
+              -e 's#(^|[^A-Za-z0-9_])([A-Z][A-Z0-9_]*_(KEY|SECRET|TOKEN|PASS|PASSWORD|PASSWD|CREDENTIAL|CREDENTIALS|APIKEY))[[:space:]]*=[[:space:]]*([^"'"'"'[:space:]]+)#\1\2=${\2}#g' \
+              -e 's#([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]*mailgun\.org)#${MAILGUN_DOMAIN}#g' \
+              -e 's#\b[0-9a-f]{32}-[0-9a-f]{8}-[0-9a-f]{8}\b#${MAILGUN_API_KEY}#g' \
+              -e 's#\bxkeysib-[A-Za-z0-9]{16,}#${BREVO_API_KEY}#g' \
               -e 's#(<authd_pass>)[^<]*(</authd_pass>)#\1${AUTHD_PASS}\2#g' \
               -e 's#(<password>)[^<]*(</password>)#\1${PASSWORD}\2#g' \
               -e 's#(<key>)[^<]*(</key>)#\1${KEY}\2#g' \
@@ -181,7 +187,12 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p check && tar xzf icit-wazuh-config.tgz -C check
-          if grep -rInE 'BEGIN [A-Z ]*PRIVATE KEY|gsk_[A-Za-z0-9]{20,}|sk-or-v1-|AIza[A-Za-z0-9_-]{30,}|xox[baprs]-' check/ ; then
+          # These patterns are the LAST line of defence and must not simply mirror
+          # the sanitizer's assumptions. A live Mailgun key survived the first pass
+          # because the sanitizer keyed on the word "api_key" and the variable was
+          # named MAILGUN_KEY; the gate then missed it because it only looked for
+          # provider-specific prefixes. Both now match on shape as well as name.
+          if grep -rInE 'BEGIN [A-Z ]*PRIVATE KEY|gsk_[A-Za-z0-9]{20,}|sk-or-v1-|AIza[A-Za-z0-9_-]{30,}|xox[baprs]-|xkeysib-|[0-9a-f]{32}-[0-9a-f]{8}-[0-9a-f]{8}|[A-Z][A-Z0-9_]*_(KEY|SECRET|TOKEN|PASS|PASSWORD)[[:space:]]*=[[:space:]]*["'"'"']?[A-Za-z0-9/+_-]{12,}' check/ ; then
             echo "::error::possible secret survived sanitization — artifact NOT uploaded"
             exit 1
           fi
