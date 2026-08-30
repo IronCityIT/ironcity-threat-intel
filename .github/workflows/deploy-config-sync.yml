@@ -1,0 +1,117 @@
+name: Deploy config-sync to Sentinel
+
+# Installs the drift detector on wazuh-ironcity-01 and cron's it.
+#
+# After this runs, a configuration change made live on that host shows up as a
+# commit in ICIT-Infrastructure that nobody wrote by hand. That is the whole
+# point: the estate's current state exists because changes were made on boxes and
+# never written down.
+#
+# Needs, on this repository:
+#   WAZUH_SSH_KEY / WAZUH_HOST / WAZUH_USER   reach the host
+#   INFRA_DEPLOY_KEY                          write access to ICIT-Infrastructure
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_once:
+        description: 'Run a capture immediately after installing, to prove the push works'
+        required: false
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Install and cron
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch config-sync.sh from ICIT-Infrastructure
+        env:
+          DEPLOY_KEY: ${{ secrets.INFRA_DEPLOY_KEY }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DEPLOY_KEY:-}" ]; then
+            echo "::error::INFRA_DEPLOY_KEY is not set on this repository."
+            exit 1
+          fi
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/infra
+          chmod 600 ~/.ssh/infra
+          ssh-keyscan -H github.com >> ~/.ssh/known_hosts 2>/dev/null
+          GIT_SSH_COMMAND='ssh -i ~/.ssh/infra -o IdentitiesOnly=yes' \
+            git clone --depth 1 git@github.com:IronCityIT/ICIT-Infrastructure.git /tmp/infra
+          test -f /tmp/infra/tools/config-sync.sh
+          sh -n /tmp/infra/tools/config-sync.sh
+          echo "config-sync.sh fetched and parses"
+
+      - name: Open the connection to the host
+        env:
+          KEY: ${{ secrets.WAZUH_SSH_KEY }}
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          printf '%s\n' "$KEY" > ~/.ssh/wazuh
+          chmod 600 ~/.ssh/wazuh
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'hostname'
+
+      - name: Install the script, the deploy key and the working copy
+        env:
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+          DEPLOY_KEY: ${{ secrets.INFRA_DEPLOY_KEY }}
+        run: |
+          set -euo pipefail
+          scp -i ~/.ssh/wazuh -o BatchMode=yes /tmp/infra/tools/config-sync.sh \
+            "$USER@$HOST:/usr/local/bin/config-sync.sh"
+
+          # The deploy key goes over the same channel rather than being echoed
+          # into a remote heredoc, so it never appears in a command line.
+          printf '%s\n' "$DEPLOY_KEY" > /tmp/infra_deploy_key
+          scp -i ~/.ssh/wazuh -o BatchMode=yes /tmp/infra_deploy_key \
+            "$USER@$HOST:/root/.ssh/icit-infra"
+          rm -f /tmp/infra_deploy_key
+
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" 'bash -s' <<'REMOTE'
+          set -euo pipefail
+          chmod 0700 /usr/local/bin/config-sync.sh
+          chmod 0600 /root/.ssh/icit-infra
+          ssh-keyscan -H github.com >> /root/.ssh/known_hosts 2>/dev/null || true
+
+          # Pin git to this key, and only this key, for the working copy.
+          if [ ! -d /var/lib/icit-infra/.git ]; then
+            GIT_SSH_COMMAND='ssh -i /root/.ssh/icit-infra -o IdentitiesOnly=yes' \
+              git clone git@github.com:IronCityIT/ICIT-Infrastructure.git /var/lib/icit-infra
+          fi
+          git -C /var/lib/icit-infra config core.sshCommand \
+            'ssh -i /root/.ssh/icit-infra -o IdentitiesOnly=yes'
+
+          # Nightly at 03:17 -- jittered so four hosts do not all push at once.
+          ( crontab -l 2>/dev/null | grep -v 'config-sync.sh' ; \
+            echo "17 3 * * * ICIT_HOST_NAME=wazuh-ironcity-01 /usr/local/bin/config-sync.sh >> /var/log/icit-config-sync.log 2>&1" ) | crontab -
+
+          echo "--- installed ---"
+          ls -l /usr/local/bin/config-sync.sh
+          crontab -l | grep config-sync
+          REMOTE
+
+      - name: Prove it — capture, sanitize and push
+        if: ${{ inputs.run_once }}
+        env:
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes "$USER@$HOST" \
+            'ICIT_HOST_NAME=wazuh-ironcity-01 /usr/local/bin/config-sync.sh'
+
+      - name: Remove keys from the runner
+        if: always()
+        run: rm -f ~/.ssh/wazuh ~/.ssh/infra /tmp/infra_deploy_key
