@@ -75,7 +75,8 @@ jobs:
                    /usr/local/bin/sentinel-watchdog.sh /usr/local/bin/sentinel-pipeline-monitor.sh \
                    /var/ossec/integrations/custom-webhook.py /etc/logstash/threat-intel \
                    /var/ossec/etc/shared /var/ossec/etc/rules \
-                   /etc/opensearch/opensearch.yml /etc/wazuh-dashboard/opensearch_dashboards.yml; do
+                   /etc/wazuh-indexer/opensearch.yml /etc/filebeat/filebeat.yml \
+                   /etc/wazuh-dashboard/opensearch_dashboards.yml; do
             [ -e "$p" ] && echo "PRESENT $p" || echo "absent  $p"
           done
           echo "=== systemd units ==="
@@ -109,7 +110,8 @@ jobs:
           copy /etc/logstash/pipelines                "$OUT/logstash/"
           copy /etc/logstash/conf.d                   "$OUT/logstash/"
           copy /etc/logstash/threat-intel             "$OUT/logstash/"
-          copy /etc/opensearch/opensearch.yml         "$OUT/opensearch/"
+          copy /etc/wazuh-indexer/opensearch.yml      "$OUT/opensearch/"
+          copy /etc/filebeat/filebeat.yml             "$OUT/opensearch/"
           copy /etc/wazuh-dashboard/opensearch_dashboards.yml "$OUT/dashboard/"
           copy /usr/local/bin/logstash-validate.sh          "$OUT/scripts/"
           copy /usr/local/bin/sentinel-watchdog.sh          "$OUT/scripts/"
