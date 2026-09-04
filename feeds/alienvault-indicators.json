@@ -1,81 +1,13 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-04T01:33:45.569484",
+  "updated": "2026-09-04T10:01:47.620539",
   "counts": {
-    "ips": 80,
-    "domains": 548,
-    "hashes": 666
+    "ips": 65,
+    "domains": 487,
+    "hashes": 626
   },
   "data": {
     "ips": [
-      {
-        "value": "87.249.138.34",
-        "pulse": "Security Update \u2013 August 2, 2026",
-        "tags": [
-          "cloudflare tunnel",
-          "cve-2026-18577",
-          "cve-2026-18556",
-          "take control abuse",
-          "persistence mechanism",
-          "remote access",
-          "n-central vulnerability",
-          "administrative access",
-          "zero-day exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T09:03:11"
-      },
-      {
-        "value": "37.153.90.88",
-        "pulse": "Security Update \u2013 August 2, 2026",
-        "tags": [
-          "cloudflare tunnel",
-          "cve-2026-18577",
-          "cve-2026-18556",
-          "take control abuse",
-          "persistence mechanism",
-          "remote access",
-          "n-central vulnerability",
-          "administrative access",
-          "zero-day exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T09:03:11"
-      },
-      {
-        "value": "92.118.112.181",
-        "pulse": "Security Update \u2013 August 2, 2026",
-        "tags": [
-          "cloudflare tunnel",
-          "cve-2026-18577",
-          "cve-2026-18556",
-          "take control abuse",
-          "persistence mechanism",
-          "remote access",
-          "n-central vulnerability",
-          "administrative access",
-          "zero-day exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T09:03:11"
-      },
-      {
-        "value": "23.234.94.43",
-        "pulse": "Security Update \u2013 August 2, 2026",
-        "tags": [
-          "cloudflare tunnel",
-          "cve-2026-18577",
-          "cve-2026-18556",
-          "take control abuse",
-          "persistence mechanism",
-          "remote access",
-          "n-central vulnerability",
-          "administrative access",
-          "zero-day exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-05T09:03:11"
-      },
       {
         "value": "167.148.195.53",
         "pulse": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
@@ -1125,200 +1057,325 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-28T15:13:41"
-      },
-      {
-        "value": "47.107.224.89",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "45.156.37.159",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "85.137.53.71",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25"
-      },
-      {
-        "value": "185.84.98.85",
-        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
-        "tags": [
-          "post-exploitation",
-          "xmrig",
-          "ai infrastructure",
-          "credential theft",
-          "cve-2026-48710",
-          "cve-2026-59822",
-          "cve-2026-42271",
-          "litellm",
-          "cryptomining",
-          "mcp servers",
-          "prompt injection",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "94.26.106.29",
-        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
-        "tags": [
-          "post-exploitation",
-          "xmrig",
-          "ai infrastructure",
-          "credential theft",
-          "cve-2026-48710",
-          "cve-2026-59822",
-          "cve-2026-42271",
-          "litellm",
-          "cryptomining",
-          "mcp servers",
-          "prompt injection",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "185.62.1.8",
-        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
-        "tags": [
-          "post-exploitation",
-          "xmrig",
-          "ai infrastructure",
-          "credential theft",
-          "cve-2026-48710",
-          "cve-2026-59822",
-          "cve-2026-42271",
-          "litellm",
-          "cryptomining",
-          "mcp servers",
-          "prompt injection",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "162.141.92.192",
-        "pulse": "Open Directory Exposes Moobot Source Code and Ongoing Activity Post 2024 Court-Authorized Disruption",
-        "tags": [
-          "ddos-as-a-service",
-          "botnet",
-          "iot security",
-          "moobot",
-          "chinese cybercrime",
-          "stresd pro+",
-          "c2 infrastructure",
-          "mirai"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-28T02:25:32"
-      },
-      {
-        "value": "112.21.241.27",
-        "pulse": "Open Directory Exposes Moobot Source Code and Ongoing Activity Post 2024 Court-Authorized Disruption",
-        "tags": [
-          "ddos-as-a-service",
-          "botnet",
-          "iot security",
-          "moobot",
-          "chinese cybercrime",
-          "stresd pro+",
-          "c2 infrastructure",
-          "mirai"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-28T02:25:32"
-      },
-      {
-        "value": "39.175.139.108",
-        "pulse": "Open Directory Exposes Moobot Source Code and Ongoing Activity Post 2024 Court-Authorized Disruption",
-        "tags": [
-          "ddos-as-a-service",
-          "botnet",
-          "iot security",
-          "moobot",
-          "chinese cybercrime",
-          "stresd pro+",
-          "c2 infrastructure",
-          "mirai"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-28T02:25:32"
-      },
-      {
-        "value": "86.53.111.212",
-        "pulse": "Open Directory Exposes Moobot Source Code and Ongoing Activity Post 2024 Court-Authorized Disruption",
-        "tags": [
-          "ddos-as-a-service",
-          "botnet",
-          "iot security",
-          "moobot",
-          "chinese cybercrime",
-          "stresd pro+",
-          "c2 infrastructure",
-          "mirai"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-28T02:25:32"
-      },
-      {
-        "value": "185.158.250.155",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
       }
     ],
     "domains": [
+      {
+        "value": "jiejie.net",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.icloud-cdn.net",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "cdns3.51quickfox.cn",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "51quickfox.cn",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "cdns3.51quickfox.com",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "plugin.room.run",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.google-apis.net",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.techcheck1.com",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.wangmeng.xyz",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.wangmeng66.top",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "www.wangmengsb.com",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11"
+      },
+      {
+        "value": "resumeacceptable.com",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37"
+      },
+      {
+        "value": "publisherresolution.com",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37"
+      },
+      {
+        "value": "simultaneouslypower.com",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37"
+      },
+      {
+        "value": "wiselystarting.com",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37"
+      },
+      {
+        "value": "itemrange.com",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37"
+      },
+      {
+        "value": "reviewassignment.in",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19"
+      },
+      {
+        "value": "yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19"
+      },
       {
         "value": "crestmarkhq.com",
         "pulse": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security",
@@ -9853,1411 +9910,1407 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-28T15:13:41"
-      },
-      {
-        "value": "www.ac-link.com",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "www.findmyipaddr.com",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "cookie-whitelist.com",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "whale-alert.life",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "api.extensionanalyticspro.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "blockfolioaddressmonitor.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "cookie-whitelist.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "cryptopricebadgequickglance.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "cryptoratesfiatconverter.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "defipulsetracker.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "enable-right-click.click",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "ggle-analytics.co",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "ggle-analytics.com",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "lucky-random.sbs",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "password-protect-pdf.com",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "pricealarmsvolatilitywarnings.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "privatecryptonewsreader.pro",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "whale-alert.art",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "api.active-enable-right-click.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "api.codefilearc.net",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "api.creativelibrary.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "api.enable-right-click.click",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "content.resonanceweb.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "e.runtime.id",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "extension.io-safe.icu",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "feedback.feedx-ray.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "payload.siteinsight.bond",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "relay.seopulsepro.sbs",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "ws.seopulsepro.sbs",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "ws.site-signal.top",
-        "pulse": "19 Chrome and Edge Extensions Deliver a Wallet Drainer and Credential-Stealing Payloads",
-        "tags": [
-          "browser extensions",
-          "credential harvesting",
-          "cryptocurrency theft",
-          "supply chain compromise",
-          "csp stripping",
-          "xss injection",
-          "websocket c2",
-          "wallet drainer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:27"
-      },
-      {
-        "value": "crazyeltonproxy.top",
-        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
-        "tags": [
-          "post-exploitation",
-          "xmrig",
-          "ai infrastructure",
-          "credential theft",
-          "cve-2026-48710",
-          "cve-2026-59822",
-          "cve-2026-42271",
-          "litellm",
-          "cryptomining",
-          "mcp servers",
-          "prompt injection",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "1710.rwlp.be",
-        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
-        "tags": [
-          "post-exploitation",
-          "xmrig",
-          "ai infrastructure",
-          "credential theft",
-          "cve-2026-48710",
-          "cve-2026-59822",
-          "cve-2026-42271",
-          "litellm",
-          "cryptomining",
-          "mcp servers",
-          "prompt injection",
-          "honeypot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26"
-      },
-      {
-        "value": "api.cemg.xyz",
-        "pulse": "Open Directory Exposes Moobot Source Code and Ongoing Activity Post 2024 Court-Authorized Disruption",
-        "tags": [
-          "ddos-as-a-service",
-          "botnet",
-          "iot security",
-          "moobot",
-          "chinese cybercrime",
-          "stresd pro+",
-          "c2 infrastructure",
-          "mirai"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-28T02:25:32"
-      },
-      {
-        "value": "fileshareapp.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "sharefolders.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "formshare.cloud",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.sharefolders.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.formshare.cloud",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "usercontent.online",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.usercontent.online",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "fllefolder.com",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.linkfileshare.net",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "linkfileshare.net",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.worksplace.cloud",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "ms365-live.com",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "my-invite.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "statistic-ms.live",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "verify-drive.com",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.verify-drive.com",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "8291.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "ad-g.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "antonov.live",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "eurcpa.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "schoolclasssciencemath.me",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "sharedfolders.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "the-washington-ballet.com",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "account.securemail3d.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "accounts.gsecure.space",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "cloud.3dsecurity.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "cloud.mailsecure.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "cloud.rsecure.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.anticens.xyz",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.anticorruption.eurcpa.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "drive.google.sharedfolders.org",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "gdrive.gregc.online",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "login.antonov.live",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "login.intergroup.media",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "mail2.spravedlivo.site",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "portal.owalogin.ru",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "portal.spravedlivo.site",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "www.xn--80abhgqfmrcigxgke9b9f.xn--p1ai",
-        "pulse": "Inhospitable: Tracking Russian Cyber Espionage Infrastructure",
-        "tags": [
-          "device code phishing",
-          "oauth phishing",
-          "dns pivoting",
-          "evilginx",
-          "infrastructure tracking",
-          "credential harvesting",
-          "russian cyber espionage",
-          "think tank targeting"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "c2.saintpetersburgresident.ru",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "peer.saintpetersburgresident.ru",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "dysphoria.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "jerusalem.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "kieron.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "node.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "telaviv.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
-      },
-      {
-        "value": "wow.androiddebugbridge.su",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36"
       }
     ],
     "hashes": [
+      {
+        "value": "03fd832b81dd54d2bf5f610a8ff27856",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "19e760ee849eb7c1f100f2b7010a763d",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1f3031167f94b166cc7b69376a01c124",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2dd8681dcd218c88d1c78dfe939ec92b",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2ffdcfb7157511789228988e26d06fd6",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "30d59c3d4916aa5fb24050c6aae7f8e4",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3b79d95f7f7b58c401a3bc79f94ebb52",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5e4ed6abbf555e5a542e3d4308ccd7bf",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f3daf7417dd666213168eb6c7453cc7",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b1d344c9a1525373be6a3980fa85a603",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e0a92209dd62dae8460d934dc6b7ddd7",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "11a6df1e15663ae89f59a9e598ae8987f42a632b",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "173dd4190740b96f6f733c801b6428ed4b52b607",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2cc0425a90a39ac4eedadd59caaafad5b50f8420",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3449a349b6c8045b16df4f88d58c65c2bdf891bb",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "39504cead410056878962053f8d027e9f299cd10",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7ab7ffe4c233a4f2440f0fdeb2e117c788792281",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a195810c41f401c4b48cb557cf8ce60c2d807025",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b194a997c9a653134bdb1f2d0c3137dcdacb54d5",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b370b674ce877b9c0a7708c7834aeb7eda983564",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c41b4e11e6a9e3b53da1f92b213de9f65a825c92",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e90d2730f3354ff1adf334b03c95eac3207d47b9",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2b6cdafdfe427a3de1a94a8a2ca1f09fc4c8f90e4f59089fd9b35b73185ed01c",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3bd3b300f3278520819a06d0cb1f0eadbf946dbbc11352538246ff075eb427f1",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5cbb64375636e83b5f17d6083633cecc02e2a5f4168cd7cca5cdee36ccca9b38",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6634339b813e6105b5138de6ab67b016b8dfbf49233c29de9bab3207e8b50d24",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6932a20ac61fd3f93d7cfee414f6f46834068ac7c9ca011b054a6a10dc56b3d1",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7462ce2595119c928cf516ec33148dc2a39dd9f71636a5c849c7ed93b7c5ca06",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "795594ad5e6f2868cc4d8ed12dabf4f3999a1477c6b250527c5ede9a98528fb9",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a53d756f28457b1c4a239c91cdec8ed7b7da67a93e332e6df9621cbef8417474",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a5d36edc34fe54b2092349f877daf560a98f5fea635d1ac4a110b3518102ef96",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d9db5cbc193ddaf4c0a265804fdef70c32451daaf2974fa9adf52ce1defac5f7",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dc666e9c148bbca5e21d8c9a97143575c075f53360f135e0191aed9e8278d396",
+        "pulse": "QuickFox Supply Chain Attack Used to Deploy FDMTP Implant",
+        "tags": [
+          "dll sideloading",
+          "twill typhoon",
+          "fdmtp implant",
+          "electron application",
+          "fdmtp",
+          "supply chain",
+          "process guardrails",
+          "javascript loader",
+          "quickfox"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:30:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4b690f3ce585df982a042917b82642c8",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bd1eaea733425cd21a51a652c429951d",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "md5"
+      },
+      {
+        "value": "60285f6776cc3ff20872feeee7f2fd0b3b04410d",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9dd99bc68e60132f32fc33617deb9583c8cebb51",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "73955566338adffb423c3b7608792963080da780e8b7b2c2cd6b6b0cef6f217f",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7567994310a9576b1f98dc672ecfa038f1d65084315f59e3883f9b6f24000073",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "756c2096f54c5497110c9d854625c3ed592873e566d532077cd7adb4d10d4add",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "86881b8e9d197ac2f734792de48d5dfaebe7cafb6e35d49c5dd7fe6eb697230e",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bd61c2880920bbfb86c12df439dd1ca0258a10e532433698fd029aef2a5b33f2",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c7a80576fbd25057435652788591d13998da272edf627fc29d296684cefc50e5",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ee6807a8abfabced22ee026e178a28da64d13cc3408e224394ff6e5782fb9e1d",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f4c87a1df04274b7497cbf9a4619b946c915cf5210b6e2eaa2fee1629f4ff196",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f609621698eaad8c4683750fe8bd0e242349be3eea408da593151ff877ed8ab6",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f659681525debda69fe0865b2b27a42f684b1fda66aa7398e80b84cc765c73c7",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fb94688ed37dfcb985a8a4d720230e5150956e1788d579b0a54b53a153fd2f2e",
+        "pulse": "The Gentlemen Affiliate Deploys EtherRAT Across Windows Networks Using Ethereum Smart Contract C2",
+        "tags": [
+          "lateral movement",
+          "chisel",
+          "etherrat",
+          "sliver",
+          "blockchain c2",
+          "mimikatz",
+          "ligolo-ng",
+          "reverse tunnels",
+          "scheduled tasks",
+          "domain persistence",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:26:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "673570abcb54b368b9521bdff8f331d4",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6f2e3a9ec6914209bf85be0677aadf9e",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "82e81158366a953c33d0720dfe34b95b",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab5cdef0cde09c4bb0cab33ab0d2f92e",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c2a7f19ba96dc460d591d37d664fe6aa",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "09c42a82aa43d639f519c000123d28409c281c4d",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2e930eb7072ac6f8906c5df11e041d88aaea1fcd",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4b5eee1d2ba5bf3ca0389c0415626634c640a4bd",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6b62b776acccf2316247b31e78804b7ee0999cd0",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eb34adba2c6119def77f408f4e1f7ec6c4cfb783",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "04d3c82782927330d56827ff551697666dbab4b3abf5b86bde492efdd142bc58",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2da227ce38dbf8881fe0f6c4f864fcbb7b55dc861d4daf040312cba7e612dac4",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4e0d3da33f13e6440ecbdf4f0b838a164c73ad375c4788c4c205d87f5d2c1875",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4f4cefa348ed856f075b71449c39ed7734bb21e116186fc4a8f03bea1279e6eb",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57646c00b1fab68a1e7205a2b3963ce4a6dc85f1c559b63d02449a51db2c461b",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7ad4b911d05a12f91ab27ba3baa351a56653ca099dda7ad87ee2b94f8cd018c9",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ad9da27f72bb7abbfcba92f9302d3467f5487814bb34bbf4b1573abcb56e4efc",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3a9d5283f982f19979689af2f4416b3e0e57cbf469c71b6275b12fcba358b65",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f513e3e510970cfec0020d955df8d738a427d471bde49e483d55131826ba8706",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fc4494011c094e1046b22489004e5471b766baf51ed9c2c88a431bdecea84206",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0e3d182f6fd64f4b10910d3a19af738e",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5ae98c92fdb96b216d628ec633f65281",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "721a0b232b5456d8c40ef8f850f5be70",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d1f0e502ea4e81805ace4fd4cac2447a",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "md5"
+      },
+      {
+        "value": "777439faf46d5120401e9474a94282de532c8693",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "90b7336963d5ec15ffc86489bed4d6eb18f516d6",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b9f8b42be79c20b34e08fae7b80548d821824617",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ddefa54547b45c7fc0859fe05a35aa84d2215453",
+        "pulse": "Fake AI Tools Deliver Infostealer",
+        "tags": [
+          "infostealer",
+          "prometheus",
+          "nodejs infostealer",
+          "smartloader",
+          "ai developers",
+          "github impersonation",
+          "etherhiding",
+          "blockchain c2",
+          "lua obfuscator"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-05T08:59:19",
+        "hash_type": "sha1"
+      },
       {
         "value": "9161a8f7f07741db06b9f9a87b6ec7f277faf2ae3a3a661d6eb09cec4e12b920",
         "pulse": "ScreenConnect RMM Abuse, Cloudflare Tunnels, and Trusted Software Lures Threat Intelligence, Threat Research, Threat Security",
@@ -22098,2574 +22151,6 @@
         "source": "alienvault_otx",
         "created": "2026-08-28T10:52:46",
         "hash_type": "md5"
-      },
-      {
-        "value": "58cfb8b9fee1caa94813c259901dc1baa96bae7d30d79b79a7d441d0ee4e577e",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9097d9cf5e6659e869bf2edf766741b687e3d8570036d853c0ca59ae72f9e9fc",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b0f9f0a34ccab1337fbcca24b4f894de8d6d3a6f5db2e0463e2320215e4262e4",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "df60fa6008b1a0b79c394b42d3ada6bab18b798f3c2ca1530a3e0cb4fbbbe9f6",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ed8f20bbab18b39a67e4db9a03090e5af8dc8ec24fe1ddf3521b3f340a8318c1",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7c103519b975225c26b3c73e56295dde",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8473a9fb11f822ef738259d4528f9d25",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b46cbc0a5405703f110218d4ee2e46eb",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c9f3e6057e1809c10514f6a923a15860",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "eba56e503290204ab2bd77b130b3a1e4",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2774b165fab2d2f61a709f4d0411a87fcde920d2",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2dc99ef518c3c7fa62f26cd1cc6da9acb376b037",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5da5bd587b6039940586a98088f868c31c0b7129",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "de037b7e5e93ba1f8f6933d479f1216a9f01ecb2",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e4b61165be5937987b88352d2f1f8d57def30408",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "001b57368c10bee9e62374e3b3f232b113eb75a1f198243d43a5bb90e1d0f500",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "206bd177f3f3b637b0a444ce2dd6d5aaaefc9d66c866ac6ec0c9e946ce140991",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "231164362b2e4688e5d64ef7154845d655b649470bf995a79107b800ac5663b1",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2793e7caba2f9beecd9b01baf41b8cb79f5a1a083ddedc6602ff23996bdc3104",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2e320c457658d35a2bb7c420c53bdcc3916f01a7dd4572e5540e8fce923d201b",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2e81945ba27108cc613a8aa6aca409ad6f5204e647d08dd9ef7c881c9d28667a",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "38f0e1e00d5c6d4afd96217556ba1dbe963298be4f9f0890fc1a7618bed009bd",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5f2a06bb1d1a210e9c477e4e5db439ce7b11fe9345d39b1b959905ba576a076a",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "74456a8d6042a4232071bee99e25d23046b993486d6d8a98ab296915bbb53395",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7d8e98c0e322110021ae6d89f1a3ea090ef0741cf35b040dd4d0426a502d4845",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "877648c6ff448aa4efe1e3f004c089411285b8cb4139320e0dbec9d1d1bb3c77",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "87c15e4cf30098dcbfe9fd506c42896bf6d856aa77a70f312dd621b443b61dc3",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8f18e02cbe1fa7abd280d2e070efe7af07e20cfe635f81140d6d347c292f8f44",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c02d5429717001c55420730ee345c172e7ed89df3052b1e32b9bd122fce616d",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aebf896b2f60c52af5d38c036159e0243632134643e8ad374cb64ed8cb09f360",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b1d037e9ff070d9722b7b289629d9b64a08ec35fd843cc01d37e6db69781ddcb",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b8a1494b68617de92a3f58af8ca49dda4e9894f24c718ff3b26897a340e45c80",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bfc008f57dca8c6bf341d9d7cf66cdad53faf8b1bcfbeded4593a60f129174b6",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c2c9187033d22d7944ea9298461a0ac693ef2774b4ce08b0955d2aba3646fb44",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c6db004f2e8ff321d8a0e6d0134f2737d0f6ff79a4627a4b803ef926c107aa00",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f611e5415e21f229f75a42011d092e781ffe4118bb70ac95b9d85c41c81ef6ca",
-        "pulse": "Defense and Diplomacy Targeted with HOOKEDGE",
-        "tags": [
-          "apt28",
-          "headlace",
-          "diplomatic targeting",
-          "forest blizzard",
-          "hookedge",
-          "webhook abuse",
-          "gru",
-          "fancy bear",
-          "macro-enabled documents"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T17:37:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e10361a11f8a7f232ac3cb2125c1875a0a69a3e4",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "38de5b216c33833af710e88f7f64fc98",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9896a6fcb9bb5ac1ec5297b4a65be3f647589adf7c37b45f3f7466decd6a4a7f",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "66c72019eafa41bbf3e708cc3824c7c4447bdab6",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2915b3f8b703eb744fc54c81f4a9c67f",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7bdbd180c081fa63ca94f9c22c457376",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a31f222fc283227f5e7988d1ad9c0aecd66d58bb7b4d8518ae23e110308dbf91",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bcfac98117d9a52a3196a7bd041b49d5ff0cfb8c",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "41444d7018601b599beac0c60ed1bf83",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "38d053135ddceaef0abb8296f3b0bf6114b25e10e6fa1bb8050aeecec4ba8f55",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f462bfd8a1f66c19d9e2fb21e395fbe7db1d6be7",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c4dd71e347a076ba24bdd2d0ee532ef991c1ef25a2431a19f850942ba2ab16b2",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9a47c4d379998ade2f8f99e23a630c06",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e7e784cae8d37f12a5af0bc9b3975c8d3e668142e9c6b0b365ed4f4e80933c47",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a4480423617d0b0d3b38c8471cbf594c",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5b79c54faceee4161f3f42f9673b7ac2c1e2fd77",
-        "pulse": "How guardrails might become the attacker's best friend",
-        "tags": [
-          "defensive capabilities",
-          "badbox",
-          "toxicpanda",
-          "security operations",
-          "safety penalty",
-          "ai guardrails",
-          "frontier providers",
-          "threat investigation",
-          "operational sovereignty",
-          "agentic soc"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T21:51:46",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7e2e036fec2fe7ab4bbd43978d9296563894c92a112f5ac2f39957f12108e245",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ae6c356f1f09260b859f84d994ef8423540a6c0bdf98510d86b85834283e4926",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b77811db4d218c65670a6c9a5b33c30ff81c6d779e15d658643138771178a818",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4309d107af6a23f4a7f841b9148258e1a280b972",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "681b57b6bf79ff0fdcfd19633586a6dcd3491651",
-        "pulse": "Implants in the Supply Chain",
-        "tags": [
-          "firmware implants",
-          "phone-home implant",
-          "darklantern",
-          "speakingstone",
-          "endlessdoors",
-          "supply chain compromise",
-          "surveillance infrastructure",
-          "zbt routers",
-          "backdoor"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:26",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bfaeb987faa6de2b5a5eb63b1233d055215b09b0349a9394f2175fd7cdf385e4",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b9993a8ad0518849416798cf29668256ccb96598fc4423501ccab5312812653a",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "24b9ee242f21a73b55f7bb3297eafb33c60840907386b542ed79fc6b72365168",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "22bf76fe317ea6769bd38619bd440e42d119bd6b",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c8cb3f6d5b90c46686d2bf531dc1a5786e27edc5",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d602f4eeb914cf32782799376a8c5953",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "93d8cffab1171a115228808e526d9bd7fe935e4e",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d8a6b102c1715bd80393ce510931b1f6",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ea895416fe585a5c2a5dce207190ff1c",
-        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
-        "tags": [
-          "npm compromise",
-          "sync.js",
-          "supply chain attack",
-          "package lifecycle hooks",
-          "ipfs payload delivery",
-          "asyncapi",
-          "rat deployment",
-          "node.js targeting",
-          "ci/cd pipeline exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-27T22:16:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "17c5f13da5b62b155dd973f9062f12061687cc44ee9150d42871005ab5b9c4b5",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b55bd5db1e23f5f8da29de762624a69fda49e4c12030adb1bd5907e5c62d150e",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "336db0baaeb3528aad5ec906dbd2253827900e60d697be3e8d830c232c7d07d3",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0269c367eff172f6bfcb54ed717a3f9520be4130c4ab4d2f4a5c95c8dbaead5b",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1c5080b6fa705f69758a8add633e3314f1953308ff68750be9455340bc91536b",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "19dfcbd3726d6803844fb30dc04502ef",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "25081bdec05f64eb4f313420c82d8de957e30026",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d0310e982b671884e67580d627b1ad9dbaeaf2f68fef0611526615604ed93449",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b17532532560628d67674ca968c38b47",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d993c59e338b0b3160f053ccd4a90794",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "73651c02b29f1c07e3177e86c967fc45e9f30f0f",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8db6c78533c176f13b61405cdc3f8fad703325f1",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "955ff909972958098f0d4a06bcc4d6b9eea90449",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9c1716d770ea69e8e1418d96d52222396ecb4362",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a3b9575897c16cbf6afe3af1aa8b55171ea6edf9",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b0782a9d6eef2ce02f734a6e5e1d8e0f9a2b65be",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b7faa44ab0772047a8581bbfdd9c561e28fc66de",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c1bedea261f325441fb9a75c50b11d0c8fb01ac6",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "dcea71b9ab9de8efca301de9e2f7bf11c7132364",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "df510f6f69a5c149c216c7b3accc4f460d8cf363",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e7e1694162639ed587625432a79cfaa49f560d11",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0eb9d7be572752b2978458a54c9e2222",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2ca1c7f343ad6e8ff1d1e4055ae80130",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4544683ef9879b53dee835de76d59b3f",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6c07b423216bcb472cfc437b621f1cc8",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7e24b6f83f38fd25eaf5f17b137b2407",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a233dd26477ede4dfe1aaad67d6ca49e",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "eb7fe0fd1463a58a165df1111669eaea",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "md5"
-      },
-      {
-        "value": "461a9036ea41cca79988c0504c72059af47b5e8ec1a9194d88da5395fe4e452f",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5883fef28a236079cfcd98ffe50d85711a2e763763f218239d2a81e05ae43ace",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8df9fee6cc31f0f62218ac3fc3165f6533968370d718cc59e0c49dad870582f8",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d6b7bb3baba4a7a97d0fab24faa2165ca4f658a87447761321c77b8cda841a97",
-        "pulse": "Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria",
-        "tags": [
-          "cve-2020-25499",
-          "cve-2017-5259",
-          "ens domains",
-          "blockchain c2",
-          "botnet",
-          "cve-2013-3307",
-          "cve-2022-35733",
-          "dysphoria",
-          "sns domains",
-          "iot exploitation",
-          "cve-2016-20016",
-          "relay nodes",
-          "cve-2017-17215",
-          "jackskid",
-          "cve-2025-9528",
-          "proxy infrastructure",
-          "cve-2020-8515",
-          "ddos",
-          "cve-2025-34152",
-          "upnp traversal",
-          "cve-2018-14558",
-          "fbot",
-          "cve-2025-55182",
-          "cve-2025-28137"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:36",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2cfede38fb121a71a2f3607474aa8cd588a99f51b37e5e6f0d8cb789fa275032",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "26351aed0397158d3a3b8cc8fd3047d4c015d264c9895f10f20f1521b974ed18",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "36ff00b45e67baa7e3674b0c80f48e88737264c61e5c6b3b091200972de8157c",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "adc4af90540d33cd1e98f44b51482ae9250fbeb97d6f8d7841c81b618cb2c6e6",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8e8b90dedd456ded0c5748119836e1ca1066112bc569c1b41ca70eb931d1d4dc",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5f6a92006ca2ea4b464d66fb41af777edce7296939a7c6ee491e2b3cbfe09848",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bcc93dc55bc7daedf4ca57254f0e7a7f1c40e09851eab98fe10cde801982db17",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1352ad22c99983d91e600348b7cbf58235131b1ee34cea9f09623206d5b7dea7",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "67c6ef602cc850f10d935fee53fa40440df841adf081563bf4fc2631a71249ce",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c5742ea1875ecd2360022624149994909cd0546e221e4203dffd01f48de45469",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cb46f12d70824ea24ed1f8bcf45bf3f86680e02a9089aafc03b27f691be57be3",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f452f9cfa539f4a1fe25187a99a484391290d5dbaa422ba455edf6b04f81b7d1",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "78f0de8682e0e894a5784eb7e95db4da6088f528918ca3107dd1e76f80a561d8",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ae7565109fd01b88d82acf7f73ab20709cbc2c9f26fdea13e429ccc87a55d4fb",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "26e679eaf1e9baeb7c55eb48db482301171d4d26e1728544b23734a90dc70e1b",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b7c8c84d1729e78ca9d64d1d6dd97fe4",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e147076dd588df4e2bc9db25fcc306fb34a04a55",
-        "pulse": "Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan",
-        "tags": [
-          "polinrider",
-          "remote access trojan",
-          "dev#popper",
-          "blockchain loader",
-          "infostealer",
-          "developer targeting",
-          "omnistealer",
-          "npm supply chain"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-07-29T02:59:34",
-        "hash_type": "sha1"
       }
     ]
   }
