@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-10T20:08:18.942427",
+  "generated": "2026-09-11T01:39:51.673635",
   "feeds": {
     "greynoise-scanners.json": {
       "source": "greynoise",
-      "updated": "2026-09-10T20:08:16.377219",
+      "updated": "2026-09-11T01:39:48.476357",
       "count": {
         "malicious": 0,
         "benign": 0
@@ -11,7 +11,7 @@
     },
     "urlhaus-malware.json": {
       "source": "urlhaus",
-      "updated": "2026-09-10T20:08:17.834683",
+      "updated": "2026-09-11T01:39:50.655706",
       "count": {
         "urls": 0,
         "payloads": 0
@@ -19,11 +19,11 @@
     },
     "alienvault-indicators.json": {
       "source": "alienvault_otx",
-      "updated": "2026-09-10T20:08:15.354583",
+      "updated": "2026-09-11T01:39:47.260052",
       "count": {
-        "ips": 26,
-        "domains": 1378,
-        "hashes": 1140
+        "ips": 0,
+        "domains": 0,
+        "hashes": 0
       }
     },
     "feed-summary.json": {
@@ -33,17 +33,17 @@
     },
     "feodo-c2.json": {
       "source": "feodo_tracker",
-      "updated": "2026-09-10T20:08:18.404192",
+      "updated": "2026-09-11T01:39:51.074319",
       "count": 1
     },
     "spamhaus-drop.json": {
       "source": "spamhaus",
-      "updated": "2026-09-10T20:08:16.787415",
+      "updated": "2026-09-11T01:39:49.343586",
       "count": 1803
     },
     "abuseipdb-ips.json": {
       "source": "abuseipdb",
-      "updated": "2026-09-10T20:08:14.389802",
+      "updated": "2026-09-11T01:39:24.007883",
       "count": 10000
     }
   }
