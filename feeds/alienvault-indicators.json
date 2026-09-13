@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-12T19:44:03.388798",
+  "updated": "2026-09-13T01:36:25.682508",
   "counts": {
     "ips": 69,
     "domains": 769,
-    "hashes": 1051
+    "hashes": 1042
   },
   "data": {
     "ips": [
@@ -13660,6 +13660,70 @@
       }
     ],
     "hashes": [
+      {
+        "value": "531dca50d5fd9c6f6ba3e5d7aaf42a2c",
+        "pulse": "Multi-Functional Linux Botnet \"Evooo1Bot\"",
+        "tags": [
+          "linux botnet",
+          "socks proxy",
+          "evooo1bot",
+          "ddos engine",
+          "edge device exploitation",
+          "mirai variant",
+          "iot targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T20:41:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4c7b271348d729f72f776d9b6284d1b32f01b17e",
+        "pulse": "Multi-Functional Linux Botnet \"Evooo1Bot\"",
+        "tags": [
+          "linux botnet",
+          "socks proxy",
+          "evooo1bot",
+          "ddos engine",
+          "edge device exploitation",
+          "mirai variant",
+          "iot targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T20:41:11",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4c0886349e9d348569fffe1b7a31e474d514508bf0cd6f1e5dd99c2a73525e4d",
+        "pulse": "Multi-Functional Linux Botnet \"Evooo1Bot\"",
+        "tags": [
+          "linux botnet",
+          "socks proxy",
+          "evooo1bot",
+          "ddos engine",
+          "edge device exploitation",
+          "mirai variant",
+          "iot targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T20:41:11",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f13cb360768363d3424e2192c7805b8c8015eb8706dbbbcdead6aed8cf390109",
+        "pulse": "Multi-Functional Linux Botnet \"Evooo1Bot\"",
+        "tags": [
+          "linux botnet",
+          "socks proxy",
+          "evooo1bot",
+          "ddos engine",
+          "edge device exploitation",
+          "mirai variant",
+          "iot targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-13T20:41:11",
+        "hash_type": "sha256"
+      },
       {
         "value": "dce02a45e7bec01df012b626182a2a7f",
         "pulse": "PATCHCORD: New malware cluster targets Afghan telecom and South Asian critical infrastructure",
@@ -31271,201 +31335,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "207e0d47c4e5493ef7313eb1faeb1c6195923c89f263e548609a6838dd91ec0c",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "259d8eddb6caf509d7bffa2b4c0dd7d89668800c870f529729ac2efdc1853fb6",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6700e30a3224248085d30f2eb727cea28dec288355fca6753449a26d1c1d1eee",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "86a5fb2f14d175d1c13a7b49b55b968b2a5e96afc944d85a31b3db906af00beb",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "87db7138a80117ddf2989827c1dde09ee73c7a252d511c74ed66af2fe34e2987",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8e988b915b75dd749e3f4e1ca7ee21746885b4fe34e8a246e6f10f5d892a675f",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8edd653910f3217c96a603e8ce9e5e409d3b8674476f22e0a3afe870bf3870b1",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9402c0198ae5c8bed14cdeaabe7e8b25625debbc62a900cfcdb82d34a35ab528",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c6b269e5087a40b4552f72e9ff13d9b39e433af5075ad68f57e9b5240a590d8",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a43bf7f81507c8f9d0942fed331e7590a43044a6d219ec1005974bf1a81974a1",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b4e3ca8f44477b9ade1272f92516202f83a80219c8bd6176527a6d624214e893",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e46aee4ca43ba66666f6572c62365cf57642f2cf1f6eca00fcf8eb33a291d66d",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f031c00f592aa5e98893b4532f743362fed7fb0a485e8a3c0ad4de677f1d7415",
-        "pulse": "PEEP: A Browser RAT Posing as a Chrome Extension",
-        "tags": [
-          "session hijacking",
-          "native messaging",
-          "browser extension",
-          "post-exploitation",
-          "peep",
-          "chrome rat"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T12:42:38",
         "hash_type": "sha256"
       }
     ]
