@@ -1,13 +1,52 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-14T01:54:22.583599",
+  "updated": "2026-09-14T11:03:03.386374",
   "counts": {
-    "ips": 60,
-    "domains": 735,
-    "hashes": 1048
+    "ips": 63,
+    "domains": 724,
+    "hashes": 1053
   },
   "data": {
     "ips": [
+      {
+        "value": "160.191.242.92",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39"
+      },
+      {
+        "value": "132.243.113.25",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "80.74.26.162",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
       {
         "value": "92.38.169.152",
         "pulse": "Melofee: a look back at a Linux implant and its new variants",
@@ -1153,6 +1192,150 @@
       }
     ],
     "domains": [
+      {
+        "value": "alexue4.dev",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "morphilina.me",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "api.jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "enhanced-1.jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "enhanced.jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "ext-03.jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "ext-styles.jeetbot.cc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "img.drisnya.online",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "proxy.morphilina.me",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "proxy.thebeholder.deno.net",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
+      {
+        "value": "thebeholder-proxy.deno.dev",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37"
+      },
       {
         "value": "appstoore.solutions",
         "pulse": "PATCHCORD: New malware cluster targets Afghan telecom and South Asian critical infrastructure",
@@ -12822,285 +13005,227 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "company.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "furqanmustafa.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "pittni.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "vazquezfleytas.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "edificiocristal.pt",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "odahlzr5lm.reliabilityinoperations.de",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "cloudbemismanufacturingcompanygroup.rydezyhrsysteminc.vu",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "servicetriumphgroupsimplyappraisals.spectrhwqumbrands.vu",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "velvorra.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "cloudgillettebrandberkshirehathaway.rtzcoekdrporation.vu",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "guzeldagenerji.com.tr",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "anglictina-doucovani.cz",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "goldenearth.ma",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "document24acces.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "camara-verde.org",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "demo.mybluekart.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "sefvraa.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "monntgro.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "cindymagee.net",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "itunes321.rovitan.vu",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "servicesmallplanetdigitalsystems.gdipbrinfotech.vu",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "zh-l-haixing.com",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
-      },
-      {
-        "value": "msgelement.show",
-        "pulse": "Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust Proxy",
-        "tags": [
-          "credential harvesting",
-          "open redirect exploitation",
-          "google infrastructure abuse",
-          "phishing"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:27:35"
       }
     ],
     "hashes": [
+      {
+        "value": "9d7cd4948a1fcbaeadc425752fce9a933bd6fc41eeede030dffd7b99b3bc51d5",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cc76bc218627279ecb4d0ce74ad2651e9db9e3e843e35d6569576e056e3a9218",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "13382c16e2401b07451577b46e634b8031ec254d98b876e59692b5fa22abc1d4",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6fbae3505ae0d638b820165c572d548ce92dda71e82dc47e8efe13f30617f35f",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9d87e6615c810907443ebd5e915f3b35099c3b5c6b6c684637138a7f8ec9cebc",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3bb6cd6fda610f65fd05741e20306f59",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "md5"
+      },
+      {
+        "value": "92bd261aab30589e89ac0e77beeadddd",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9d754cdf176c21649645444b56cb0e0e",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2fa81859fc4ff50f43ff16f5cee544f6e84cf5af",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7105b13258702a2d55c8a7a0f100bbe25891e54f",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ddd07abb4c1077a6b6e54d61a8f6026360ac6379",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "77c6547ba3f5769222b0c91d035abd540f42bf01",
+        "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
+        "tags": [
+          "telnet brute-force",
+          "cve-2026-46300",
+          "kataru",
+          "cve-2026-31431",
+          "cve-2026-43284",
+          "ddos",
+          "iot botnet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T17:55:39",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "141c35607dc0e8e400deb380126b3052bd0495b4d37c8dd979c6aa0204b142fc",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e17e1e671b597da19b89c5b2d0fa821e90e627860e756ae4947ed27c035330a8",
+        "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+        "tags": [
+          "oauth token theft",
+          "browser extension",
+          "proxy infrastructure",
+          "twitch"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T18:06:37",
+        "hash_type": "sha256"
+      },
       {
         "value": "c1d1ee16b92e6a138ffa048855f75d7d",
         "pulse": "New Armored Likho tools target Telegram and eavesdropping",
@@ -30708,159 +30833,6 @@
         "source": "alienvault_otx",
         "created": "2026-09-08T16:59:10",
         "hash_type": "sha1"
-      },
-      {
-        "value": "4af273fab49d3ee6aa182111a2891ed5",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "de10359f98cf66d7cb534f6ec7c5101e",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a20139421c881a47110838881e61b418814edb69",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f03931b9008cbc798abc5a7c54be206e7331ab3b",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "34c7929e60aa09bffdf458f4ee0b618f65d77e1b77e161f66fb835e35c405cc4",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "398633479c7d8c0c93616f50d1faaa7f01b5864c89de0911812da60bf90e3358",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3a2e69ca13d76af3d9502d352802be4d6aa00cc675da69fccab33dc3a0c914fe",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e42890753b9e9e08a29dab78db957677dfb9efd3dfa0aef84184d4257ad1a6f0",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e618dd67445e12d7c2bd9dada402f522b5456d891a81c7d1b0978b6409f21322",
-        "pulse": "Peeling Back the Layers: Inside Vidar - From Virtualized Code to Stolen Credentials",
-        "tags": [
-          "credential theft",
-          "vidar",
-          "anti-analysis",
-          "virtualization obfuscation",
-          "azure tokens",
-          "telegram c2",
-          "browser data exfiltration",
-          "information stealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-09T06:38:57",
-        "hash_type": "sha256"
       }
     ]
   }
