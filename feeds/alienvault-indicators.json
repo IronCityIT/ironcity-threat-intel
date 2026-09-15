@@ -1,13 +1,61 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-15T10:32:30.639072",
+  "updated": "2026-09-15T15:46:04.889009",
   "counts": {
-    "ips": 63,
-    "domains": 724,
-    "hashes": 1053
+    "ips": 62,
+    "domains": 708,
+    "hashes": 998
   },
   "data": {
     "ips": [
+      {
+        "value": "92.63.180.133",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "110.164.129.67",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "110.164.192.228",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "110.164.58.195",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
       {
         "value": "160.191.242.92",
         "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
@@ -1097,101 +1145,517 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-09T15:36:36"
-      },
-      {
-        "value": "45.150.34.2",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "145.249.109.147",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "150.241.94.112",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "213.6.207.123",
-        "pulse": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
-        "tags": [
-          "cron-injection",
-          "misconfiguration",
-          "redis",
-          "botnet",
-          "cryptomining",
-          "monero",
-          "meterpreter",
-          "rogue-replication",
-          "xmrig"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "79.110.49.156",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
       }
     ],
     "domains": [
+      {
+        "value": "xcyoibfhuufz.com",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51"
+      },
+      {
+        "value": "gitea.redacted.com.ar",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51"
+      },
+      {
+        "value": "s2.981666.xyz",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51"
+      },
+      {
+        "value": "bitretill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrefill-payments.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrefill-pays.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitruflli.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrefall.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrnfill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "biterflll.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitregift.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitigift.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "pay-bitregill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "pay-butrefill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitregill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrgift.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "bitrgifts.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "butrefill.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "pay-bitrgift.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "pay-bitrgifts.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "pay-bitigift.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitrefll-71a.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitrefll-h2a.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitrefll-pay-kfb.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitrefll-pay-xfb.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitrefll-q2a.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitreill-cz9c.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--bitreill-pay-yq4f.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--btrefill-l2a.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "xn--pay-bitrefll-fgb.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "example-pay.com",
+        "pulse": "Search results are sending people to fake Bitrefill checkouts",
+        "tags": [
+          "typosquatting",
+          "search engine manipulation",
+          "phishing",
+          "payment fraud"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T12:44:16"
+      },
+      {
+        "value": "jqwereid.online",
+        "pulse": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+        "tags": [
+          "e-commerce attacks",
+          "javascript sniffer",
+          "web skimming",
+          "magento cms",
+          "google tag manager abuse",
+          "websocket injector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T08:15:43"
+      },
+      {
+        "value": "fountm.online",
+        "pulse": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+        "tags": [
+          "e-commerce attacks",
+          "javascript sniffer",
+          "web skimming",
+          "magento cms",
+          "google tag manager abuse",
+          "websocket injector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T08:15:43"
+      },
+      {
+        "value": "gstatcs.com",
+        "pulse": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+        "tags": [
+          "e-commerce attacks",
+          "javascript sniffer",
+          "web skimming",
+          "magento cms",
+          "google tag manager abuse",
+          "websocket injector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T08:15:43"
+      },
+      {
+        "value": "webfaset.com",
+        "pulse": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+        "tags": [
+          "e-commerce attacks",
+          "javascript sniffer",
+          "web skimming",
+          "magento cms",
+          "google tag manager abuse",
+          "websocket injector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T08:15:43"
+      },
+      {
+        "value": "bulder.online",
+        "pulse": "GrelosGTM group abuses Google Tag Manager to attack e-commerce websites",
+        "tags": [
+          "e-commerce attacks",
+          "javascript sniffer",
+          "web skimming",
+          "magento cms",
+          "google tag manager abuse",
+          "websocket injector"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T08:15:43"
+      },
+      {
+        "value": "mail.3bb.co.th",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "www.ayuthayatech.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "agent.3bb.co.th",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "ccs.jasmine.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "openvpn.jasmine.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
       {
         "value": "alexue4.dev",
         "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
@@ -11926,1088 +12390,69 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-09T11:07:50"
-      },
-      {
-        "value": "leaguejazire.com",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "verification.google",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "smart.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "paf.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "tnt.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd-api-irs.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "sp1.gstats-api-coni.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "sp13.gstats-api-coni.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "sp13.gstats-api-cont.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "mgo.gstats-api-contact.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "riyazinikokar.xyz",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "metrics.demobunfiber.top",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "static.quorashift.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "kffd3.vexlatech.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "geo.estimator-undermostshelving.in.net",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "paternal-angrily.com",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "br.hugo-lapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "dau.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "dmt.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "doh.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "en.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd-api-irc.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd-api-iris.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd-api-rop.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd-api-zog.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd.gstats-api-contact.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fd.gstats-api-contd.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fgp.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "fr.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "jup.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "kffd3.vogueatelier.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "kr.cedar2glanz.ru",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "pf.hugo-mapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "phys.stunned-amniotic.com",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "pkg.vogueatelier.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "pt.hugo-lapp.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "sdx.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "update.dubbedmuch.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "wdm.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "wdm.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "wdx.unguidedfreewill.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "wdx.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "wix.velqo7.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "xn--b1ahgbfifq.gstats-api-cont.co",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "xn--b1aluem3j.gstats-api-contd.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "xn--i-ctbr1afp.gstats-api-contd.cc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "bsc.rpc.blxrbdn.com",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29"
-      },
-      {
-        "value": "drivinguber.com",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02"
-      },
-      {
-        "value": "newsinweb.com",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02"
-      },
-      {
-        "value": "asia.newsinweb.com",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02"
-      },
-      {
-        "value": "usa.newsinweb.com",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02"
-      },
-      {
-        "value": "ayakliborsa.net",
-        "pulse": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
-        "tags": [
-          "cron-injection",
-          "misconfiguration",
-          "redis",
-          "botnet",
-          "cryptomining",
-          "monero",
-          "meterpreter",
-          "rogue-replication",
-          "xmrig"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "socket.ayakliborsa.net",
-        "pulse": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
-        "tags": [
-          "cron-injection",
-          "misconfiguration",
-          "redis",
-          "botnet",
-          "cryptomining",
-          "monero",
-          "meterpreter",
-          "rogue-replication",
-          "xmrig"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "hagaseca.com",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "hagaseca.ec",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "hagaseca.pleasedonthackmyserver.com",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
-      },
-      {
-        "value": "test.hagaseca.com",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10"
       }
     ],
     "hashes": [
+      {
+        "value": "3a1e96289832518bff2feeb868bc61a4",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "88264a49750b3280e63894fb7445a9c2",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51",
+        "hash_type": "md5"
+      },
+      {
+        "value": "28b132ad55bd310bb5cf3ddb4ace580529ad735204a48cf388830d9039843d8e",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b441f793c87e54cb7e3f7205e25442aa19920d325cb6af41d2afdc8a0b5cf54f",
+        "pulse": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+        "tags": [
+          "rootkit",
+          "cve-2026-60004",
+          "jitterly",
+          "sixzut",
+          "elections targeting",
+          "gitea"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-15T13:05:51",
+        "hash_type": "sha256"
+      },
       {
         "value": "9d7cd4948a1fcbaeadc425752fce9a933bd6fc41eeede030dffd7b99b3bc51d5",
         "pulse": "KATARU: IoT Malware Adopts Public LPE Exploits",
@@ -29669,1169 +29114,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-09T11:07:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "abd28aecb2d57660bcd9455333b84d289aa883eaf5cf15def1bf0feb35833aa2",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "93830d73ddf9665ae4d5665f1cebabd093646ed54356662e1b2a925bc2df681b",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7504898b17a9ce05eb9209128bcd0fb67d675a70c8c64f6f624d08b47b2fe3af",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "567c158ee0858f8e941d4ab7a6c18dbc",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "47d922b0fd5d704025d14ef98ded46e74830a423",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bd36f4c15fe0acb6748da5ed12e45dcc37d412385812c078d1e4f04730e9f69b",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "56241fae7b30fae69410925b91107df5",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a42531b020a3f5f1adac3a962e9e92b0",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dc5859aa3e12e2bd3e04f1b9d4142abb",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "md5"
-      },
-      {
-        "value": "95e291766bde87901fe6e253f71c84bd9c8af4a8",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a8018c33a9c7cc594f6fa44c33ee83df804e6b6d",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d451fd0b6b9cdf481a5867ddcfcccfbe8a0739a8",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0c9bb4ced6c55776b0b2b903b4f65f2653d5868214601a4dcceea27789701dd5",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0d660045808528c0525313b148f649eb77a341a2a2f8c5641721551362aa73d0",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "10f411e530c7bd86583ce80977d795837d85bab6b3ecb01fe3f3d069cdaeca8e",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "15fea063a3ceba5e929536357d1e9e1b9f0326fcbec50d570c4583712b109d6f",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1819827e17f31e72d456158b6b9c90af25a65945f6f05d04a060da9f24179b25",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "20040a8d6389a1a638c39b5457f235b2c23efa8bbd9f98204db831d5e3dc9b66",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "264c87880f7afaeb02e0fa522db52294d5a4198ae97fcf67d9aace3474c1b62f",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "279d04c0cfd700c8bcb9acbed528131d3ffef8e25d12713e8649772739aecb92",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "38e74ff8d5f02617ff8858d9094b455d4e999223c7f78726584690e7201d94b7",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "643ef35536ff9273fb84b8504467b1a5645cd3ffd5476d64b99244b02131b205",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "86fbce191248bcc124b1259a178d84216d713f4acd516f578c5f3fdccb01fa4a",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "88735b838a83428193d1909424d082339cc1a993a4f91a9df09f51c81c69f70a",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "91c4e9537558ef4481e5ea29c785fd1bc3f162bb60e2fa313239957e4381cacf",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9aa88b8e5b298e78ebd55ad53d322efe4b26e6cb1fadf6e94ae258d62a3362e4",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9f7b6aa8bd4c726a9a8d4c2788814db417a21cf4a7f9de3e1fc2bca6203a4e14",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "be028ac6299ce6c2870941c700fa1fb2581bfd4ee6c0c75e89c5da9cea73fe97",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c2256961d9b7704e2bb85ae9512b4c1ee75fea95532434230c93cd5e38ef8aa7",
-        "pulse": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-        "tags": [
-          "credential theft",
-          "bnb smart chain",
-          "amatera stealer",
-          "webdav",
-          "etherhiding",
-          "cryptocurrency theft",
-          "zigcryptostealer",
-          "clearfake",
-          "clickfix",
-          "netsupport manager",
-          "amatera"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:22:29",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9678f71ea4cccbc3d511dc8d7f24b113",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "de62a2f47d1c7dec2997f931a050a615",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "md5"
-      },
-      {
-        "value": "59508d071661ea70fa5fcbe6f9e2fb72506e57df",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d182eb7cba0ffa42d770d7b0d3499e49f24163a2",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9ff32f7c0108e9d27a3b491edf04827b6ca025f44db68aeadc44eeb97c9aab11",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c4f70f37daae63fe47b0c92adf006f8cf50b6c522ad572a4014275cf979013a0",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d182eb7cba0ffa42d770d7b0d3499e49f24163a2662494ae615713c5f04b5260",
-        "pulse": "MacSync: The Evasive macOS Stealer Exploiting ClickFix Lures",
-        "tags": [
-          "credential theft",
-          "obfuscation",
-          "applescript",
-          "cryptocurrency wallets",
-          "stealc",
-          "maas",
-          "vidar",
-          "lummac2",
-          "clickfix",
-          "macos stealer",
-          "social engineering",
-          "macsync"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T12:29:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f90c8b1dcd374d4f552744ee1765583d",
-        "pulse": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
-        "tags": [
-          "cron-injection",
-          "misconfiguration",
-          "redis",
-          "botnet",
-          "cryptomining",
-          "monero",
-          "meterpreter",
-          "rogue-replication",
-          "xmrig"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "420c7850e09b7c2b9e39e2a93e204e3c56bcf08a685ff1daa986e3c348da5d2a",
-        "pulse": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
-        "tags": [
-          "cron-injection",
-          "misconfiguration",
-          "redis",
-          "botnet",
-          "cryptomining",
-          "monero",
-          "meterpreter",
-          "rogue-replication",
-          "xmrig"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bdca0eb738faaccb5b992d0f393b9d9f",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c6ee3d72053772bdce063c5b98afe32e739e918e",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "54d4ee85175a249dcb576716edf491d09fa05dfdfc492ff710a0cb711f9a35ab",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "24f344e174546e780332d573d5a27c43",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dfd9c7dee4f4a16d636917de35a510b7",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "md5"
-      },
-      {
-        "value": "03fc9c35d6453ccf7dd5d16ea2d6d272da1e1cae",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3a8138debf528361bf7093e3aa85a5f84105ebf6",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "05e26b639f55e53f73c2fd2980c519db347086951d832d58a94a26990d81befe",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "12fb8fe6cd895044e38217dd5945b0ec810f667660fd87dbb21687ea42084589",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "16c3ee7276d52c11d3cc6270af883abe5d7015ea4f8f66fb3b6493144a863377",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e6ff4a1dba4d6e4c29f4f7bc06b774104a38c181a05ebed127bb7b914128a21",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "30f4e1bc0cd96d4210765b18533eb0c5343f155a36b1a567132538242487d09c",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "45f71eb7ee96f80a1e865b2249452b603b729f4fc4c6f02ed00cadcdacf8f384",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5652e2256df133a429f329ba60fe78c67ce63e089a5a3d58e4ff3d058ef7a708",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7ec965cd61ad4de270b45e7719fdd72b3a37b27c0ba5764a73ec2c1cfc966559",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9cd3a954e807a3d596401b43e8820ca6ee76119d4dfc60afe0eaaf054e2c2ab5",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b32bfa02834d43f04b78854e6cc417da2d45a2ca6d2908f33c06dc97c7cc0389",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dfd708b9debd3c32897b96726a5a9437bcb36f1ad59639f1214a969f8f09e237",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8e2a4186103443e05f57d6607969ebba953a16f4",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "962add498857e2497bb9b720528cc6a687a5db07",
-        "pulse": "Inside a Packed Android RAT Loader",
-        "tags": [
-          "android rat",
-          "thost4",
-          "accessibility abuse",
-          "adb propagation",
-          "hagaseca",
-          "redroid",
-          "tc9",
-          "tc9.dex",
-          "thost9",
-          "worm behavior"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-08T16:59:10",
         "hash_type": "sha1"
       }
     ]
