@@ -1,13 +1,103 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-21T11:12:48.901206",
+  "updated": "2026-09-21T17:15:16.176687",
   "counts": {
-    "ips": 107,
+    "ips": 112,
     "domains": 425,
-    "hashes": 987
+    "hashes": 999
   },
   "data": {
     "ips": [
+      {
+        "value": "37.19.210.12",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:23:26"
+      },
+      {
+        "value": "149.102.229.154",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:23:26"
+      },
+      {
+        "value": "104.164.55.46",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T11:54:11"
+      },
+      {
+        "value": "104.164.55.46",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:23:26"
+      },
+      {
+        "value": "146.70.117.239",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:23:26"
+      },
       {
         "value": "45.11.59.140",
         "pulse": "Don't Call Us, We'll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
@@ -7810,6 +7900,214 @@
       }
     ],
     "hashes": [
+      {
+        "value": "0108656a3e1ade6ca4f21b084f5e1208",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T11:54:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bea5e267f24d7da59f6821bffdbff293",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T11:54:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "94b50ace73cc03790678c73b867be129",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "be860a15b7e5d44b0b3d67f598238fad",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c024189e1e7fa0ae6d24353367e8b98d",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ed276b2312f641b00f87fa18e85c48eb",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f1d2fdb7f3b699da69a050c5352a33c2",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f94de28bd66afc4679f546500db184d4",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "608c34e10713278fbe80b7cb5dedb0555cff1559",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d2a98fe01257d897a0dc5994392cbde9089fadf9",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "39368a9465aca3286e4436650b7a33b39a9294a81f3e681e056c9da0550e27c4",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9839448acc050331b5713882a25b863b47993a0f2859b4820563e34c72f5b679",
+        "pulse": "From Registry-Stored PowerShell to In-Memory Cryptocurrency Mining: A Multi-Stage Infection Chain",
+        "tags": [
+          "cryptocurrency mining",
+          "dns txt records",
+          "powershell",
+          "in-memory execution",
+          "registry persistence",
+          "obfuscation",
+          "wav files",
+          "steganography"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T15:16:14",
+        "hash_type": "sha256"
+      },
       {
         "value": "77b4fd46994992f0e57302cfe76ed23c0d90101381d2b89fc2ddf5c4536e77ca",
         "pulse": "Don't Call Us, We'll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
