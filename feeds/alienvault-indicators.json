@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-09-26T20:15:07.538314",
+  "updated": "2026-09-27T02:03:49.545939",
   "counts": {
     "ips": 69,
-    "domains": 244,
-    "hashes": 307
+    "domains": 248,
+    "hashes": 321
   },
   "data": {
     "ips": [
@@ -1259,6 +1259,80 @@
       }
     ],
     "domains": [
+      {
+        "value": "crazyeltonproxy.top",
+        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
+        "tags": [
+          "post-exploitation",
+          "xmrig",
+          "ai infrastructure",
+          "credential theft",
+          "cve-2026-48710",
+          "cve-2026-59822",
+          "cve-2026-42271",
+          "litellm",
+          "cryptomining",
+          "mcp servers",
+          "prompt injection",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26"
+      },
+      {
+        "value": "1710.rwlp.be",
+        "pulse": "Attacks on AI Infrastructure: 90-Day Honeypot Telemetry",
+        "tags": [
+          "post-exploitation",
+          "xmrig",
+          "ai infrastructure",
+          "credential theft",
+          "cve-2026-48710",
+          "cve-2026-59822",
+          "cve-2026-42271",
+          "litellm",
+          "cryptomining",
+          "mcp servers",
+          "prompt injection",
+          "honeypot"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26"
+      },
+      {
+        "value": "www.ac-link.com",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26"
+      },
+      {
+        "value": "www.findmyipaddr.com",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26"
+      },
       {
         "value": "apple-unlock.com",
         "pulse": "AI-Powered PhaaS Supply Chain",
@@ -5551,6 +5625,258 @@
       }
     ],
     "hashes": [
+      {
+        "value": "7e2e036fec2fe7ab4bbd43978d9296563894c92a112f5ac2f39957f12108e245",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ae6c356f1f09260b859f84d994ef8423540a6c0bdf98510d86b85834283e4926",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b77811db4d218c65670a6c9a5b33c30ff81c6d779e15d658643138771178a818",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4309d107af6a23f4a7f841b9148258e1a280b972",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "681b57b6bf79ff0fdcfd19633586a6dcd3491651",
+        "pulse": "Implants in the Supply Chain",
+        "tags": [
+          "firmware implants",
+          "phone-home implant",
+          "darklantern",
+          "speakingstone",
+          "endlessdoors",
+          "supply chain compromise",
+          "surveillance infrastructure",
+          "zbt routers",
+          "backdoor"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:26",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bfaeb987faa6de2b5a5eb63b1233d055215b09b0349a9394f2175fd7cdf385e4",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b9993a8ad0518849416798cf29668256ccb96598fc4423501ccab5312812653a",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "24b9ee242f21a73b55f7bb3297eafb33c60840907386b542ed79fc6b72365168",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "22bf76fe317ea6769bd38619bd440e42d119bd6b",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c8cb3f6d5b90c46686d2bf531dc1a5786e27edc5",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d602f4eeb914cf32782799376a8c5953",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "93d8cffab1171a115228808e526d9bd7fe935e4e",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d8a6b102c1715bd80393ce510931b1f6",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ea895416fe585a5c2a5dce207190ff1c",
+        "pulse": "Inside the AsyncAPI Supply Chain Compromise",
+        "tags": [
+          "npm compromise",
+          "sync.js",
+          "supply chain attack",
+          "package lifecycle hooks",
+          "ipfs payload delivery",
+          "asyncapi",
+          "rat deployment",
+          "node.js targeting",
+          "ci/cd pipeline exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-08-27T22:16:25",
+        "hash_type": "md5"
+      },
       {
         "value": "07d4a6ac925f9f7e63c7332df1995de03f514931e9d97cb3dd7a72fecf569e11",
         "pulse": "AI-Powered PhaaS Supply Chain",
