@@ -1,13 +1,214 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-01T11:54:13.495506",
+  "updated": "2026-10-01T17:34:35.853998",
   "counts": {
-    "ips": 45,
-    "domains": 313,
-    "hashes": 406
+    "ips": 56,
+    "domains": 304,
+    "hashes": 453
   },
   "data": {
     "ips": [
+      {
+        "value": "62.60.226.185",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14"
+      },
+      {
+        "value": "156.227.0.13",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49"
+      },
+      {
+        "value": "149.104.78.141",
+        "pulse": "Swarming Against Citrix 0-Day Exploitation",
+        "tags": [
+          "command injection",
+          "cve-2026-88771",
+          "citrixbleed",
+          "citrix netscaler",
+          "webshell",
+          "pre-disclosure attack",
+          "cve-2025-5777",
+          "rce",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:09"
+      },
+      {
+        "value": "117.107.25.243",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01"
+      },
+      {
+        "value": "193.42.40.135",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01"
+      },
+      {
+        "value": "45.141.21.130",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
+      {
+        "value": "173.40.135.209",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
+      {
+        "value": "47.230.224.154",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
+      {
+        "value": "62.133.62.80",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
+      {
+        "value": "70.172.58.168",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
+      {
+        "value": "31.56.197.72",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58"
+      },
       {
         "value": "103.160.59.97",
         "pulse": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
@@ -853,6 +1054,46 @@
       }
     ],
     "domains": [
+      {
+        "value": "psk1zim.abrdns.com",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01"
+      },
+      {
+        "value": "tls.psk1zim.abrdns.com",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01"
+      },
       {
         "value": "xemphimlau.com",
         "pulse": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
@@ -6017,217 +6258,1514 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-24T12:41:16"
-      },
-      {
-        "value": "pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion",
-        "pulse": "Galago Ransomware Emerges With Shared Infrastructure Ties to Panzer",
-        "tags": [
-          "healthcare targeting",
-          "double extortion",
-          "tor leak site",
-          "iceland",
-          "raas",
-          "infrastructure sharing",
-          "galago",
-          "ransomware",
-          "panzer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:40:34"
-      },
-      {
-        "value": "pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion",
-        "pulse": "Galago Ransomware Emerges With Shared Infrastructure Ties to Panzer",
-        "tags": [
-          "healthcare targeting",
-          "double extortion",
-          "tor leak site",
-          "iceland",
-          "raas",
-          "infrastructure sharing",
-          "galago",
-          "ransomware",
-          "panzer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:40:34"
-      },
-      {
-        "value": "docsend.appstore.com.mx",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27"
-      },
-      {
-        "value": "slack.apple03cloudstore.com",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27"
-      },
-      {
-        "value": "streamyard.appstore.com.mx",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27"
-      },
-      {
-        "value": "toria.apple03cloudstore.com",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27"
-      },
-      {
-        "value": "waaako.appstore.com.mx",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27"
-      },
-      {
-        "value": "havijmail.com",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34"
-      },
-      {
-        "value": "ces.yeyr.lol",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34"
-      },
-      {
-        "value": "errr.onllee.com",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34"
-      },
-      {
-        "value": "www.racon.online",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34"
       }
     ],
     "hashes": [
+      {
+        "value": "06185d74edbdc06f99095e96f74aa2e49a1cda2d02a294c11a9ac35a0231075e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "246717653bc2ae2e09036bac56c9d79940c652972a73f4c6aa9b925c28cce095",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f12f406b95c0d82ecc2bebef6f2b343e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "908ec018645315239dbd8b941f3e55a44d4b9811",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1337ed6fe9c6205b569670a40eab42b51ba69c5c1724d61474e8595acd90ecfb",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2d43d592630ad1e012da63ef7279f95dd4a8e94964e12ca2f996051875574fa6",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "066d83b98a2081e0bb075c94376aebc9b0fd6499025cab1762d83bbb4d7576c6",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "16addb6524e5cf76f4114b0979f715ff",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f48794510a5a3418cf042d95ffa13e3",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9bfa4d8625be6bffa7ae433d30f6ad1e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ae562ddc495a05b75fe617e4feec91bf",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "220f8c63b76dbb5de1f0f7ca4cc9fad2c5b896d3",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3b02d3ca024359776843cdd420e2a7decbb6da35",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "91c3431e51158aa800a452222a2404d7b82631ea",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bf444dcd65b2b22146896f79128bf85a3e16bdb0",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0e4d6c385922938ecc1962dbc7e5950b086459b172b70a945414cffe4395aa27",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1447ed0893b9095f671e2f35a2a0127890040b5459534813b0f83c3e1fffa0bf",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1b195181a2603b0b2608d49134af8c170225c2e06873c1fe5cd537db9018807f",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4c16f5ebd5c633b7a793ffa2cd96daddc5a503d82ed4fbe636109d89164ec02b",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d2abd7d872196abd951f1d7ed6406486499e5d5acc04f28fcd4f45b1851711e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "30cf47caf9700a74a8ea4a728b8b7c88cb1f8e22261b4ac01575b112c1e224ca",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0017821181723261801e24abb9d33c739f382889d46dbf46d320c87ac62e5ca6",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e0859d1fc8816b37a16f4eb2a7232eb8",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c2d4370aecc06016e4aaa606c635b1c9d219972e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2c786f7009cc5e1fba5471a88b23b34dce6e1578ee9f664ec62bf48227ba384b",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "41194d0a2a33a0a70b94da9cf16a3ca5",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ab4fe6616062bcca5d56c7f6ce0a64982760d323",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "19bd38875edc2c743993bbbeda388d99",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7231d31dc8e80378cdb7bb83880ddca44b388afd",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cbec833e4e0d7a6e5448263e785a1090",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9b6fb43f46dd50413d2e1a44c7791b951124bb56",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0a2ef2c360cf6e3e3e5d844ca03fecc31924ba0e8c3ecd8aefa778cae10fb19e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1c70ca6e573de25b3a823ce114b2e308",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7797b4603c874196c3eae50b89191f63",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "96f02125464c11ebf99e791364ef3791",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c57391593bb9d975cd014089eca9cf38",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2dd409f171e9de0eb9c531a63236939a6ec91e21",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4c38011124a439f6696cd549b2719bd3a211ae3c",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c925ddf87faa6da7690aa0749b6c25b6eb1e46b",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e0cae084f93e4fdc01ab8f49212d1313e71f159e",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0ee6df8a309443c86c0bba8b376f39531513d3451b46bebd4b79bb9d5bf8dcb1",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2ad9b5e1c9952e95cfa55a4255e952962b6208ae1ca610caf1c7c2383be7e74b",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3286ff477ccd888479b96d0ffb2bd53962862db7267a4bd1c8d8f8c22fec63d4",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "331fd58d489e9fb888a5e4193d0e36f6ff29063808c59a164d98e26835054972",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "45d46e7064ba4b4cb578659f73ee354ad26cf2cc1e7f59bd3d15028e1e46a38b",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5edcaa75a28e5cd700bf7643b275fe5d28649aa41a0711f391ec1fca795a4e8a",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "18c070b8d032336a244440df1115123d",
+        "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
+        "tags": [
+          "indirect syscalls",
+          "information stealer",
+          "evasion techniques",
+          "vidar",
+          "remus",
+          "xworm",
+          "loader",
+          "payload encryption",
+          "2cloader",
+          "anti-analysis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:08:14",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d2e55213a02fd16a077298c986130522eb63196bdf8a8c1aec0eed6ef318b222",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cf6dd15baf5ef66432a95b5a2ec64ba5c6de565b3fb9e10ae01b1a91612a1c2c",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bc5fd75b307c2a11a602fbedb8275e0836ddf81cdd43af00a6bf0d850ff6cf58",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "33d0a8294d2520608dbc4901c3ebd525aaeb7b8eceba9d140f62efa419a8c55a",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a8ff38e5f21a5202e1ce33e62b9ddde4ec4faffabd52a4a146cff18c877fe7ca",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f893ab902cf0ad1a62cdfe04c58ba7560db7a0f5153303af18bd549c6619a044",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9c8760f8b973360701774bc56c7c97295eb42d49a02a281cbaadc32c973bd8b2",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d91c10536293d23bd3ebfc0f922e367303f455571556d83684170183dd6897f4",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8673371d266d041dae20f64e0532d2bca65c3b09a6c0faf16a6546e6067bac2e",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1a7541b30dcccd91e969f0e1586ba18fbf3a7d78f960654a5c1489108e516180",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "67a5fe0dd43cb25c539341c0bf31d2b0",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "md5"
+      },
+      {
+        "value": "acc6aad93d92b4eca8b0fec938ac38cf",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3406e4d5b6cc917080c531fae37decc9073e7617",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "561485ba4f3954414b7ad1c4d58a6a9748116d30",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "861207a8973ab353910d746853b232429fbaaa621ff0ab2df182ffb7af75d6ec",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c59edcfa37db923d3a6a4739d073aee9f54383505d196d36de2e8834aa3c2378",
+        "pulse": "PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578",
+        "tags": [
+          "java loader",
+          "adaptixc2",
+          "cve-2026-82078",
+          "papercut mf",
+          "domain compromise",
+          "web shell",
+          "lateral movement",
+          "cve-2026-81578",
+          "zero-day exploitation",
+          "credential dumping"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f5a2a452a7901323abd21879c6cecccb47c06aeeaccb1b467212f3b11e4b1e7",
+        "pulse": "Swarming Against Citrix 0-Day Exploitation",
+        "tags": [
+          "command injection",
+          "cve-2026-88771",
+          "citrixbleed",
+          "citrix netscaler",
+          "webshell",
+          "pre-disclosure attack",
+          "cve-2025-5777",
+          "rce",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:37:09",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dee5af1c0f76b45d28bafd6e60c07bb8e391d98addf81ef8f13d073acdb3c48a",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aea991f694911e321b0ab97534f2ad0291c392c0a43dabff664c563618bd036d",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ab7de2509038edf580aef6229c1c3db17f4da8f2d7d940818faf617d1938244",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bf28f38122bf20d5fac969cc414daa6a890cdea872d389ca93d2092b6b7773cf",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b594a42b8f1c6f090327bb9a3361c2d3515537fb7ac8da6b9061b9a3f330e159",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "65a7576c389326b6cdf9c993d0be6e5d50fed9655d1cdf2a3a50f2c21c8ec435",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "22ef852f6ebc39ee71235b90648b4b200b385c47d25c79545986493f8c70db69",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "518fe65dd349180191d9b258ab24876aaed6613cd657d0b626d1fc24e03a22b6",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "66555abd5f6529e20fb03b2743f177c6",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f214d3dcd1ba1bd92955a8bed9c6d8f7",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1e03cbd0d75e9ba9724a266a24d65250bda9a292",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "93eac8c351d4890644ca969d30792a8800b22c1d",
+        "pulse": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "tags": [
+          "privilege-escalation",
+          "looptik",
+          "jsp-webshell",
+          "zimbra",
+          "chopper",
+          "command-injection",
+          "cve-2026-73570",
+          "mail-server",
+          "godzillawebshell",
+          "snmp-exploitation",
+          "credential-theft",
+          "needymantis"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-30T18:07:01",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e9fe43968c6c0955300e3bc4d7fb0b05a18570b4733aaf4f5c6f7f09be5a242c",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "974b69782fdf5d67b97cfd508465939e44ee10798dbcc1e82b92d78776bad938",
+        "pulse": "Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators",
+        "tags": [
+          "update_c08937.pl",
+          "configuration-exfiltration",
+          "cve-2026-88771",
+          "pre-authentication",
+          "web-shell",
+          "citrix netscaler",
+          "command-injection",
+          "credential-creation",
+          "reverse-shell",
+          "main.py"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T04:55:58",
+        "hash_type": "sha256"
+      },
       {
         "value": "60b6771958cb7e553994ba6752f108575ba70e02d24affb51d8936a17eb0bf5e",
         "pulse": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
@@ -13677,601 +15215,6 @@
         "source": "alienvault_otx",
         "created": "2026-09-24T13:26:16",
         "hash_type": "sha256"
-      },
-      {
-        "value": "26a0f7cdb9f7dc5ace9a40af825b1538",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2d69812584269699fade26622e6490c5",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7df1049cbd56c0bfa4a3364a379b4c2c",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9f15fe9c4415cd668334339f705b94d8",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fb90887592655a8c989e443c640167aa",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6791dad263cac6d63ebba6a4b57e7d71",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3ded1d71a822b53b12c3b67bcaf633f5",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "781ce50001d4b449600afa347c9b0208",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8e84b01d5ac9624f0b181ade0e737193",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "980e2134679bc0c609f7659882883d77",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "4203ec932bfcc0907f91732440d6d997",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "eb760d5c88f13f7ee0f8f86ba3407123",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f9f70096aabb4d22a6657014f4853a53",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3deeed48fd38f22e369f5c3092bd68a1",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f97d24212fa6a21be0c4d211e10f044c",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "00d12d842596bf5ee1805effb4571d30",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9a0043d900a9ac78c886c59c9a328fd0",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7212229c85852c3bffaf9740002b2f39",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c53d0ea45dbc622afb7f16ea3eec78bc",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fc3ba5ed282d77127efd0b0f2403531b",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8dc8561349d144d4661bc66f2ec49f9f",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "09425f72de8bba18893dcd6f04115891",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3a1af2b397c6958e6c3ba3c75912d60e",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8d371f8a7a6dcc2655544ae13cbca03d",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3744f975113dfc552df982dcae699f9154a448e05a743bdfb641a463352bc13a",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b8b4b88205a8f594b95a841bc37342898f34cad8a5a9e4a22ce69a31a1208650",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cb09ff86cabde4f8cee2d3cdec370c623bfa6c2b72ae9750fc9a7b299c65d7ca",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ff3ab9ef841630364818396f62e696b72aed162cf0b895b6643ef25dad79b51d",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ff664112d3215c5d184689fc836e0dc6c1a47e42c34e70b2c3d356864bc4cb4c",
-        "pulse": "A new version of the MacSync macOS stealer targets crypto enthusiasts and developers",
-        "tags": [
-          "macsync",
-          "amos",
-          "pam stealer",
-          "social engineering",
-          "macos stealer",
-          "icloud abuse",
-          "infostealer",
-          "developer targeting",
-          "cryptocurrency theft",
-          "backdoor module"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T12:28:27",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0452650b0b1e7eeaf01bd74e927a4dd7",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "90a61dcc76d704b2e861a0465ced2f87",
-        "pulse": "What the Source Leak Says About HookBot",
-        "tags": [
-          "cerberus",
-          "hookbot",
-          "blackrock",
-          "overlay attacks",
-          "xerxes",
-          "lokibot",
-          "ermac",
-          "hook",
-          "docker deployment",
-          "cryptocurrency wallets",
-          "source code leak",
-          "android banking trojan",
-          "vnc remote control"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-25T16:29:34",
-        "hash_type": "md5"
       }
     ]
   }
