@@ -1,13 +1,65 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-02T02:44:13.362671",
+  "updated": "2026-10-02T11:26:25.811002",
   "counts": {
-    "ips": 55,
-    "domains": 325,
-    "hashes": 472
+    "ips": 54,
+    "domains": 402,
+    "hashes": 488
   },
   "data": {
     "ips": [
+      {
+        "value": "95.164.53.76",
+        "pulse": "$100k in Crypto Drained by the Underground Operation",
+        "tags": [
+          "exchange drain",
+          "tedy",
+          "vidar",
+          "aotera loader",
+          "vidar stealer",
+          "underground",
+          "aotera",
+          "clipboard clipper",
+          "browser injection",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:13:35"
+      },
+      {
+        "value": "193.32.162.134",
+        "pulse": "TIKTOUK: Tracing a WordPress Credential Collection Toolkit",
+        "tags": [
+          "credential theft",
+          "wordpress",
+          "tiktouk",
+          "smtp plugin decryption",
+          "configuration exposure",
+          "aws credentials",
+          "cve-2026-63030",
+          "cve-2026-60137",
+          "rest api probing",
+          "javascript scanning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T21:20:52"
+      },
+      {
+        "value": "79.141.169.187",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23"
+      },
       {
         "value": "62.60.226.185",
         "pulse": "2CLoader: A New Malware Loader Delivering Vidar and Remus",
@@ -972,72 +1024,1546 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-26T20:56:41"
-      },
-      {
-        "value": "107.175.82.242",
-        "pulse": "The Psychedelic Stealer: When a CAPTCHA Becomes an Installer",
-        "tags": [
-          "psychedelic",
-          "infostealer",
-          "windows run",
-          "msi package",
-          "fake captcha",
-          "clipboard"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:53:40"
-      },
-      {
-        "value": "193.178.159.128",
-        "pulse": "The Psychedelic Stealer: When a CAPTCHA Becomes an Installer",
-        "tags": [
-          "psychedelic",
-          "infostealer",
-          "windows run",
-          "msi package",
-          "fake captcha",
-          "clipboard"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:53:40"
-      },
-      {
-        "value": "193.233.75.7",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49"
-      },
-      {
-        "value": "194.87.89.30",
-        "pulse": "The Not So Silent Miner: Threat Actor Compiles Cryptominer on the Endpoint",
-        "tags": [
-          "c3pool",
-          "cryptominer",
-          "on-endpoint compilation",
-          "silentxmrminer",
-          "monero",
-          "cve-2024-7399",
-          "cve-2025-4632",
-          "anydesk",
-          "samsung magicinfo"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:50"
       }
     ],
     "domains": [
+      {
+        "value": "san-sid.com",
+        "pulse": "Hackers Weaponize Microsoft Teams Help Desk Calls for Malware and Network Lateral Movement",
+        "tags": [],
+        "source": "alienvault_otx",
+        "created": "2026-09-02T09:59:12"
+      },
+      {
+        "value": "y32me8.com",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42"
+      },
+      {
+        "value": "apple03cloudstore.com",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42"
+      },
+      {
+        "value": "wavel.apple03cloudstore.com",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42"
+      },
+      {
+        "value": "www.cwmodern.com",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45"
+      },
+      {
+        "value": "www.dolgicap.com",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45"
+      },
+      {
+        "value": "sharehub.space",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "driftshare.co",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "globalfileshareplatform.com",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "quickfly.online",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "smartsyncbox.com",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "cirrushare.co",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "mypublicshare.com",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "goshshare.online",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "synchvault.co",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "cloudsyncpulse.com",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "onecloudfilesync.com",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "msfile.online",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "winsync.cloud",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "publicsharefile.cloud",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "fileswiftonline.cloud",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "tw-koryu.org",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "heritiages.org",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "heritiage.org",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "shinjirou.info",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48"
+      },
+      {
+        "value": "quick-neo.com",
+        "pulse": "$100k in Crypto Drained by the Underground Operation",
+        "tags": [
+          "exchange drain",
+          "tedy",
+          "vidar",
+          "aotera loader",
+          "vidar stealer",
+          "underground",
+          "aotera",
+          "clipboard clipper",
+          "browser injection",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:13:35"
+      },
+      {
+        "value": "easybooters.com",
+        "pulse": "$100k in Crypto Drained by the Underground Operation",
+        "tags": [
+          "exchange drain",
+          "tedy",
+          "vidar",
+          "aotera loader",
+          "vidar stealer",
+          "underground",
+          "aotera",
+          "clipboard clipper",
+          "browser injection",
+          "cryptocurrency theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:13:35"
+      },
+      {
+        "value": "sitemuife3h91vjj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujoqrmsm0et.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujrfn7witew.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujtcvh5q9fj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujtdkvy6c7n.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujumvtmjaf1.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujuncdlpnng.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujuno47vpud.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7y434m4om.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7yi5eqn74.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7ys6db9qj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk9ayiwadjz.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk9c4oppeco.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukrod1am6ez.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukvxv7j5hmv.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukh5awm67rj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukww7ivnaji.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukwxih8302f.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemul95pxqgmm8.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulaucnbmnrd.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuli8pd7qi9z.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulpmt6if530.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulpo7jkntfz.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuls00qrsh0k.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulszq4rm2yn.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemufl06qs0r4o.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemui6m6bbj1bd.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemui8go6g99bb.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuicitd4jrtr.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuidkr38kji0.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuidlij5urd0.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuif3pa5k4eh.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuioeefbyh3i.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuioi7005ekb.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuizkhpdbjnv.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuj1xencnin8.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuj7lzbasipw.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujbcz1nas1x.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujdi54aitrf.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujejvp4tp0x.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujffobdhxgj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuji07m137aw.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujsm7brhwh0.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujtd8ingh2b.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujufht1ntj4.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujufs1975v4.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujug76lkyke.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujunzgjapds.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujw19idqe01.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujw1uspghl1.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujwcvm5ufu8.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemujxjlv2lmhh.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk3jcm1olr8.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk3jpe1eph7.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk3z1hh2tvn.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk3zjrr2ufy.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk3zu5776gi.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk6zd201nsw.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7f31386dx.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7fi1dcrp4.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7fvnvihra.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemuk7xbyszpzj.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukpy2hpmpwv.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemukvy7wudsqb.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemul94tcv4l80.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemul95f18sowo.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulaay8dbm66.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulffos1qryn.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulpnff7964j.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "sitemulr9d1dg77r.xyz",
+        "pulse": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+        "tags": [
+          "crypto impersonation",
+          "walletconnect abuse",
+          "fake voting scam",
+          "cryptocurrency phishing",
+          "blockchain fraud",
+          "wallet drainer",
+          "token theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T20:52:13"
+      },
+      {
+        "value": "shivlpf.shop",
+        "pulse": "RemusStealer: EtherHiding In Hidden Windows",
+        "tags": [
+          "remusstealer",
+          "information stealer",
+          "credential theft",
+          "ethereum smart contracts",
+          "hidden desktops",
+          "lummastealer",
+          "blockchain c2",
+          "etherhiding"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:47:28"
+      },
       {
         "value": "iualef.net",
         "pulse": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -6233,347 +7759,1077 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-26T21:59:00"
-      },
-      {
-        "value": "fine-work-team.com",
-        "pulse": "Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-        "tags": [
-          "philippines",
-          "chinese-speaking operator",
-          "wordpress compromise",
-          "cve-2023-49105",
-          "naval contractor",
-          "cve-2024-28000",
-          "mettle",
-          "metasploit",
-          "data exfiltration",
-          "owncloud exploitation",
-          "south china sea",
-          "sliver",
-          "nuclear research"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:26"
-      },
-      {
-        "value": "timelevel12.com",
-        "pulse": "Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-        "tags": [
-          "philippines",
-          "chinese-speaking operator",
-          "wordpress compromise",
-          "cve-2023-49105",
-          "naval contractor",
-          "cve-2024-28000",
-          "mettle",
-          "metasploit",
-          "data exfiltration",
-          "owncloud exploitation",
-          "south china sea",
-          "sliver",
-          "nuclear research"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:26"
-      },
-      {
-        "value": "snake.zooparkko.com",
-        "pulse": "Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-        "tags": [
-          "philippines",
-          "chinese-speaking operator",
-          "wordpress compromise",
-          "cve-2023-49105",
-          "naval contractor",
-          "cve-2024-28000",
-          "mettle",
-          "metasploit",
-          "data exfiltration",
-          "owncloud exploitation",
-          "south china sea",
-          "sliver",
-          "nuclear research"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:26"
-      },
-      {
-        "value": "contabilidad.icu",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "documentodigital.cloud",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "getpdfdigital.cloud",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "soportedigital.cloud",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "gestionadocs.me",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "getpdf.digital",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "visualizarpdf.online",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25"
-      },
-      {
-        "value": "bsc-dataseed1.ninicoin.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed4.ninicoin.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed3.defibit.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed4.defibit.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed3.ninicoin.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed2.ninicoin.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed2.defibit.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "bsc-dataseed1.defibit.io",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15"
-      },
-      {
-        "value": "third-party.com",
-        "pulse": "Major vulnerability found in ancient TACACS+ networking protocol",
-        "tags": [
-          "chinese cyber-espionage",
-          "persistence",
-          "lateral movement",
-          "pre-authentication",
-          "remote code execution",
-          "tacacs+",
-          "telecommunications targeting",
-          "networking protocol"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T07:09:35"
-      },
-      {
-        "value": "greatgrgreeng.com",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49"
-      },
-      {
-        "value": "leftsideegpeakk.com",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49"
       }
     ],
     "hashes": [
+      {
+        "value": "24ab9fe5d5be62d3bf055a0ca4508e8bca2996b6d78649dce8145d8a27bc1c5b",
+        "pulse": "Hackers Weaponize Microsoft Teams Help Desk Calls for Malware and Network Lateral Movement",
+        "tags": [],
+        "source": "alienvault_otx",
+        "created": "2026-09-02T09:59:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "484129123e8509acdc733d44e9a53c1cafa5afc1e2a28d49a55d0e209806d898",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "be7ac520b804f933db0dc789431034eaae7b14c7ff7ff65605d736e9d5873163",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ed980f2fa0642b1a5ba0bca65f5b3baee8a7b3f5d149bf295aa4ac7a70b92cec",
+        "pulse": "New PamStealer variant targets macOS via fake crypto wallet",
+        "tags": [
+          "persistence",
+          "ecies",
+          "infostealer",
+          "pamstealer",
+          "keychain",
+          "cryptocurrency",
+          "swift",
+          "browser credential theft",
+          "macos",
+          "pam validation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-22T20:35:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d8f7bf30aa1ac95d59fed24c433dd2b3d57767f38c088721699c841c6e861d3",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d93c3a8ded46887f79ac4ca7f238c458de2231243176f6c05062e34f238d19a",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5f69ff7a2e024f94cc5f816fa16c90054b09d9ac430b1f8b0631dfdd4472905e",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7bb594a77f726bf21a49f717024f2915f82f47eb623d2ad305259301de1f1ab4",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b06b581d91f4108900d188c3ee1af18502a8cb65d4e101663b791bd670867485",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e9dee286069afb6b411febb96b91a963cd16baffbf8b6aa951e0ef1a7e0e3879",
+        "pulse": "Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers",
+        "tags": [
+          "webshell",
+          "recreation-management-platform",
+          "timestomping",
+          "china-based",
+          "file-upload-vulnerability",
+          "credential-harvesting",
+          "ai-generated-scripts",
+          "payment-card-theft"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:17:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0099bf67cfa72030c1c317240441f3b8",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "01e099f0947d0ef7bcb967063d761fa6",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "02f87ffe09edad431746660b310956c5",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "03be987cd4c4e1e788f803ca6e464a29",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "06b3b6fbf106d46534459d2189aac739",
+        "pulse": "August 2026 Threat Trend Report on APT Attacks (South Korea)",
+        "tags": [
+          "apt campaign",
+          "infostealer",
+          "powershell",
+          "lnk files",
+          "dll side-loading",
+          "south korea",
+          "spear phishing",
+          "xenorat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T07:16:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b314a1499cd728ca3e54b7150661fd0c7d2279065fe3f570f0f66c395d744460",
+        "pulse": "Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles",
+        "tags": [
+          "frameless bitb",
+          "espionage",
+          "china-aligned",
+          "credential phishing",
+          "ta419",
+          "aitm",
+          "ai policy",
+          "browser-in-the-browser",
+          "impersonation",
+          "think tanks"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T10:43:48",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "206f27ae820783b7755bca89f83a0fe096dbb510018dd65b63fc80bd20c03261",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "80961850786d6531f075b8a6f9a756ad",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b0b912a3fd1c05d72080848ec4c92880004021a1",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "116ca4e88a1bcebb6c0da7fb431c8eca7b8ef3f9767194820c56091972ccac2c",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "155fb1cbdaea12c83ba92d18c88cf38bbc42bb684f913ca0bc26fcf115426a55",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1edb2c0b537cd95bbd5fc16321b4c38a6adf325ccc7b588ad6acc980b0463b60",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "27b7591cf9e1283010ca98fa5dbe970a73fee0d8cde277639924c144718db7c0",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37f94fe1b4a106f02b6f74a69cbc05e69c17406f688beef4c9a045ffcbd2e65e",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6d07f1232dc59b84038fd0b2e75fdd3d5b825882bb0dba9e6724b7b0823fa3ad",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73c5268256c9da5488cd9e2b79013060ac321c7e54129344dc7b51e268af36ea",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8b58f7811a2a2f2a5024220490473774f02759dd2dd904b5b9fabfbaae37125f",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8ce8d8270ee9de02644530b8dd7fa78973b4a3b80f121e2c5f45ae68cce196f9",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9ceb01f8bf7d6dba2ae07f5bd6070de3ec67b5eb01f969b0ba85e74564fb83a7",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aaff04d84ef85353966aa4af186ff1254b72c068f33f802417b29dc23fb9f192",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ae9f7fce57c7b928e659dccf0e00fa79cd9cd61a106f18d4e03f92dc3a03c295",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c46825fcc0d1bf7a8b192facb176d6bf916c9dccfd6fa994be691e3b0e585f4e",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e14240bac8277b0f6dd4d29ab5da20d246bcccae647e5fe8d19cdae7fe471b20",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e3204b05e2f3a29bb6e6fcc21dda77d7cd31dfa755c21da0aa8661b5619ee0a1",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eea631b5f7125239db0811e4682c2316ead69f9822e02d94fb5d8bf0d2faebed",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f7269f80f81e99d06a590d7ab374e12fdf7e5f55a02c2a46c342d670f8519fdf",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fb3846c9ac53d1b841ada3a6b1091153fea41a169cb44fe0084097d1f4d45984",
+        "pulse": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
+        "tags": [
+          "sharepoint exploitation",
+          "telecommunications",
+          "cve-2025-1055",
+          "longlegs",
+          "water utility",
+          "cve-2025-49704",
+          "cve-2025-49706",
+          "critical infrastructure",
+          "toolshell",
+          "cve-2025-53770",
+          "warlock",
+          "byovd",
+          "cve-2025-53771",
+          "storm-2603"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T15:37:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6b8d0cdb53da98a5d15e79b7bb9e9f4c272c4f9592acdc291089f126f892f45",
+        "pulse": "TIKTOUK: Tracing a WordPress Credential Collection Toolkit",
+        "tags": [
+          "credential theft",
+          "wordpress",
+          "tiktouk",
+          "smtp plugin decryption",
+          "configuration exposure",
+          "aws credentials",
+          "cve-2026-63030",
+          "cve-2026-60137",
+          "rest api probing",
+          "javascript scanning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T21:20:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0d8ea89a63070f68286249aa437aece0e040c1609b8c5c0950ebbc90e6f70f02",
+        "pulse": "TIKTOUK: Tracing a WordPress Credential Collection Toolkit",
+        "tags": [
+          "credential theft",
+          "wordpress",
+          "tiktouk",
+          "smtp plugin decryption",
+          "configuration exposure",
+          "aws credentials",
+          "cve-2026-63030",
+          "cve-2026-60137",
+          "rest api probing",
+          "javascript scanning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T21:20:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1e22fde68d3277ed0fe7a8a7b554f0ae118260a2fa143f8e1bdc84c994ebbe90",
+        "pulse": "TIKTOUK: Tracing a WordPress Credential Collection Toolkit",
+        "tags": [
+          "credential theft",
+          "wordpress",
+          "tiktouk",
+          "smtp plugin decryption",
+          "configuration exposure",
+          "aws credentials",
+          "cve-2026-63030",
+          "cve-2026-60137",
+          "rest api probing",
+          "javascript scanning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T21:20:52",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9903f4576980ff7cfd560ca57c665a4b59b3c30d",
+        "pulse": "TIKTOUK: Tracing a WordPress Credential Collection Toolkit",
+        "tags": [
+          "credential theft",
+          "wordpress",
+          "tiktouk",
+          "smtp plugin decryption",
+          "configuration exposure",
+          "aws credentials",
+          "cve-2026-63030",
+          "cve-2026-60137",
+          "rest api probing",
+          "javascript scanning"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-01T21:20:52",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8015f34dc84922b03688399d7f9fe7a00361789f7e420c7e2a2cdb23e75cef84",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "77324ac428bde86d351fc5fc06f6d64a6bfe737dfb2743df1d4c5ac2418a5b6a",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a6cea9f5c9e2e9994d4e3c4da73f86cf5acd05ea5d312c066c9d1dafd69ee38",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4000276a150a165d3c2537d1e19fb393c4de8333076a16655e28059cae82157b",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "703e97c64e61e41dc3aaba580d82bb2aa7b6a11b54ee6fb467ed5d5a3bffdef5",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8953ec7960b09f544a880b072ad4e6cfda7a8303f486251d3478dcfdfbac23b6",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d6fe51c22b91776f4c961ea58bcac5917f15d560a619d7ce726d3d51795609d3",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "49a7156a7d043cc8f9f680579db22f86",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5241738a3e9988404239e12243f6d35b",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "61af1c4bce1c2eebc8ff689ca5337791",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "64c90a00c7fda4d5c7973ed64c25783a",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8eb64f25d2a8e18e05aae058629473cf",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ae0ea6502d3fa5f0664bceb73189eb54",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f90fa81a5f521d785f2b2f765e3ab897",
+        "pulse": "PSIRT",
+        "tags": [
+          "system compromise",
+          "cve-2026-104286",
+          "path traversal",
+          "arbitrary file write",
+          "fortimail",
+          "unauthenticated access",
+          "ibe feature",
+          "zero-day exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-02T01:40:23",
+        "hash_type": "md5"
+      },
       {
         "value": "5251b98614acffe5c856f4039ca03da3",
         "pulse": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -15146,710 +17402,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-08-27T08:04:56",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "10df3451915ea35bcb17efe121415f24182680e2d07fc09df07ee695072104c1",
-        "pulse": "Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-        "tags": [
-          "philippines",
-          "chinese-speaking operator",
-          "wordpress compromise",
-          "cve-2023-49105",
-          "naval contractor",
-          "cve-2024-28000",
-          "mettle",
-          "metasploit",
-          "data exfiltration",
-          "owncloud exploitation",
-          "south china sea",
-          "sliver",
-          "nuclear research"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7447d0d0c34779d4c519823b39bf6ddc16d2b34a226b82ee69da6f5b4a77ad82",
-        "pulse": "Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-        "tags": [
-          "philippines",
-          "chinese-speaking operator",
-          "wordpress compromise",
-          "cve-2023-49105",
-          "naval contractor",
-          "cve-2024-28000",
-          "mettle",
-          "metasploit",
-          "data exfiltration",
-          "owncloud exploitation",
-          "south china sea",
-          "sliver",
-          "nuclear research"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:26",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "27cc65cb6261ef0d584287cf09bdafcc",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "md5"
-      },
-      {
-        "value": "40d99e70de5918c6cad144dfc1ad4acd806aca3b",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0a6da70548f14834acb8960689a589b48ff422f8385ae445a281aab77045fe22",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e499c815146124c4a6d2b48c99068b980ad74e1a2cfd16013f8d75a9425a0ca",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "77f7ad29f4a8037ee5f38d3d87fb91cfd97cb8f7fa7883edf3fce506df5200c0",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8c03d072df2e1bf14b0c00a8ab99834138c8b69f301849bf09cb44394e916015",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a2cdf2fe741de4b13ad2298b387a6c32da4a94da180ae75bf8547386aee7376b",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c9da1b08a39491dfdbede6ff4c1a2d383f57cb29e2d3532aee08d6e0a5c1dda6",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9f2be216c5df190806e621e970c9f3e106048441",
-        "pulse": "Dark Caracal Reloaded: New Malware, Same Hunting Grounds",
-        "tags": [
-          "ethereum c2 fallback",
-          "bandook",
-          "latin america targeting",
-          "venezuela",
-          "asiogate",
-          "cyberespionage",
-          "blockchain infrastructure",
-          "gocaracal",
-          "modular framework"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-08-26T17:18:25",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "06f434695f93d7fd11eeff71358ff69fed79d310a66d993bbcc4ff979c117c90",
-        "pulse": "The Psychedelic Stealer: When a CAPTCHA Becomes an Installer",
-        "tags": [
-          "psychedelic",
-          "infostealer",
-          "windows run",
-          "msi package",
-          "fake captcha",
-          "clipboard"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:53:40",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "38e90affe37342ee36917cdc535fe9bf04589afa8430eb8d1ba1016adcfc1878",
-        "pulse": "The Psychedelic Stealer: When a CAPTCHA Becomes an Installer",
-        "tags": [
-          "psychedelic",
-          "infostealer",
-          "windows run",
-          "msi package",
-          "fake captcha",
-          "clipboard"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:53:40",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a12ba3a3dcd70e02f89253c9ec78b11f",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15",
-        "hash_type": "md5"
-      },
-      {
-        "value": "37fcbcb21d16866784050682c58424c91d3a736f6fd599271fa6e53cf5ca8a92",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "48d3ecbb9e0b6babe6e53e2082a076bad07ef61ccd98dcc8b9e4f390b937788b",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "95f6abd3c43ef4b33cd61d054527233dd2ce705804d44a04be96cfb73bb52e3a",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "efa07701570983909ef923ea79bb032f19fd9dac0b819fa0e4f6b1161a4cc221",
-        "pulse": "Uncovering a SectopRAT Variant Embedded in Legitimate Software",
-        "tags": [
-          "sectoprat",
-          "rat",
-          "infostealer",
-          "embedding",
-          "crypto"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-25T14:42:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e10361a11f8a7f232ac3cb2125c1875a0a69a3e4",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "38de5b216c33833af710e88f7f64fc98",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9896a6fcb9bb5ac1ec5297b4a65be3f647589adf7c37b45f3f7466decd6a4a7f",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cfa1997682e4ed41bc691ba848d845abbe0b75ec97e640c2b015b4d1624a108a",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "66c72019eafa41bbf3e708cc3824c7c4447bdab6",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2915b3f8b703eb744fc54c81f4a9c67f",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "md5"
-      },
-      {
-        "value": "415898f14843d4a6537cf8f43d328eaf",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "md5"
-      },
-      {
-        "value": "41444d7018601b599beac0c60ed1bf83",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "md5"
-      },
-      {
-        "value": "38d053135ddceaef0abb8296f3b0bf6114b25e10e6fa1bb8050aeecec4ba8f55",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f462bfd8a1f66c19d9e2fb21e395fbe7db1d6be7",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "540080fea97d88ed902c5e4f9a026b4fcd32ab263706c520e00728f1a29578b8",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d65c7b544a97b0c3f2773b5fcc57d30e",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1615e07ac069ca08f9cdddd99a3e4a533f574e02",
-        "pulse": "Trust and the enticing consultancy offer",
-        "tags": [
-          "trust exploitation",
-          "trojanised software",
-          "rapuncel",
-          "confidence trick",
-          "social engineering",
-          "access abuse",
-          "closedquorum",
-          "professional targeting",
-          "fake recruiters",
-          "fake consultancy"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T22:09:49",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "30f9387b6aa2dd249d93cec58786251a224faaec57673a4b8104a33a01dfe62b",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "351f0d27d2f0105186446693eed5794419ad79d7e6e647fc2fe74dbffb25f9ad",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5060c8184993d5ac04701ffa2c1d30451e40a7b2dbfc084eceaabb5084704991",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a7e8c9e157d3ce37913a32aaa861b5248da4cc5288fa99a6b291524af5e3b9c6",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b7a5c52cedd9cd5425a7f85b8d3b4b869b805c70c7991375a2c4ab612ff7906d",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fec29bbd8e50b6635ef683f03f6e018c9627aa6362a2f167115424e50b8c1b10",
-        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
-        "tags": [
-          "credential theft",
-          "persistence",
-          "hvnc",
-          "remotepanel",
-          "app-bound encryption",
-          "boundsiphon",
-          "bnb smart chain",
-          "clickfix",
-          "browser hijacking",
-          "cryptocurrency wallet"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0d202e16408770e8b6cceb14e1e3e72946b154bf881d27fe33d0060315b30dd1",
-        "pulse": "The Not So Silent Miner: Threat Actor Compiles Cryptominer on the Endpoint",
-        "tags": [
-          "c3pool",
-          "cryptominer",
-          "on-endpoint compilation",
-          "silentxmrminer",
-          "monero",
-          "cve-2024-7399",
-          "cve-2025-4632",
-          "anydesk",
-          "samsung magicinfo"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-24T17:43:50",
         "hash_type": "sha256"
       }
     ]
