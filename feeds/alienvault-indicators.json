@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-11T02:25:41.613625",
+  "updated": "2026-10-11T11:40:40.198987",
   "counts": {
     "ips": 133,
-    "domains": 423,
-    "hashes": 937
+    "domains": 420,
+    "hashes": 929
   },
   "data": {
     "ips": [
@@ -2438,6 +2438,25 @@
       }
     ],
     "domains": [
+      {
+        "value": "log.gitclone.org",
+        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+        "tags": [
+          "privilege escalation",
+          "rust backdoor",
+          "cve-2026-82329",
+          "jfrog artifactory",
+          "in-the-wild exploitation",
+          "vulnerability chaining",
+          "cve-2026-42018",
+          "administrative compromise",
+          "groovy plugin",
+          "cve-2026-42016",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T07:05:54"
+      },
       {
         "value": "blog.exatrack.com",
         "pulse": "Melofee: a look back at a Linux implant and its new variants",
@@ -9224,61 +9243,69 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "koreakr.top",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41"
-      },
-      {
-        "value": "tt.yeyoujs.com",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41"
-      },
-      {
-        "value": "tvip.yeyoujs.com",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41"
-      },
-      {
-        "value": "www.sheng886.top",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41"
       }
     ],
     "hashes": [
+      {
+        "value": "ac6c52632fcf8b072be3b1c5bc076fdd",
+        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+        "tags": [
+          "privilege escalation",
+          "rust backdoor",
+          "cve-2026-82329",
+          "jfrog artifactory",
+          "in-the-wild exploitation",
+          "vulnerability chaining",
+          "cve-2026-42018",
+          "administrative compromise",
+          "groovy plugin",
+          "cve-2026-42016",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T07:05:54",
+        "hash_type": "md5"
+      },
+      {
+        "value": "513a907b69edffc3cb77a494da395178d21ef9bd",
+        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+        "tags": [
+          "privilege escalation",
+          "rust backdoor",
+          "cve-2026-82329",
+          "jfrog artifactory",
+          "in-the-wild exploitation",
+          "vulnerability chaining",
+          "cve-2026-42018",
+          "administrative compromise",
+          "groovy plugin",
+          "cve-2026-42016",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T07:05:54",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6639abda5778b31cc049e4af0a71da04750fafda97d44eec3dd202d32e3e2496",
+        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+        "tags": [
+          "privilege escalation",
+          "rust backdoor",
+          "cve-2026-82329",
+          "jfrog artifactory",
+          "in-the-wild exploitation",
+          "vulnerability chaining",
+          "cve-2026-42018",
+          "administrative compromise",
+          "groovy plugin",
+          "cve-2026-42016",
+          "authentication bypass"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-11T07:05:54",
+        "hash_type": "sha256"
+      },
       {
         "value": "40637c70fd5cd899ca41d1252c267ccf",
         "pulse": "Melofee: a look back at a Linux implant and its new variants",
@@ -26751,160 +26778,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "02153f3fbb3611bc8b01eb347bf86c5a",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "08613b6f27bf240af3f84c88b839f034",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0d3c1e06d135fd2018f271822335a599",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0f906a7d2fc2b0bb73edcad8bc45bbdb",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "12cc737b0e5e9576525295da76fa53d2",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "md5"
-      },
-      {
-        "value": "411657f58641d1562d8248391495033b892d2c47",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "67dafd262c85ce53e711ed812e27b56a5b1068e6",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "cd036238eba83f3a7aad11a37c5e5517e57fba1f",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6413f8681087402683d64074a7ff58d4f555566edb7a404634190c92b071a080",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7b25c05bb456687b77750d05e9dd0684d2bcf2e012c2a172333661cdcbfbf34a",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a1cbe89e7ba8d673adff3ea80a0ab1113c948c54990c0bb66322449b071af4b5",
-        "pulse": "Attack Cases in Korea Involving the Installation of Radmin and UltraVNC",
-        "tags": [
-          "ultravnc",
-          "radmin",
-          "netch-gateway",
-          "softether vpn",
-          "proxy abuse"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-04T07:52:41",
         "hash_type": "sha256"
       }
     ]
