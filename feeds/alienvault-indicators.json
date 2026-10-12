@@ -1,13 +1,31 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-12T13:38:59.686376",
+  "updated": "2026-10-12T23:51:53.418115",
   "counts": {
-    "ips": 112,
-    "domains": 401,
-    "hashes": 785
+    "ips": 104,
+    "domains": 399,
+    "hashes": 784
   },
   "data": {
     "ips": [
+      {
+        "value": "70.36.97.236",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53"
+      },
       {
         "value": "177.4.12.11",
         "pulse": "Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer",
@@ -1861,219 +1879,95 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-05T22:44:43"
-      },
-      {
-        "value": "66.179.30.155",
-        "pulse": "Caught in 4K: The Gentlemen Files",
-        "tags": [
-          "double-extortion",
-          "ai-platform",
-          "mcp",
-          "ci/cd",
-          "leakned",
-          "exfiltration",
-          "ransomware",
-          "gentlemen",
-          "gitlab",
-          "raas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T13:32:09"
-      },
-      {
-        "value": "120.193.219.210",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "58.211.144.243",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "118.45.196.225",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "145.249.115.184",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "112.151.157.222",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "121.32.243.81",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "147.185.221.129",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
-      },
-      {
-        "value": "83.211.9.232",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13"
       }
     ],
     "domains": [
+      {
+        "value": "koocpt.site",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53"
+      },
+      {
+        "value": "matchyjoin.com",
+        "pulse": "Inside a brand deal scam targeting YouTube creators",
+        "tags": [
+          "google account compromise",
+          "sso abuse",
+          "social engineering",
+          "youtube creators",
+          "sponsorship scam",
+          "credential theft",
+          "brand impersonation",
+          "phishing campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T01:30:11"
+      },
+      {
+        "value": "joinmatchy.com",
+        "pulse": "Inside a brand deal scam targeting YouTube creators",
+        "tags": [
+          "google account compromise",
+          "sso abuse",
+          "social engineering",
+          "youtube creators",
+          "sponsorship scam",
+          "credential theft",
+          "brand impersonation",
+          "phishing campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T01:30:11"
+      },
+      {
+        "value": "noir.black",
+        "pulse": "DNS as C2 in Noir, An AI-Developed Crypto Wallet Drainer",
+        "tags": [
+          "wallet permissions",
+          "cryptocurrency drainer",
+          "noir",
+          "doh abuse",
+          "ai-developed",
+          "dns over https",
+          "command and control",
+          "dns txt records",
+          "crypto phishing",
+          "cloudflare pages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-09T22:03:28"
+      },
+      {
+        "value": "r.noir.black",
+        "pulse": "DNS as C2 in Noir, An AI-Developed Crypto Wallet Drainer",
+        "tags": [
+          "wallet permissions",
+          "cryptocurrency drainer",
+          "noir",
+          "doh abuse",
+          "ai-developed",
+          "dns over https",
+          "command and control",
+          "dns txt records",
+          "crypto phishing",
+          "cloudflare pages"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-09T22:03:28"
+      },
       {
         "value": "alexue4.dev",
         "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
@@ -8370,123 +8264,172 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-06T08:31:05"
-      },
-      {
-        "value": "ecomscan.com",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "windwsecurity.run",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "ntp.timesysnc.net",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "247.cdnflare.xyz",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "pool.microsft.studio",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "time.microsft.run",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08"
-      },
-      {
-        "value": "forgitlab.com",
-        "pulse": "Caught in 4K: The Gentlemen Files",
-        "tags": [
-          "double-extortion",
-          "ai-platform",
-          "mcp",
-          "ci/cd",
-          "leakned",
-          "exfiltration",
-          "ransomware",
-          "gentlemen",
-          "gitlab",
-          "raas"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T13:32:09"
       }
     ],
     "hashes": [
+      {
+        "value": "17d97e3ee3185d82812a4014444c36f3",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "327617e977eefd15708568f43140e595",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3d802ceaf891ea57ecd7d1d786d96a0d",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5be7578bfe633fb268ad97a520abb4e1",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "78c219a6bec5fc30f43b62e4934646eb",
+        "pulse": "From Endpoint to Funhouse: Changes in Ransomware Families and Kimsuky-Related Distribution Cases",
+        "tags": [
+          "funhouse ransomware",
+          "resume lure",
+          "endpoint",
+          "korean targets",
+          "kimsuky",
+          "quasar rat",
+          "endpoint ransomware",
+          "multi-stage scripts",
+          "hwp document",
+          "funhouse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-12T13:15:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ae22ef2517b5c0fb47f78745b9cb5260acee0e751b89bcd354640ff8bc8d29ec",
+        "pulse": "Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)",
+        "tags": [
+          "netscaler",
+          "command injection",
+          "cve-2026-88771",
+          "zero-day exploitation",
+          "remote code execution",
+          "dtls vulnerability",
+          "webshell",
+          "cve-2026-88772"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-10T07:53:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "79c65fa04541032e251fa4796b97800374b63c7982593dd1a2e0db605d429186",
+        "pulse": "Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)",
+        "tags": [
+          "netscaler",
+          "command injection",
+          "cve-2026-88771",
+          "zero-day exploitation",
+          "remote code execution",
+          "dtls vulnerability",
+          "webshell",
+          "cve-2026-88772"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-10T07:53:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1bd314b661396c7086f6367fbbb48025e03ca2de69c073d53a8b0a38aa5fbb7d",
+        "pulse": "Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)",
+        "tags": [
+          "netscaler",
+          "command injection",
+          "cve-2026-88771",
+          "zero-day exploitation",
+          "remote code execution",
+          "dtls vulnerability",
+          "webshell",
+          "cve-2026-88772"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-10T07:53:24",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7489a0f93c67fa5cdaeb4b921d90594d",
+        "pulse": "Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)",
+        "tags": [
+          "netscaler",
+          "command injection",
+          "cve-2026-88771",
+          "zero-day exploitation",
+          "remote code execution",
+          "dtls vulnerability",
+          "webshell",
+          "cve-2026-88772"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-10T07:53:24",
+        "hash_type": "md5"
+      },
       {
         "value": "141c35607dc0e8e400deb380126b3052bd0495b4d37c8dd979c6aa0204b142fc",
         "pulse": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
@@ -22603,224 +22546,6 @@
         "source": "alienvault_otx",
         "created": "2026-10-05T22:44:43",
         "hash_type": "sha256"
-      },
-      {
-        "value": "a07bc08eded18cc7317216cbbd7032d2",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08",
-        "hash_type": "md5"
-      },
-      {
-        "value": "11d6a0c1000576915584c49c7039206bbb4c24d1",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b79dfdc1eed860e0b76c629d6adfce251db379b0b45a6d728d4ef483f7551420",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e315687a1dfe61ef4a5a5642214db6d3b2b05d81391285eebc2af664641a26a7",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "backdoor",
-          "stylesmuggler",
-          "magento",
-          "payment email",
-          "remote code execution",
-          "graphql",
-          "adobe commerce",
-          "zero-day"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-05T20:33:08",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "08636d09d9ffd1713bd6bcb965ad40b6ce3de1aa",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3b0ac6aaabb3bf8058ca14f9c8ccc613cfa3ea71",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "90d738a8d650e3fefda9d7efa4baa11bd89ab05fcf0eb173e04aa01a52b465e2",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3a6927a3399f2a10bb2e2229482e5096e5f1c3401a87f7f1730db11243531e28",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "89b40021747b730fd2ea38a7312f985f",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "md5"
-      },
-      {
-        "value": "e8ab1fdfe9c444ce85216fe2f494bb00e752a3d2",
-        "pulse": "A STUNning Disguise: Cling Malware Masquerades as Google",
-        "tags": [
-          "stun protocol abuse",
-          "cve-2014-8361",
-          "cve-2023-26801",
-          "cve-2023-41011",
-          "iot botnet",
-          "realtek exploitation",
-          "command-and-control",
-          "cve-2025-34037",
-          "cve-2016-10372",
-          "cve-2016-20016",
-          "cling",
-          "cve-2024-3721",
-          "ip spoofing",
-          "ddos",
-          "cve-2021-35394",
-          "wget hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T09:06:13",
-        "hash_type": "sha1"
       }
     ]
   }
