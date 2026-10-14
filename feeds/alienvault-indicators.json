@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-14T16:01:21.816575",
+  "updated": "2026-10-14T21:01:03.977065",
   "counts": {
     "ips": 75,
-    "domains": 333,
-    "hashes": 1210
+    "domains": 304,
+    "hashes": 1199
   },
   "data": {
     "ips": [
@@ -1343,6 +1343,66 @@
       }
     ],
     "domains": [
+      {
+        "value": "mail.3bb.co.th",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "www.ayuthayatech.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "agent.3bb.co.th",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "ccs.jasmine.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
+      {
+        "value": "openvpn.jasmine.com",
+        "pulse": "Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence",
+        "tags": [
+          "meshcentral",
+          "cve-2024-21762",
+          "fortigate ssl-vpn",
+          "FortiGate"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-14T19:47:15"
+      },
       {
         "value": "anmarinee.it.com",
         "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
@@ -6259,448 +6319,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-08T07:10:38"
-      },
-      {
-        "value": "ecomscan.com",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "windwsecurity.run",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "ntp.timesysnc.net",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "247.cdnflare.xyz",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "pool.microsft.studio",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "time.microsft.run",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "457cfa2fb7p5.daf892t5qau4og8pi4cghbc6fhm1dim3u.oast.site",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "www.incofar.it",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00"
-      },
-      {
-        "value": "dronalms.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "ccpipharma.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "knowncontractor.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "hnospascualfadon.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "annastudios-paros.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "arrmmy.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "captelind.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "cifutura.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "daengrentacar.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "dataclust.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "dnsforward.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "haliotisbar.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "hoaivt.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "hotelmidtownsurat.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "kgsscans.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "konceptenterprises.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "offtic.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "planisteradmin.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "rootreseller.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "soil-management.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "valtteri.net",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "virextec.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "login.evil-domain.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "login.konceptenterprises.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "management.daengrentacar.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "management.michaelmarcotte.com",
-        "pulse": "Tracking BigBear 2.0 Evilginx2 Phishing Campaign",
-        "tags": [
-          "phishing-as-a-service",
-          "evilginx2",
-          "microsoft 365",
-          "bigbear 2.0",
-          "bigbear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:14:53"
       }
     ],
     "hashes": [
@@ -28436,160 +28054,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-08T07:10:38",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a07bc08eded18cc7317216cbbd7032d2",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "md5"
-      },
-      {
-        "value": "11d6a0c1000576915584c49c7039206bbb4c24d1",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b79dfdc1eed860e0b76c629d6adfce251db379b0b45a6d728d4ef483f7551420",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e315687a1dfe61ef4a5a5642214db6d3b2b05d81391285eebc2af664641a26a7",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d4a15b847786c75a383ce0cb0e5e139d",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d342d8223a362791ce2cc1ab45725eb0a37fd559",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "fced27f6d57702565353ecc11722533b",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "md5"
-      },
-      {
-        "value": "1a3374ffac5b0a62467612f264c49792d206304d4514409c982325c91231375d",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4352cabaa451e5a894535fbcc4d46628701303322a13745cb5479d7d0534ae8e",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d2fbf9eb75c495bfea48790d3b228fab0c15a282419c3d3f5e49294c4e1a3e82",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d61217ca0bca83204302fa7b41935ce36f73764559c156d5c980f2fedddffb6e",
-        "pulse": "StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack",
-        "tags": [
-          "remote code execution",
-          "adobe commerce",
-          "rust backdoor",
-          "zero-day",
-          "stylesmuggler"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-07T17:16:00",
         "hash_type": "sha256"
       }
     ]
