@@ -1,13 +1,59 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-14T02:19:52.153958",
+  "updated": "2026-10-14T10:42:26.414795",
   "counts": {
-    "ips": 106,
-    "domains": 439,
-    "hashes": 1115
+    "ips": 69,
+    "domains": 438,
+    "hashes": 1104
   },
   "data": {
     "ips": [
+      {
+        "value": "177.22.88.133",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15"
+      },
+      {
+        "value": "103.157.217.38",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15"
+      },
       {
         "value": "111.92.246.145",
         "pulse": "Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy",
@@ -1165,664 +1211,86 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-08T07:10:38"
-      },
-      {
-        "value": "64.227.4.134",
-        "pulse": "Akira Ransomware Attack Investigation",
-        "tags": [
-          "data exfiltration",
-          "antivirus evasion",
-          "rclone",
-          "ransomware",
-          "rdp",
-          "persistence",
-          "akira",
-          "gost tunnel",
-          "gost"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:59:25"
-      },
-      {
-        "value": "87.248.129.239",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "38.180.136.127",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "112.78.151.90",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "78.109.78.211",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "83.194.172.248",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "103.160.185.100",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "109.146.93.39",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "115.138.247.83",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "116.106.179.94",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "137.103.56.107",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "138.94.168.132",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "154.119.213.63",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "173.92.116.211",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "186.154.182.44",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "191.93.177.69",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "194.36.27.53",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "196.177.214.142",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "200.151.53.165",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "206.206.119.201",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "46.100.30.188",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "47.230.250.253",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "50.82.6.249",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "59.92.240.165",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "69.250.15.174",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "71.76.4.45",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "72.235.197.91",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "79.117.129.254",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "82.86.130.180",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "84.50.134.231",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "85.137.52.59",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "85.137.53.173",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "85.253.221.206",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "88.167.240.60",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "92.216.157.153",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "93.118.107.1",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "98.44.224.55",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49"
-      },
-      {
-        "value": "125.46.149.49",
-        "pulse": "Attackers Target AI Development Platform Langflow",
-        "tags": [
-          "cve-2017-9841",
-          "cve-2021-26855",
-          "cve-2018-20062",
-          "cve-2025-55184",
-          "unauthenticated access",
-          "cve-2021-34523",
-          "credential harvesting",
-          "ai platform exploitation",
-          "cve-2026-4020",
-          "cve-2025-29927",
-          "cve-2024-44000",
-          "capability probing",
-          "cve-2022-41082",
-          "cve-2024-4577",
-          "remote code execution",
-          "cve-2025-55182",
-          "cve-2026-0768",
-          "python injection",
-          "langflow"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T07:14:44"
-      },
-      {
-        "value": "61.163.138.201",
-        "pulse": "Attackers Target AI Development Platform Langflow",
-        "tags": [
-          "cve-2017-9841",
-          "cve-2021-26855",
-          "cve-2018-20062",
-          "cve-2025-55184",
-          "unauthenticated access",
-          "cve-2021-34523",
-          "credential harvesting",
-          "ai platform exploitation",
-          "cve-2026-4020",
-          "cve-2025-29927",
-          "cve-2024-44000",
-          "capability probing",
-          "cve-2022-41082",
-          "cve-2024-4577",
-          "remote code execution",
-          "cve-2025-55182",
-          "cve-2026-0768",
-          "python injection",
-          "langflow"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T07:14:44"
       }
     ],
     "domains": [
+      {
+        "value": "theinvitationestateco.vu",
+        "pulse": "RSVP to Disaster: How One Click Installs a RAT",
+        "tags": [
+          "captcha manipulation",
+          "social engineering",
+          "connectwise exploitation",
+          "fake invitation",
+          "remote access trojan",
+          "screenconnect",
+          "phishing campaign",
+          "screenconnect abuse",
+          "holiday-themed attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T18:51:44"
+      },
+      {
+        "value": "watchguard-vpn.com",
+        "pulse": "Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client",
+        "tags": [
+          "watchguard impersonation",
+          "signed installer abuse",
+          "fake download site",
+          "seo poisoning",
+          "credential phishing",
+          "browser pop-up",
+          "vpn targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T23:44:50"
+      },
+      {
+        "value": "watchguard-vpn.net",
+        "pulse": "Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client",
+        "tags": [
+          "watchguard impersonation",
+          "signed installer abuse",
+          "fake download site",
+          "seo poisoning",
+          "credential phishing",
+          "browser pop-up",
+          "vpn targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T23:44:50"
+      },
+      {
+        "value": "www.watchguard-vpn.net",
+        "pulse": "Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client",
+        "tags": [
+          "watchguard impersonation",
+          "signed installer abuse",
+          "fake download site",
+          "seo poisoning",
+          "credential phishing",
+          "browser pop-up",
+          "vpn targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T23:44:50"
+      },
+      {
+        "value": "watchguard-ssl.online",
+        "pulse": "Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client",
+        "tags": [
+          "watchguard impersonation",
+          "signed installer abuse",
+          "fake download site",
+          "seo poisoning",
+          "credential phishing",
+          "browser pop-up",
+          "vpn targeting"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T23:44:50"
+      },
       {
         "value": "pokijhgcfsdfghnj.mywebcommunity.org",
         "pulse": "Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy",
@@ -8766,129 +8234,405 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "cloud.g-drive.cam",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "googeldrive.cam",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "drivegoogel.cam",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "googelmeet.online",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "meetonline.cam",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
-      },
-      {
-        "value": "asdfafadafg.online",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17"
       }
     ],
     "hashes": [
+      {
+        "value": "739a54032b89432bb4c9c33969f6b383",
+        "pulse": "RSVP to Disaster: How One Click Installs a RAT",
+        "tags": [
+          "captcha manipulation",
+          "social engineering",
+          "connectwise exploitation",
+          "fake invitation",
+          "remote access trojan",
+          "screenconnect",
+          "phishing campaign",
+          "screenconnect abuse",
+          "holiday-themed attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T18:51:44",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f3aab811ae8163e09db40db201facc7e189d1a1b161be265202ca54b39b5e6cc",
+        "pulse": "RSVP to Disaster: How One Click Installs a RAT",
+        "tags": [
+          "captcha manipulation",
+          "social engineering",
+          "connectwise exploitation",
+          "fake invitation",
+          "remote access trojan",
+          "screenconnect",
+          "phishing campaign",
+          "screenconnect abuse",
+          "holiday-themed attack"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-13T18:51:44",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5279c09bdabb12a3a28b0db8e838bf1b",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dcbd986d1b4b2c95fc3bb483c42f259e571a09a4",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1404ae6367955cc65553f091985c2a8df7d3a3efc3c3ace741df1fd5e98447bb",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "04f5d13f78ca2ab39a8f777885c2a474",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0e3d8bc69fe996dbd681c01f509e8591",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2a9e5e25776fff5430f2dd06335920a4",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3df700b3c1d0ffab386397f4e59c5b23",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "md5"
+      },
+      {
+        "value": "271d0eb64809cc230e8a8c9e205e73f016278932",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c1e80fdbb3dd4c0414fedb47dc8b0639f0cc86e",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "905c522e55d674e977abc8e662d87ad38ca6bf31",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bf60c4f290690e4b6ec235864f91fc8de551340e",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0ab637e3546f08c4f3bf370089b781d99794cf450eab6a2eb159f285c604e5cb",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29ad5e6ca3f26c56e3d2949e72e66f0965581b978b3d86cab8cacb07adf3b5b7",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3e5b62710a08bddd33170650ab185507e51d7062854ed308fec9649bc12c3919",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fbf8e9d067c8ed1fdc6d3a866c698ebb289e60cdc3166062c53bb0b45e68848d",
+        "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
+        "tags": [
+          "brute force",
+          "linux",
+          "prometei",
+          "mirai",
+          "ssh servers",
+          "cryptomining",
+          "ddos bot",
+          "p2pinfect",
+          "perlbot",
+          "fisieredoor",
+          "gafgyt",
+          "rootkit",
+          "xhide",
+          "shellbot",
+          "xmrig"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T04:08:15",
+        "hash_type": "sha256"
+      },
       {
         "value": "297292d46d4f11fc801f5d6d01251735698a8419aa3196db7b3aa7bb8ea85cad",
         "pulse": "Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy",
@@ -28082,580 +27826,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-07T17:16:00",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d00833318a04caa019c6f95dcb3598ad947d405010bfb2f3cbd04530a00bc3a4",
-        "pulse": "Akira Ransomware Attack Investigation",
-        "tags": [
-          "data exfiltration",
-          "antivirus evasion",
-          "rclone",
-          "ransomware",
-          "rdp",
-          "persistence",
-          "akira",
-          "gost tunnel",
-          "gost"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:45:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1f1bb322591b6d27fd2946e373d7d2efc2f4e1e66818846060d391600b600fba",
-        "pulse": "Akira Ransomware Attack Investigation",
-        "tags": [
-          "data exfiltration",
-          "antivirus evasion",
-          "rclone",
-          "ransomware",
-          "rdp",
-          "persistence",
-          "akira",
-          "gost tunnel",
-          "gost"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:45:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6e7d9b33f1e72ea1ede71373a604ecdb060dab7d42055179c1eede9ecd1fd239",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f5b12772db6817f7a765a6fe7565fd3d4f87edc28e42fe3ec0244a372a410fc9",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "53f35e49eb9b271fd8cbcd3daacb525328dbf159a03dbd1c7adebe0363daa402",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3fd810a3aa0039993393741b32287c367a9a5037a41e826906440887cdd3ed13",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "76273382e4252c1f60a2251141e108942494409c759358320735891762c0682e",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d3561bd4aad003dc3e08157b0891860bb496b80cd6e44901692e08ab1d4e8260",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f5ba1645694c62f527ed6ceda8c68a5c3dd92b4032439167e8e937e72803b4bd",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7cc571aca6d8715d9aaad3d83e1bcd30467565d583db1dfe73697c5d00a1f875",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2ab34636eeab843b4bcbb6e44f033eab",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "38aa0f535e2c6273ccf4de19a7a0f044",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3d809693b3d63f33126e9eb630fef8ff",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5a796cdce448eddbf1aec1c7c186dacf",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7244a27029d2fb104a598b40e9f284d9",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8a062a2d0741b57fab9635920b17275b",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b53f5d8baf6840fa3a5ea8e56d208ddf",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f2f8db8dc4c4f9573e5aa265235c9d49",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "md5"
-      },
-      {
-        "value": "18586ca8e3e3c4633ed3fccd909a0be87ba0a573",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "701f2a5c8d8bdc28e51e11a12955197fbd652698",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7fa5ce4031e57e608b4a2f92cacdaf9183dfe76a",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8c839823f58e8965c770c900be2b2cf14e054871",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "90f733c6aa7eaa37dbd654ef1f4cedfbb711dc03",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9842b996277682a136562aa27e08919eac542c15",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "aa7f18c1552042d4d0854de69d5c69ee47a21ba2",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "f320cd3c6de7efb61b59669ce70c81fc8a94758a",
-        "pulse": "Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure",
-        "tags": [
-          "appdomainmanager hijacking",
-          "blackwood.dll",
-          "blinder tunnel",
-          "chisel",
-          "dll sideloading",
-          "shelbyloader v2",
-          "iraqi critical infrastructure",
-          "runtimebroker.dll",
-          "github c2",
-          "iranian threat actor",
-          "psproxy.dll",
-          "dubai airports impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T09:47:17",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "923641364ef0ce3a6f1d944890244082b8c7f29c9600c0433b2a0ca9822c0608",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c9335bb8a21bd2c568d03b040fb86a0e72145691e54a33495ee0cfaac55835dc",
-        "pulse": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-        "tags": [
-          "amazon bedrock",
-          "credential validation",
-          "anthropic claude",
-          "token-jacking",
-          "credential harvesting",
-          "cloud security",
-          "llm",
-          "aws"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-06T17:14:49",
         "hash_type": "sha256"
       }
     ]
