@@ -1,13 +1,142 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-14T10:42:26.414795",
+  "updated": "2026-10-14T16:01:21.816575",
   "counts": {
-    "ips": 69,
-    "domains": 438,
-    "hashes": 1104
+    "ips": 75,
+    "domains": 333,
+    "hashes": 1210
   },
   "data": {
     "ips": [
+      {
+        "value": "124.163.212.119",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18"
+      },
+      {
+        "value": "177.22.88.133",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43"
+      },
+      {
+        "value": "103.157.217.38",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43"
+      },
+      {
+        "value": "38.60.253.35",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42"
+      },
+      {
+        "value": "206.82.6.22",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46"
+      },
+      {
+        "value": "2.59.133.147",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46"
+      },
       {
         "value": "177.22.88.133",
         "pulse": "Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026",
@@ -1214,6 +1343,72 @@
       }
     ],
     "domains": [
+      {
+        "value": "anmarinee.it.com",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12"
+      },
+      {
+        "value": "update.microsftapiedge.com",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42"
+      },
+      {
+        "value": "microsftapiedge.com",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42"
+      },
       {
         "value": "theinvitationestateco.vu",
         "pulse": "RSVP to Disaster: How One Click Installs a RAT",
@@ -6506,1737 +6701,2306 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-07T17:14:53"
-      },
-      {
-        "value": "sync-account.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "verification-security.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "payment-confirm.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-ads.ai",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-advertisers.ai",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-ads-team.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-advertisers.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "manusbymeta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "adeccohr-jobs.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "museads.ai",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "anthropic-ads-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "anthropic-ads-marketing.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "anthropic-sponsored.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ads-team-openai.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "advertising-chatgpt.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "anthropic-beta-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ads-claude-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ai-brand-safety.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "account-sync-data.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "adeccohr-calendly.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ads-claude.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "adsmistral.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "advertising-gemini.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ai-ads-platform.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "anthropic-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "apple-career.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "beta-anthropic.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "beta-chatgpt.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "beta-gemini-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "beta-manus.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "beta-perplexity.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "business-gemini.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "careers-interview.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-advertise.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-advertisement.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-brief.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-briefing.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "chatgpt-monday-brief.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-ads-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-ads-invitations.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-ads-portal.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-advertisement.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-advertisers.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-beta-invite.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "claude-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "confirm-payments.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "cursor-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "escrow-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ferrari-invite.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemimi-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-ads-ai.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-ads-invite.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-ads.ai",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-beta-invitations.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-beta-invites.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-business.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-google-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-invitation.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gemini-invitations.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "gennini-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "google-ads-sync.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "invitation-anthropic.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "leaks-entry.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "leaksentry-security.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "link-mcc.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "manus-meta.im",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "manusmeta.im",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "mcc-account-sync.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "mcc-invitation.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "mcc-safety.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "mcc-security.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "mcc-verification.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "metamanus.im",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "monday-brief-claude.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "nikehr-jobs.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "openai-ads.ai",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "openai-advertisers.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "openaiadsteam.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "payment-confirmation.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "payment-confirmations.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "payment-sync.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "payments-sync.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "perplexity-advertising.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "perplexity-beta-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "perplexity-beta.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "refund-advertisers.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "safety-mcc.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "security-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "security-mcc.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "semrush-ai.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "semrushads-ai.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sponsored-gemini.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-account-invite.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-ads-account.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-ads.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-billing.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-business.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-mcc-account.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-mcc-data.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-mcc-team.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-payment.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-payments.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "sync-tiktok.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "talent-louisvuitton.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "tesla-careerapplication.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "ferrar.careers-interview.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
-      },
-      {
-        "value": "redbullapply.careers-appointment.com",
-        "pulse": "Behind the Connect Button: The Fake AI Ads Campaign",
-        "tags": [
-          "socket.io",
-          "social engineering",
-          "phishing campaign",
-          "mfa bypass",
-          "browser-in-the-browser",
-          "credential theft",
-          "advertising accounts",
-          "ai impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-07T12:09:54"
       }
     ],
     "hashes": [
+      {
+        "value": "8777a9b0533660fddc2a73b819638c18",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "md5"
+      },
+      {
+        "value": "cbcc4ba1a1485cb01a4b65fc7915e629",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "md5"
+      },
+      {
+        "value": "128e2c90b557f5d98181106829ef2c3c47367ef4",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "98c0879ad8c1d2c85e1d667e70e37810618c5c17",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6e89b13fea49ba2b98eb22fe59e16904e3225304c0a56546bb0c08b6959a8790",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9d5ca4e40dedfcdc58612e741433e571e82151ae9cade617250727b5ad3f7a49",
+        "pulse": "Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email",
+        "tags": [
+          "phishing email",
+          "ftp exfiltration",
+          "social engineering",
+          "obfuscation",
+          "multi-stage loader",
+          "infostealer",
+          "credential theft",
+          "agenttesla"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T13:26:12",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5c4e263546fb21f8fe8732789a5b6583eaa8ae11ebeef099462a7c9bf50e022d",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9391c6ad17aced1142607c0c623b18d86a7697cc483d204ffac94093e26b8068",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e4d12208789f36efc5a1ff765088fed95d6bb5972d1a804a4536fd42366797d4",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2ed54e0f988a62039abed88f6394eb1e3d5ed931f0183556055417fb08844ecf",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b90640b392827b4f2d280f6cf67860862953331917d42df23e1653a92f2f98ad",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f49f45303cbfccee14ff193ac9608f860e6d616f08c0ecbef1ec44f7c863d7ec",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "284e5ec8748f99fd1b8c331b699a5fe5fd4448bbaae0347a940f427f931c4d14",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "10d83c1748895361e07320f68d44d427b43cadd2cbffe0ab5e607ab03aec83da",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6581bf37184bb2db899b9893064d39dd314ea691adf3281cc0aa7e0a31e5138a",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dfba6008a2c828a9cb62342aec53006ae05a60cb8d4c41c3fa216fd727e8c6a3",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "26cec4fe9fd641e2b9090c1551ee53cf",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "77a5e2f921c3362bc41509b8f652d920498cc6cb",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "852633e73ad0599e97d95abd28cd1300",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "945649b61f00dd7e9421609b8fb1bc2fd51f4f1d",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "85d9be558ce4625727d6a9e9c6f9983d",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d8352cb67e9248f20c094aacdb6db3672ad040b1",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "123fdb418381ba3f48ee6a148102cdf9",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2ae68307f85f71d4a295da575852bd0788ae9510",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "40f9b42b27e0a8fbcecf95d0c25a2488",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d6f046773777c89090553aae9704e60cfeae1e3c",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5ed4362cf8699c15db20c94a3455bfa6",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c1d8e2829ea63b9dc1cf2c3421a5093406adad4d6622e238376e78e908e0e6e8",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e6e113783356446aef66e5296db45b244f318292af7cebc2a9bd76f095a95c4c",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43dfd7c327e901813a30e31ef03a2263",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5f8cf9aebdcffdc024465a8fcc6e1458",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8e2cfa38ab3f407594a989e7e8e2bf6b",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "921f3db238c3e981a5ca72c0baed0f74",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9ce0dca8fcc93b420c8fb3f2d74fe355",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b46db2538f904a4005afbc2ac134e1d6",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d99461f6b0ec318b8dedd9af28521628",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "05f3ae2e66a70805e6a5cd3a55329c64cf75f3b4",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "19a859f0071957afd9e3b5af7b6e63638bc2de08",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2084822bdf611ac1d36aa0ae2e16b1a40489adb2",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "228ee086f6f390b02f72ecdb69bae54cecf666ae",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5c8d0d056d8fffe1278c815bebad71e5d0282656",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ba11db5e221529e776d71c7190b86df2fad0e817",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c72b0b8073087dd7dfb3233dc0ce181b49d75d5b",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cab486a91c8efea9ad21354bf1ec9104163ca8a6",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "121f2050e3c891b29565fd73451fff7ae60199c86eb8d79ec1eb1d9844578487",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48962b3893f2c8261e32e6b95ea7d463d145a529a8b2a6c987dd979454405c73",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48f9b72ce72ab7087794650d6eef10135345088384fbde1482f1c74a02b80302",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4fbd61cb9181ebbc4fe9a6e59d3c346dc00001da48d66bd890556fc6fad22b07",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "76692a23abe718b93e63edefd743971ec627c0cdf3778f856bd5ec88003deaa2",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "dc892f5013edb0aa1e61e808511387373d8d120348b5be0929621d21e6e9946a",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ec199c78c11040fd3127887222fd75a85e5797bf96aa691a117fdd83dd663d81",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "05834cc3a4651d6bb09031cea6eef2c6",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6715b9be6c4355c996f7bbcb8992bca4",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dedeca871378c25902f98361af5813bd",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ed034e4eaeee60a93ef8326a46e44107",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f80a4850433cbd00b3ec63d911480c34",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fe9103197d9af2e95e506ec7984bc275",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0ca43d4c4a49b54b2632a532b2ce134db0945378",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3315ba12d148793dc570e19b419803365cfd51c9",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a00c7f45cb7b46a3fd8d15558e361a81d6363f13",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e70e1cf7d16bcad47e7dbe95fbcc65101e315445",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ec89131f976437a29f4e3b008569291681254109",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f77e32f96aaf9b9d10b09d7212bb4bb0dbd90c4e",
+        "pulse": "ClingSTUN Turns Vulnerable Edge Devices Into Attacker Infrastructure",
+        "tags": [
+          "proxy backdoor",
+          "cve-2025-34035",
+          "cve-2022-36553",
+          "iot exploitation",
+          "edge device targeting",
+          "botnet",
+          "cve-2024-23625",
+          "clingstun",
+          "stun abuse",
+          "mirai",
+          "device persistence",
+          "nat traversal"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T12:44:18",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5279c09bdabb12a3a28b0db8e838bf1b",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dcbd986d1b4b2c95fc3bb483c42f259e571a09a4",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1404ae6367955cc65553f091985c2a8df7d3a3efc3c3ace741df1fd5e98447bb",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "04f5d13f78ca2ab39a8f777885c2a474",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0e3d8bc69fe996dbd681c01f509e8591",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2a9e5e25776fff5430f2dd06335920a4",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3df700b3c1d0ffab386397f4e59c5b23",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "md5"
+      },
+      {
+        "value": "271d0eb64809cc230e8a8c9e205e73f016278932",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c1e80fdbb3dd4c0414fedb47dc8b0639f0cc86e",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "905c522e55d674e977abc8e662d87ad38ca6bf31",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bf60c4f290690e4b6ec235864f91fc8de551340e",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0ab637e3546f08c4f3bf370089b781d99794cf450eab6a2eb159f285c604e5cb",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "29ad5e6ca3f26c56e3d2949e72e66f0965581b978b3d86cab8cacb07adf3b5b7",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3e5b62710a08bddd33170650ab185507e51d7062854ed308fec9649bc12c3919",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fbf8e9d067c8ed1fdc6d3a866c698ebb289e60cdc3166062c53bb0b45e68848d",
+        "pulse": "2026 Q3 Linux SSH Server Targeted Malware Statistics Report",
+        "tags": [
+          "libssl2.3.0.so",
+          "xhide",
+          "fisieredoor",
+          "cryptocurrency-mining",
+          "rootkit",
+          "dictionary-attack",
+          "honeypot",
+          "xmrig",
+          "brute-force",
+          "ddos-bot",
+          "tsm",
+          "shellbot",
+          "goauto",
+          "ssh"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:43",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "056ffa80af31d17e0cee037b44e0c7ef",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0eb0f57afd54c9733c720fbac82b754b",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "903154ca1d2457ef8d373dc83ab0b16886d2dab5",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "af280ff791163879d7a3135fbaf7c2789447ad7a4dd95527f470b07fa451532b",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b3f5ca36bbcf6651d6ee0cac4dc0b8227bb2ae6d",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2f8f7fc1859d7522bcb94854a704975d498f17c8e981eba966e75cebffc408f7",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "216ae88b735790f27a17a9868e5202b8",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "31595e7e73bde0326a4d5054615249cf",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3de6a8f367d5d9f0a71fb5f1443c0e8f",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "md5"
+      },
+      {
+        "value": "012ec380f3fce45f774da2e74a6c4cee5362a9a4",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "be82ac54a425db951de9b01943e8d9651ea92660",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9ff9c5e94867529c263439bb35f749531f87f4266c1676ef2b059b2e94eb9c1b",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e76b7d3b5da6a92510680df63758d377a28ef0c574e42786cddf0702bb6c3cb4",
+        "pulse": "Q3 2026 Statistical Report on Malware Targeting Windows Database Servers",
+        "tags": [
+          "credential theft",
+          "ringq",
+          "ms-sql",
+          "brute-force attacks",
+          "fscan",
+          "hackbrowserdata",
+          "cloudflared",
+          "cryptocurrency mining",
+          "xmrig",
+          "vshell",
+          "suo5",
+          "web shells",
+          "softether",
+          "database servers",
+          "sharp4webcmd",
+          "gotohttp",
+          "mysql"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:14:42",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0a4be0b6c650ffdcd1c22db56f1c4aec",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "10f705728d228ad949b7894c1a85a2b1",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "177e34d9174766a1d187a0c82de4c02f",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "18fb4e070653fc9791e0e408d8cb1c8e",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1dbfda02d74b6a7586c4430175204c28",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "972f86b4b06af1033063a2c3f114c56b400a917f",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e23046d6f69b3732c2b92b437503470eec287a1e",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fe619d4c633f9a1e35209b27d8ceb51b867b6a9e",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "944062c5c1bfcb1124475212127d4e45fe4b86e32f0c90f56841f8cd2e166ee7",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ee3bd4920e01fdee051e32aa25f180bf0c34f5779bdfc8756958aa5e2867704b",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ef30642c62856ccfd1dbac5ba97259e8d0a4ac61cb4c0efbaa563dc5164bb898",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "875e2469b10dfc2eb9550d26186d5154f2bc75b9",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cf7e6d789c17694187beca825536c5f0d344e460",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2552d6d791ba9945aadee312226a3122ed7e180d6191f3caea0c89a7f914ebe4",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "72d320afeef77e2588c9c3faedd71ae647b04be2e4bbc2a4327bd49d6f3fbd89",
+        "pulse": "2026 Third Quarter Windows Web Server Targeted Malware Statistics Report",
+        "tags": [
+          "windows web server",
+          "potato tools",
+          "godzilla",
+          "privilege escalation",
+          "iis",
+          "wordpress scanner",
+          "sweetpotato",
+          "printspoofer",
+          "telerik ui",
+          "cve-2019-18935",
+          "webshell",
+          "tomcat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-14T07:11:46",
+        "hash_type": "sha256"
+      },
       {
         "value": "739a54032b89432bb4c9c33969f6b383",
         "pulse": "RSVP to Disaster: How One Click Installs a RAT",
