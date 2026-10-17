@@ -1,29 +1,13 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-17T09:46:48.348471",
+  "updated": "2026-10-17T14:30:19.986564",
   "counts": {
-    "ips": 35,
+    "ips": 34,
     "domains": 355,
-    "hashes": 1143
+    "hashes": 1142
   },
   "data": {
     "ips": [
-      {
-        "value": "178.16.54.148",
-        "pulse": "VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch",
-        "tags": [
-          "amadey",
-          "maas platform",
-          "vidar",
-          "vectrarat",
-          "nyxel",
-          "netsupport rat",
-          "clickfix",
-          "uac bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-17T10:37:47"
-      },
       {
         "value": "45.142.193.132",
         "pulse": "Inside a PaperCut Attacker's AI Toolkit: Agent Instructions, Exploit Code, a Second RCE, and Victims Across 45+ Countries",
@@ -6807,51 +6791,6 @@
     ],
     "hashes": [
       {
-        "value": "9297d5fd21ef21b16f5880cd4faea2ad1fb9ee39",
-        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
-        "tags": [
-          "bloodalchemy",
-          "nomadrat",
-          "silkparasite",
-          "spicerat",
-          "nodeedgerat",
-          "government impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-16T17:20:49",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "27e072b92b5ac9e3e2a6770bef3e84bdf864b0611d3bc9caca12be2b1a63dae4",
-        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
-        "tags": [
-          "bloodalchemy",
-          "nomadrat",
-          "silkparasite",
-          "spicerat",
-          "nodeedgerat",
-          "government impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-16T17:20:49",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e9d0e8b8a33858a7a5a46f78d7a78f9aa7f9b029348d9b618c6a6a1937a39382",
-        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
-        "tags": [
-          "bloodalchemy",
-          "nomadrat",
-          "silkparasite",
-          "spicerat",
-          "nodeedgerat",
-          "government impersonation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-16T17:20:49",
-        "hash_type": "sha256"
-      },
-      {
         "value": "2ed675d3342f069b6ebb090ee8085f43",
         "pulse": "VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch",
         "tags": [
@@ -7462,6 +7401,51 @@
         "source": "alienvault_otx",
         "created": "2026-09-16T17:03:01",
         "hash_type": "sha1"
+      },
+      {
+        "value": "9297d5fd21ef21b16f5880cd4faea2ad1fb9ee39",
+        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
+        "tags": [
+          "bloodalchemy",
+          "nomadrat",
+          "silkparasite",
+          "spicerat",
+          "nodeedgerat",
+          "government impersonation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-16T17:20:49",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "27e072b92b5ac9e3e2a6770bef3e84bdf864b0611d3bc9caca12be2b1a63dae4",
+        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
+        "tags": [
+          "bloodalchemy",
+          "nomadrat",
+          "silkparasite",
+          "spicerat",
+          "nodeedgerat",
+          "government impersonation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-16T17:20:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e9d0e8b8a33858a7a5a46f78d7a78f9aa7f9b029348d9b618c6a6a1937a39382",
+        "pulse": "SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia",
+        "tags": [
+          "bloodalchemy",
+          "nomadrat",
+          "silkparasite",
+          "spicerat",
+          "nodeedgerat",
+          "government impersonation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-16T17:20:49",
+        "hash_type": "sha256"
       },
       {
         "value": "6bd5c6af884d46638ebc60434cfd35b37c1d3dd4",
@@ -28073,24 +28057,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-10T17:27:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f4a72600a3735c2a4d843875ea61bbb6f935a1af51a81f2fbc992ce11ba94afc",
-        "pulse": "Threat Snapshot: Djinn Stealer",
-        "tags": [
-          "djinn stealer",
-          "taskweaver",
-          "simplehelp exploitation",
-          "cve-2026-48558",
-          "information stealer",
-          "credential theft",
-          "data exfiltration",
-          "cross-platform",
-          "node.js loader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-10T12:49:59",
         "hash_type": "sha256"
       }
     ]
