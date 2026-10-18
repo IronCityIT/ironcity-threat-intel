@@ -1,0 +1,149 @@
+name: Emergency Wazuh cold backup to Backblaze
+
+on:
+  push:
+    paths:
+      - ".github/workflows/emergency-wazuh-backup.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: emergency-wazuh-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Verify SSH credential
+        env:
+          KEY: ${{ secrets.WAZUH_SSH_KEY }}
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          for n in KEY HOST USER; do
+            eval "v=\${$n:-}"
+            if [ -z "$v" ]; then echo "::error::WAZUH_$n is not set"; exit 1; fi
+          done
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/wazuh
+          chmod 600 ~/.ssh/wazuh
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Run bounded emergency backup
+        env:
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 "$USER@$HOST" 'bash -s' | tee emergency-backup-receipt.log <<'REMOTE'
+          set -euo pipefail
+          umask 077
+          TAG="emergency-full-sentinel-20261018"
+          LOCK=/var/lock/icit-emergency-backup.lock
+          CRON_SAVE=/root/crontab.before-emergency-backup-20261018
+          VERIFY=/tmp/icit-emergency-restore-verify
+          SERVICES="wazuh-indexer wazuh-manager filebeat logstash wazuh-dashboard"
+
+          exec 9>"$LOCK"
+          if ! flock -n 9; then
+            echo "status=BLOCKED active_backup_lock=$LOCK"
+            exit 75
+          fi
+
+          if [ ! -r /etc/icit-restic.env ]; then
+            echo "status=BLOCKED missing=/etc/icit-restic.env"
+            exit 2
+          fi
+          . /etc/icit-restic.env
+          command -v restic >/dev/null
+          restic snapshots --tag fleet-sentinel >/dev/null
+
+          crontab -l > "$CRON_SAVE" 2>/dev/null || :
+          cleanup() {
+            set +e
+            if [ -s "$CRON_SAVE" ]; then crontab "$CRON_SAVE"; fi
+            systemctl start wazuh-indexer
+            for i in $(seq 1 60); do
+              curl -sk https://127.0.0.1:9200/_cluster/health >/dev/null 2>&1 && break
+              sleep 2
+            done
+            systemctl start wazuh-manager filebeat
+            if [ -x /usr/local/bin/logstash-validate.sh ]; then /usr/local/bin/logstash-validate.sh; fi
+            systemctl start logstash wazuh-dashboard
+          }
+          trap cleanup EXIT
+
+          echo "phase=config-backup started=$(date -u +%FT%TZ)"
+          restic unlock >/dev/null 2>&1 || :
+          restic backup /etc/logstash /var/ossec/etc /usr/local/bin /etc/wazuh-dashboard /etc/wazuh-indexer /etc/filebeat /root \
+            --exclude /etc/icit-restic.env --exclude '*/data/*' --exclude '*.log' --exclude-caches \
+            --tag fleet-sentinel --tag emergency-20261018
+
+          crontab -l 2>/dev/null | grep -vE 'sentinel-watchdog|logstash-watchdog' | crontab - || :
+          systemctl stop wazuh-dashboard logstash filebeat wazuh-manager
+          systemctl stop wazuh-indexer
+          for s in $SERVICES; do
+            if systemctl is-active --quiet "$s"; then
+              echo "status=FAILED service_still_active=$s"
+              exit 3
+            fi
+          done
+
+          echo "phase=cold-data-backup started=$(date -u +%FT%TZ)"
+          restic backup \
+            /var/lib/wazuh-indexer \
+            /var/ossec/logs \
+            /var/ossec/etc \
+            /var/ossec/queue/agent-info \
+            /etc/logstash \
+            /etc/wazuh-indexer \
+            /etc/filebeat \
+            /etc/wazuh-dashboard \
+            /usr/local/bin \
+            /etc/cron.d \
+            /var/spool/cron \
+            --exclude /etc/icit-restic.env \
+            --exclude '*.log' \
+            --exclude-caches \
+            --tag "$TAG"
+
+          SNAPSHOT_ID=$(restic snapshots --json --tag "$TAG" --latest 1 | python3 -c 'import json,sys; a=json.load(sys.stdin); print(a[-1]["short_id"] if a else "")')
+          if [ -z "$SNAPSHOT_ID" ]; then
+            echo "status=FAILED reason=no_snapshot_id"
+            exit 4
+          fi
+
+          rm -rf "$VERIFY"
+          restic restore "$SNAPSHOT_ID" --target "$VERIFY" \
+            --include /etc/wazuh-indexer/opensearch.yml \
+            --include /var/ossec/etc/ossec.conf >/dev/null
+          test -s "$VERIFY/etc/wazuh-indexer/opensearch.yml"
+          test -s "$VERIFY/var/ossec/etc/ossec.conf"
+          test "$(sha256sum /etc/wazuh-indexer/opensearch.yml | awk '{print $1}')" = "$(sha256sum "$VERIFY/etc/wazuh-indexer/opensearch.yml" | awk '{print $1}')"
+          test "$(sha256sum /var/ossec/etc/ossec.conf | awk '{print $1}')" = "$(sha256sum "$VERIFY/var/ossec/etc/ossec.conf" | awk '{print $1}')"
+
+          restic stats "$SNAPSHOT_ID" --mode raw-data
+          echo "task_id=fleet-wazuh-do-backup-verification-20261017"
+          echo "status=COMPLETE"
+          echo "snapshot_id=$SNAPSHOT_ID"
+          echo "tag=$TAG"
+          echo "evidence=offline_indexer_backup_plus_two_sample_restore_hash_matches"
+          echo "completed_at=$(date -u +%FT%TZ)"
+          REMOTE
+
+      - name: Upload receipt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: emergency-wazuh-backup-receipt
+          path: emergency-backup-receipt.log
+          retention-days: 30
+
+      - name: Remove key
+        if: always()
+        run: rm -f ~/.ssh/wazuh
