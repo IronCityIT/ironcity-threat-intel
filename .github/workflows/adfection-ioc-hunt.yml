@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     env:
-      KEY: ${{ secrets.WAZUH_KEY }}
+      KEY: ${{ secrets.WAZUH_SSH_KEY }}
       HOST: ${{ secrets.WAZUH_HOST }}
       USER: ${{ secrets.WAZUH_USER }}
     steps:
