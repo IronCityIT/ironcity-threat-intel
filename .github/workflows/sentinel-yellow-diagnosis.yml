@@ -1,0 +1,145 @@
+name: ICIT Sentinel Yellow Cluster Diagnosis
+
+on:
+  push:
+    paths:
+      - '.github/workflows/sentinel-yellow-diagnosis.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      KEY: ${{ secrets.WAZUH_SSH_KEY }}
+      HOST: ${{ secrets.WAZUH_HOST }}
+      USER: ${{ secrets.WAZUH_USER }}
+    steps:
+      - name: Verify restricted SSH credential
+        shell: bash
+        run: |
+          set -euo pipefail
+          for n in KEY HOST USER; do
+            eval "v=\${$n:-}"
+            if [ -z "$v" ]; then echo "::error::WAZUH_$n is not set"; exit 1; fi
+          done
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/wazuh
+          chmod 600 ~/.ssh/wazuh
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Run read-only cluster diagnosis
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 "$USER@$HOST" 'bash -s' <<'REMOTE' > sentinel-yellow-diagnosis.json
+          set -euo pipefail
+          umask 077
+          CURLRC=/etc/icit-indexer.curlrc
+          TMP="/tmp/icit-yellow-diag.$$"
+          trap 'rm -rf "$TMP"' EXIT
+          mkdir -p "$TMP"
+          test -r "$CURLRC"
+
+          curl -sk --config "$CURLRC" --max-time 20 \
+            'https://127.0.0.1:9200/_cluster/health' > "$TMP/health.json"
+          curl -sk --config "$CURLRC" --max-time 30 \
+            'https://127.0.0.1:9200/_cat/shards?format=json&h=index,shard,prirep,state,unassigned.reason,node' > "$TMP/shards.json"
+          curl -sk --config "$CURLRC" --max-time 20 -H 'Content-Type: application/json' \
+            -d '{}' 'https://127.0.0.1:9200/_cluster/allocation/explain' > "$TMP/explain.json"
+
+          python3 - "$TMP/health.json" "$TMP/shards.json" "$TMP/explain.json" <<'PY'
+          import collections, datetime, json, sys
+          hp,sp,ep=sys.argv[1:]
+          health=json.load(open(hp))
+          shards=json.load(open(sp))
+          explain=json.load(open(ep))
+          unassigned=[s for s in shards if str(s.get("state","")).upper()=="UNASSIGNED"]
+          primaries=[s for s in unassigned if str(s.get("prirep","")).lower()=="p"]
+          replicas=[s for s in unassigned if str(s.get("prirep","")).lower()=="r"]
+          reasons=collections.Counter(s.get("unassigned.reason") or "UNKNOWN" for s in unassigned)
+          node_count=int(health.get("number_of_nodes",0) or 0)
+          data_nodes=int(health.get("number_of_data_nodes",0) or 0)
+          expected=(health.get("status")=="yellow" and data_nodes==1 and len(primaries)==0 and len(replicas)>0)
+          deciders=[]
+          for nd in explain.get("node_allocation_decisions",[]) or []:
+              for d in nd.get("deciders",[]) or []:
+                  key=(d.get("decider"),d.get("decision"))
+                  if key not in deciders:
+                      deciders.append(key)
+          classification="EXPECTED_SINGLE_NODE_REPLICA_BEHAVIOR" if expected else "ALLOCATION_FAULT_OR_NONSTANDARD_TOPOLOGY"
+          recommendation=(
+            "No emergency recovery indicated. Under a separate planned contract, either accept yellow as an explicit single-node limitation, set replicas to zero for applicable templates/indices, or add a second data node for actual redundancy."
+            if expected else
+            "Investigate unassigned primaries or multi-node allocation constraints before changing replicas or allocation settings."
+          )
+          out={
+            "task_id":"ICIT-FLEET-20261018-SENTINEL-YELLOW-DIAG",
+            "status":"COMPLETE",
+            "repo_path":"Sentinel:wazuh-indexer",
+            "query_mode":"authenticated read-only",
+            "cluster":{
+              "status":health.get("status"),
+              "nodes":node_count,
+              "data_nodes":data_nodes,
+              "active_primary_shards":health.get("active_primary_shards"),
+              "active_shards":health.get("active_shards"),
+              "unassigned_shards_reported":health.get("unassigned_shards"),
+              "pending_tasks":health.get("number_of_pending_tasks"),
+              "active_shards_percent":health.get("active_shards_percent_as_number")
+            },
+            "observed_shards":{
+              "total":len(shards),
+              "unassigned_total":len(unassigned),
+              "unassigned_primaries":len(primaries),
+              "unassigned_replicas":len(replicas),
+              "unassigned_reason_counts":dict(reasons)
+            },
+            "allocation_explanation":{
+              "can_allocate":explain.get("can_allocate"),
+              "allocate_explanation":explain.get("allocate_explanation"),
+              "decider_results":[{"decider":a,"decision":b} for a,b in deciders]
+            },
+            "classification":classification,
+            "recommendation":recommendation,
+            "changes":"none",
+            "tests":[
+              "restricted SSH credential accepted",
+              "cluster health authenticated",
+              "shard inventory authenticated",
+              "allocation explanation authenticated"
+            ],
+            "evidence":"bounded summary only; no raw documents or events exported",
+            "completed_at":datetime.datetime.now(datetime.timezone.utc).isoformat()
+          }
+          print(json.dumps(out,separators=(",",":")))
+          PY
+          REMOTE
+
+      - name: Validate receipt
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          p=json.load(open("sentinel-yellow-diagnosis.json",encoding="utf-8"))
+          assert p["status"]=="COMPLETE"
+          assert p["cluster"]["status"] in ("green","yellow","red")
+          assert p["observed_shards"]["unassigned_total"] == (
+            p["observed_shards"]["unassigned_primaries"] + p["observed_shards"]["unassigned_replicas"]
+          )
+          assert p["classification"]
+          PY
+
+      - name: Upload receipt
+        uses: actions/upload-artifact@v4
+        with:
+          name: sentinel-yellow-diagnosis
+          path: sentinel-yellow-diagnosis.json
+          retention-days: 30
+
+      - name: Remove key
+        if: always()
+        shell: bash
+        run: rm -f ~/.ssh/wazuh
