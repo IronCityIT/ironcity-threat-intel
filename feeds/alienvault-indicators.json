@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-18T01:42:58.767757",
+  "updated": "2026-10-18T09:59:11.107516",
   "counts": {
     "ips": 34,
-    "domains": 342,
-    "hashes": 1147
+    "domains": 341,
+    "hashes": 1144
   },
   "data": {
     "ips": [
@@ -6477,25 +6477,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-11T18:06:37"
-      },
-      {
-        "value": "log.gitclone.org",
-        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
-        "tags": [
-          "privilege escalation",
-          "rust backdoor",
-          "cve-2026-82329",
-          "jfrog artifactory",
-          "in-the-wild exploitation",
-          "vulnerability chaining",
-          "cve-2026-42018",
-          "administrative compromise",
-          "groovy plugin",
-          "cve-2026-42016",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-11T07:05:54"
       }
     ],
     "hashes": [
@@ -27534,66 +27515,6 @@
         "source": "alienvault_otx",
         "created": "2026-09-11T17:55:39",
         "hash_type": "sha1"
-      },
-      {
-        "value": "ac6c52632fcf8b072be3b1c5bc076fdd",
-        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
-        "tags": [
-          "privilege escalation",
-          "rust backdoor",
-          "cve-2026-82329",
-          "jfrog artifactory",
-          "in-the-wild exploitation",
-          "vulnerability chaining",
-          "cve-2026-42018",
-          "administrative compromise",
-          "groovy plugin",
-          "cve-2026-42016",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-11T07:05:54",
-        "hash_type": "md5"
-      },
-      {
-        "value": "513a907b69edffc3cb77a494da395178d21ef9bd",
-        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
-        "tags": [
-          "privilege escalation",
-          "rust backdoor",
-          "cve-2026-82329",
-          "jfrog artifactory",
-          "in-the-wild exploitation",
-          "vulnerability chaining",
-          "cve-2026-42018",
-          "administrative compromise",
-          "groovy plugin",
-          "cve-2026-42016",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-11T07:05:54",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6639abda5778b31cc049e4af0a71da04750fafda97d44eec3dd202d32e3e2496",
-        "pulse": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
-        "tags": [
-          "privilege escalation",
-          "rust backdoor",
-          "cve-2026-82329",
-          "jfrog artifactory",
-          "in-the-wild exploitation",
-          "vulnerability chaining",
-          "cve-2026-42018",
-          "administrative compromise",
-          "groovy plugin",
-          "cve-2026-42016",
-          "authentication bypass"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-11T07:05:54",
-        "hash_type": "sha256"
       }
     ]
   }
