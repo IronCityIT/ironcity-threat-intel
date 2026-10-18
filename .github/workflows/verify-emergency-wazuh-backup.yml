@@ -1,0 +1,57 @@
+name: Verify emergency Wazuh backup and service recovery
+
+on:
+  push:
+    paths:
+      - ".github/workflows/verify-emergency-wazuh-backup.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verify backup and services
+        env:
+          KEY: ${{ secrets.WAZUH_SSH_KEY }}
+          HOST: ${{ secrets.WAZUH_HOST }}
+          USER: ${{ secrets.WAZUH_USER }}
+        run: |
+          set -euo pipefail
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/wazuh
+          chmod 600 ~/.ssh/wazuh
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 "$USER@$HOST" 'bash -s' <<'REMOTE' | tee verify-receipt.log
+          set -euo pipefail
+          . /etc/icit-restic.env
+          EXPECTED=ead6b7cc
+          TAG=emergency-full-sentinel-20261018
+          ACTUAL=$(restic snapshots --json --tag "$TAG" --latest 1 | python3 -c 'import json,sys; a=json.load(sys.stdin); print(a[-1]["short_id"] if a else "")')
+          test "$ACTUAL" = "$EXPECTED"
+          for s in wazuh-indexer wazuh-manager filebeat logstash wazuh-dashboard; do
+            systemctl is-active --quiet "$s"
+            echo "service_$s=active"
+          done
+          HTTP=$(curl -sk -o /dev/null -w '%{http_code}' https://127.0.0.1:9200/)
+          case "$HTTP" in 200|401|403) ;; *) echo "status=FAILED indexer_http=$HTTP"; exit 5;; esac
+          echo "task_id=fleet-wazuh-do-backup-verification-20261017"
+          echo "status=COMPLETE"
+          echo "snapshot_id=$ACTUAL"
+          echo "tag=$TAG"
+          echo "indexer_http=$HTTP"
+          echo "verified_at=$(date -u +%FT%TZ)"
+          REMOTE
+      - name: Upload verification receipt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: emergency-wazuh-backup-verification
+          path: verify-receipt.log
+          retention-days: 30
+      - name: Remove key
+        if: always()
+        run: rm -f ~/.ssh/wazuh
