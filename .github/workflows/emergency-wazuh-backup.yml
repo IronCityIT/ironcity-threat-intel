@@ -40,7 +40,7 @@ jobs:
           USER: ${{ secrets.WAZUH_USER }}
         run: |
           set -euo pipefail
-          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 "$USER@$HOST" 'bash -s' <<'REMOTE' | tee emergency-backup-receipt.log
+          ssh -i ~/.ssh/wazuh -o BatchMode=yes -o ConnectTimeout=15 -o ServerAliveInterval=30 -o ServerAliveCountMax=1200 -o TCPKeepAlive=yes "$USER@$HOST" 'bash -s' <<'REMOTE' | tee emergency-backup-receipt.log
           set -euo pipefail
           umask 077
           TAG="emergency-full-sentinel-20261018"
