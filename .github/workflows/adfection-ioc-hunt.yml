@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   hunt:
-    if: contains(github.event.head_commit.added, '.github/workflows/adfection-ioc-hunt.yml')
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     env:
