@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-18T09:59:11.107516",
+  "updated": "2026-10-18T14:56:58.794052",
   "counts": {
     "ips": 34,
-    "domains": 341,
-    "hashes": 1144
+    "domains": 342,
+    "hashes": 1152
   },
   "data": {
     "ips": [
@@ -660,6 +660,17 @@
       }
     ],
     "domains": [
+      {
+        "value": "pipicka.xyz",
+        "pulse": "LabubaRAT Threat Snapshot",
+        "tags": [
+          "labubarat",
+          "maas framework",
+          "rust-based rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:25"
+      },
       {
         "value": "deadhub.org",
         "pulse": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents",
@@ -6480,6 +6491,105 @@
       }
     ],
     "hashes": [
+      {
+        "value": "7b15605f23b131b3eeea57e031ae7cb32fc4b78c7bbb2025aa7a561ea5ae5159",
+        "pulse": "WeaselBiscuit Strips BeaverTail and OtterCookie Down to Essentials",
+        "tags": [
+          "weaselbiscuit",
+          "beavertail",
+          "chrome extension theft",
+          "ottercookie",
+          "invisibleferret",
+          "npm supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T13:37:04",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7d47c430e6e404dc2fa8b4837678d1cbdb4d0aeacec9b405655cab79d54a2ad9",
+        "pulse": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+        "tags": [
+          "infostealer",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b7ede935d4979146b55f12b9eec7c83b61962b478f5dc9b8db251e539ec2abd3",
+        "pulse": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+        "tags": [
+          "infostealer",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ccb187dc9de0cc7477c9817ae53365d273e121407c0305f863e2ab67c35d6395",
+        "pulse": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+        "tags": [
+          "infostealer",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "139ea03dcddf4aa810d55740be3cf6c92ce7a9f3cbcbbb35440e25b769a87683",
+        "pulse": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+        "tags": [
+          "infostealer",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "515a53291d25d229e1f9fa72e66407e1cfd7e77c91478400b24d5185af68531a",
+        "pulse": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+        "tags": [
+          "infostealer",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:26",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d8bf355a198fb5db3ea65cfdfcdfbd19",
+        "pulse": "LabubaRAT Threat Snapshot",
+        "tags": [
+          "labubarat",
+          "maas framework",
+          "rust-based rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "b7443b0ab48d2f5786d1b6f3a580f02621e9ae5a3877ee3a44e01df13d984328",
+        "pulse": "LabubaRAT Threat Snapshot",
+        "tags": [
+          "labubarat",
+          "maas framework",
+          "rust-based rat"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-18T12:51:25",
+        "hash_type": "sha256"
+      },
       {
         "value": "4843f9fafcae492f11e2d4d33dbb4cdd",
         "pulse": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents",
