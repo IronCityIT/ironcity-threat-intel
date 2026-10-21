@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-21T10:41:24.192722",
+  "updated": "2026-10-21T16:10:32.334036",
   "counts": {
-    "ips": 108,
-    "domains": 445,
-    "hashes": 1215
+    "ips": 106,
+    "domains": 455,
+    "hashes": 1210
   },
   "data": {
     "ips": [
@@ -1824,45 +1824,297 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-14T13:35:48"
-      },
-      {
-        "value": "23.240.77.233",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45"
-      },
-      {
-        "value": "47.18.167.159",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45"
       }
     ],
     "domains": [
+      {
+        "value": "mail.silibank.net.kp",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "smtp.star-co.net.kp",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "mail.silibank.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "hangro.net.kp",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "silibank.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "ps.ppokkugi.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "futurere.com.kp",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "lnnk.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "dns.chinact.net",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "mail.chinact.net",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "mx2.sompo-japanchina.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "aeoncredit.com.cn",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "mall.dssodr.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "hero-huishan.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "hero-huishan.cn",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "smtp1.star-co.net.kp",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "kevin.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
+      {
+        "value": "nkinternet.com",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48"
+      },
       {
         "value": "technicais.sytes.net",
         "pulse": "Don't Call Us, We'll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
@@ -9486,145 +9738,81 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-14T13:39:20"
-      },
-      {
-        "value": "lygyaou.com",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "kenandy.shop",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "new-app-haixing.com",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "ylhgkj.com",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "1dwsd1dedf.kumamoto-city.jp",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "9aiolnhtdi.kumamoto-city.jp",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "bcuxktpfkz.kumamoto-city.jp",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
-      },
-      {
-        "value": "paidy.farradae.com",
-        "pulse": "Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus",
-        "tags": [
-          "financial fraud",
-          "cofish_ws",
-          "iron man",
-          "coacev",
-          "domain seizure",
-          "credential phishing",
-          "japanese targets",
-          "cogui",
-          "chinese-speaking cybercriminals"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T13:44:23"
       }
     ],
     "hashes": [
+      {
+        "value": "b8810eae6ead0ec3a606300c5e3fe9c7af23f836719596e9519f73b4e1e7ad01",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5a2f81451d6c921a7ab845b1856f67d71c76196cc34ace5ef7c7e8e471c3214b",
+        "pulse": "North Korea's Hangro Revisited",
+        "tags": [
+          "silibank",
+          "mail relay systems",
+          "north korea networks",
+          "hangro",
+          "vpn infrastructure",
+          "cross-border infrastructure",
+          "softether",
+          "certificate hierarchy"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T16:40:48",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0108656a3e1ade6ca4f21b084f5e1208",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T11:54:11",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bea5e267f24d7da59f6821bffdbff293",
+        "pulse": "PAYLOAD ransomware attacks through Active Directory GPO",
+        "tags": [
+          "vpn compromise",
+          "sysvol abuse",
+          "gpo abuse",
+          "encryptionless extortion",
+          "esxi targeting",
+          "data exfiltration",
+          "payload",
+          "active directory",
+          "group policy object",
+          "domain controller"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-21T11:54:11",
+        "hash_type": "md5"
+      },
       {
         "value": "77b4fd46994992f0e57302cfe76ed23c0d90101381d2b89fc2ddf5c4536e77ca",
         "pulse": "Don't Call Us, We'll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Ties",
@@ -32229,177 +32417,6 @@
         "source": "alienvault_otx",
         "created": "2026-10-14T13:35:48",
         "hash_type": "sha256"
-      },
-      {
-        "value": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b9fb0b27ddd59b58d3ae53c7227298a3e0de1e6f868b9429ae21533bb9cd1e70",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "829b1cd270b30565739a478441833f49f10a49bd06f0d18cc96c8ae4a0431f11",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bd064244dad748cf2a44074bee56f5bfab4a2b18ee944b75d1b3febd4c1fe02a",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c4c4436ff5cdf0d6d68f5108031cbf3708a095cde4ef8c09316af7a7110437e",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fc1b10c58057ef9f1f9a1e2a3d4a1c89f43b0ead451398c70ed7a6e0312b36ee",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f84eea718526706afdf2d1a2774fab76ecb11c18fb61995a37be8249c5e379ab",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b7ae166fd49a7ecfe6322a80b8aa56d6aa0825d8f5d106dab2e4fb7d14ce15a8",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "30fbcd20a44e913f2dfdaa813f8778c699a4b613",
-        "pulse": "PEERSTITCH, a Stealthy FortiGate Implant",
-        "tags": [
-          "fortigate",
-          "privilege escalation",
-          "network intrusion",
-          "cve-2024-47575",
-          "telecommunications",
-          "memory-resident implant",
-          "fortimanager",
-          "vpn",
-          "cve-2025-61624",
-          "peerstitch"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-14T22:59:45",
-        "hash_type": "sha1"
       }
     ]
   }
