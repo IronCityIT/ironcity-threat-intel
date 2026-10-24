@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-24T14:56:35.379604",
+  "updated": "2026-10-24T19:53:08.269429",
   "counts": {
-    "ips": 167,
-    "domains": 261,
-    "hashes": 899
+    "ips": 138,
+    "domains": 263,
+    "hashes": 906
   },
   "data": {
     "ips": [
@@ -2213,415 +2213,45 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-19T06:03:54"
-      },
-      {
-        "value": "144.172.64.99",
-        "pulse": "ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks",
-        "tags": [
-          "m365",
-          "service principal",
-          "cloud backup",
-          "skykick",
-          "msp",
-          "connectwise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T09:52:58"
-      },
-      {
-        "value": "144.172.64.128",
-        "pulse": "ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks",
-        "tags": [
-          "m365",
-          "service principal",
-          "cloud backup",
-          "skykick",
-          "msp",
-          "connectwise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T09:52:58"
-      },
-      {
-        "value": "144.172.64.60",
-        "pulse": "ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks",
-        "tags": [
-          "m365",
-          "service principal",
-          "cloud backup",
-          "skykick",
-          "msp",
-          "connectwise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T09:52:58"
-      },
-      {
-        "value": "45.153.212.101",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "111.92.128.89",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "103.83.146.100",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "195.62.37.119",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "102.222.146.45",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "82.167.14.7",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "130.12.182.7",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "46.33.33.95",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "103.181.212.245",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "114.145.49.215",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "120.244.160.182",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "125.62.88.26",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "13.1.37.28",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "154.183.158.198",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "154.241.254.9",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "174.60.63.37",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "177.52.203.23",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "183.63.88.227",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "190.117.56.56",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "207.48.184.10",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "46.233.40.20",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "46.236.167.143",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "49.150.197.119",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "78.190.152.64",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "81.10.79.197",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
-      },
-      {
-        "value": "95.105.74.172",
-        "pulse": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-        "tags": [
-          "rce vulnerability",
-          "netscaler",
-          "freebsd implant",
-          "zero-day exploitation",
-          "web shells",
-          "cve-2026-88771"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-17T01:06:09"
       }
     ],
     "domains": [
+      {
+        "value": "greatgrgreeng.com",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49"
+      },
+      {
+        "value": "leftsideegpeakk.com",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49"
+      },
       {
         "value": "p1o2i3u4y5t6r7e8w9q0.medianewsonline.com",
         "pulse": "Konni Hackers Target Ukraine With Malicious LNK Files and VelvetCake PowerShell Malware",
@@ -7046,6 +6676,138 @@
       }
     ],
     "hashes": [
+      {
+        "value": "0d202e16408770e8b6cceb14e1e3e72946b154bf881d27fe33d0060315b30dd1",
+        "pulse": "The Not So Silent Miner: Threat Actor Compiles Cryptominer on the Endpoint",
+        "tags": [
+          "c3pool",
+          "cryptominer",
+          "on-endpoint compilation",
+          "silentxmrminer",
+          "monero",
+          "cve-2024-7399",
+          "cve-2025-4632",
+          "anydesk",
+          "samsung magicinfo"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:50",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "30f9387b6aa2dd249d93cec58786251a224faaec57673a4b8104a33a01dfe62b",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "351f0d27d2f0105186446693eed5794419ad79d7e6e647fc2fe74dbffb25f9ad",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "5060c8184993d5ac04701ffa2c1d30451e40a7b2dbfc084eceaabb5084704991",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a7e8c9e157d3ce37913a32aaa861b5248da4cc5288fa99a6b291524af5e3b9c6",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b7a5c52cedd9cd5425a7f85b8d3b4b869b805c70c7991375a2c4ab612ff7906d",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fec29bbd8e50b6635ef683f03f6e018c9627aa6362a2f167115424e50b8c1b10",
+        "pulse": "RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft",
+        "tags": [
+          "credential theft",
+          "persistence",
+          "hvnc",
+          "remotepanel",
+          "app-bound encryption",
+          "boundsiphon",
+          "bnb smart chain",
+          "clickfix",
+          "browser hijacking",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T17:43:49",
+        "hash_type": "sha256"
+      },
       {
         "value": "7324066f5825c125c351ab7ccebad14d",
         "pulse": "SEO Poisoning Campaign Delivers New Armorsteal Malware",
