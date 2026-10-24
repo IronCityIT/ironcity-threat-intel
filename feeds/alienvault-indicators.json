@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-23T20:41:58.726629",
+  "updated": "2026-10-24T02:08:38.582641",
   "counts": {
     "ips": 168,
-    "domains": 263,
-    "hashes": 912
+    "domains": 264,
+    "hashes": 909
   },
   "data": {
     "ips": [
@@ -2634,6 +2634,22 @@
       }
     ],
     "domains": [
+      {
+        "value": "p1o2i3u4y5t6r7e8w9q0.medianewsonline.com",
+        "pulse": "Konni Hackers Target Ukraine With Malicious LNK Files and VelvetCake PowerShell Malware",
+        "tags": [
+          "operation conflict compass",
+          "scheduled tasks",
+          "ukraine targeting",
+          "lnk files",
+          "north korea",
+          "spear-phishing",
+          "velvetcake",
+          "powershell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-24T12:40:36"
+      },
       {
         "value": "massgravel.net",
         "pulse": "SEO Poisoning Campaign Delivers New Armorsteal Malware",
@@ -24987,42 +25003,6 @@
         "source": "alienvault_otx",
         "created": "2026-10-16T15:25:13",
         "hash_type": "md5"
-      },
-      {
-        "value": "810726bb14e100a122cd8fc189eb087f",
-        "pulse": "An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies",
-        "tags": [
-          "iis exploitation",
-          "suo5",
-          "https tunneling"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-16T07:33:14",
-        "hash_type": "md5"
-      },
-      {
-        "value": "da6918a86f2165f44539c54b22d457660101228c",
-        "pulse": "An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies",
-        "tags": [
-          "iis exploitation",
-          "suo5",
-          "https tunneling"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-16T07:33:14",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5fa12b9a16d6d5bab38b4a6d8c4cd46afbcd8f54786131c618588073ebabd1a5",
-        "pulse": "An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies",
-        "tags": [
-          "iis exploitation",
-          "suo5",
-          "https tunneling"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-16T07:33:14",
-        "hash_type": "sha256"
       }
     ]
   }
