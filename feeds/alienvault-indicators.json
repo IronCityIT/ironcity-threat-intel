@@ -1,13 +1,182 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-26T01:56:47.345282",
+  "updated": "2026-10-26T11:38:49.659996",
   "counts": {
-    "ips": 137,
-    "domains": 288,
-    "hashes": 911
+    "ips": 142,
+    "domains": 303,
+    "hashes": 1109
   },
   "data": {
     "ips": [
+      {
+        "value": "92.118.112.100",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "119.63.72.54",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "185.235.212.105",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "103.77.210.80",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "185.203.18.54",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "188.80.228.122",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "147.78.168.57",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "158.173.75.178",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "31.223.184.166",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "117.203.73.63",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "145.255.150.25",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "147.175.149.67",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "147.78.168.67",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53"
+      },
+      {
+        "value": "2.26.252.48",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
       {
         "value": "74.82.197.86",
         "pulse": "VeloCloud Orchestrator SQL Injection Vulnerability",
@@ -2070,131 +2239,293 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-21T01:52:27"
-      },
-      {
-        "value": "2.5.30.112",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57"
-      },
-      {
-        "value": "96.62.218.59",
-        "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
-        "tags": [
-          "software supply chain",
-          "cve-2026-110936",
-          "clickfix",
-          "industrial software"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T14:43:58"
-      },
-      {
-        "value": "2.27.248.127",
-        "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
-        "tags": [
-          "software supply chain",
-          "cve-2026-110936",
-          "clickfix",
-          "industrial software"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T14:43:58"
-      },
-      {
-        "value": "179.60.146.241",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
-      },
-      {
-        "value": "46.151.182.18",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
-      },
-      {
-        "value": "62.133.62.80",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
-      },
-      {
-        "value": "31.56.197.72",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
-      },
-      {
-        "value": "192.159.99.139",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
-      },
-      {
-        "value": "209.74.64.192",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47"
       }
     ],
     "domains": [
+      {
+        "value": "ecomscan.com",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "leqdger.click",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "manulfie.click",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "lanhd6549tdhse.top",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "neswnsssn.click",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "c85grt98sd.com",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "crypto-insider.top",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "deepveindrilling.com",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "hdfdsi84j3h.top",
+        "pulse": "deepveindrilling.com: Magento CMS block loader hits 953 stores",
+        "tags": [
+          "keitaro tds",
+          "gsocket",
+          "browser fingerprinting",
+          "cms block injection",
+          "magento"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-25T06:07:56"
+      },
+      {
+        "value": "neihite.cc",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "kkeyyou.cc",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "dobeqnesmot.cc",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "hjazfioe.surf",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "dfwioeiofwr.info",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "gate.dfwioeiofwr.info",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "somelitersofblood.pw",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05"
+      },
+      {
+        "value": "azurenetfiles.net",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05"
+      },
+      {
+        "value": "microsoft-entra.net",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05"
+      },
+      {
+        "value": "winmanage-me.network",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05"
+      },
+      {
+        "value": "enroll.azuredevice.cloud",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05"
+      },
       {
         "value": "baoquocgiavn.com",
         "pulse": "PureRAT and PureLogs Campaign Targeting Japanese Organizations",
@@ -6978,83 +7309,3976 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-21T01:52:27"
-      },
-      {
-        "value": "tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57"
-      },
-      {
-        "value": "wizardexpensive.com",
-        "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
-        "tags": [
-          "software supply chain",
-          "cve-2026-110936",
-          "clickfix",
-          "industrial software"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T14:43:58"
-      },
-      {
-        "value": "storage-data.com",
-        "pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
-        "tags": [
-          "aomei backupper",
-          "remote access backdoor",
-          "supply chain attack",
-          "upgrade-now.exe",
-          "update infrastructure compromise",
-          "software distribution hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T15:07:21"
-      },
-      {
-        "value": "promotion.storage-data.com",
-        "pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
-        "tags": [
-          "aomei backupper",
-          "remote access backdoor",
-          "supply chain attack",
-          "upgrade-now.exe",
-          "update infrastructure compromise",
-          "software distribution hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T15:07:21"
-      },
-      {
-        "value": "aomei.storage-data.com",
-        "pulse": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
-        "tags": [
-          "aomei backupper",
-          "remote access backdoor",
-          "supply chain attack",
-          "upgrade-now.exe",
-          "update infrastructure compromise",
-          "software distribution hijacking"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-19T15:07:21"
       }
     ],
     "hashes": [
+      {
+        "value": "1dc5af9cce950aad1eb1546ecce8565b117540c4",
+        "pulse": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+        "tags": [
+          "github tokens",
+          "secret exfiltration",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-26T00:14:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c665b778b2d822453293003e7ca0bbb2cb08e39d",
+        "pulse": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+        "tags": [
+          "github tokens",
+          "secret exfiltration",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-26T00:14:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d09535857a741bbb976bdc084a9a021713133291",
+        "pulse": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+        "tags": [
+          "github tokens",
+          "secret exfiltration",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-26T00:14:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f3da2b8b357dcda02fd455d314be2a95007516a6",
+        "pulse": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+        "tags": [
+          "github tokens",
+          "secret exfiltration",
+          "polinrider",
+          "supply chain"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-26T00:14:02",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b61a098fc62a2c2696e196dca78da71a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43898a0a53bbd25d31ad9f5018ed3182be98a66109b22c9cab545a9fc447992a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c472dab4ff7c16782a8037f988d4daa6d4bdb343",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7bc41ed79a9ae909927a9e40701736460a8cb70fca16ce1510e58677aca764b6",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48ccbf9690ff1cb305bac3ee54d5e0f4d9343986",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4a78b5109f781eaf77e9e56a3bc299373cf047c3",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5d86adda73bdb92f9169d200e1afdd101149678d",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "80cf1a23c737b105c46b383a4cee4900257280df",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b708e49385a3b55b5905c49e017e68563c904a2c",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e5a5e14f9dafa085bf10dc8b254a99576201972a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fe6f30e664fc76be0f72fb97356cd650a350af1d",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7f191632e7320705d154b85204f1ae546b543acbd7e8861229b76f5042b92bdb",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "84dc8c82c0a4a4a62552ef826b49fcc86d1a5c4a5d0f2c06665723f93d129d7d",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9dd0a3926f96a37eb86cf1ee2310d9be93139cc4ebef3ef9e2efe9531390be25",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "03ac2a8b752605d1d7710979c17ff18b03dd978203ba23ba97fd8ce3d6f897ea",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "34bef04fe88ac9d0aae0475630b1738681d15b94f233ac8aa46eacf5968305fa",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b6122440d0d9cb1eb1ade9933f49214da8c31288de7710c076c2680dfa528465",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7598727f209d717041db37f7dca271d3a7d328a279890e0e1d55375729aeb86d",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0aaf7ba346d41ef2f40390436738b001180d5a1c03aa093f121078a9969d9a1a",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "668169d35b87bf51324080390b1b1c5ab12bd335cfe5f1a99e3689abd5e02ae6",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "462d0c9f67ca522d9e0e4acd245e90b36ce0d5353604a66bb7c43a1ec4a6fcf7",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c2e32d0ce2548aa662c18bf5001911a79fe5b30cf8357132275add02fdcde054",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1bbce8caa94f01c0aaa0b7ddae51553a8a32e1ce53d96d44fe583272aff7ad00",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "12d4ccc5c6f8d35cf4f2cf233b7f3e418e863e657d81ff5f5fc9e210005b9484",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0fe28aac7ffdb8244b1b14b42679c812",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "381268668e5e7482148556e5fecbe70c",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "42b277aa22cead04584b530b455a69c9",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7c2ab3e333fa55e0ef9201e59c6906ce",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "a9965481b3c029e3cbae6fb1f1090233",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fcb8a99f327c2bf755e3baeb60eff685",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "fedf0a9a195c2f636605a73f3f172682",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "12122069d48713805d5989dde82a3532dd0ebcab",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5e19670f1e3e60b2ddfd2cbd8759403d9ac1a50b",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8c2599f96e4f08bcefc4340767bd9eaf2bedc7fc",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cd09b7b6f2e525188ed330ef7ce1a7475f02ed05",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d35c045f290e682d11dccf4eb3e8a93283428844",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f342aa55a09427136500d507e76f269452af3e1a",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fc33f44263b6e7bae8fcaf8daf48d5cc184a0179",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "793bfcd69e590c5a83d6b0e0408b9979",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "e501b00356914ed2aa064cb5debe6924",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "eb9ca072a06bf755a76b132b56153de6",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3d788496e9d15f1e6cf5cebeeafba1c138c0b95a",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "54e58a35d10771ab50e2eb27b7159d961234047f",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c975717cf8deb511d7226900ac979c7a1485f782",
+        "pulse": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+        "tags": [
+          "developer tools",
+          "pypi",
+          "artex",
+          "startup hooks",
+          "litellm",
+          "supply chain compromise"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T20:52:25",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "987eabfde3ca735273c9e0f5080bdbb0",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f0b23f420659babb3a730b122259440091c53c12",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "04e40fbf5dfff023a657076c4e0d6f257301da049dd351cb3d7aea64a694aa0d",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c1bc6228b1f8bd610af0947edcef1ef5",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6393c0d3fb76f771a9418c2d152c621929ee002b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bf037920d39b85572ec7e53b51f09c28198c2c0afbc7c7d6cf639b1f047caebf",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ec780496f8b465950a0942aad9e0374f54830f203968f9559ed3ddc256956ae",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8c827ebe6affd13781eba8a6751e4ee90168fe8511faa1e7b26bd96fdb9f281f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b57099b095ed6f665ea8e768f3c6d1d1",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "21ef070e39f651118a804882374dc2dfa3e38666",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "752c8e64af60960b85cf00e4bd34eb459e24b7939464f718ec18494df43b4b69",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0adc8e83b2416c275b1283916d70568faddeb6d718eb45f9addfb0938db245b3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6655b89b9885483d459c73f2a52e3cec121de5c5956172a8676a0f4c2de94999",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "780bbdbb119befd4eb16e0c2ec0c64e7bedc1b53ce4f85804aea091a6e3af519",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2fb80e2221bd304e7cd5ac04169e71807ad92d19836f1aaf7885295cb90b2d94",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73dbac0907e8a092cd978f2787ab1994946f5da1e08f2bdbd05ea52e80cdb896",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "07bc2e3a1d14743cc44f1dc4c78d15d0f2b458b39fb48422b13df40fc662ba21",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c533570fd7cd7eaf5478317b03ea5750d03797aa4d11ebd96555b6cb708c63f2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "36af3acc78058023cdcf9307bc15be640be9425de97e574fdaf42d03d308725b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "039240551f88b0064b2615dffdc1321b1e7c58e3f617ac138a65a6d59400b331",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0e38bd3c30a4ca08641240ce95b5b6ba593e131213ca1b2a28da4e0385fcabc4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3b4547f0d7549274f366cd9568b3d302c1e80e1b89359da681beb47260ec7975",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b590235493487c51f7050b341c9b2450e4f761ad6055207e4f6daf0cecae271c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e374f9ff5094f728528efa566c3de1b7fea7d95f497242a01fffa6c70b5eb768",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f779314b1a5a0b297fd4e2a5f9c1e40d387b3e7c401d42324b556a70f813840e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6e63e3a84740395c886c86f5a62f09ba",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bcb060fa1c89e9b07334a12e7891619e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "98c6649cc256dfadf1af939da46f037b05c0f2e5",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e3af6d9e3b35e5e04feda3cde96256dd3b099624",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0025a4a2506d18a8637a7e0d53aa274b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0de14e58cc4de3f62c2f01cb48c5826c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "112c9cfd02438311674d5cb61355a202",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "17f7deac47d90eb8b8f10ae9675c7006",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1e20e55588cdac5468a9852ae4cf756b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "21ae4be523cf657ddd7a507846ed31ba",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "27dc29dc12edd4390440944e8c00c0a5",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "47326bf512d7339d98a9c9188364f621",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "66bce9790a4534a2408bdd5676b6243f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6d599f4c27e0fc1e2a05cf8ad04437c2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7e611b37bf6f9fee0df04759d079a879",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d58b61e9fb0ba9f6e2f547bac2e9e052",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dc3b226aca8cb7f09e3617dfeee1ce84",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "426bea548a24f7f39c279770b5dd21fbed7f7328",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "50060c0fc5fa8932671eb24b03b05d00c2e99951",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "59bbaca8a848215e7e4af7cec320432c51b0b812",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "90c057dafefbee423e3014266218272d454a0aa3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9369e0e5eae22cff71b375ad285ea89471f25101",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9f05045f5447d79c8c0d0f5cb589fd85c89620d3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9f20034441e78574aec7ad39842a342f939eaf6a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b33e59c598845d2547ddc7f654115df2284bb3ae",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "da986a3cb2ce67456ef374fbdd957d370a1a4367",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "db3332ce75676389b79cf3603d81cb231cb7c19c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "007137599bc4d69ee952a5228b5fcb2c3b9a95a7",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "00d52c7e759d878f0d8a117502f6d854af13f007",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "04eddccb79db41e03a4ee8542e8a33d7f1d9fe18",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "057a2d1dedeb93b7765c455a9e0c469e7cbe4843",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "079ddf5cc7d6ca2e02f860f87d4d18c83db9d331",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0b74ce90a39278fb97fe94f6306af71cbe679503",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0c46ac5555cf8f305c1345a21d0802c52bf52cd8",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0d8d0bad2e08856ba379e425e2e90e49506af631",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0e76150cee3f2b89f0fbe39106ab2898db109f09",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0f69792cb926a416766d47a30a05009c13be0d64",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "130f2710cf9863bdd6724e8912600505b6fb7ef2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "133dc00ad81638e6b0a2f8f163b4d694ce477165",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "151d8013ca3ab3dab9cd37f4ed9870cc83e87a77",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1701db4fa798b309cb25227408406dde4c69de8a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1835f1e0b1eda3dc4b39682ecad3eba88cbbc44e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "18e041b5a0c668392ff4d036f3f9660c2698311e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1a6a6e08a01cc3f1455af2c4ecd59a3d7802cd7a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1a7248720f3ac79082841b006582f20799b314a9",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1a97a18db74f2b6df984c9a188a79b4e65a06b81",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1cb6ccfdcb277a0277729443d15f17a441fa0eda",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1cb8dc11bdb8baf342b83079fb650cd6bb1b132d",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1e072236f87cd914dc583ca2163460d656bfcfba",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "1e94d7f1d501724076fcf98459e14b68321d45f7",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2045f165d737f2d43ba603d444dfa5d9e6f05805",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "211e45f306b84a82cfe736635c176a424e7479dc",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2362a326070d83c167251873b389bd783781cf6c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "241e37b8fc5ffeefbd1d89a82b74cf2d92b49eac",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "244371fc1642f0548b807b0a4a2e7ea5d7b4c82a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "28099fc5a8cbbd40173f8ac0aded9044fdb4a598",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2cdc77108c585d14b1567053b8f8a58ea78c255f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2f30b116ca3dc48ff5783c3bb7391d671866e27b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "30737fa46f2ff93e33f45008cf306233954ea898",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "324e0fffc7977f8ff591993819123d33c2970953",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3586eeaf3ffe2c3a4f1d005aee863b7aee7cc7bd",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3696baa239c479f9f5103618214972890f1a473b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "385e21a96687a33f79f9cab0627aec7218e1a8f4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "38b2c29b46086b417181deb958e8b276a9d1fbf4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3aaeb49864108c92af50feeb5d9e3b3efaa39818",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3c56a0c3c59a1425bfdcdffda9e8b308f478b147",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4417d2645adb6e7e94959daf483f93058500840f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4485feb1385975ef13f08148cdc679f50fa0cc6d",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "456414c0acf463e06f95f5bd3d8355758fca6b53",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4595d1875441ffb8c076856e366d1f4f5c74a679",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "48c6b66dc4b4d40d72b7460e6fd670b6c03d5d40",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4b3a4ad0acd43fc8796147381074a98e8e576904",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4c07021f8b0cdd3ca334a13f9af2bade9e699dc2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "51ae6cad54f33846f83a352457b9a44ef8b7a61d",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5ef7eb755f1e3f6bf8586794777466a639057dcb",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5fadf206dc163f63ebf66f984042b00c67121813",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5fe11fbb89d33efa712ffb8590626bd88fecab8f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "61a024f5a42a9a91b0a9871a1613c7fb3ef5613b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "62dcc9ba2a5eee9dd941ad08766603c89a45869b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "63cc5033532cd00bda3d4968b1257629e613505a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "682dd6392004e1131b1aa3f2351a0bc7adb84d14",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "699c809a116106da40b3f641c11b0db34d0f1c5e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6a09fffca381f6624d2def1083284ca486306e7c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6c860007f8f49de8e9848b538bd7acdc6bfcdf55",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6e073a196a9bfa01da418b5783c2395fb22c7ec9",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6eb8f17dba69f6d25b7f5c529b25d199707b69e2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6f7d5935602c188b1e3066b4ab9aeef7b85a8ec2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "70915fac07af4ad7acc1868fe05dc00b98206f0f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "70d4007b11e56752fffb81f71c90987f4bb441fa",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "70e91644802053cfa68be6ec0f94207282ff27e4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7233a15327dc2f0cca0292e6352eebf6e6e090d8",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "72aa6417a19c45dabdd6c79087fb13c73ae7b823",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7cc6c75fad93b2482a9c5f4522530007c72f99e0",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "82ebfc09c98bd211ff8b08efcd8ec8b9ce1fb4be",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "83b43ce0ee9881201451c0604fb5b792bd4581f5",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "86230c07e638b85bc8010df1aa9e33ca61fda4cc",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "89f296aef7988bdd59109e4263d0a31c886770aa",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8b0cf62382f620bbbf5d176295d63ed522ab9c2c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8c3111a61fbf30e86b8206397ce3c0017e5ea509",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8c4c1d8325adb463c34694ce3a5a851e97b81a6f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8d7a81119ce7be6eb452192f08fa2669228ff597",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8d860ca64ce0cbf40871fd66b9e3a513e73cda90",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8dc40b7208b8c0d95d1ab8dda9a56fff790b3ddd",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8e9fd1274b77ff9726c4637d008a9d599c9d5f1e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9003310bf73dc337b8b50131f1c0724a79161aac",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "912ed8ce7767f94f62de6a30fb8e9df7c0c512f7",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "97c80e2d382e6e55f61702da3afb838fdec2f4f1",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "99b28a20851a3ed29769a469f4dd31ebbb8a83de",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "9d424ce23753ffddc7b39477222123b0f2c33066",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a00da33342a5ea5168d851a5c93109e07cf95c49",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a2abdf1af38da9995a3b6672ce6c34e9e17c39a4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a4871f4a61faf74e1cceaffe26901f6076c9f37e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a63ded811d412cd0f859891b0c1f066b87bb1b80",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "a84148b4d408544325c20ee04299ae95c762b6a2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8d6c86e0af7807f9b5baf15e9f076bb81e012515",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "055791ad0e57354a5bd959c719902339",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "25dfcec40265e84a502aa1a969a431f2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2758d4b746f74b9d9af353367c4a5fbe",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "29d8149a0e7d6810fd68122d8da10350",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2b668159e2e26d8851b171d60f71a245",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2f13729e3ff0d6d11fde51fadae788c2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "396b76713542516f39f41fa3e91cb00a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "687bd33f472c2655ee6f1d3cbf785a03",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8882bbfcf15ade8481e63f086974b03f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "8f1f29d97f283b3589d81b96fbfa1353",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "97ae2865040c4e8a0a8d37d799f6aeba",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9828dadeadf7cd333a5dd5d3c99f8082",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9e0e753c869e28910c8765f4335f7227",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bcd3a843dc9caa5a12abc117b269f497",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c024597208ca641daa18884622a802b6",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ca47b44161834cb70a224dbe3d92a383",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d647a31407f32ba2c494909ab32a4e16",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ea87a850c1269273e700c198e299d7ea",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f83355c7bdd279e370b1197add66a604",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ad960d2abb1999a7260c5f498532a5bb8754c2a5",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ae9d6b1a32a45b05edb920538e538a3d6a5fe439",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "af196456d2ebf9556ab239661922565e1bca9ac0",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b335483800d35a29c25767c917725e24c21b0f2b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b36d0796e33f808eaeb33b33908327a410680c56",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b4491f1919a88deedebe7fba56b593e7d6655458",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b523d56d82485253f2e3619437c8398b7ee0f20d",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b607025d3e06d1e8cffcd398c64871d7fcd92bf4",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b6f0dfd3aa2fc7b8b2ad432c4a4276da23ceb46b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bab4c910e3c98085bf228519f346d071a75e44e3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bad339c5ad65808285b0e87498f2ea6f669417d9",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c00aceaa40b38e48f662ac927bb86302934aaf96",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2e28ba5523c1f3a545a0b4a00a9d5e9c8ae7583",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c323c59815082ac842f0bafcc01f537444e1cc5a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c5b50b5e14dfb5e028dfd88a4e4fb960dd650b52",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c810acdf30bcdfc6e8021e7f62a3bcce0828c2ee",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c8456bb71a74ed6305455c318295b8a39e9277f3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cbdff0df0dbdbc3c1845d208661dd75fd335ef93",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cc12fcb9e5e6f7afde66f5c3452ed6e3cd6d5390",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "cc708ae3d7aa084279122c0db7250096f750d6b0",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d34491da5aa159314129c0ff67f957d873703e35",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d3c90275dd7279a791d717676be15789376f7aa7",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d8bfff5139b54b6f98f07c051cd25d7aa465fec8",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "daef439e1f110d624ce50fe0f9d9d24f61f7497b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "db69c7c930fd5dc5097847979a965fdea4171d5b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dba5fef27b53ff479a4d7046cd1f22710081a16c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "de9d152010819c8fb5cb611a4de920399e69cfeb",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dfd1540c0185e74ec65acfcae1af7ba0da36c774",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e052ff49190f54e0ffc52f7b3f7b5e7b9e121c4c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e4d93fa1b2d0fd26e8b877511ea33badb4628169",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e5c43abd1c212b2f2a61d5e1cb7821406ca5dc8e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e8d09eb2e5857fde39b44aeb48078f5396809026",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ec7cd90d56e5b73caa9d4eb0472bfee68d716121",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "eec7ece53d47e50940584f4dec684a24a78f42f2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f30e9730db0663f87c67a4b9a0cf12ee59b1621a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f35e6d2936c0f6dc26bdc68f6d1599cf438a863a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f4184e1bb61e19d190555c50fdb9d4591767bf53",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f47d45eea1c42b066f8537baf72ffa266646bf62",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f5993e64a18e7494b25a185de9f63a1df961b99a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f633fc9fd16dadca2725d3d54aaf13ea1a62174f",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f6d950a5a8e5ba336f748b66745c6c1f189d3362",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f8cf33b18e9932d285696fee40a7fee2a87341c2",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f8dbc552c89bef758e4fcbd9942d06bc0c11db0a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "f990bf4f05dfa4d86b3e3bc0a54f62e91b83f2c6",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fa61cf3bebefd88ea9d06007a4b85791aa851c8a",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fbe8708247fabd8a1bc3963db3911b5e77728669",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fe6b7d6fa8c2424d14a0d465ab78aaf83db0d07b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "ff402e64bc42222c8a4ee703123903c2a2117dd9",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0cfb9c06d729326e4283cc901deaab3bc1e70a8ec6e6a0933281088819c592c3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1201b88289054110b65ad271d01de586dc59329b8a95367862bd09c15f665e5b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "16c07d499717b5ea3a80d672ddd2df29a4513e20784d55485efe2491e2d1bc8b",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "30ff846551d79cbb2ef01d16cd8a59b822d2743fb8149f326e7aaad81a968f64",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "56c93663aaadc4f7604cae8ef89e61e928066f845e21ab6ff2571823760df0b7",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7ebbcdd872327d991bc675cae4a50e081ff32c966bc905f27814189910666f76",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8370337f9a0d8ae1cc043ebd9e39b21e4ec83cdb0c580bf02643966a661059f3",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "91d8fd94c81c333f87e3a9aec1266cb9814f2ade38033a91131c41b7d1496e1c",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ac10e2b41ab8bcb097724c2fabde73a29ddbe149746d0accf9a6be3212557071",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "af2dfbd330172e9aaf68802eb98d0dfafacbfded22932bfdad0d0c6325063136",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b615f80067ec582db790f5e49630bf3a6313a8e1037685893799367f263ad7b1",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c6b300e371a7b0d3f0525f87d9ee37120d1b370f175e74d2e97669a79bafc240",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ca32987f3e8b6adfeca7b23e66eb75b82b884f9c9cfbe3ba7eb59ee9214252b1",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d72da4953e4e784bd7526258a6610f7eda0b146090b99416d68cbc48448e9098",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "df613899e05b8c476443a59e1c59749337b35ec6e1d22ffcbaa7353726080a48",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e8b78420bf7059360a1de0c79b1be21ccbcf47a0b4bf2dd5582ac82274364501",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fc157583cc171c2c82419748390126839a0f8fba317a75f919e785aca3d98f8e",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fe47d18b6ecbcae30425801ed89ce1f95e056b1b3903b8c8c1d24123303ee7f9",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba68f386fdf2d8d9a2448f41fc3b4796ea067694",
+        "pulse": "Infostealer riding the AI Train",
+        "tags": [
+          "infostealer",
+          "kamidere",
+          "aokigahara",
+          "stygian",
+          "ai applications"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T16:09:05",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "2bee941fb40519d0d1ec52bd79a8f63fc65aac6455c8f2d6b668e3360dfdb5d7",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3ba215692665513abfffd4e815c5c45f2d41e5dcc4283a2a3b740930c5c417c3",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "419c571ee38b7e7266d130c4b6bbc4dd0ef44d6e5f3bc02cc2cf73b762f07c86",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48b4a0827da7bbfce9fb52464f8a659dea7a035189c52c506c0bfb4b1c3fe494",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ba14419beb2ec0bb94cab6298c14d7fb3e1d819366fe378290c0c2a4d97f7e07",
+        "pulse": "ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft",
+        "tags": [
+          "shinyhunters",
+          "cve-2026-35273",
+          "oracle peoplesoft",
+          "unc6240",
+          "neo-regeorg",
+          "waf bypass",
+          "sideeye backdoor",
+          "data extortion",
+          "meshagent",
+          "web shells",
+          "sideeye"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-26T07:47:05",
+        "hash_type": "sha256"
+      },
       {
         "value": "82699276b0f59a2304120a6baaf64a6b",
         "pulse": "PureRAT and PureLogs Campaign Targeting Japanese Organizations",
@@ -23612,1390 +27836,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-21T06:12:44",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1334f0189a8e6dbc48456fa4b482c5726ab7609f7fa652fcc4c1a96f2334436f",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dce2e5cc00eff2493f8ced546dc51f9d5ef78c5ee56805906ec642dfa77a1c70",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "698ce57e5f0ecda7b41d2c6c1e7ca177",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "736a6b312fe80efea9bc2e482629be06",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9887bc4eed59173d94f5340ef7c09e8ea68cd824",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9e9cfecdae356761795f5c5f5655d1ec306e39d6",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "598b222fe1d12453639dc14b390b3fa9",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6440dff8fd8156ef54f6814207983d65",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "926d26fae93d090519ac0f0e1155150e",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "f3c6ca1ba97b7f94ab52584dc62ea691",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "md5"
-      },
-      {
-        "value": "06c524df4947206f9d09181a187ead4128f8c0e9",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "6983544798d04f180427d1cb81c3a11ba227bfd4",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9ef41c3f92003f73a9946f50ab5a20f6f5df56b7",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a1894ecc337c34031986f5908c7300b2483074f6",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "143af42b492b0f36b296b0b593bd630248b5641c20b1ca1e5603e7e01b5b0676",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "228fc86acbaa6626051fd189932cb1768254aec5a9539771cee8a567103bbec1",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "363a435e517f344056c42f8d46ef73396220f79e780828ad35ec0a68e7525d02",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3c2466d8a4572c26530e6f6bcef01fc1baefb98dbff2c65efaed5599622f51f3",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "403187f08c064f244e101bbc03f1fb5b82af8ebdf4b2be0ba1a70d59ac74b313",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4de88220ff6a6dcb137b17d8d3f77ab4bacc39ea4e4d1147f687b021b7a82b8c",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5206a05eb128ccdef497f7f234cb27678046f6c6b12aa7a072672f2a4694c2b9",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "586459f1adf018de4586dcd61782839a3ee72d8469944e0f4dd45a6e20598869",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6a70824fc1777f81c8e8289258ac951e6bac7636db5315b6d7e76c5a58b82b6b",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7284d45bdbb1e32e3fb1ca6041b448b165795c91a2748de715798238fc8b3bff",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7d90023d535096da99bffcb3370008355435d9f022232870f3c27d29be8be60c",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7eb2fd5e79e79c3f2a95023d617062908c9d8c5aff9fed8361a5a74dc0d1af75",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c6f6c0d7127c95aa1360ad6fb0ba5679527a6ea2cc17eb0bc2162dd1e13cd09",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a1500204822fb16556a274132d802ba18a7e8b95cf134bd17b473f915e8cda81",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a974a9f097bc2e26f285560f1454c70710c88c30c0ae1edfa2977ad862c56716",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "afc30b1a14f2f29572412ba883782eb3ad3a9e6bf9ff9c38aa48ff35a4ee73fa",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "bd5950d4bd3de1c6d1609b8369b7332ada40c50070a9a3cd8e80ec89b19c48dc",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "cd66fb941e63ad9a72687cafb050ed5b4d8b97b34461168581c4f150d6501523",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dfdc8313921c0f594ee1cd41ff7ef73d973c667438c2dfe5c38cafdbba10defb",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f483faa2b9c9815a0efb08023fe5d243b1b9f7e04b95127c506b6aae824c9d09",
-        "pulse": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
-        "tags": [
-          "edr-killer",
-          "data-exfiltration",
-          "lateral-movement",
-          "double-extortion",
-          "psexec",
-          "vulnerable-driver",
-          "cve-2025-70795",
-          "ransomware-as-a-service",
-          "chacha20",
-          "the gentlemen",
-          "armcorp",
-          "phantom mantis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-21T06:20:57",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3fdcc7d7d049a89711fb31fb236940a1c5a09d899143ffd20c3c41fb1f2cf491",
-        "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
-        "tags": [
-          "software supply chain",
-          "cve-2026-110936",
-          "clickfix",
-          "industrial software"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T14:43:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f4d7c5321bb0d1bda439304a753bcf9b467b98ca53c7e9493b9c2c3451092e4a",
-        "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
-        "tags": [
-          "software supply chain",
-          "cve-2026-110936",
-          "clickfix",
-          "industrial software"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T14:43:58",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a92413d4951a28822ec85e5c0d1948d4160b91388c5f3d86504611fc286a4d13",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "39cc6af95d0425f160571032a6719ad3",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fdeb005810c3230ee1b1e0204a2fd05f",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "512920c5e31d08d65940877bdb29d0a17738ce37",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c52f2c9d9a1aceb30fedd940e93e6f1557fdd05e",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1bff55104206d3f55cd72ca58ffecd2fa620a428c5a3c6987d3c4cc68285d335",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "49e276498fc4e7d65ebf9fa2acf64ec2a0c25e75ac621cd6a203d64fb75aa495",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e068794cf43e381b26c82d746cca107b9f84327a2a8308d5b87ea5529963c4c8",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e94402a9886d4433ccad0ced0cd4f22d055d1f0f7e4155dbec992433eb94e00c",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c2c9187033d22d7944ea9298461a0ac693ef2774b4ce08b0955d2aba3646fb44",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "459601b69a1e47442fe1482abfb99667",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "90a95b747b7334073f7c5e8c705896c0006cbcd0",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4a43aacffc2d8d76f7abac729238779b6c99b10ee09f54c2cea1654a91561303",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e8be50171436550e1edd8b4946d2adc0870e97465f67526ea252bff0815abcbe",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "60ef547ebd2f4252e286db762980481b0da23dcd2c84465509735544c0a9c2b3",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1bb1b27e1695c726c7c1d3d4935f9318afc6f5fd9015d7cf3890f0eb7bf8d47e",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a3b44405112e6364447e5d96630edfabcf81e5ad37d690c3ebc73770d62aeabd",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6678049918dda2d5859de0a95e0573fec9496c62bbe72967ae0d3deeb5bda68f",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ea525336b787c2fd3dbc4b3e9a3a78f71004e1bd43e2e1ed953edad51118cb72",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5709e5e1496410d4b9ac5a3bd8be3ec4595f881b4865ebf6e490784b56105645",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "39d21c1b8ab2f08c75a1cb7d18433a8b207c71ec1d266bb049b54b7eaf01d67b",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2fceca3460a35eea2b21c47d73c27c27edae95d2ae29ffb4ec2222d1a223b4bd",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "68613e232d0893e61ad29906daee2312bd4c4e940f4d0c9e702e7c35a256d0f7",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "063930af6a4aad06d8f8aab43226bf6dcddd2c79aa505894ee95876cf9254543",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d74c65e6d35d3b2a80686f059590f919316ecaf4ed539192e904d675ba5c7a40",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "aafbc096e20f259df9166f837d0baf7333f177e6f383ca7cb9215936ecbe7f5e",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f1cc91e7427a22027f65d31bbee19c54b602d08d7d93e4745b9cea59fa8132ff",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1e6a79be5202601c8079ab61e0cec37a",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "567e4bc7ccce9fd5ccecf90e1f4454f9",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6ee31f08d0ebac20f7925122c52bf0e8",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "de063cf3f2e2a83e7b1a277c052a340e",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "md5"
-      },
-      {
-        "value": "9209093ce7d9aa84a1debaf8eab0f3e3b8a1f3d0",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "cdcfe080fbd8a9492f2df5e61d0ebd9abe41e0d4",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d9c66516d297a7b200c3d89fb4f261fc5e90f137",
-        "pulse": "Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries",
-        "tags": [
-          "nato",
-          "forest blizzard",
-          "apt28",
-          "naval shipbuilder",
-          "fancy bear"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T11:23:32",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1f19b9a27d79c11bda00a1e8faf74a7fdd683d38ccef1b60df2fd0307e3aa462",
-        "pulse": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
-        "tags": [
-          "bareclaw",
-          "sawfly",
-          "beyondtrust",
-          "prc-nexus",
-          "cve-2026-102764"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:45:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dc14e215269a93fdbc4c1a80b984c23faf7af0911c6dbb85309796a6f2ae95fb",
-        "pulse": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild",
-        "tags": [
-          "bareclaw",
-          "sawfly",
-          "beyondtrust",
-          "prc-nexus",
-          "cve-2026-102764"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:45:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b0871d353743fb2736f3b5ecf178788a",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "b215276fe51063cf2e4d38bbffddb112",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "md5"
-      },
-      {
-        "value": "30b71217b1e8d5b13394d4ffe3b11029d14adfa4",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c6e443496337f0fab189bbbdfe91a102f1d56678",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "56a892d80096a9db4ca473a9c3109729c60a5ba901d6ba65948bdb1f4a6fb186",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6774bfed99da38cec82e721de4bd64a67db7840efadcc71e7df02eb6f0a03c44",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "8e8b9532ce40eacfe1b4cf2b11241878b70b910aabd90b453b1460df19b51a4d",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a0ba4e1ad622d9c3d950b4156d4430812d05bee216ab22c3804a9f7a80535556",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eaf0086237879bbaac00a5874c0e2ff84deede1ba10e6b706e2288fd3a31cdde",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ffe052fc50271e7739d458b155df790438776032bfd125b974735e1dd9c0b138",
-        "pulse": "NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
-        "tags": [
-          "cve-2026-88779",
-          "php webshell",
-          "netscaler",
-          "cve-2026-88771",
-          "whipshot"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-20T07:42:47",
         "hash_type": "sha256"
       }
     ]
