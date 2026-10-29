@@ -1,13 +1,201 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-10-28T21:56:12.277204",
+  "updated": "2026-10-29T03:02:57.857248",
   "counts": {
-    "ips": 65,
-    "domains": 530,
-    "hashes": 698
+    "ips": 67,
+    "domains": 460,
+    "hashes": 677
   },
   "data": {
     "ips": [
+      {
+        "value": "49.36.35.148",
+        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
+        "tags": [
+          "http2shell",
+          "remote code execution",
+          "out-of-bounds write",
+          "compression vulnerability",
+          "cve-2026-111497",
+          "brotli decoder",
+          "node2shell",
+          "node.js",
+          "container exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T18:43:23"
+      },
+      {
+        "value": "105.213.105.48",
+        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
+        "tags": [
+          "http2shell",
+          "remote code execution",
+          "out-of-bounds write",
+          "compression vulnerability",
+          "cve-2026-111497",
+          "brotli decoder",
+          "node2shell",
+          "node.js",
+          "container exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T18:43:23"
+      },
+      {
+        "value": "49.37.46.99",
+        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
+        "tags": [
+          "http2shell",
+          "remote code execution",
+          "out-of-bounds write",
+          "compression vulnerability",
+          "cve-2026-111497",
+          "brotli decoder",
+          "node2shell",
+          "node.js",
+          "container exploitation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T18:43:23"
+      },
+      {
+        "value": "198.13.158.143",
+        "pulse": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
+        "tags": [
+          "backup destruction",
+          "n0n",
+          "credential stuffing",
+          "destructive extortion",
+          "ai-assisted attacks",
+          "llm coding agent",
+          "n0n ransomware",
+          "fortigate ssl-vpn",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:54:04"
+      },
+      {
+        "value": "217.18.55.185",
+        "pulse": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
+        "tags": [
+          "backup destruction",
+          "n0n",
+          "credential stuffing",
+          "destructive extortion",
+          "ai-assisted attacks",
+          "llm coding agent",
+          "n0n ransomware",
+          "fortigate ssl-vpn",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:54:04"
+      },
+      {
+        "value": "45.132.114.241",
+        "pulse": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
+        "tags": [
+          "backup destruction",
+          "n0n",
+          "credential stuffing",
+          "destructive extortion",
+          "ai-assisted attacks",
+          "llm coding agent",
+          "n0n ransomware",
+          "fortigate ssl-vpn",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:54:04"
+      },
+      {
+        "value": "96.126.130.81",
+        "pulse": "PHP2Shell Weaponized After Japanese Real Estate Extortion",
+        "tags": [
+          "kkkkevin777",
+          "cve-2026-109618",
+          "php2shell",
+          "shared hosting compromise",
+          "japanese real estate extortion",
+          "cve-2026-109619",
+          "beacon infrastructure",
+          "web shell deployment",
+          "customer data theft",
+          "credential reuse"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:54:04"
+      },
+      {
+        "value": "38.60.252.110",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18"
+      },
+      {
+        "value": "149.88.73.163",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18"
+      },
+      {
+        "value": "154.89.151.143",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18"
+      },
+      {
+        "value": "177.3.42.39",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18"
+      },
       {
         "value": "37.19.200.5",
         "pulse": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
@@ -743,117 +931,43 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-23T11:46:39"
-      },
-      {
-        "value": "144.172.64.99",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-23T11:44:51"
-      },
-      {
-        "value": "144.172.64.128",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-23T11:44:51"
-      },
-      {
-        "value": "144.172.64.60",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-23T11:44:51"
-      },
-      {
-        "value": "104.194.150.21",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "104.194.150.21",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-23T11:44:51"
-      },
-      {
-        "value": "167.88.172.97",
-        "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
-        "tags": [
-          "autonomous ai agent",
-          "oauth manipulation",
-          "artex",
-          "supply chain attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-23T11:44:51"
-      },
-      {
-        "value": "193.93.119.42",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "23.137.249.65",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "78.27.153.163",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
       }
     ],
     "domains": [
+      {
+        "value": "beaconipv4185.157.161.93ntpsync.io",
+        "pulse": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
+        "tags": [
+          "backup destruction",
+          "n0n",
+          "credential stuffing",
+          "destructive extortion",
+          "ai-assisted attacks",
+          "llm coding agent",
+          "n0n ransomware",
+          "fortigate ssl-vpn",
+          "data exfiltration"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:54:04"
+      },
+      {
+        "value": "213-163-205-35.sg-sin1.upcloud.host",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18"
+      },
       {
         "value": "relay.bobdthjau.com",
         "pulse": "Managed for Malice: How Attackers Turn MDM into Remote Access",
@@ -9087,1278 +9201,651 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "alianzeg.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "newtdsone.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "ai-nexora.sbs",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "cdn-2faclov.sbs",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "lcates-vs.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "capcha-cdn-js.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "cdn-plugin-js.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "carrotbunnies.com",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "sdntds.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "nttdss.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "dnsnewtds.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "ntdnewtds.shop",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "mnoskemp.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "bnsclod.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "clnsdns.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "bootstrap-maxcdn.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "marketing080company.one",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "clacndjsvulnarbi.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "chekbrow.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "biyaconserver.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "pilotkadomen.club",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "framework-css-styles-js.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "idverification-code.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "trunnsns.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "codeverificatrorcl.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "authorization-code.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "auth-code-check.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "authorization-press-enter.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "authorization-cdn-press-enter.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "catholicsma.com",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "auth-id-browser.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "enter-pverif-code.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "id-verif-code.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "enter-press-code.info",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "approvalrequest-api.com",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "cdn.claritydelivr.com",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "verico-de-id.beer",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "kerosand.net",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "fraudtechnology.com",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "rsvpopenh.one",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "lockpopclickgetfile.monster",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "pcapps.my",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "gettrack.my",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "securecab.fit",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15"
-      },
-      {
-        "value": "p3.981666.xyz",
-        "pulse": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation",
-        "tags": [
-          "cve-2026-60004",
-          "government breach",
-          "cve-2022-0847",
-          "cve-2023-54391",
-          "cve-2026-34909",
-          "cve-2026-60137",
-          "cve-2026-7273",
-          "kapibala",
-          "cve-2026-63030",
-          "cve-2026-34910",
-          "zyxel switches",
-          "privilege escalation",
-          "data exfiltration",
-          "cve-2026-79756",
-          "cve-2026-54569",
-          "chinese-speaking actor",
-          "cve-2026-34908",
-          "cve-2026-56271",
-          "wordpress exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-22T11:40:07"
-      },
-      {
-        "value": "egyptanimals.com",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "uztickets.com",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "adomd.net",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "sysop.link",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "0.ygg.l1qu1d.net",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "b.ygg.yt",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "bode.theender.net",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "g.ygg.yt",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "helium.avevad.com",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "london.sabretruth.org",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "mlupo.duckdns.org",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "n.ygg.yt",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "s2.i2pd.xyz",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "spain.magicum.net",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "srl.newsdeef.eu",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "sto01.yggdrasil.hosted-by.skhron.eu",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "vpn.ltha.de",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "y.zbin.eu",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "ygg-nl.incognet.io",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "yggdrasil.neilalexander.dev",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "yggdrasil.sunsung.fun",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15"
-      },
-      {
-        "value": "gerlace.com",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "caapman.me",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "okuneva.sbs",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "vtevens.icu",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "nutmann.club",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
-      },
-      {
-        "value": "vilialobos.lol",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16"
       }
     ],
     "hashes": [
+      {
+        "value": "22869e3326fe1de011cd500e666769027126c5c440b76837baf55139f30094e4",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6ab595ad6554819181b686d4876efb80",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6ab6ba039440819185ed491740b11cf8",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0457414c4504b70115798eee9c8384a8bf9e793461ffb2e0661a6dcc6ed4809f",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "14e3376befd4b7b52de0757b6264da294ac6b0f9e4ff51cb9bc5b19b243fe335",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "20c7befc174a61117770535e809046c75e93c71284bf1a9c6cd532f55b315f53",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "278e2f3e2f26c18666b89ef774b4af9ce954e36b2bf54a2392608619245d8c48",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "3cd1484cc5bf10e22d79784beba58a75d7b126c46efb5e1a85d6aab884447621",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "54c94f85ba6e950903d5ff42c0971c5a9d0741596be26e06afe7d60ec38edf31",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6761aad48a3f987238994d92bca97e4b8550e0150607bd67b47b1b6366a371fc",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "91a22cf3154944897cbcaffc7d20d4596e972d280ee134197d41d8d8eefb0fe2",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9c615db040b88c18ce6b96f30d08797045b7d506f940bea452dc7a6992fdbb8d",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a27cafb84876a3374ef4aba1062345def6cd0b029eaf8e0dc44fa24fc943f3c6",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab65bbfc505dbe1cebe6021fb36e2011f6aa1d64f5d87cee1cbee3fc2a0c7907",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b59a21a8d4c0c11a9ecbbdbe2a2938499c99c5ebb210c9c6db9683c7ad19f4c4",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b77575413c0f97eaf31e4a44c884c1ecdc0049ec89916ceb0bf3aaaedc0442fe",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c4603646701069ebdeabc96f74e1f947355ace8575560986d8393fcc6b88d0b7",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d3fda1e6cf886fd530bf62e2d16c39ad23ed12a2c933fc211f1f4876ceaa033e",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d5acf44658f0dce90bd160f15d8e07a96938c81661d87dc7e9cb0107863bfb90",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e58831766e8d4313db9f8b85f90c3a840aa0d84cfeac285beefa40e39ad0d1fb",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e614b7d5a7a363fb1b355a87e2e8d9e8a05bbbca08f2cee3d606bdb5015ac53b",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "eff5d63ddf1813962f0d8ad1250cea5486c8bb5dd27c3f432b43957a33e43764",
+        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
+        "tags": [
+          "amos",
+          "sectoprat",
+          "social engineering",
+          "macsync",
+          "lumma stealer",
+          "canon sideloading",
+          "rat deployment",
+          "clickfix",
+          "powershell obfuscation",
+          "google sites abuse",
+          "dll sideloading",
+          "chatgpt custom gpt"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-09-29T00:54:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "0405d4f79a3cc97fa492f1957cde0d51bc569f5432792f1b8f72077aa3fb2434",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "05e2daf00fd6d1f91e5ac32b156bae290bb43d4fa0c1521981d804582c6444d4",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4188295ae1f7f8a99d15e90eb037eef3eb03f6acd4422bf877c6e3304e70fcb9",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "59309cca70a714ca7e6a2353d583d29b0ec02e408a413b86e85a621926c3b038",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9d3f2f6031ec3b487ae12dd6f9311dd89b4a6bd23af252212bcc1f5507784f39",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "cde477ef57ef6f100dcb0242f055113690fdeade8204e0986a3ad257be1fb81e",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e7e6bfc3a2d6c3eb0ed6e1f4ade99ca761d517886412da99a2cf4a0626bce5e3",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ee15c2a54f1bb483f70bf7777ae08d39c8abbbf7f5b1f2139de0ff76ec3e241e",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fa2fac83ebc5dbdfeafe8e6950275fe3be0d4be87df37af0cc66671c318287ac",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fcbfc74ddffad4789120c618bdf166c6c8aaca286fb2d184f7fa0ed8b8f26c59",
+        "pulse": "68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory",
+        "tags": [
+          "impacket toolkit",
+          "database exfiltration",
+          "wrqsnx",
+          "privilege escalation",
+          "philippines government",
+          "open directory exposure",
+          "dcom exploitation",
+          "overseas employment",
+          "godpotato"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-28T14:25:18",
+        "hash_type": "sha256"
+      },
       {
         "value": "a3b57e4e54d178fea8f9a5f45a44ed0f",
         "pulse": "False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps",
@@ -21393,818 +20880,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d77bc0bb3018b6cc834c1af1eefaa1c0b906314308d6ab88588f8d41eb62090c",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a410c89db9140ed9dff55bff00b0338fbdffcc709490782c7b28e8a10c11eb3b",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9a736f4812b485f9cf5b1332a791b205b5135a4b3a0c41f473ad9cc9fbe2d75c",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b42854b7d8f7f27771ef4b97a61c94a1",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2243b21636f705acc327d26e06ff26bfdf3a6e6d",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b004acacd8ef5d7e8a2fd99a7931af0ced87b280d5acd2fde499da4a8f24e916",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "81ecbf004dc9dbf8ea4c50bde1ed55806fb5fdf689d165856112ea9f4d5021e0",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "07efd816a182a5f8e3533b5479126b67",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "md5"
-      },
-      {
-        "value": "154c3aac0d5c91e18fce029a12fb5750",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0aca41982db2140f9b4bf8a6fcfe3949856642fe",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "bf0fcb2034fc7384cf1a295c5bda00dcc13b8a24",
-        "pulse": "Disposable Domains, Durable Hosting",
-        "tags": [
-          "amatera",
-          "fake captcha",
-          "bulletproof hosting",
-          "blockchain c2",
-          "as202412",
-          "wacatac",
-          "clickfix",
-          "etherhiding",
-          "darkgate",
-          "trojanized installer",
-          "amadey",
-          "compromised websites",
-          "matanbuchus"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-23T12:17:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "0e81d80b40eaacbf6cb1e817fb1824c30a824af5cb4faca4aa9b03fd506d480f",
-        "pulse": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation",
-        "tags": [
-          "cve-2026-60004",
-          "government breach",
-          "cve-2022-0847",
-          "cve-2023-54391",
-          "cve-2026-34909",
-          "cve-2026-60137",
-          "cve-2026-7273",
-          "kapibala",
-          "cve-2026-63030",
-          "cve-2026-34910",
-          "zyxel switches",
-          "privilege escalation",
-          "data exfiltration",
-          "cve-2026-79756",
-          "cve-2026-54569",
-          "chinese-speaking actor",
-          "cve-2026-34908",
-          "cve-2026-56271",
-          "wordpress exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-22T11:40:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0f6e757e82c4d91df5bd249f775b9970b59dee42cc0dfe40f879d77fc16821c6",
-        "pulse": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation",
-        "tags": [
-          "cve-2026-60004",
-          "government breach",
-          "cve-2022-0847",
-          "cve-2023-54391",
-          "cve-2026-34909",
-          "cve-2026-60137",
-          "cve-2026-7273",
-          "kapibala",
-          "cve-2026-63030",
-          "cve-2026-34910",
-          "zyxel switches",
-          "privilege escalation",
-          "data exfiltration",
-          "cve-2026-79756",
-          "cve-2026-54569",
-          "chinese-speaking actor",
-          "cve-2026-34908",
-          "cve-2026-56271",
-          "wordpress exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-22T11:40:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2ff2945b13a4cd0e9a65c85af29ea1539e162a516466c0de682dbf9f8a4000b1",
-        "pulse": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation",
-        "tags": [
-          "cve-2026-60004",
-          "government breach",
-          "cve-2022-0847",
-          "cve-2023-54391",
-          "cve-2026-34909",
-          "cve-2026-60137",
-          "cve-2026-7273",
-          "kapibala",
-          "cve-2026-63030",
-          "cve-2026-34910",
-          "zyxel switches",
-          "privilege escalation",
-          "data exfiltration",
-          "cve-2026-79756",
-          "cve-2026-54569",
-          "chinese-speaking actor",
-          "cve-2026-34908",
-          "cve-2026-56271",
-          "wordpress exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-22T11:40:07",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "01855153ca7a33ad5ff36451de5612dfba0dd2ca",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "028ca11f3f0d8396043af7bf756231fc2f50f829",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "09c816697c0c2aff9b4ff58681558ca30d04c9cd",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "131a371a1e4ee78ec3b2863607c99290ec3b58a6",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "4e3e6577866e4ce2ed73ca089700ae04230e768f",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "69969eeb7e0a3d84c4e70193636fcf934c6aa388",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "8ceb5f8bcdf4995b7164996f1429d682613bb17b",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9085896989947c0919a660352f75f6b233fc645b",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b69ef0e45b401440c0fde22046775d0c57e87415",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d5f9288daebf87ae4579945f8dc6cf235b093cfd",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "d7e6a5a46c6ed3510997e91b11e51be0250fd2a2",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e29af83a07fb32eb47c28733a9382e766d53f704",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4",
-        "pulse": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-        "tags": [
-          "mythicratatoskr",
-          "matchboil",
-          "sdelete",
-          "yggdrasil"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:15",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "197f6a5103870ab3bb1a213f27a63c73",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "md5"
-      },
-      {
-        "value": "646765f24da91cf6975f24aa5feb7f373f4ec93a",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "07955dcb5f4f80c90ede398879589f2e369eb2d84c4975d3c8adf08433783409",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0a3cb24e0d0c05b544a3e32affe3ea8a4ed87c0cc90e918c10b94d3b849d76fa",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "16f73adce28e3a33e98035a19721819ddac9cda130e6f1c337db6f8d8c2f95c6",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "19d9335e66d9d519c9068994491b1a0f8734626b5328fca9723d942b7128bc9c",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2747316171bb2816b68db308162b40a47c6ddf82779d5f460a194921eb60f32c",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2cac894bf2cef2232247927e18acd35280065b576c5fa030b5fbad666db0afcc",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2dfa9e708fdb92e5d36080065f978e33a692c0fe813a75be9c7cdff03be51b6e",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2fa9c207981e05141162b9c5cf62a86bdc6593b3a6861968e4df58f49c47da0d",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3b79b342a580dd09a5e3f907e475c3131f4005be59468a59905fc289e005806d",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4659d9648275113f7f95735d170f27f10fd6d0a4e606c5b4f6e916ddc54924ed",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "765525c4fabd01383ca3dd330dd4f4fbc931bea0724c12f553df41b48a96ca82",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "804349f8f087588b057e942f321ec2c0a677a0374e02d47f95d43196fc4cac0a",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "85515e25894cace49286581f9436bd2da429e05bd96d39fafe1c42fbcdfcd4e7",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "86d775c2d5cb459541cd2b0b967fac65ce20c60e483c71c9f7e108d5ad0bd564",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9215d17e5138cee498bb529e69b1cc7267305136535025e9b49fe173cf648720",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e98949a8370c5c3356a8e97f49a2f963a6126b917e1bc653890f8c79738c981d",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eb5a6c895d24fd08e3bbd74d7a0ea02600d3b7574b9761efb2876b671e8ddd39",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eeb182444019802abb34668bd6efc7e947c1822e95c87f9a5b5288b4331400c8",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f110e20dce8361a31332faba49e29e6afd54f8bc4913841f9bdad3cbb66c14e3",
-        "pulse": "TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor",
-        "tags": [
-          "wordpress",
-          "php backdoor",
-          "clickfix"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T19:08:16",
         "hash_type": "sha256"
       }
     ]
