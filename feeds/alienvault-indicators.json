@@ -1,13 +1,49 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-03T13:05:12.445128",
+  "updated": "2026-11-03T22:37:06.519887",
   "counts": {
-    "ips": 49,
-    "domains": 872,
-    "hashes": 1008
+    "ips": 48,
+    "domains": 877,
+    "hashes": 1020
   },
   "data": {
     "ips": [
+      {
+        "value": "132.243.238.178",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
+      {
+        "value": "86.107.100.105",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
       {
         "value": "45.194.90.57",
         "pulse": "Exploitation Targeting Node-RED, a Tool Embedded in ICS Products",
@@ -827,60 +863,99 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-29T10:49:50"
-      },
-      {
-        "value": "49.36.35.148",
-        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
-        "tags": [
-          "http2shell",
-          "remote code execution",
-          "out-of-bounds write",
-          "compression vulnerability",
-          "cve-2026-111497",
-          "brotli decoder",
-          "node2shell",
-          "node.js",
-          "container exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-28T18:43:23"
-      },
-      {
-        "value": "105.213.105.48",
-        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
-        "tags": [
-          "http2shell",
-          "remote code execution",
-          "out-of-bounds write",
-          "compression vulnerability",
-          "cve-2026-111497",
-          "brotli decoder",
-          "node2shell",
-          "node.js",
-          "container exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-28T18:43:23"
-      },
-      {
-        "value": "49.37.46.99",
-        "pulse": "Node2Shell / HTTP2Shell Vulnerability May Allow RCE",
-        "tags": [
-          "http2shell",
-          "remote code execution",
-          "out-of-bounds write",
-          "compression vulnerability",
-          "cve-2026-111497",
-          "brotli decoder",
-          "node2shell",
-          "node.js",
-          "container exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-28T18:43:23"
       }
     ],
     "domains": [
+      {
+        "value": "windwsecurity.run",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
+      {
+        "value": "transfer.chinow.abrdns.com",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
+      {
+        "value": "transfer.onlypsk.abrdns.com",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
+      {
+        "value": "chinow.abrdns.com",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
+      {
+        "value": "onlypsk.abrdns.com",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28"
+      },
       {
         "value": "jet-night.com",
         "pulse": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
@@ -13857,6 +13932,679 @@
       }
     ],
     "hashes": [
+      {
+        "value": "fc9bcdb3a442880e585d6fe4ddaec62d62af641f8ac3cceeb6a553985a7d9094",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6dbfb04c063170af13a8151346898ebcb9c4b827fa8d16a96018419b746601a6",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "1811a1d63310737e969348d16d95f80bf56f8e8896fc64eb5d6d6dc314e2a547",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "42c4933c4137e8cd7ebb4a40d0ae1586",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6ba40f9bf68a6e4a89cd2a97acb24911",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "md5"
+      },
+      {
+        "value": "086496e97c73873297f9ece0b85791a97ae3de00",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b97ad1cca896363e180a66c08086893ea3c5644d",
+        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+        "tags": [
+          "chi_down",
+          "chinese-speaking operator",
+          "webshell deployment",
+          "cve-2026-75650",
+          "magento exploitation",
+          "zer4.php",
+          "psk agent",
+          "stylesmuggler",
+          "e-commerce targeting",
+          "adobe commerce"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:28",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "17e8639a00bb32b10cb9cf0d292e9441456ce4bb",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "20238b36645fc63139a76b19a480c6a9166472fa",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "3fef1af3664429e621d3e0f9408cb5102ef02b84",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4ea5b71202b69fc27b06ef9ee3f6f51d6f7b8586",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "55043ea6d102670c014e2be5a8197e70b7c201cb",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "60aece343959a2e1840f6aaeffa38b73ed21af2c",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "8777db31d8df78f36e4544a132d843dfb2a0f026",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "bead5748d813a9828ddb7603a32e52aa15349768",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "c2b986704406d47dd88ee4e2fcffebc854ff2ce4",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "38557f265cabc3cb785741c778a16b66",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "456e4c2ffab6909dc3f180b17299fbc5",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "55eab3cfdf75e78328f57ba9defd33a1",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "5bd92087d9e8a1335779d1e2f92aba31",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "6b095b7166ca3252b2abcae9cb871186",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "9811fae777173f8913b69d2d2adfbfa7",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "bc6975ba26d034e98472751e3b7f7f2d",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "eb29772884eeedccbef521c94f441b34",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f72026a4043c043be65870671b2ad50c",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2a61e811669c2fa9f2d9ecbc8d4c0932897409244d352dded764a4fd936c4d1c",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2ebf2759195413e44f9e77cc8360976f989ff96e05531d40ec7d05756a1ea9c4",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4d75c5461b65a2944b12414f1e5ef301fe411c1968788134d90aaaa6a50e68dd",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "715e3ae134195f89d8da82ec4cbe6ba1d596d756a2c207a95f75a94afcdff3a4",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "73076c366edd5b8b351f04725663d2189a92dfdc93cc34740a61a1de9bbde51e",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a9d66a4637ee2a1ee1e82cfa5db91f720b757aa8fe1457e0807b1f2210b308e",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8fe2edd0572ea9f092d80c503d2c6df9026c36bd0ace1a77bdeff9cc99737739",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b29cbf1bdde86ab15b5789e30dab7ce74c14ffd98f9d7e8b4f9887000e6d6834",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e066c6a728ac92d261c1abff7bfce1ad5ebd8b1ef054974431221629ac30d221",
+        "pulse": "Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection",
+        "tags": [
+          "ai application impersonation",
+          "github phishing",
+          "yobaloader",
+          "signed binary abuse",
+          "xmrig",
+          "yobadropper",
+          "cryptocurrency mining",
+          "telegram c2",
+          "dll sideloading",
+          "anti-analysis techniques",
+          "yoba campaign"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-03T14:09:27",
+        "hash_type": "sha256"
+      },
       {
         "value": "6e7d9b33f1e72ea1ede71373a604ecdb060dab7d42055179c1eede9ecd1fd239",
         "pulse": "DarkBlinders: Active Espionage Campaign",
@@ -36701,468 +37449,6 @@
         "source": "alienvault_otx",
         "created": "2026-10-28T18:54:55",
         "hash_type": "sha1"
-      },
-      {
-        "value": "22869e3326fe1de011cd500e666769027126c5c440b76837baf55139f30094e4",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6ab595ad6554819181b686d4876efb80",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6ab6ba039440819185ed491740b11cf8",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0457414c4504b70115798eee9c8384a8bf9e793461ffb2e0661a6dcc6ed4809f",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "14e3376befd4b7b52de0757b6264da294ac6b0f9e4ff51cb9bc5b19b243fe335",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "20c7befc174a61117770535e809046c75e93c71284bf1a9c6cd532f55b315f53",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "278e2f3e2f26c18666b89ef774b4af9ce954e36b2bf54a2392608619245d8c48",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3cd1484cc5bf10e22d79784beba58a75d7b126c46efb5e1a85d6aab884447621",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "54c94f85ba6e950903d5ff42c0971c5a9d0741596be26e06afe7d60ec38edf31",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6761aad48a3f987238994d92bca97e4b8550e0150607bd67b47b1b6366a371fc",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "91a22cf3154944897cbcaffc7d20d4596e972d280ee134197d41d8d8eefb0fe2",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9c615db040b88c18ce6b96f30d08797045b7d506f940bea452dc7a6992fdbb8d",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a27cafb84876a3374ef4aba1062345def6cd0b029eaf8e0dc44fa24fc943f3c6",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ab65bbfc505dbe1cebe6021fb36e2011f6aa1d64f5d87cee1cbee3fc2a0c7907",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b59a21a8d4c0c11a9ecbbdbe2a2938499c99c5ebb210c9c6db9683c7ad19f4c4",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b77575413c0f97eaf31e4a44c884c1ecdc0049ec89916ceb0bf3aaaedc0442fe",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c4603646701069ebdeabc96f74e1f947355ace8575560986d8393fcc6b88d0b7",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d3fda1e6cf886fd530bf62e2d16c39ad23ed12a2c933fc211f1f4876ceaa033e",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d5acf44658f0dce90bd160f15d8e07a96938c81661d87dc7e9cb0107863bfb90",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e58831766e8d4313db9f8b85f90c3a840aa0d84cfeac285beefa40e39ad0d1fb",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "e614b7d5a7a363fb1b355a87e2e8d9e8a05bbbca08f2cee3d606bdb5015ac53b",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "eff5d63ddf1813962f0d8ad1250cea5486c8bb5dd27c3f432b43957a33e43764",
-        "pulse": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix",
-        "tags": [
-          "amos",
-          "sectoprat",
-          "social engineering",
-          "macsync",
-          "lumma stealer",
-          "canon sideloading",
-          "rat deployment",
-          "clickfix",
-          "powershell obfuscation",
-          "google sites abuse",
-          "dll sideloading",
-          "chatgpt custom gpt"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-09-29T00:54:46",
-        "hash_type": "sha256"
       }
     ]
   }
