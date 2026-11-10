@@ -1,13 +1,348 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-10T00:53:56.523180",
+  "updated": "2026-11-10T13:50:35.432268",
   "counts": {
-    "ips": 64,
-    "domains": 437,
-    "hashes": 528
+    "ips": 71,
+    "domains": 409,
+    "hashes": 550
   },
   "data": {
     "ips": [
+      {
+        "value": "45.83.220.211",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T09:25:32"
+      },
+      {
+        "value": "57.129.54.120",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T09:25:32"
+      },
+      {
+        "value": "185.209.199.73",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T09:25:32"
+      },
+      {
+        "value": "89.37.63.175",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T09:25:32"
+      },
+      {
+        "value": "45.145.228.25",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "102.216.154.102",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "82.158.88.233",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "154.64.252.77",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "103.54.154.32",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "103.54.154.40",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "154.36.136.197",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "154.36.136.23",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "169.128.55.214",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "88.229.22.232",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "178.16.54.222",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "185.232.84.169",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "193.57.9.155",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "193.57.9.17",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "91.108.240.156",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "103.179.142.155",
+        "pulse": "Contagious Interview - One Interview Away From Infection",
+        "tags": [
+          "blockchain dead drop",
+          "fake job interview",
+          "developer targeting",
+          "supply chain attack",
+          "npm poisoning",
+          "cryptocurrency theft",
+          "north korea attribution",
+          "linkedin impersonation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T08:32:54"
+      },
       {
         "value": "91.92.240.238",
         "pulse": "ARTEX abuse expands as cybercriminals target financial sector",
@@ -934,234 +1269,334 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-31T19:29:25"
-      },
-      {
-        "value": "49.158.237.136",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.157",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.155",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.153",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.156",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.154",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "112.121.185.218",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "156.240.109.26",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "202.160.76.174",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "89.44.9.186",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T08:17:29"
-      },
-      {
-        "value": "142.111.194.73",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34"
-      },
-      {
-        "value": "132.243.238.178",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
-      },
-      {
-        "value": "86.107.100.105",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
       }
     ],
     "domains": [
+      {
+        "value": "creepexplosiondarknight.com",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45"
+      },
+      {
+        "value": "zeofast.cn",
+        "pulse": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+        "tags": [
+          "cognito",
+          "cloudwatch",
+          "china-aligned",
+          "artex",
+          "aws",
+          "cloud exploitation",
+          "iam",
+          "access keys",
+          "ai-native framework"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:29"
+      },
+      {
+        "value": "zc.nationbj.com",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "api.cloudfareproxy2618.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "api.testylhg24.online",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "hsreg.youkureg510.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "line.yongli250627linecfg.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "reg.alibabareg0303.com",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "reg.baidureg0621.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "reg.baidureg0627.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "reg.gitshreg611.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "reg.gptreg0706.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "up.logupload0628.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "www.game250522linecfg.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "www.tt250627linecfg.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "www.ylhg250627linecfg.xyz",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46"
+      },
+      {
+        "value": "api.frameworkmetrics.xyz",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "frameworkmetrics.xyz",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27"
+      },
+      {
+        "value": "accurasofthire.com",
+        "pulse": "Contagious Interview - One Interview Away From Infection",
+        "tags": [
+          "blockchain dead drop",
+          "fake job interview",
+          "developer targeting",
+          "supply chain attack",
+          "npm poisoning",
+          "cryptocurrency theft",
+          "north korea attribution",
+          "linkedin impersonation"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-10T08:32:54"
+      },
       {
         "value": "homesdowttups.com",
         "pulse": "The Industry Leader in Enterprise Brand Protection",
@@ -8248,919 +8683,1479 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-05T13:32:09"
-      },
-      {
-        "value": "willowbox.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "friendsanchor.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "foldlodge.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "stonestation.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "prairielink.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "fallport.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "wishcourt.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "cratebase.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "beliefdesk.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "belieftrack.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "wishgrove.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "inkact.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "orbittrack.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "companyharbor.xyz",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "signalpane.cfd",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33"
-      },
-      {
-        "value": "zz.aiapi2025.top",
-        "pulse": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
-        "tags": [
-          "llm gateway",
-          "vulnclaw",
-          "agent modification",
-          "cybersecurity tools",
-          "ladon",
-          "chinese threat",
-          "cobalt strike",
-          "prompt injection",
-          "codex exploitation",
-          "adware injection",
-          "ai jailbreak"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:31"
-      },
-      {
-        "value": "attacker-collector.com",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "888.bossjy.kdns.fr",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "c.xs1.ccwu.cc",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "gdp.gasjy.kdns.fr",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "gds.gasjy.kdns.fr",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "ssh.gputw.ai",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "vps.xs1.ccwu.cc",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "xss.xs1.ccwu.cc",
-        "pulse": "BOSSAI: Inside the AI attack mesh that targeted Taiwan's emergency services",
-        "tags": [
-          "sql injection",
-          "bossai mesh",
-          "taiwan",
-          "data exfiltration",
-          "emergency services targeting",
-          "agentic ai",
-          "abliterated models",
-          "ai-augmented threat",
-          "autonomous exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-04T07:55:43"
-      },
-      {
-        "value": "psw.agent.ma",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34"
-      },
-      {
-        "value": "09090clami09090930032.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "loganwolverin2042.webredirect.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "medellin202156.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "faithbiglovered.opik.net",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.jukt.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.fexd.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.cizt.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.bidz.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.vyqt.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.vqxt.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "xw.maxr.top",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "infogruposyc.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "nothinglikefaith.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "ebuxsfresh.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "loveyoufaith.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "38.tcp.vip.cpolar.cn",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "ogo1.duckdns.org",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31"
-      },
-      {
-        "value": "windwsecurity.run",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
-      },
-      {
-        "value": "transfer.chinow.abrdns.com",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
-      },
-      {
-        "value": "transfer.onlypsk.abrdns.com",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
-      },
-      {
-        "value": "chinow.abrdns.com",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
-      },
-      {
-        "value": "onlypsk.abrdns.com",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28"
       }
     ],
     "hashes": [
+      {
+        "value": "e79c91e8157fef862be8cbe80bdf57b87a541416717265f81f669d751fca4a3d",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "07043828c4e2c55eaf2be9e6cb7205cc",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "087ce5d643180a54a0a8b6f603971100",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1b755d215b43b8e7da25a80386493568",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "208143f41c1d6148842b7ed5d817f122",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "2df09294da360fffd01142f29b17c6cd",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "310161c45b193e923c8c99e0c21a2a0c",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "38d0eff2318a20a88175704af57d1bc4",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "3b44593c393edff904c99fbdea0ea90c",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "4126a061ddda3f433da5def0a7c79955",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7d33dc36088a8c20ee109f33d01d63c7",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7dd5c4a904893cad2b757205dc224014",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "7de8cd835a7f6400bbb01d8b78bfc811",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "82e58ea5839581846e19be5d0c414436",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "acbe51127a7e4a3b8f7cde6e857b5e4d",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "af70e9375b692630768294b98e272a37",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "c048c97c8160fb2df89e217d475c50b4",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d5f0289bf84876023eb6ccdc92ddb05a",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "d650dd0fc643fadabe5f41b94c7826d5",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "dade794dff103009e8ff2f101e21210e",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "db64a245782d2d619d10eae73ef0f196",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "ee808b1dac987d19b1b864f18538116f",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f08fc3eea3db76e7ba45cda42de5cafa",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "f4f9b5b4836090e26a6ec717b26db7c8",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "56325e91e4f8ebc5d69688385b09f1624a0b519c",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b01c0c71ddbee881f0bf3ab0eee15a1c1137ba19",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fd4e45f26bbaa0a2fc904fd9e6cb4e5fcfca9f25",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "6953618238eb40f45b584e52aca22cebbe8ba03e9a80c15c6b593f51f7e49527",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c695baad1d81ed49194d07a79381292c0466208ff1a9862c0c55f971d6a409f",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6c7a4061bcf08df5fe4a49d37442dc650d751be1a91a8bc802edff213e4d5e61",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6f6b66cbdc4a5aa5685d0017abd3f65843a28bcc2bb4e5b78d6d12a844a51aa8",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7a13e59d816d68a071a8648e62a7c3c7f929a61c618a2133ab6f511da24f979d",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "818bb464271a539c96bcbbfea1db7d5a722512041ed8ed10d3f6c7f366190044",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8245c7e7d944923f1608592f6c3473dcc6e3a3e43df3dd1c6257e7880948787b",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "875d0986ddaa51bfb5e03b06df1213cc3bb7966588d6153bdda57f2e3671e986",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "8aac187bae71f75fa2dde03dcb4a9279c982182ee8254ae96e7a6626fe4c7617",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "91b3cc9d6421b651ec85a16062af3ba26700dad2eea4a8a7e42fdd2e422f8803",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "a87002c32723f1849b3ad17b1fe6da732c9810b54b08501be21f5b1fcd882a59",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "bb2472cf5dc7e5c94216d355bf84fba2c8d088d03d61a1ac0d78639049cf5e1f",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ca5f8e5247f1a044b8be45ef03187726b9af3ac30fd93fb5bb54144e34ed3738",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e6e576a634166a16bdbfc09b14e7cf8eab90015d2dfa67dd73f3968ee869229b",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f76dae028e0c43248c128b3bf609e8d660ce0bf44b53ab9e097887e6f5206eb5",
+        "pulse": "Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",
+        "tags": [
+          "cryptomining",
+          "credential theft",
+          "cve-2026-105134",
+          "steganography",
+          "webshells",
+          "cve-2026-105133",
+          "python implant",
+          "mimikatz",
+          "netexec",
+          "backup servers",
+          "xmrig",
+          "ahsaycbs"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "086d4a83181971e883c53a4c44f46da2",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "md5"
+      },
+      {
+        "value": "1c7437dac21630f53c0b888b50662c6487e23fd7",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "65f061281c9a712e9502793dc4c5035cae490b84da05f7d4223cefa65ad396e4",
+        "pulse": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+        "tags": [
+          "s3-exfiltration",
+          "iam-role-assumption",
+          "cross-account-access",
+          "aws",
+          "trufflehog",
+          "supply-chain",
+          "credential-harvesting",
+          "qubole"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "57ef4242666d78c50df145b34023df564f0fad38812d6a580e66433d427e2279",
+        "pulse": "Infostealer VOLTA That Has AI Assess Stolen Information",
+        "tags": [
+          "volta",
+          "credential theft",
+          "openrouter",
+          "llm integration",
+          "chrome abe bypass",
+          "infostealer",
+          "telegram exfiltration",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T14:27:45",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "4632e6d7c4ea43050d5b57b2106c9f3d",
+        "pulse": "Infostealer VOLTA That Has AI Assess Stolen Information",
+        "tags": [
+          "volta",
+          "credential theft",
+          "openrouter",
+          "llm integration",
+          "chrome abe bypass",
+          "infostealer",
+          "telegram exfiltration",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T14:27:45",
+        "hash_type": "md5"
+      },
+      {
+        "value": "072863bda727c6859004d8324c20cbfb9ff816cf",
+        "pulse": "Infostealer VOLTA That Has AI Assess Stolen Information",
+        "tags": [
+          "volta",
+          "credential theft",
+          "openrouter",
+          "llm integration",
+          "chrome abe bypass",
+          "infostealer",
+          "telegram exfiltration",
+          "cryptocurrency wallet"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T14:27:45",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "70766c883b45404adb65a8f4580dc00f",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46",
+        "hash_type": "md5"
+      },
+      {
+        "value": "283cc2f06267ecf2ce70135604ab2ce8deaee9dc",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "d9020e64482821585245bf29fc96a046395b33d8e1830e17eeb949a2eb16a4d0",
+        "pulse": "Analyzing an Illegal Android Gambling App Built with Flutter",
+        "tags": [
+          "casino fraud",
+          "geolocation exfiltration",
+          "android",
+          "phone number theft",
+          "tinstaporn",
+          "flutter",
+          "gambling",
+          "hmac authentication",
+          "aes encryption"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T16:05:46",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "9b73e7cd4e1425e770392549d8df46c706139ef476f4f7b9ac405165dc8d9696",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "b601776817363b96295119f7221338a122d5247a35a77a64b04f286e1bbcc565",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "2de727046706062d38edfbbf8340f32d1eb2bdfb",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "dc7d7455c95b3092eb14bff2bd93315b84b066fa",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "de2f74e784b2eafa0d66fbb6d88b42ea11ee34cf",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "0ef1fbe5db17ec0ebd3bcac576f0f0f351a5ef5da67d5e45a9817e7a224acc5d",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "14f23342f4292ede4546070e0e3e1cacd06fa781a2937ac374d2b47dbaf77666",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "23f2d944a0dfa60df493667428d9304cfc1961270b6c68f8d0f38df7fe0e2d31",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "37d14bff30762ca701e9c1f8bc6c57c065bb20ae3a2208cb7411a6530610f08e",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "40a45d68aa49e9e6233c4eb6bb2eb2e92525deea5d17863f6910fc24b06ff20e",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6a37ce783e406f135ed8b60e0897e0e1146a9fa220c2e6c5ce4118fff967f395",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "718ae6ac77e119568dff50a6409996bd649c8e9daf7c8a5616856ff1909a916f",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7527e86d70e7c9493db4356f1c3775380431b310000f2602c1e993cf435d01da",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "80d2672e2599732d3c0ae2a4cd0d1e3fe4d555a60273ce33feb99db3f34d250f",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "92c6eb24f9910b3577d5939a8686f9bf6e52f1bdd5872bf96cab0132b4558025",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "94df8933a57cb9962a312a79c079fd0d43706a45066cda1f1b2322f403ad9217",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "aed930fbf5993df4ce9bb5951a4092da8a28a12fb45a81ad9715c7b029606fd0",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d01fdf241aa9e0a1ba6ebc19f8f667af1bf652745021c5050126cb7036f7ce58",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e0304260dcf2f29d1b4690dc46e9ceb35d5554a79ea749cd913687288d6e228b",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "e49afac84dbb6d5a5d101f87754575024b078d67a7ab9e767ff0f7b5b4368069",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ee2f762e9ed3fd89f106e0b80c2e923bf1aed9a280277d3d998a5902c4d9ec0f",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f81315968e679b48f6bdff1c9b928bb223230d07f44d7948412c2250c2a14deb",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "fae61f31f00988fdc5cc9e7272b51e08af2e245d81003237875415930fd27358",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ffd280b8ff519b647041b7453754bfd35d341bbd26bce02cb325c512c8976645",
+        "pulse": "Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor",
+        "tags": [
+          "sleepyduck",
+          "swarm",
+          "bee-js",
+          "blockchain-c2",
+          "screenconnect",
+          "etherduck",
+          "supply-chain-compromise",
+          "npm",
+          "ethereum"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-11-09T20:26:27",
+        "hash_type": "sha256"
+      },
       {
         "value": "3b3f6e1bde0b28b015030a81a6d805b5b5306dc3f021e1102123971cfd83acc0",
         "pulse": "Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools",
@@ -20889,1056 +21884,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-10-05T09:06:13",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "7e0a52885fadee05544a9e99eb18c792bec05900a5e1a66d68f8383decb0e278",
-        "pulse": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-        "tags": [
-          "credential theft",
-          "reverse tunneling",
-          "trojan:macos/malplistsysmond.a",
-          "launchagent",
-          "persistence mechanisms",
-          "claude code",
-          "ssh backdoor",
-          "trojan:js/credtheft.ms!mtb",
-          "cursor marketplace",
-          "hacktool:macos/revanthshell.a",
-          "scheduled task",
-          "trojan:macos/smtshellmal.a",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-31T06:00:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ecb58cb29078d9646ad1dcdbe51526f2d9cfea06be5fb2ab183e8ecc3ab6bf15",
-        "pulse": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-        "tags": [
-          "credential theft",
-          "reverse tunneling",
-          "trojan:macos/malplistsysmond.a",
-          "launchagent",
-          "persistence mechanisms",
-          "claude code",
-          "ssh backdoor",
-          "trojan:js/credtheft.ms!mtb",
-          "cursor marketplace",
-          "hacktool:macos/revanthshell.a",
-          "scheduled task",
-          "trojan:macos/smtshellmal.a",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-31T06:00:45",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "f49bcd657ef1e626e85ce858958c1769",
-        "pulse": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-        "tags": [
-          "credential theft",
-          "reverse tunneling",
-          "trojan:macos/malplistsysmond.a",
-          "launchagent",
-          "persistence mechanisms",
-          "claude code",
-          "ssh backdoor",
-          "trojan:js/credtheft.ms!mtb",
-          "cursor marketplace",
-          "hacktool:macos/revanthshell.a",
-          "scheduled task",
-          "trojan:macos/smtshellmal.a",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-31T06:00:45",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7d52fa561468f0c77bca112f8393399dec078d02",
-        "pulse": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-        "tags": [
-          "credential theft",
-          "reverse tunneling",
-          "trojan:macos/malplistsysmond.a",
-          "launchagent",
-          "persistence mechanisms",
-          "claude code",
-          "ssh backdoor",
-          "trojan:js/credtheft.ms!mtb",
-          "cursor marketplace",
-          "hacktool:macos/revanthshell.a",
-          "scheduled task",
-          "trojan:macos/smtshellmal.a",
-          "supply chain compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-31T06:00:45",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "55cd3d36fdcc58016a64398357b2c9724a060da9f0d09266e537a61ec9552e4f",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "a24a5f48af15950ef7258f5e68b0fadb",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "8e1bef07919f09f11525d5424582c7f2a16dd4f8",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "006510ce1da2b7410376f0788c19e55616eb4bcc30072d25b7d0871dc32aa11c",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "21306fc5716f95e252388f920314b42f1c8bcc7df67cb4d39da30217b96f4044",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "72750d32b440e9f2b6d05ff3d218a561a75d3d75fb976b461fa59897674a7f70",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ab2c2dd37fdcfe1e7620a57f98c80bd063258bea145adc0cc6a0f8b1e24c6a8f",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "452a210bba4c8d08f7cb7733a816d7220a7fa570a469aea0a997cfc8b594b6a0",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "523fb81fae0c7beba7b5171243cc0dee7a4d04ae0483be9172eef2394a5a2152",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2062a817e66684b59f57407afbffe982",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "md5"
-      },
-      {
-        "value": "694ee6ebf6ddb1f3adc0e55828319911ee8c7d12",
-        "pulse": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-        "tags": [
-          "boinc",
-          "monetization campaign",
-          "fake software",
-          "egairtigado",
-          "worldproxypool",
-          "distributed computing",
-          "advancedwindowsmanager",
-          "kepavll",
-          "inno setup",
-          "scheduled task persistence",
-          "trojanized installers",
-          "windows manager",
-          "charityengine",
-          "offerloader",
-          "wacatac",
-          "clover",
-          "proxyware"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:15:33",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "a5e0a82bf6cc302a20d917235643b748f73fcc27",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "583754e5e682ea83d58fbf76ea5c82ea0f2ab5db06e9e52343c4d52f35f0a4a6",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "388374f8478203844f854ffe213f7a47",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fe18af8be6a9d1208fa6edf813f80c32",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "md5"
-      },
-      {
-        "value": "0589d2079fbef814dc7bb95c4b3b555c8b933af6",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "c17369b4b49113d07f080df832e218156fb0940f",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "e27e0d0a4b308f9b6b0469159931eb5e343e7ff8",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "9ce0f41d6e575aca81d290b3d0b89b011da4f9b87276b27d1c7de81695d4c927",
-        "pulse": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-        "tags": [
-          "prime reverseshell",
-          "ukraine",
-          "gorbag",
-          "spearphishing",
-          "giftedcrook",
-          "beautystealer",
-          "russia-aligned",
-          "cve-2025-8088",
-          "cyberespionage",
-          "infostealer"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T18:25:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ce02802067934e0eb072f69bf6427bf6",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a06eb79f0ebe4a6999bcc71a2227d8e3",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "5f63fe34d77b1eff07a9eef9d7ca1df2537aa90cb1d3fc2e215086d2397313c5",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0718eaa1978c571ddfc9a8c53fdc77eb3b32688831aa3971bd316ca944daacda",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "91dff3071d68678e4c1f67675f785372244e9c5952d7a8a100a476323d9d4627",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2b5f0c927f5436d8c04d58bb8c9fba470cbbf4ce23eacf2d65e336ca2bb59d97",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2d28e503d95b6fa5df5b56ea77fdca3a",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "3a17c971d67659cfb590bd97f131039c",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7c2b5d3b7535da03eeecb3dacafef353",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c99ed89d7e53d4296aad646b7b19ac96",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d63a77050451cdf76dc317b358d62f84",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fb6e940e3e6ed598a9953950bc4819f7",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2af9f0e9421d3ffcbe4923eea87720c760ca41cd",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "49b21cec222b473d2d2ca942d94aec4c02eb6039",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "5e6cb6842c63b751a04e14a4a4f9602d5c7bf337",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "94b07e3f93813ec17fed88f5a2aba44b22962e5d",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "965e01a5974dec5f60461c48550f2b7c314c7cee",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "be312034d50a5e2cf8e25bd4011ad2dbcb876910",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "3575a22ba626d0103e8fa5cda194e972e8ec0aa29aa9e9eceb4c48819963bad6",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3e3f0f03a52304570aaf18d4536e8be8a3577e68a198edc53e5877283c18ea5d",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4d403644d7520429283d7e1e4477971fe0b5a418d5e1341f9f12f8f1e84480ee",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "9a8dc848fd13565eea98b5e5e9ef222bf2aa9b83df316813ebaff46c1f28c4d3",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d15f8b15696bf2118bf81cf9656f28a6bc6992731956f2e070ce0f033fdd2ef3",
-        "pulse": "XWorm Malware: Worming Its Way From Entry to Exploitation",
-        "tags": [
-          "botnet",
-          "modular threat",
-          "data theft",
-          "phishing",
-          "xworm",
-          "ransomware delivery",
-          "rdp exploitation",
-          "ddgroup"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-05T07:16:31",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "fc9bcdb3a442880e585d6fe4ddaec62d62af641f8ac3cceeb6a553985a7d9094",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6dbfb04c063170af13a8151346898ebcb9c4b827fa8d16a96018419b746601a6",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "1811a1d63310737e969348d16d95f80bf56f8e8896fc64eb5d6d6dc314e2a547",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "42c4933c4137e8cd7ebb4a40d0ae1586",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6ba40f9bf68a6e4a89cd2a97acb24911",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "md5"
-      },
-      {
-        "value": "086496e97c73873297f9ece0b85791a97ae3de00",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "b97ad1cca896363e180a66c08086893ea3c5644d",
-        "pulse": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
-        "tags": [
-          "chi_down",
-          "chinese-speaking operator",
-          "webshell deployment",
-          "cve-2026-75650",
-          "magento exploitation",
-          "zer4.php",
-          "psk agent",
-          "stylesmuggler",
-          "e-commerce targeting",
-          "adobe commerce"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-03T14:09:28",
         "hash_type": "sha1"
       }
     ]
