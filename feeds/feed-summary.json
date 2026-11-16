@@ -1,49 +1,49 @@
 {
-  "generated": "2026-11-16T03:23:48.955626",
+  "generated": "2026-11-16T14:05:35.672124",
   "feeds": {
-    "abuseipdb-ips.json": {
-      "source": "abuseipdb",
-      "updated": "2026-11-16T03:23:45.366974",
-      "count": 10000
+    "spamhaus-drop.json": {
+      "source": "spamhaus",
+      "updated": "2026-11-16T14:05:33.839733",
+      "count": 1826
     },
-    "urlhaus-malware.json": {
-      "source": "urlhaus",
-      "updated": "2026-11-16T03:23:48.043419",
-      "count": {
-        "urls": 0,
-        "payloads": 0
-      }
-    },
-    "alienvault-indicators.json": {
-      "source": "alienvault_otx",
-      "updated": "2026-11-16T03:23:45.962989",
-      "count": {
-        "ips": 78,
-        "domains": 201,
-        "hashes": 965
-      }
+    "feodo-c2.json": {
+      "source": "feodo_tracker",
+      "updated": "2026-11-16T14:05:35.245344",
+      "count": 1
     },
     "feed-summary.json": {
       "source": null,
       "updated": null,
       "count": null
     },
-    "feodo-c2.json": {
-      "source": "feodo_tracker",
-      "updated": "2026-11-16T03:23:48.231275",
-      "count": 1
+    "abuseipdb-ips.json": {
+      "source": "abuseipdb",
+      "updated": "2026-11-16T14:05:30.945606",
+      "count": 10000
     },
-    "spamhaus-drop.json": {
-      "source": "spamhaus",
-      "updated": "2026-11-16T03:23:47.111770",
-      "count": 1849
+    "urlhaus-malware.json": {
+      "source": "urlhaus",
+      "updated": "2026-11-16T14:05:35.049384",
+      "count": {
+        "urls": 0,
+        "payloads": 0
+      }
     },
     "greynoise-scanners.json": {
       "source": "greynoise",
-      "updated": "2026-11-16T03:23:46.723190",
+      "updated": "2026-11-16T14:05:33.614618",
       "count": {
         "malicious": 0,
         "benign": 0
+      }
+    },
+    "alienvault-indicators.json": {
+      "source": "alienvault_otx",
+      "updated": "2026-11-16T14:05:32.431995",
+      "count": {
+        "ips": 48,
+        "domains": 289,
+        "hashes": 934
       }
     }
   }
