@@ -1,7 +1,7 @@
 {
   "source": "spamhaus",
-  "updated": "2026-11-18T00:04:43.111301",
-  "count": 1829,
+  "updated": "2026-11-18T14:39:39.435923",
+  "count": 1837,
   "data": [
     {
       "cidr": "1.10.16.0/20",
@@ -195,6 +195,13 @@
     {
       "cidr": "19.200.0.0/16",
       "reference": "SBL698680",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
+      "cidr": "23.94.145.0/24",
+      "reference": "SBL701223",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -482,6 +489,13 @@
     {
       "cidr": "31.56.209.0/24",
       "reference": "SBL695375",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
+      "cidr": "31.57.37.0/24",
+      "reference": "SBL701221",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -1643,14 +1657,14 @@
     },
     {
       "cidr": "62.60.226.0/24",
-      "reference": "SBL671779",
+      "reference": "SBL697779",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
     },
     {
       "cidr": "62.60.226.0/24",
-      "reference": "SBL697779",
+      "reference": "SBL671779",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -3378,6 +3392,13 @@
       "threat_type": "spam_botnet"
     },
     {
+      "cidr": "102.220.160.0/22",
+      "reference": "SBL697582",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
       "cidr": "102.240.1.0/24",
       "reference": "SBL689137",
       "feed": "drop",
@@ -4325,6 +4346,13 @@
     {
       "cidr": "108.164.128.0/17",
       "reference": "SBL697052",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
+      "cidr": "108.187.43.0/24",
+      "reference": "SBL700443",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -5772,6 +5800,13 @@
       "threat_type": "spam_botnet"
     },
     {
+      "cidr": "158.255.72.0/24",
+      "reference": "SBL701224",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
       "cidr": "159.80.0.0/16",
       "reference": "SBL307427",
       "feed": "drop",
@@ -6808,6 +6843,13 @@
       "threat_type": "spam_botnet"
     },
     {
+      "cidr": "185.66.220.0/22",
+      "reference": "SBL701228",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
       "cidr": "185.68.152.0/22",
       "reference": "SBL687109",
       "feed": "drop",
@@ -6866,6 +6908,13 @@
     {
       "cidr": "185.120.8.0/22",
       "reference": "SBL493891",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
+      "cidr": "185.121.188.0/22",
+      "reference": "SBL701225",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -6955,6 +7004,13 @@
       "threat_type": "spam_botnet"
     },
     {
+      "cidr": "185.139.96.0/22",
+      "reference": "SBL701226",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
       "cidr": "185.144.180.0/22",
       "reference": "SBL463001",
       "feed": "drop",
@@ -6964,6 +7020,13 @@
     {
       "cidr": "185.148.240.0/22",
       "reference": "SBL688519",
+      "feed": "drop",
+      "source": "spamhaus",
+      "threat_type": "spam_botnet"
+    },
+    {
+      "cidr": "185.152.192.0/22",
+      "reference": "SBL701227",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
@@ -8063,13 +8126,6 @@
     {
       "cidr": "194.41.60.0/23",
       "reference": "SBL493702",
-      "feed": "drop",
-      "source": "spamhaus",
-      "threat_type": "spam_botnet"
-    },
-    {
-      "cidr": "194.59.30.0/24",
-      "reference": "SBL700032",
       "feed": "drop",
       "source": "spamhaus",
       "threat_type": "spam_botnet"
