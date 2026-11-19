@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-19T14:45:53.771739",
+  "updated": "2026-11-19T23:56:47.971273",
   "counts": {
-    "ips": 56,
-    "domains": 243,
-    "hashes": 616
+    "ips": 52,
+    "domains": 240,
+    "hashes": 596
   },
   "data": {
     "ips": [
@@ -825,73 +825,28 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-17T01:25:06"
-      },
-      {
-        "value": "185.27.134.207",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
-      },
-      {
-        "value": "185.27.134.120",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
-      },
-      {
-        "value": "211.223.14.75",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
-      },
-      {
-        "value": "103.81.116.10",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
       }
     ],
     "domains": [
+      {
+        "value": "scanitex.com",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22"
+      },
       {
         "value": "wizardexpensive.com",
         "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
@@ -4660,79 +4615,149 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-16T08:13:01"
-      },
-      {
-        "value": "owna.loveslife.biz",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
-      },
-      {
-        "value": "nid.weffm.p-e.kr",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50"
-      },
-      {
-        "value": "alphanoob.com",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23"
-      },
-      {
-        "value": "rurjfvn.rs",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23"
       }
     ],
     "hashes": [
+      {
+        "value": "40103a4ae0abbef8f35a7adce7f50a9f536198a850b6eeb9761d6470d1fffa9e",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "6dde072a64933967456a57610dce8978dab195f9f9de66a0ecd1b1c7bfacacae",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "70af26f3fd65472877ba5a3676a60d4a7ea7bbcceddc8e363ca795f36bb96ac4",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "7e43fe3888ac282b04074916fc4c5e33697a9f254403537e552f11b7cbd4ac4b",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "ab8c39638608738349fddb02f73a0bb5712809b22cd2863f57829e8d6f35c24d",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "d2753dc8bb3ffc5b6aeea02a6bd2faa9d83c4d6f4c9e8ae207767fe6614609e3",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "f1f5f46f5e5e3d111779310cf3b57461a18f12f903a88290a035993dc72d6a14",
+        "pulse": "Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell",
+        "tags": [
+          "cve-2021-41987",
+          "ukraine targeting",
+          "x-road platform",
+          "state infrastructure",
+          "graylog",
+          "deserialization",
+          "jndi exploitation",
+          "uxp verifier",
+          "cve-2018-14847",
+          "cve-2021-44228",
+          "log4shell"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-20T16:04:22",
+        "hash_type": "sha256"
+      },
       {
         "value": "3fdcc7d7d049a89711fb31fb236940a1c5a09d899143ffd20c3c41fb1f2cf491",
         "pulse": "Active Exploitation of CVE-2026-110936 in Siemens Software Center",
@@ -14924,507 +14949,6 @@
         "source": "alienvault_otx",
         "created": "2026-11-16T08:13:01",
         "hash_type": "sha1"
-      },
-      {
-        "value": "12345678901234567890123456789012",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "7575d230350299cfde0c4f993d761333",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "cbcb66b530fb4f03d7dc9d55271b2ce4",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "ef317291bf88651666133abe84f115f0",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "6985f297c03520a5852734a385322d8d",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a151531b792b1df1eec8d3a6a8e1ded5",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a15df586bf29e7c1a5db64d603cee382",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "md5"
-      },
-      {
-        "value": "63ac4cc6fa997a32b25f447b5291293bba91cba9",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "70f643348787e05e1cdee5103b37205c8bd93080",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "cc6b492eeb36868ad0dece02fbd64ddb58fbcbf3",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "2c6055144868467157075d7a14be47649e00d2d44fb19d816309b132ce367ebe",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4be927bf8c273aab1e11705a4964221d669a9ef9ef03851cf53415a6a3297183",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c81bf074960f5abba48ed21ce40e775924e9d8ea37d78825a1faf1adf8525a88",
-        "pulse": "Analysis of NodeLinkRAT, a New North Korea-Linked RAT Abusing Public Note Services as C2",
-        "tags": [
-          "spearphishing",
-          "xenorat",
-          "nodelinkrat",
-          "cyberespionage",
-          "south korea targeting",
-          "anotepad abuse",
-          "fileless attack",
-          "north korea"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T08:07:50",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "2026f751079659cf71c7ba64b345c12a",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "2272dde17925d6179bea6fcf4d543d20",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "449c9e8bc6eb308aa3c46c88959e1a4f",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "58886d45a0c5e802a5d0a7545c36112d",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "a21251838432306f2cd2540593656b9e",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "cca710c5455c1fe2732771afbac16a09",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "d7785198d9341310978e4cedc7bdb735",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "dce55eec553f6af16ba6481eaacb8638",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "fd0c7ee872277f33e3335530299b836a",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "md5"
-      },
-      {
-        "value": "983c51812402284796bd21050d88a978ce9918ea",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "ce3cd7614cb920f7873e9cdea7855a4a321de6e4",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "62327438664878386332786c5a5841744e6a41774d4441774c584e735a575677",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "96d94fd483763d586d06914e1c310c5ffa4713830e1af9e238235e080a849ed6",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d7b77ecd7906a5835abcaa0b85f3cf3cfc6bc144ac7ac45bb8dbe22791e59d1b",
-        "pulse": "The Retadup USB worm is back to spread CoffeeLoader",
-        "tags": [
-          "botnet resurrection",
-          "autoit",
-          "usb worm",
-          "autohotkey",
-          "armoury",
-          "smokeloader",
-          "gpu decryption",
-          "opengl",
-          "armoury packer",
-          "retadup",
-          "coffeeloader"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-16T07:44:23",
-        "hash_type": "sha256"
       }
     ]
   }
