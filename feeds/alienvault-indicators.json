@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-20T23:25:51.044141",
+  "updated": "2026-11-21T04:26:48.319161",
   "counts": {
-    "ips": 62,
+    "ips": 60,
     "domains": 165,
-    "hashes": 463
+    "hashes": 456
   },
   "data": {
     "ips": [
@@ -554,38 +554,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T20:05:50"
-      },
-      {
-        "value": "118.26.36.16",
-        "pulse": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-        "tags": [
-          "ai-assisted attacks",
-          "edr evasion",
-          "japan",
-          "flutter reverse engineering",
-          "ssrf",
-          "web shell",
-          "api exploitation",
-          "apk analysis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T08:45:41"
-      },
-      {
-        "value": "69.10.51.162",
-        "pulse": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-        "tags": [
-          "ai-assisted attacks",
-          "edr evasion",
-          "japan",
-          "flutter reverse engineering",
-          "ssrf",
-          "web shell",
-          "api exploitation",
-          "apk analysis"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-10-22T08:45:41"
       },
       {
         "value": "95.181.213.21",
@@ -11433,125 +11401,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-18T07:58:03",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d27fa34414e6201d5e03e559ef634f020057554d7b3f4898dd5d7cd3e989e110",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3d20a8bc91351a9a16b6db243b848ceca0206b7a8623b02d2af553a9c9f7e0a9",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "54d885b7d7161c9ed96489c66364c4bfbf635929166843bba10d97d46b5a2e1f",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "325e7e9f0ec94e41ad1a1b7a3f18a6b8b5bffece2e2b97b8d3369eb967452f93",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "39fa329f2a93f734b0bb8f5adb203ea3331d1ae479832a5015a54cb17aabd663",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "21f28e8517a10ffe431f8d68f5875c85eca4001ae6d118322b0a41873998eb5e",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c275ccbe520ef3c0f02dc6a35389e427f9f1b4e0b12e140cd7bf7179ce143f02",
-        "pulse": "Microsoft\u2019s agent-framework PyPI package Compromised with Credential Stealer",
-        "tags": [
-          "github-actions",
-          "cloud-credentials",
-          "credential-theft",
-          "startup-hooks",
-          "pypi-compromise",
-          "data-exfiltration",
-          "azure-tokens",
-          "supply-chain-attack"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-18T04:22:34",
         "hash_type": "sha256"
       }
     ]
