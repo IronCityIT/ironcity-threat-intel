@@ -1,13 +1,25 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-21T22:29:45.255402",
+  "updated": "2026-11-22T03:40:57.594241",
   "counts": {
-    "ips": 52,
-    "domains": 222,
-    "hashes": 918
+    "ips": 50,
+    "domains": 220,
+    "hashes": 912
   },
   "data": {
     "ips": [
+      {
+        "value": "38.54.50.151",
+        "pulse": "VeloCloud Orchestrator SQL Injection Vulnerability",
+        "tags": [
+          "sql injection",
+          "active exploitation",
+          "velocloud orchestrator",
+          "cve-2026-114625"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-23T12:28:46"
+      },
       {
         "value": "144.172.64.99",
         "pulse": "ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors",
@@ -838,57 +850,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T08:23:43"
-      },
-      {
-        "value": "1.116.130.98",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37"
-      },
-      {
-        "value": "77.239.124.170",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37"
-      },
-      {
-        "value": "143.20.50.71",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37"
       }
     ],
     "domains": [
@@ -4360,40 +4321,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T08:26:01"
-      },
-      {
-        "value": "part02.simplexengg.in",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:26:03"
-      },
-      {
-        "value": "part1.simplexengg.in",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:26:03"
       }
     ],
     "hashes": [
@@ -20860,114 +20787,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T08:26:02",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "670ff0f67f140db35e65b5a61ac504fa8975df6048cf15795a6a7dbe580636bb",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7f85522cb5f554c82df4a37937f2362c3e28af554ab8bfda7436ac968b1b806b",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "000032e3f339f844cc01280d89a3f5147d166326aa179b43c519551f2f11656f",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "0000aaa9b429aa46510c07d424aa4626a1e961c6716b9da489fe7a7f9045caaa",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "00013809cf8a048e9e581f98b9112ed77d6ccac5fde7a81ea9c9005917086cd7",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "90b7b711f56f00a1fa08a7a29f2cd8602b8aa1a0d78986dbfc9f64e38ac6cecd",
-        "pulse": "Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs",
-        "tags": [
-          "privilege escalation",
-          "nightmare eclipse",
-          "enterprise networks",
-          "zero-day exploitation",
-          "cve-2026-50656",
-          "windows targeting",
-          "chaotic eclipse",
-          "eclipse",
-          "vpn gateway compromise"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T10:18:37",
         "hash_type": "sha256"
       }
     ]
