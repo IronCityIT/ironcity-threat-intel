@@ -1,10 +1,10 @@
 {
   "source": "alienvault_otx",
-  "updated": "2026-11-22T22:53:10.910386",
+  "updated": "2026-11-23T04:17:05.950486",
   "counts": {
-    "ips": 44,
-    "domains": 220,
-    "hashes": 1079
+    "ips": 43,
+    "domains": 218,
+    "hashes": 1066
   },
   "data": {
     "ips": [
@@ -760,24 +760,6 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T02:40:02"
-      },
-      {
-        "value": "206.245.153.56",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43"
       }
     ],
     "domains": [
@@ -4145,45 +4127,165 @@
         ],
         "source": "alienvault_otx",
         "created": "2026-11-19T07:08:24"
-      },
-      {
-        "value": "fedora-42.servers.guru",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43"
-      },
-      {
-        "value": "s3.buckets.ninja",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43"
       }
     ],
     "hashes": [
+      {
+        "value": "b61a098fc62a2c2696e196dca78da71a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "md5"
+      },
+      {
+        "value": "0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "43898a0a53bbd25d31ad9f5018ed3182be98a66109b22c9cab545a9fc447992a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "c472dab4ff7c16782a8037f988d4daa6d4bdb343",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "7bc41ed79a9ae909927a9e40701736460a8cb70fca16ce1510e58677aca764b6",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha256"
+      },
+      {
+        "value": "48ccbf9690ff1cb305bac3ee54d5e0f4d9343986",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "4a78b5109f781eaf77e9e56a3bc299373cf047c3",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "5d86adda73bdb92f9169d200e1afdd101149678d",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "80cf1a23c737b105c46b383a4cee4900257280df",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "b708e49385a3b55b5905c49e017e68563c904a2c",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "e5a5e14f9dafa085bf10dc8b254a99576201972a",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
+      {
+        "value": "fe6f30e664fc76be0f72fb97356cd650a350af1d",
+        "pulse": "Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+        "tags": [
+          "php2shell",
+          "cve-2026-109618",
+          "web shell",
+          "dprk"
+        ],
+        "source": "alienvault_otx",
+        "created": "2026-10-24T01:20:53",
+        "hash_type": "sha1"
+      },
       {
         "value": "987eabfde3ca735273c9e0f5080bdbb0",
         "pulse": "Infostealer riding the AI Train",
@@ -22329,481 +22431,6 @@
         "source": "alienvault_otx",
         "created": "2026-11-19T08:12:11",
         "hash_type": "sha1"
-      },
-      {
-        "value": "d01948e930848dd139915f646760e6dba61caf3eec222d5479518c19b5076ad2",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "48df6ff05731bf735cb1914905191d01fcab59ffec5b002f73e235b2c021a267",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "484e92ae0ceaa888459d2ad5260274923c58d8e8db5a5ff244cf7f9f90f3a1da",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "84f161021452e58ce65dec9fee14dd77f4968fe54d284c4059c373388a31f594",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7befbc027e31c32437d82f70096cd9edd96ec98e88c6b3139e7fe640d02fec41",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "4712fe539da6b81329dfe25d1b0e38a04539a68fac58bd8f6a537807b3f15cf5",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "452776d0507e33e71982b0f2d7f928b1f2d60f852195b1d9aac6a5d71c019060",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c66a3a56f75ef8d9ce79c3cf012ad77c166be10e4d0264a56ed96e67e15b27c1",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c56e18a28fd7a3bf59891df955f6f03b009b85ed00c5ff8539b545250c004924",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d8d17dcc97bbcb9c40219fa157a77c50be1d4c0c80cbd57a8b3eda0fcc42d9a1",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "d2a6102d7f94a44e9aa517e3b9c3656d790b31b74c399c78cd3a0305f987f968",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "88b5ed6aa763acf5d11119d4cb53d9601533ab35371a4f5cb932991b19bfdef0",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "b889846842a168773a5b6382143792acd3a2310f5802d61f48805e1d38e6575b",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "dadbbb7d40cad17747be67d252cc2a07",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "md5"
-      },
-      {
-        "value": "c3f6954bfc42f7aaaf64fdd90713b8756c8651e3",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha1"
-      },
-      {
-        "value": "1642c2de5949909d1470523337a0e50b844f26a1f018e6b6984a4ed815657d33",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "3ae6c2d36edf2db4845db9f18e1ae865de4e784c9c807e6d89033bef21e284c5",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "57617d2d8a1cd7da3614b4329929df0d2f4a26fbbd79a418ec8623e83decf14f",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "6d10e9923374c2e11b6528a34f23356e3cb4aa5d2f11db35a35193550d0d2be3",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "7f1bd30c173af0e793f0a9a9ec44646131e8148fcb6fe64d00c06bf751a53d7d",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "839f516d17cb0ebfdfa002f195299077198ec334f248b8084a954444ce3fbfdb",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "93f8bcb90e608cdac0239d4218f31fb755357b056e862ce8b61df1026536d83d",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "abaf7a73520ec77853d83ca1cd946a650291457b6303147cd6622fca5b8be39e",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "ad06f3a8fd168659a72cea4ee1b105575f38c485e741776b1b097f6a79e43eae",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
-      },
-      {
-        "value": "c2d898f29b4c6058ba2587fa7477bac546c838b72e48ad42e5e4fa11ab799ba9",
-        "pulse": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
-        "tags": [
-          "cloud credential theft",
-          "php2shell",
-          "deepseek",
-          "webshell persistence",
-          "initial access broker",
-          "automated exploitation",
-          "credential harvesting",
-          "cve-2026-109619",
-          "cve-2026-109618",
-          "ai-assisted exploitation"
-        ],
-        "source": "alienvault_otx",
-        "created": "2026-11-19T08:23:43",
-        "hash_type": "sha256"
       }
     ]
   }
